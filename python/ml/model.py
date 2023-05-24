@@ -32,13 +32,13 @@ class Model:
         else:
             self.data = x
         self._split_cv_folds()
-        self.dataScaler: StandardScaler = StandardScaler().fit(self.data)
-        # self.targetScaler = StandardScaler().fit(self.target.reshape(-1,1))
+        self.dataScaler: StandardScaler | object = StandardScaler().fit(self.data)
 
     def is_trained(self) -> bool:
         return self.trained
 
-    def create_estimator(self, params: Dict) -> KMeans:
+    def create_estimator(self, params: Dict) \
+            -> KMeans | BisectingKMeans | AgglomerativeClustering | DBSCAN | MeanShift | Birch:
         estimator = None
         if self.estimator_id == 'KMC':  # K-Means clustering
             estimator = KMeans(random_state=1, n_init='auto', max_iter=1000)
@@ -53,7 +53,7 @@ class Model:
         elif self.estimator_id == 'BIRCH':  # BIRCH
             estimator = Birch()
         else:
-            raise ValueError('Error !!! Invalid name. Correct values = {KMC, AGMC, DBSCAN} ... ')
+            raise ValueError('Error !!! Invalid name. Correct values = {KMC, AGMC, DBSCAN, MS, BIRCH} ... ')
         estimator.set_params(**params)
         return estimator
 
