@@ -7,6 +7,7 @@ from .grid_search import grid_search_dbscan
 from.grid_search import grid_search_mean_shift
 from .grid_search import grid_search_birch
 from .grid_search import get_optimal_clusters
+from .grid_search import get_optimal_performance
 
 
 res = read_ml_data(verbose=True)
@@ -21,10 +22,15 @@ sample_names = list(samples.values())
 # grid_search_mean_shift(res.data, sample_names, scale=False)
 # grid_search_birch(res.data, sample_names, scale=False)
 
+# get_optimal_performance('KMC', res.data, sample_names, scale=False)
+# get_optimal_performance('BKM', res.data, sample_names, scale=False)
+# get_optimal_performance('MS', res.data, sample_names, scale=False)
+# get_optimal_performance('BIRCH', res.data, sample_names, scale=False)
+
 # get_optimal_clusters(res.data, sample_names, 'KMC', scale=False, verbose=True)
 # get_optimal_clusters(res.data, sample_names, 'BKM', scale=False, verbose=True)
-# get_optimal_clusters(res.data, sample_names, 'AGMC', scale=False, verbose=True)
-# get_optimal_clusters(res.data, sample_names, 'DBSCAN', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'MS', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'BIRCH', scale=False, verbose=True)
 
 
 # from sklearn.metrics import pairwise_distances
