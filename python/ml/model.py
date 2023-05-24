@@ -118,7 +118,7 @@ class Model:
 
         raise RuntimeError('Error !!! Model not trained ...')
 
-    def predict_blind_without_cv(self, b_data: np.array, scale: bool = False) -> Tuple[np.array, List[List[str]]]:
+    def _predict_blind_without_cv(self, b_data: np.array, scale: bool = False) -> Tuple[np.array, List[List[str]]]:
         if not self.is_trained():
             raise RuntimeError('Error !!! Model not trained ...')
 
@@ -137,3 +137,6 @@ class Model:
     #
     #     # print(y_pred.shape)
     #     return y_pred
+
+    def predict(self, b_data: np.array, scale: bool = False) -> Tuple[np.array, List[List[str]]]:
+        return self._predict_blind_without_cv(b_data, scale)
