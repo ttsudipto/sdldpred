@@ -63,8 +63,8 @@ filterDiseases1 = get_all_pulmonary_diseases_mesh()
 # pulmonary_symptom_disease_association = read_pulmonary_symptom_disease_association_hsdn()
 # print_map_counts(pulmonary_symptom_disease_association, map_first=False)
 
-# get_pulmonary_symptom_disease_matrix_hsdn(save=True)
-# get_pulmonary_disease_symptom_matrix_hsdn(save=True)
+# get_pulmonary_symptom_disease_matrix_hsdn(save=False)
+# get_pulmonary_disease_symptom_matrix_hsdn(save=False)
 
 
 # c = 0

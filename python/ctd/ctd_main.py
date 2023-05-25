@@ -47,12 +47,12 @@ def print_map_counts(input_map, map_first=True):
 
 # drugDiseaseMap = parse_drug_disease_association_ctd()
 # print_map_counts(drugDiseaseMap, map_first=False)
-# pulmonaryDrugDiseaseMap = filter_diseases_drug_disease_association(drugDiseaseMap, pulmonary_diseases, verbose=True)
+# pulmonaryDrugDiseaseMap = filter_diseases_drug_disease_association(drugDiseaseMap, pulmonary_diseases, verbose=False)
 # print_map_counts(pulmonaryDrugDiseaseMap, map_first=False)
 
 # diseaseDrugMap = parse_disease_drug_association_ctd()
 # print_map_counts(diseaseDrugMap)
-# pulmonaryDiseaseDrugMap = filter_diseases_disease_drug_association(diseaseDrugMap, pulmonary_diseases, verbose=True)
+# pulmonaryDiseaseDrugMap = filter_diseases_disease_drug_association(diseaseDrugMap, pulmonary_diseases, verbose=False)
 # print_map_counts(pulmonaryDiseaseDrugMap)
 
 

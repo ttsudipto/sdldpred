@@ -66,5 +66,5 @@ def get_drug_symptom_association_matrix(trim_matrix: bool = False, verbose: bool
     return similarities
 
 
-similarity = get_drug_symptom_association_matrix(trim_matrix=True, verbose=True)
+similarity = get_drug_symptom_association_matrix(trim_matrix=True, verbose=False)
 print(similarity.shape)
