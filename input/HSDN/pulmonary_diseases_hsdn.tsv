@@ -1,0 +1,197 @@
+MeSH Disease ID	MeSH Disease Term	# symptom associations
+D000196	Actinomycosis	47
+D000542	Alveolitis, Extrinsic Allergic	18
+D000787	Angina Pectoris	89
+D000789	Angina, Unstable	41
+D055008	Anthracosis	2
+D001014	Aortic Aneurysm	90
+D017544	Aortic Aneurysm, Abdominal	64
+D017545	Aortic Aneurysm, Thoracic	63
+D001022	Aortic Valve Insufficiency	53
+D001023	Aortic Valve Prolapse	2
+D001024	Aortic Valve Stenosis	62
+D001145	Arrhythmias, Cardiac	139
+D001164	Arteriovenous Fistula	104
+D015535	Arthritis, Psoriatic	39
+D016918	Arthritis, Reactive	34
+D001172	Arthritis, Rheumatoid	170
+D001195	Asbestosis	18
+D001228	Aspergillosis	71
+D001249	Asthma	156
+D055963	Asthma, Aspirin-Induced	1
+D001250	Asthma, Exercise-Induced	21
+D050197	Atherosclerosis	47
+D001281	Atrial Fibrillation	101
+D018880	Atrial Premature Complexes	11
+D054537	Atrioventricular Block	27
+D001607	Berylliosis	1
+D001716	Bird Fancier's Lung	12
+D016535	Bronchial Hyperreactivity	36
+D001987	Bronchiectasis	37
+D001991	Bronchitis	68
+D029481	Bronchitis, Chronic	8
+D053840	Brugada Syndrome	15
+D002037	Bundle-Branch Block	45
+D002095	Byssinosis	5
+D002177	Candidiasis	81
+D002305	Cardiac Tamponade	50
+D006332	Cardiomegaly	63
+D009202	Cardiomyopathies	106
+D002310	Cardiomyopathy, Alcoholic	13
+D002311	Cardiomyopathy, Dilated	72
+D002312	Cardiomyopathy, Hypertrophic	65
+D024741	Cardiomyopathy, Hypertrophic, Familial	11
+D002313	Cardiomyopathy, Restrictive	15
+D018376	Cardiovascular Abnormalities	26
+D020215	Carotid Artery, Internal, Dissection	62
+D002639	Cheyne-Stokes Respiration	20
+D002805	Chondrocalcinosis	21
+D046789	Chondromalacia Patellae	3
+D003047	Coccidioidomycosis	35
+D003139	Common Cold	134
+D003323	Coronary Aneurysm	26
+D003324	Coronary Artery Disease	141
+D003327	Coronary Disease	133
+D054059	Coronary Occlusion	9
+D003329	Coronary Vasospasm	37
+D003371	Cough	113
+D003440	Croup	12
+D003453	Cryptococcosis	61
+D003550	Cystic Fibrosis	117
+D003920	Diabetes Mellitus	145
+D003922	Diabetes Mellitus, Type 1	168
+D003924	Diabetes Mellitus, Type 2	160
+D003926	Diabetic Coma	38
+D016883	Diabetic Ketoacidosis	73
+D004417	Dyspnea	119
+D016724	Empyema, Pleural	18
+D004695	Endocardial Fibroelastosis	18
+D004696	Endocarditis	61
+D004826	Epiglottitis	16
+D004844	Epistaxis	55
+D005203	Farmer's Lung	8
+D006073	Gout	70
+D006333	Heart Failure	133
+D006344	Heart Septal Defects, Atrial	63
+D006345	Heart Septal Defects, Ventricular	42
+D006349	Heart Valve Diseases	56
+D006469	Hemoptysis	51
+D006491	Hemothorax	22
+D006557	Herpangina	2
+D006660	Histoplasmosis	56
+D006973	Hypertension	205
+D006976	Hypertension, Pulmonary	88
+D006985	Hyperventilation	83
+D007012	Hypopharyngeal Neoplasms	21
+D007022	Hypotension	135
+D007024	Hypotension, Orthostatic	99
+D054990	Idiopathic Pulmonary Fibrosis	61
+D007251	Influenza, Human	109
+D057767	Kashin-Beck Disease	3
+D007819	Laryngeal Edema	21
+D007822	Laryngeal Neoplasms	68
+D007826	Laryngismus	44
+D007827	Laryngitis	43
+D007829	Laryngostenosis	29
+D008133	Long QT Syndrome	63
+D008169	Lung Abscess	28
+D008175	Lung Neoplasms	175
+D018192	Lymphangioleiomyomatosis	14
+D008478	Mediastinal Emphysema	61
+D008944	Mitral Valve Insufficiency	64
+D008946	Mitral Valve Stenosis	47
+D009058	Mouth Breathing	21
+D009164	Mycobacterium Infections	33
+D009181	Mycoses	64
+D009203	Myocardial Infarction	157
+D017202	Myocardial Ischemia	101
+D009205	Myocarditis	69
+D015508	Nasal Obstruction	47
+D009298	Nasal Polyps	40
+D009303	Nasopharyngeal Neoplasms	90
+D009304	Nasopharyngitis	9
+D009362	Neoplasm Metastasis	47
+D009382	Neoplasms, Unknown Primary	51
+D009400	Nephrosclerosis	13
+D009617	Nocardia Infections	41
+D009765	Obesity	157
+D009959	Oropharyngeal Neoplasms	26
+D010003	Osteoarthritis	77
+D015207	Osteoarthritis, Hip	30
+D020370	Osteoarthritis, Knee	36
+D055034	Osteochondrosis	4
+D010018	Osteomalacia	47
+D010019	Osteomyelitis	93
+D010020	Osteonecrosis	42
+D010024	Osteoporosis	109
+D015663	Osteoporosis, Postmenopausal	47
+D010490	Pericardial Effusion	47
+D010493	Pericarditis	49
+D010494	Pericarditis, Constrictive	33
+D016491	Peripheral Vascular Diseases	88
+D000039	Peritonsillar Abscess	13
+D010996	Pleural Effusion	64
+D010997	Pleural Neoplasms	45
+D010998	Pleurisy	36
+D011009	Pneumoconiosis	23
+D018410	Pneumonia, Bacterial	65
+D011020	Pneumonia, Pneumocystis	44
+D011024	Pneumonia, Viral	38
+D011030	Pneumothorax	68
+D011081	Polychondritis, Relapsing	51
+D011111	Polymyalgia Rheumatica	47
+D011649	Pulmonary Alveolar Proteinosis	15
+D001261	Pulmonary Atelectasis	39
+D029424	Pulmonary Disease, Chronic Obstructive	84
+D011654	Pulmonary Edema	93
+D011655	Pulmonary Embolism	105
+D011656	Pulmonary Emphysema	49
+D011657	Pulmonary Eosinophilia	29
+D011665	Pulmonary Valve Insufficiency	13
+D011666	Pulmonary Valve Stenosis	26
+D017564	Radiation Pneumonitis	9
+D011928	Raynaud Disease	77
+D012120	Respiration Disorders	100
+D012128	Respiratory Distress Syndrome, Adult	79
+D012127	Respiratory Distress Syndrome, Newborn	73
+D012131	Respiratory Insufficiency	149
+D012141	Respiratory Tract Infections	128
+D017703	Retropharyngeal Abscess	30
+D012214	Rheumatic Heart Disease	55
+D006255	Rhinitis, Allergic, Seasonal	58
+D012222	Rhinitis, Atrophic	10
+D017565	Sarcoidosis, Pulmonary	37
+D045169	Severe Acute Respiratory Syndrome	23
+D012806	Siderosis	39
+D012829	Silicosis	34
+D012830	Silicotuberculosis	6
+D012848	Sinoatrial Block	14
+D012852	Sinusitis	82
+D020182	Sleep Apnea, Central	43
+D020181	Sleep Apnea, Obstructive	94
+D012893	Sleep Disorders	151
+D013174	Sporotrichosis	19
+D016706	Still's Disease, Adult-Onset	29
+D013586	Synovitis, Pigmented Villonodular	16
+D013611	Tachycardia, Atrioventricular Nodal Reentry	10
+D013612	Tachycardia, Ectopic Atrial	10
+D013613	Tachycardia, Ectopic Junctional	5
+D013617	Tachycardia, Supraventricular	47
+D017180	Tachycardia, Ventricular	50
+D014069	Tonsillitis	68
+D014123	Toxoplasmosis	68
+D014134	Tracheal Neoplasms	17
+D014262	Tricuspid Valve Insufficiency	28
+D014263	Tricuspid Valve Prolapse	2
+D014264	Tricuspid Valve Stenosis	10
+D014376	Tuberculosis	91
+D014397	Tuberculosis, Pulmonary	118
+D014648	Varicose Veins	71
+D054556	Venous Thromboembolism	24
+D020246	Venous Thrombosis	122
+D014693	Ventricular Fibrillation	62
+D018879	Ventricular Premature Complexes	25
+D020217	Vertebral Artery Dissection	55
+D014826	Vocal Cord Paralysis	77
+D014917	Whooping Cough	42
+D014927	Wolff-Parkinson-White Syndrome	33
