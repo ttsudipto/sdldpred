@@ -1,0 +1,1446 @@
+ClassKind,icd11Code,icd11Title,icd11TTDalias,isLeaf,MeSHDiseaseID,MeSHDiseaseTerm,HSDNCount,TTDTitle,TTDDrugCount,DrugPresentInBlock,icd10Code,icd10Chapter,icd10Title
+chapter,1A00-1H0Z,Certain infectious or parasitic diseases,,False,,,0,,0,1,,,
+block,1A60-1A9Z,- Predominantly sexually transmitted infections,,False,,,0,,0,0,A50-A64,I,Infections with a predominantly sexual mode of transmission
+block,1A70-1A7Z,- - Gonococcal infection,,False,,,0,,0,0,A54,I,Gonococcal infection
+category,1A72,- - - Gonococcal infection of other sites,,False,,,0,,0,0,A54,I,Gonococcal infection
+category,1A72.3,- - - - Gonococcal pharyngitis,,True,,,0,,0,0,A54.5,I,Gonococcal pharyngitis
+block,1B10-1B21,- Mycobacterial diseases,,False,D009164,Mycobacterium Infections,33,Mycobacterium infection,6,1,,,
+block,1B10-1B14,- - Tuberculosis,,False,D014376,Tuberculosis,91,Tuberculosis,9,1,A15-A19,I,Tuberculosis
+category,1B10,- - - Tuberculosis of the respiratory system,,False,,,0,,0,0,A16,I,"Respiratory tuberculosis, not confirmed bacteriologically or histologically"
+category,1B10.0,"- - - - Respiratory tuberculosis, confirmed",,True,,,0,,0,0,A15,I,"Respiratory tuberculosis, bacteriologically and histologically confirmed"
+category,1B10.1,"- - - - Respiratory tuberculosis, not confirmed",,True,,,0,,0,0,A16,I,"Respiratory tuberculosis, not confirmed bacteriologically or histologically"
+category,1B10.Z,"- - - - Respiratory tuberculosis, without mention of bacteriological or histological confirmation",,True,D014397,"Tuberculosis, Pulmonary",118,Pulmonary tuberculosis,4,0,A16,I,"Respiratory tuberculosis, not confirmed bacteriologically or histologically"
+category,1B21,- - Infections due to non-tuberculous mycobacteria,,False,,,0,,0,0,A31,I,Infection due to other mycobacteria
+category,1B21.0,- - - Pulmonary infection due to non-tuberculous mycobacterium,,True,,,0,,0,0,A31.0,I,Pulmonary mycobacterial infection
+block,1B40-1B5Z,- Certain staphylococcal or streptococcal diseases,,False,,,0,,0,0,,,
+category,1B51,- - Streptococcal pharyngitis,,True,,,0,,0,0,J02.0,X,Streptococcal pharyngitis
+block,1C10-1C4Z,- Other bacterial diseases,,False,,,0,,0,1,B96.8,I,Other specified bacterial agents as the cause of diseases classified to other chapters
+category,1C10,- - Actinomycosis,,False,D000196,Actinomycosis,47,,0,0,A42,I,Actinomycosis
+category,1C10.0,- - - Pulmonary actinomycosis,,True,,,0,,0,0,A42.0,I,Pulmonary actinomycosis
+category,1C12,- - Whooping cough,,False,,,0,,0,0,A37,I,Whooping cough
+category,1C12.0,- - - Whooping cough due to Bordetella pertussis,,True,D014917,Whooping Cough,42,Bordetella pertussis infection,18,0,A37.0,I,Whooping cough due to Bordetella pertussis
+category,1C12.1,- - - Whooping cough due to Bordetella parapertussis,,True,,,0,,0,0,A37.1,I,Whooping cough due to Bordetella parapertussis
+category,1C12.Y,- - - Other specified whooping cough,,True,,,0,,0,0,A37.8,I,Whooping cough due to other Bordetella species
+category,1C12.Z,"- - - Whooping cough, unspecified",,True,,,0,,0,0,A37,I,Whooping cough
+category,1C1B,- - Nocardiosis,,False,,,0,,0,0,A43,I,Nocardiosis
+category,1C1B.0,- - - Pulmonary nocardiosis,,True,D009617,Nocardia Infections,41,,0,0,A43.0,I,Pulmonary nocardiosis
+block,1D60-1D6Z,- Certain zoonotic viral diseases,,False,,,0,,0,0,,,
+category,1D65,- - Severe acute respiratory syndrome,,True,D045169,Severe Acute Respiratory Syndrome,23,,0,0,U04,XXII,Severe acute respiratory syndrome [SARS]
+block,1E30-1E32,- Influenza,1E+030,False,D007251,"Influenza, Human",0,Influenza virus infection,46,1,J09-J18,X,Influenza and pneumonia
+category,1E+030,- - Influenza due to identified seasonal influenza virus,,True,D007251,"Influenza, Human",109,Influenza A virus infection,6,0,J10,X,Influenza due to identified seasonal influenza virus
+category,1E+031,- - Influenza due to identified zoonotic or pandemic influenza virus,,True,,,0,,0,0,J09,X,Influenza due to identified zoonotic or pandemic influenza virus
+category,1E+032,"- - Influenza, virus not identified",,True,,,0,,0,0,J11,X,"Influenza, virus not identified"
+block,1E70-1F0Z,- Viral infections characterised by skin or mucous membrane lesions,,False,,,0,,0,0,B00-B09,I,Viral infections characterized by skin and mucous membrane lesions
+category,1F05,- - Picornavirus infections presenting in the skin or mucous membranes,,False,,,0,,0,0,B00-B09,I,Viral infections characterized by skin and mucous membrane lesions
+category,1F05.1,- - - Enteroviral vesicular pharyngitis,,True,D006557,Herpangina,2,,0,0,B08.5,I,Enteroviral vesicular pharyngitis
+block,1F20-1F2Z,- Mycoses,,False,D009181,Mycoses,64,,0,1,B35-B49,I,Mycoses
+category,1F20,- - Aspergillosis,,False,D001228,Aspergillosis,71,Aspergillosis,1,0,B44,I,Aspergillosis
+category,1F20.1,- - - Non-invasive aspergillosis,,False,,,0,,0,0,B44,I,Aspergillosis
+category,1F20.12,- - - - Chronic pulmonary aspergillosis,,True,,,0,,0,0,B44.1,I,Other pulmonary aspergillosis
+category,1F23,- - Candidosis,,False,D002177,Candidiasis,81,Candidiasis,4,0,B37,I,Candidiasis
+category,1F23.3,- - - Systemic or invasive candidosis,,False,,,0,,0,0,B37,I,Candidiasis
+category,1F23.31,- - - - Pulmonary candidosis,,True,,,0,,0,0,B37.1,I,Pulmonary candidiasis
+category,1F25,- - Coccidioidomycosis,,False,D003047,Coccidioidomycosis,35,,0,0,B38,I,Coccidioidomycosis
+category,1F25.0,- - - Pulmonary coccidioidomycosis,,False,,,0,,0,0,B38,I,Coccidioidomycosis
+category,1F25.00,- - - - Acute pulmonary coccidioidomycosis,,True,,,0,,0,0,B38,I,Coccidioidomycosis
+category,1F25.01,- - - - Chronic pulmonary coccidioidomycosis,,True,,,0,,0,0,B38,I,Coccidioidomycosis
+category,1F27,- - Cryptococcosis,,False,D003453,Cryptococcosis,61,,0,0,B45,I,Cryptococcosis
+category,1F27.0,- - - Pulmonary cryptococcosis,,True,,,0,,0,0,B45.0,I,Pulmonary cryptococcosis
+category,1F2A,- - Histoplasmosis,,False,D006660,Histoplasmosis,56,,0,0,B39,I,Histoplasmosis
+category,1F2A.0,- - - Pulmonary histoplasmosis capsulati,,True,,,0,,0,0,B39.2,I,"Pulmonary histoplasmosis capsulati, unspecified"
+category,1F2J,- - Sporotrichosis,,False,D013174,Sporotrichosis,19,,0,0,B42,I,Sporotrichosis
+category,1F2J.2,- - - Pulmonary sporotrichosis,,True,,,0,,0,0,B42.0,I,Pulmonary sporotrichosis
+category,1F2L,- - Emmonsiosis,,False,,,0,,0,0,B35-B49,I,Mycoses
+category,1F2L.1,- - - Pulmonary adiaspiromycosis,,True,,,0,,0,0,B35-B49,I,Mycoses
+block,1F40-1G2Z,- Parasitic diseases,,False,,,0,,0,1,,,
+block,1F50-1F58,- - Nonintestinal protozoal diseases,,False,,,0,,0,1,B60.8,I,Other specified protozoal diseases
+category,1F57,- - - Toxoplasmosis,,False,D014123,Toxoplasmosis,68,Toxoplasmosis,1,0,B58,I,Toxoplasmosis
+category,1F57.2,- - - - Pulmonary toxoplasmosis due to Toxoplasma gondii,,True,,,0,,0,0,B58.3,I,Pulmonary toxoplasmosis
+,,,,,,,,,,,,,
+chapter,CA00-CB64,Diseases of the respiratory system,,False,,,0,,0,1,,,
+block,CA00-CA0Z,- Upper respiratory tract disorders,,False,,,0,,0,1,J00-J06,X,Acute upper respiratory infections
+category,CA00,- - Acute nasopharyngitis,,True,D003139,Common Cold,134,Common cold,4,0,J00,X,Acute nasopharyngitis [common cold]
+category,CA01,- - Acute sinusitis,,True,,,0,,0,0,J01,X,Acute sinusitis
+category,CA02,- - Acute pharyngitis,,False,D009304,Nasopharyngitis,9,,0,0,J02,X,Acute pharyngitis
+category,CA02.0,- - - Acute pharyngitis due to other bacteria,,True,,,0,,0,0,J02.8,X,Acute pharyngitis due to other specified organisms
+category,CA02.1,- - - Acute viral pharyngitis,,False,,,0,,0,0,J02,X,Acute pharyngitis
+category,CA02.10,- - - - Pharyngitis due to Adenovirus,,True,,,0,,0,0,J02,X,Acute pharyngitis
+category,CA02.1Y,- - - - Other specified acute viral pharyngitis,,True,,,0,,0,0,J02,X,Acute pharyngitis
+category,CA02.1Z,"- - - - Acute viral pharyngitis, unspecified",,True,,,0,,0,0,J02,X,Acute pharyngitis
+category,CA02.Y,- - - Other specified acute pharyngitis,,True,,,0,,0,0,J02.8,X,Acute pharyngitis due to other specified organisms
+category,CA02.Z,"- - - Acute pharyngitis, unspecified",,True,,,0,,0,0,J02,X,Acute pharyngitis
+category,CA03,- - Acute tonsillitis,,False,D014069,Tonsillitis,68,,0,0,J03,X,Acute tonsillitis
+category,CA03.0,- - - Streptococcal tonsillitis,,True,,,0,,0,0,J03.0,X,Streptococcal tonsillitis
+category,CA03.Y,- - - Other specified acute tonsillitis,,True,,,0,,0,0,J03.8,X,Acute tonsillitis due to other specified organisms
+category,CA03.Z,"- - - Acute tonsillitis, unspecified",,True,,,0,,0,0,J03,X,Acute tonsillitis
+category,CA04,- - Acute laryngopharyngitis,,True,,,0,,0,0,J06.0,X,Acute laryngopharyngitis
+category,CA05,- - Acute laryngitis or tracheitis,,False,,,0,,0,0,J04,X,Acute laryngitis and tracheitis
+category,CA05.0,- - - Acute laryngitis,,True,D007827,Laryngitis,43,,0,0,J04.0,X,Acute laryngitis
+category,CA05.1,- - - Acute tracheitis,,True,,,0,,0,0,J04.1,X,Acute tracheitis
+category,CA05.2,- - - Acute laryngotracheitis,,True,,,0,,0,0,J04.2,X,Acute laryngotracheitis
+category,CA05.Y,- - - Other specified acute laryngitis or tracheitis,,True,,,0,,0,0,J04,X,Acute laryngitis and tracheitis
+category,CA05.Z,"- - - Acute laryngitis or tracheitis, unspecified",,True,,,0,,0,0,J04,X,Acute laryngitis and tracheitis
+category,CA06,- - Acute obstructive laryngitis or epiglottitis,,False,,,0,,0,0,J05,X,Acute obstructive laryngitis [croup] and epiglottitis
+category,CA06.0,- - - Acute obstructive laryngitis,,True,D003440,Croup,12,,0,0,J05.0,X,Acute obstructive laryngitis [croup]
+category,CA06.1,- - - Acute epiglottitis,,True,D004826,Epiglottitis,16,,0,0,J05.1,X,Acute epiglottitis
+category,CA06.Z,"- - - Acute obstructive laryngitis or epiglottitis, unspecified",,True,,,0,,0,0,J05,X,Acute obstructive laryngitis [croup] and epiglottitis
+category,CA07,- - Acute upper respiratory infections of multiple and unspecified sites,,False,D012141,Respiratory Tract Infections (J06.9),128,Upper respiratory infection,1,0,J06,X,Acute upper respiratory infections of multiple and unspecified sites
+category,CA07.0,"- - - Acute upper respiratory infection, site unspecified",,True,,,0,,0,0,J06.9,X,"Acute upper respiratory infection, unspecified"
+category,CA07.1,- - - Acute upper respiratory infections of multiple sites,,True,,,0,,0,0,J06.8,X,Other acute upper respiratory infections of multiple sites
+category,CA08,- - Vasomotor or allergic rhinitis,,False,D006255,"Rhinitis, Allergic, Seasonal",58,Vasomotor symptom,2,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.0,- - - Allergic rhinitis,CA08,False,D006255,"Rhinitis, Allergic, Seasonal",0,Allergic rhinitis,24,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.00,- - - - Allergic rhinitis due to pollen,CA08,True,D006255,"Rhinitis, Allergic, Seasonal",0,Hay fever,5,0,J30.1,X,Allergic rhinitis due to pollen
+category,CA08.01,- - - - Allergic rhinitis due to other seasonal allergens,CA08,True,D006255,"Rhinitis, Allergic, Seasonal",0,Seasonal allergic rhinitis,1,0,J30.2,X,Other seasonal allergic rhinitis
+category,CA08.02,- - - - Allergic rhinitis due to house dust mite,,True,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.03,- - - - Other allergic rhinitis,,True,,,0,,0,0,J30.3,X,Other allergic rhinitis
+category,CA08.0Z,"- - - - Allergic rhinitis, unspecified",,True,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.1,- - - Non-allergic rhinitis,,False,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.10,- - - - Non-allergic rhinitis with eosinophils,,True,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.1Y,- - - - Other specified non-allergic rhinitis,,True,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.1Z,"- - - - Non-allergic rhinitis, unspecified",,True,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.2,- - - Mixed rhinitis,,True,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.3,- - - Vasomotor rhinitis,,True,,,0,,0,0,J30.0,X,Vasomotor rhinitis
+category,CA08.Y,- - - Mixed allergic and non-allergic rhinitis,,True,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA08.Z,"- - - Rhinitis, unspecified whether allergic or nonallergic",,True,,,0,,0,0,J30,X,Vasomotor and allergic rhinitis
+category,CA09,"- - Chronic rhinitis, nasopharyngitis or pharyngitis",,False,D012222,"Rhinitis, Atrophic",10,,0,0,J31,X,"Chronic rhinitis, nasopharyngitis and pharyngitis"
+category,CA09.0,- - - Chronic rhinitis,,True,,,0,,0,0,J31.0,X,Chronic rhinitis
+category,CA09.1,- - - Chronic nasopharyngitis,,True,,,0,,0,0,J31.1,X,Chronic nasopharyngitis
+category,CA09.2,- - - Chronic pharyngitis,,True,,,0,,0,0,J31.2,X,Chronic pharyngitis
+category,CA09.Y,"- - - Other specified chronic rhinitis, nasopharyngitis or pharyngitis",,True,,,0,,0,0,J31,X,"Chronic rhinitis, nasopharyngitis and pharyngitis"
+category,CA09.Z,"- - - Chronic rhinitis, nasopharyngitis or pharyngitis, unspecified",,True,,,0,,0,0,J31,X,"Chronic rhinitis, nasopharyngitis and pharyngitis"
+category,CA0A,- - Chronic rhinosinusitis,,False,D012852,Sinusitis,82,,0,0,J32,X,Chronic sinusitis
+category,CA0A.0,- - - Samter syndrome,,True,,,0,,0,0,J32,X,Chronic sinusitis
+category,CA0A.Y,- - - Other specified chronic rhinosinusitis,,True,,,0,,0,0,J32.8,X,Other chronic sinusitis
+category,CA0A.Z,"- - - Chronic rhinosinusitis, unspecified",,True,,,0,,0,0,J32,X,Chronic sinusitis
+category,CA0B,- - Silent sinus syndrome,,True,,,0,,0,0,J34,X,Other disorders of nose and nasal sinuses
+category,CA0C,- - Cyst or mucocele of nose or nasal sinus,,True,,,0,,0,0,J34.1,X,Cyst and mucocele of nose and nasal sinus
+category,CA0D,- - Deviated nasal septum,,True,,,0,,0,0,J34.2,X,Deviated nasal septum
+category,CA0E,- - Hypertrophy of nasal turbinates,,True,,,0,,0,0,J34.3,X,Hypertrophy of nasal turbinates
+category,CA0F,- - Chronic diseases of tonsils or adenoids,,False,,,0,,0,0,J35,X,Chronic diseases of tonsils and adenoids
+category,CA0F.0,- - - Hypertrophy of tonsils,,True,,,0,,0,0,J35.1,X,Hypertrophy of tonsils
+category,CA0F.1,- - - Hypertrophy of adenoids,,True,,,0,,0,0,J35.2,X,Hypertrophy of adenoids
+category,CA0F.Y,- - - Other specified chronic diseases of tonsils or adenoids,,True,,,0,,0,0,J35.8,X,Other chronic diseases of tonsils and adenoids
+category,CA0F.Z,"- - - Chronic diseases of tonsils or adenoids, unspecified",,True,,,0,,0,0,J35,X,Chronic diseases of tonsils and adenoids
+category,CA0G,- - Chronic laryngitis or laryngotracheitis,,True,,,0,,0,0,J37,X,Chronic laryngitis and laryngotracheitis
+category,CA0H,"- - Diseases of vocal cords or larynx, not elsewhere classified",,False,,,0,,0,0,J38,X,"Diseases of vocal cords and larynx, not elsewhere classified"
+category,CA0H.0,- - - Paralysis of vocal cords or larynx,,True,D014826,Vocal Cord Paralysis,77,,0,0,J38.0,X,Paralysis of vocal cords and larynx
+category,CA0H.1,- - - Polyp of vocal cord or larynx,,True,,,0,,0,0,J38.1,X,Polyp of vocal cord and larynx
+category,CA0H.2,- - - Nodules of vocal cords,,True,,,0,,0,0,J38.2,X,Nodules of vocal cords
+category,CA0H.3,- - - Oedema of larynx,,True,D007819,Laryngeal Edema,21,,0,0,J38.4,X,Oedema of larynx
+category,CA0H.4,- - - Laryngeal spasm,,True,D007826,Laryngismus,44,,0,0,J38.5,X,Laryngeal spasm
+category,CA0H.5,- - - Stenosis of larynx,,True,D007829,Laryngostenosis,29,,0,0,J38.6,X,Stenosis of larynx
+category,CA0H.Y,"- - - Other specified diseases of vocal cords or larynx, not elsewhere classified",,True,,,0,,0,0,J38,X,"Diseases of vocal cords and larynx, not elsewhere classified"
+category,CA0H.Z,"- - - Diseases of vocal cords or larynx, not elsewhere classified, unspecified",,True,,,0,,0,0,J38,X,"Diseases of vocal cords and larynx, not elsewhere classified"
+category,CA0J,- - Nasal polyp,,False,D009298,Nasal Polyps,40,,0,0,J33,X,Nasal polyp
+category,CA0J.0,- - - Polypoid sinus degeneration,,True,,,0,,0,0,J33.1,X,Polypoid sinus degeneration
+category,CA0J.Y,- - - Other specified nasal polyp,,True,,,0,,0,0,J33.8,X,Other polyp of sinus
+category,CA0J.Z,"- - - Nasal polyp, unspecified",,True,,,0,,0,0,J33,X,Nasal polyp
+category,CA0K,- - Abscess of upper respiratory tract,,False,,,0,,0,0,J34.0,X,"Abscess, furuncle and carbuncle of nose"
+category,CA0K.0,- - - Retropharyngeal or parapharyngeal abscess,,True,D017703,Retropharyngeal Abscess,30,,0,0,J39.0,X,Retropharyngeal and parapharyngeal abscess
+category,CA0K.1,- - - Peritonsillar abscess,,True,D000039,Peritonsillar Abscess,13,,0,0,J36,X,Peritonsillar abscess
+category,CA0K.Y,- - - Other specified abscess of upper respiratory tract,,True,,,0,,0,0,J34.0,X,"Abscess, furuncle and carbuncle of nose"
+category,CA0K.Z,"- - - Abscess of upper respiratory tract, unspecified",,True,,,0,,0,0,J34.0,X,"Abscess, furuncle and carbuncle of nose"
+category,CA0Y,- - Other specified upper respiratory tract disorders,CA07,True,D012141,Respiratory Tract Infections,0,Rhinorrhea,1,0,J00-J06,X,Acute upper respiratory infections
+category,CA0Z,"- - Upper respiratory tract disorders, unspecified",,True,,,0,,0,0,J00-J06,X,Acute upper respiratory infections
+block,CA20-CA2Z,- Certain lower respiratory tract diseases,,False,,,0,,0,1,J40-J47,X,Chronic lower respiratory diseases
+category,CA20,- - Bronchitis,,False,D001991,Bronchitis,0,Bronchitis,9,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA20.0,- - - Acute noninfectious bronchitis,,True,,,0,,0,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA20.1,- - - Chronic bronchitis,,False,D029481,"Bronchitis, Chronic",8,Chronic bronchitis,2,0,J42,X,Unspecified chronic bronchitis
+category,CA20.10,- - - - Simple chronic bronchitis,,True,,,0,,0,0,J41.0,X,Simple chronic bronchitis
+category,CA20.11,- - - - Mucopurulent chronic bronchitis,,True,,,0,,0,0,J41.1,X,Mucopurulent chronic bronchitis
+category,CA20.12,- - - - Mixed simple and mucopurulent chronic bronchitis,,True,,,0,,0,0,J41.8,X,Mixed simple and mucopurulent chronic bronchitis
+category,CA20.13,- - - - Protracted bacterial bronchitis,,True,,,0,,0,0,J42,X,Unspecified chronic bronchitis
+category,CA20.1Y,- - - - Other specified chronic bronchitis,,True,,,0,,0,0,J42,X,Unspecified chronic bronchitis
+category,CA20.1Z,"- - - - Chronic bronchitis, unspecified",,True,,,0,,0,0,J42,X,Unspecified chronic bronchitis
+category,CA20.Y,- - - Other specified bronchitis,,True,,,0,,0,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA20.Z,"- - - Bronchitis, unspecified",,True,,,0,,0,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA21,- - Emphysema,,False,D011656,Pulmonary Emphysema,49,Emphysema,1,0,J43,X,Emphysema
+category,CA21.0,- - - MacLeod syndrome,,True,,,0,,0,0,J43.0,X,MacLeod syndrome
+category,CA21.1,- - - Panlobular emphysema,,True,,,0,,0,0,J43.1,X,Panlobular emphysema
+category,CA21.2,- - - Centrilobular emphysema,,True,,,0,,0,0,J43.2,X,Centrilobular emphysema
+category,CA21.Y,- - - Other specified emphysema,,True,,,0,,0,0,J43.8,X,Other emphysema
+category,CA21.Z,"- - - Emphysema, unspecified",,True,,,0,,0,0,J43,X,Emphysema
+category,CA22,- - Chronic obstructive pulmonary disease,,False,D029424,"Pulmonary Disease, Chronic Obstructive",84,Chronic obstructive pulmonary disease,25,0,J44,X,Other chronic obstructive pulmonary disease
+category,CA22.0,"- - - Chronic obstructive pulmonary disease with acute exacerbation, unspecified",,True,,,0,,0,0,J44.1,X,"Chronic obstructive pulmonary disease with acute exacerbation, unspecified"
+category,CA22.1,- - - Certain specified chronic obstructive pulmonary disease,,True,,,0,,0,0,J44.8,X,Other specified chronic obstructive pulmonary disease
+category,CA22.Z,"- - - Chronic obstructive pulmonary disease, unspecified",CA22,True,D029424,"Pulmonary Disease, Chronic Obstructive",0,Obstructive lung disease,1,0,J44,X,Other chronic obstructive pulmonary disease
+category,CA23,- - Asthma,,False,D001249,Asthma,156,Asthma,50,0,J45,X,Asthma
+category,CA23.0,- - - Allergic asthma,,False,,,0,,0,0,J45.0,X,Predominantly allergic asthma
+category,CA23.00,- - - - Allergic asthma with exacerbation,,True,,,0,,0,0,J45.0,X,Predominantly allergic asthma
+category,CA23.01,- - - - Allergic asthma with status asthmaticus,,True,,,0,,0,0,J46,X,Status asthmaticus
+category,CA23.02,"- - - - Allergic asthma, uncomplicated",,True,,,0,,0,0,J45.0,X,Predominantly allergic asthma
+category,CA23.1,- - - Non-allergic asthma,,False,,,0,,0,0,J45.1,X,Nonallergic asthma
+category,CA23.10,- - - - Non-allergic asthma with exacerbation,,True,,,0,,0,0,J45.1,X,Nonallergic asthma
+category,CA23.11,- - - - Non-allergic asthma with status asthmaticus,,True,,,0,,0,0,J46,X,Status asthmaticus
+category,CA23.12,"- - - - Non-allergic asthma, uncomplicated",,True,,,0,,0,0,J45.1,X,Nonallergic asthma
+category,CA23.2,- - - Other specified forms of asthma or bronchospasm,,False,,,0,,0,0,J45,X,Asthma
+category,CA23.20,- - - - Aspirin-induced asthma,,True,D055963,"Asthma, Aspirin-Induced",0,,0,0,J45,X,Asthma
+category,CA23.21,- - - - Exercise-induced bronchospasm,,True,D001250,"Asthma, Exercise-Induced",0,,0,0,J45,X,Asthma
+category,CA23.22,- - - - Cough variant asthma,,True,,,0,,0,0,J45,X,Asthma
+category,CA23.3,- - - Unspecified asthma,,False,,,0,,0,0,J45.9,X,"Asthma, unspecified"
+category,CA23.30,- - - - Unspecified asthma with exacerbation,,True,,,0,,0,0,J45.9,X,"Asthma, unspecified"
+category,CA23.31,- - - - Unspecified asthma with status asthmaticus,,True,,,0,,0,0,J46,X,Status asthmaticus
+category,CA23.32,"- - - - Unspecified asthma, uncomplicated",,True,,,0,,0,0,J45.9,X,"Asthma, unspecified"
+category,CA24,- - Bronchiectasis,,True,D001987,Bronchiectasis,37,Bronchiectasis,2,0,J47,X,Bronchiectasis
+category,CA25,- - Cystic fibrosis,,False,D003550,Cystic Fibrosis,117,Cystic fibrosis,4,0,E84,IV,Cystic fibrosis
+category,CA25.0,- - - Classical cystic fibrosis,,True,,,0,,0,0,E84.0,IV,Cystic fibrosis with pulmonary manifestations
+category,CA25.1,- - - Atypical cystic fibrosis,,True,,,0,,0,0,E84,IV,Cystic fibrosis
+category,CA25.2,- - - Subclinical cystic fibrosis,,True,,,0,,0,0,E84.8,IV,Cystic fibrosis with other manifestations
+category,CA25.Z,"- - - Cystic fibrosis, unspecified",,True,,,0,,0,0,E84,IV,Cystic fibrosis
+category,CA26,- - Chronic bronchiolitis,,False,,,0,,0,0,J44.8,X,Other specified chronic obstructive pulmonary disease
+category,CA26.0,- - - Chronic obliterative bronchiolitis,,True,,,0,,0,0,J44.8,X,Other specified chronic obstructive pulmonary disease
+category,CA26.1,- - - Diffuse panbronchiolitis,,True,,,0,,0,0,J44.8,X,Other specified chronic obstructive pulmonary disease
+category,CA26.Y,- - - Other specified chronic bronchiolitis,,True,,,0,,0,0,J44.8,X,Other specified chronic obstructive pulmonary disease
+category,CA26.Z,"- - - Chronic bronchiolitis, unspecified",,True,,,0,,0,0,J44.8,X,Other specified chronic obstructive pulmonary disease
+category,CA27,- - Tracheobronchitis,,False,,,0,,0,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA27.0,- - - Tracheobronchopathia osteochondroplastica,,True,,,0,,0,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA27.1,- - - Tracheobronchomegaly,,True,,,0,,0,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA27.Y,- - - Other specified tracheobronchitis,,True,,,0,,0,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA27.Z,"- - - Tracheobronchitis, unspecified",,True,,,0,,0,0,J40,X,"Bronchitis, not specified as acute or chronic"
+category,CA2Y,- - Other specified lower respiratory tract disease,,True,,,0,,0,0,J40-J47,X,Chronic lower respiratory diseases
+category,CA2Z,"- - Lower respiratory tract disease, unspecified",,True,,,0,,0,0,J40-J47,X,Chronic lower respiratory diseases
+block,CA40-CA4Z,- Lung infections,,False,,,0,,0,1,J09-J18,X,Influenza and pneumonia
+category,CA40,- - Pneumonia,,False,,,0,,0,0,J09-J18,X,Influenza and pneumonia
+category,CA40.0,- - - Bacterial pneumonia,,False,D018410,"Pneumonia, Bacterial (J15.9)",65,Bacterial pneumonia,1,0,J15,X,"Bacterial pneumonia, not elsewhere classified"
+category,CA40.00,- - - - Pneumonia due to Chlamydophila pneumoniae,,True,,,0,,0,0,J16.0,X,Chlamydial pneumonia
+category,CA40.01,- - - - Pneumonia due to Escherichia coli,,True,,,0,,0,0,J15.5,X,Pneumonia due to Escherichia coli
+category,CA40.02,- - - - Pneumonia due to Haemophilus influenzae,,True,,,0,,0,0,J14,X,Pneumonia due to Haemophilus influenzae
+category,CA40.03,- - - - Pneumonia due to Klebsiella pneumoniae,,True,,,0,,0,0,J15.0,X,Pneumonia due to Klebsiella pneumoniae
+category,CA40.04,- - - - Pneumonia due to Mycoplasma pneumoniae,,True,,,0,,0,0,J15.7,X,Pneumonia due to Mycoplasma pneumoniae
+category,CA40.05,- - - - Pneumonia due to Pseudomonas aeruginosa,,True,,,0,,0,0,J15.1,X,Pneumonia due to Pseudomonas
+category,CA40.06,- - - - Pneumonia due to Staphylococcus,,True,,,0,,0,0,J15.2,X,Pneumonia due to staphylococcus
+category,CA40.07,- - - - Pneumonia due to Streptococcus pneumoniae,,True,,,0,,0,0,J13,X,Pneumonia due to Streptococcus pneumoniae
+category,CA40.08,- - - - Pneumonia due to Beta-haemolytic streptococcus,,True,,,0,,0,0,J15.3,X,"Pneumonia due to streptococcus, group B"
+category,CA40.0Y,- - - - Pneumonia due to other specified bacteria,,True,,,0,,0,0,J15.8,X,Other bacterial pneumonia
+category,CA40.0Z,"- - - - Bacterial pneumonia, unspecified",,True,,,0,,0,0,J15,X,"Bacterial pneumonia, not elsewhere classified"
+category,CA40.1,- - - Viral pneumonia,,False,D011024,"Pneumonia, Viral (J12.9)",38,,0,0,J12,X,"Viral pneumonia, not elsewhere classified"
+category,CA40.10,- - - - Pneumonia due to Adenovirus,,True,,,0,,0,0,J12.0,X,Adenoviral pneumonia
+category,CA40.11,- - - - Pneumonia due to Respiratory syncytial virus,,True,,,0,,0,0,J12.1,X,Respiratory syncytial virus pneumonia
+category,CA40.12,- - - - Pneumonia due to parainfluenza virus,,True,,,0,,0,0,J12.2,X,Parainfluenza virus pneumonia
+category,CA40.13,- - - - Pneumonia due to Human metapneumovirus,,True,,,0,,0,0,J12.3,X,Human metapneumovirus pneumonia
+category,CA40.1Y,- - - - Pneumonia due to other specified virus,,True,,,0,,0,0,J12.8,X,Other viral pneumonia
+category,CA40.1Z,"- - - - Viral pneumonia, unspecified",,True,,,0,,0,0,J12,X,"Viral pneumonia, not elsewhere classified"
+category,CA40.2,- - - Fungal pneumonia,,False,,,0,,0,0,J17.2,X,Pneumonia in mycoses
+category,CA40.20,- - - - Pneumonia due to pneumocystis,,True,D011020,"Pneumonia, Pneumocystis (B59)",44,Pneumocystis pneumonia,2,0,J17.2,X,Pneumonia in mycoses
+category,CA40.2Y,- - - - Other specified fungal pneumonia,,True,,,0,,0,0,J17.2,X,Pneumonia in mycoses
+category,CA40.2Z,"- - - - Fungal pneumonia, unspecified",,True,,,0,,0,0,J17.2,X,Pneumonia in mycoses
+category,CA40.Y,- - - Other specified pneumonia,,True,,,0,,0,0,J09-J18,X,Influenza and pneumonia
+category,CA40.Z,"- - - Pneumonia, organism unspecified",,True,,,0,,0,0,J09-J18,X,Influenza and pneumonia
+category,CA41,- - Acute bronchiolitis,,False,,,0,,0,0,J21,X,Acute bronchiolitis
+category,CA41.0,- - - Acute bronchiolitis due to respiratory syncytial virus,,True,,,0,,0,0,J21.0,X,Acute bronchiolitis due to respiratory syncytial virus
+category,CA41.Y,- - - Other specified acute bronchiolitis,,True,,,0,,0,0,J21.8,X,Acute bronchiolitis due to other specified organisms
+category,CA41.Z,"- - - Acute bronchiolitis, unspecified",,True,,,0,,0,0,J21,X,Acute bronchiolitis
+category,CA42,- - Acute bronchitis,CA20,False,D001991,Bronchitis (J40),68,Acute bronchitis,1,0,J20,X,Acute bronchitis
+category,CA42.0,- - - Acute bronchitis due to Streptococcus,,True,,,0,,0,0,J20.2,X,Acute bronchitis due to streptococcus
+category,CA42.1,- - - Acute bronchitis due to Rhinovirus,,True,,,0,,0,0,J20.6,X,Acute bronchitis due to rhinovirus
+category,CA42.2,- - - Acute bronchitis due to Respiratory syncytial virus,,True,,,0,,0,0,J20.5,X,Acute bronchitis due to respiratory syncytial virus
+category,CA42.3,- - - Acute bronchitis due to Parainfluenza virus,,True,,,0,,0,0,J20.4,X,Acute bronchitis due to parainfluenza virus
+category,CA42.4,- - - Acute bronchitis due to Haemophilus influenzae,,True,,,0,,0,0,J20.1,X,Acute bronchitis due to Haemophilus influenzae
+category,CA42.5,- - - Acute bronchitis due to Coxsackievirus,,True,,,0,,0,0,J20.3,X,Acute bronchitis due to coxsackievirus
+category,CA42.Y,- - - Other specified acute bronchitis,,True,,,0,,0,0,J20.8,X,Acute bronchitis due to other specified organisms
+category,CA42.Z,"- - - Acute bronchitis, unspecified",,True,,,0,,0,0,J20,X,Acute bronchitis
+category,CA43,- - Abscess of lung or mediastinum,,False,D008169,Lung Abscess,28,,0,0,J85,X,Abscess of lung and mediastinum
+category,CA43.0,- - - Gangrene or necrosis of lung,,True,,,0,,0,0,J85.0,X,Gangrene and necrosis of lung
+category,CA43.1,- - - Abscess of lung with pneumonia,,True,,,0,,0,0,J85.1,X,Abscess of lung with pneumonia
+category,CA43.2,- - - Abscess of lung without pneumonia,,True,,,0,,0,0,J85.2,X,Abscess of lung without pneumonia
+category,CA43.3,- - - Abscess of mediastinum,,True,,,0,,0,0,J85.3,X,Abscess of mediastinum
+category,CA43.Y,- - - Other specified abscess of lung or mediastinum,,True,,,0,,0,0,J85,X,Abscess of lung and mediastinum
+category,CA43.Z,"- - - Abscess of lung or mediastinum, unspecified",,True,,,0,,0,0,J85,X,Abscess of lung and mediastinum
+category,CA44,- - Pyothorax,,True,D016724,"Empyema, Pleural",18,,0,0,J86,X,Pyothorax
+category,CA45,"- - Respiratory infections, not elsewhere classified",,True,D012120,Respiration Disorders (J98.9),100,Respiratory tract infection,3,0,J98.7,X,"Respiratory infections, not elsewhere classified"
+category,CA4Y,- - Other specified lung infections,,True,,,0,,0,0,J09-J18,X,Influenza and pneumonia
+category,CA4Z,"- - Lung infections, unspecified",,True,,,0,,0,0,J09-J18,X,Influenza and pneumonia
+block,CA60-CA8Z,- Lung diseases due to external agents,,False,,,0,,0,0,J60-J70,X,Lung diseases due to external agents
+category,CA60,- - Pneumoconiosis,,False,D011009,Pneumoconiosis,0,,0,0,J60-J70,X,Lung diseases due to external agents
+category,CA60.0,- - - Pneumoconiosis due to dust containing silica,,False,D012829,Silicosis,34,,0,0,J62,X,Pneumoconiosis due to dust containing silica
+category,CA60.00,- - - - Pneumoconiosis due to talc dust,,True,,,0,,0,0,J62.0,X,Pneumoconiosis due to talc dust
+category,CA60.0Y,- - - - Other specified pneumoconiosis due to dust containing silica,,True,,,0,,0,0,J62.8,X,Pneumoconiosis due to other dust containing silica
+category,CA60.0Z,"- - - - Pneumoconiosis due to dust containing silica, unspecified",,True,,,0,,0,0,J62,X,Pneumoconiosis due to dust containing silica
+category,CA60.1,- - - Coal worker pneumoconiosis,,True,D055008,Anthracosis,2,,0,0,J60,X,Coalworker pneumoconiosis
+category,CA60.2,- - - Pneumoconiosis due to mineral fibres including asbestos,,True,D001195,Asbestosis,18,,0,0,J61,X,Pneumoconiosis due to asbestos and other mineral fibres
+category,CA60.3,- - - Pneumoconiosis associated with tuberculosis,,True,D012830,Silicotuberculosis,6,,0,0,J65,X,Pneumoconiosis associated with tuberculosis
+category,CA60.4,- - - Aluminosis of lung,,True,,,0,,0,0,J63.0,X,Aluminosis (of lung)
+category,CA60.5,- - - Bauxite fibrosis of lung,,True,,,0,,0,0,J63.1,X,Bauxite fibrosis (of lung)
+category,CA60.6,- - - Berylliosis,,True,D001607,Berylliosis,1,,0,0,J63.2,X,Berylliosis
+category,CA60.7,- - - Graphite fibrosis of lung,,True,,,0,,0,0,J63.3,X,Graphite fibrosis (of lung)
+category,CA60.8,- - - Siderosis,,True,D012806,Siderosis,39,,0,0,J63.4,X,Siderosis
+category,CA60.9,- - - Stannosis,,True,,,0,,0,0,J63.5,X,Stannosis
+category,CA60.Y,- - - Other specified pneumoconiosis,,True,,,0,,0,0,J60-J70,X,Lung diseases due to external agents
+category,CA60.Z,"- - - Pneumoconiosis, unspecified",,True,,,0,,0,0,J60-J70,X,Lung diseases due to external agents
+block,CA70-CA7Z,- - Pneumonitis,,False,,,0,,0,0,J60-J70,X,Lung diseases due to external agents
+category,CA70,- - - Hypersensitivity pneumonitis due to organic dust,,False,D000542,"Alveolitis, Extrinsic Allergic (J67.9)",18,,0,0,J67,X,Hypersensitivity pneumonitis due to organic dust
+category,CA70.0,- - - - Farmer lung,,True,D005203,Farmer's Lung,8,,0,0,J67.0,X,Farmer lung
+category,CA70.1,- - - - Bagassosis,,True,,,0,,0,0,J67.1,X,Bagassosis
+category,CA70.2,- - - - Bird fancier lung,,True,D001716,Bird Fancier's Lung,12,,0,0,J67.2,X,Bird fancier lung
+category,CA70.3,- - - - Suberosis,,True,,,0,,0,0,J67.3,X,Suberosis
+category,CA70.4,- - - - Malt worker lung,,True,,,0,,0,0,J67.4,X,Maltworker lung
+category,CA70.5,- - - - Mushroom worker lung,,True,,,0,,0,0,J67.5,X,Mushroom-worker lung
+category,CA70.6,- - - - Maple bark stripper lung,,True,,,0,,0,0,J67.6,X,Maple-bark-stripper lung
+category,CA70.7,- - - - Air conditioner or humidifier lung,,True,,,0,,0,0,J67.7,X,Air-conditioner and humidifier lung
+category,CA70.Y,- - - - Other specified hypersensitivity pneumonitis due to organic dust,,True,,,0,,0,0,J67.8,X,Hypersensitivity pneumonitis due to other organic dusts
+category,CA70.Z,"- - - - Hypersensitivity pneumonitis due to organic dust, unspecified",,True,,,0,,0,0,J67,X,Hypersensitivity pneumonitis due to organic dust
+category,CA71,- - - Pneumonitis due to solids and liquids,,False,,,0,,0,0,J69,X,Pneumonitis due to solids and liquids
+category,CA71.0,- - - - Pneumonitis due to inhalation of food or vomit,,True,,,0,,0,0,J69.0,X,Pneumonitis due to food and vomit
+category,CA71.1,- - - - Pneumonitis due to oils or essences,,True,,,0,,0,0,J69.1,X,Pneumonitis due to oils and essences
+category,CA71.2,- - - - Pneumonitis due to aspiration of blood,,True,,,0,,0,0,J69,X,Pneumonitis due to solids and liquids
+category,CA71.3,- - - - Lipoid pneumonitis,,True,,,0,,0,0,J69,X,Pneumonitis due to solids and liquids
+category,CA71.Y,- - - - Other specified pneumonitis due to solids and liquids,,True,,,0,,0,0,J69.8,X,Pneumonitis due to other solids and liquids
+category,CA71.Z,"- - - - Pneumonitis due to solids and liquids, unspecified",,True,,,0,,0,0,J69,X,Pneumonitis due to solids and liquids
+category,CA72,- - - Mendelson syndrome,,True,,,0,,0,0,J95.4,X,Mendelson syndrome
+category,CA7Y,- - - Other specified pneumonitis,,True,,,0,,0,0,J60-J70,X,Lung diseases due to external agents
+category,CA7Z,"- - - Pneumonitis, unspecified",,True,,,0,,0,0,J60-J70,X,Lung diseases due to external agents
+category,CA80,- - Airway disease due to specific organic dust,,False,,,0,,0,0,J66,X,Airway disease due to specific organic dust
+category,CA80.0,- - - Byssinosis,,True,D002095,Byssinosis,5,,0,0,J66.0,X,Byssinosis
+category,CA80.1,- - - Flax-dresser disease,,True,,,0,,0,0,J66.1,X,Flax-dresser disease
+category,CA80.2,- - - Cannabinosis,,True,,,0,,0,0,J66.2,X,Cannabinosis
+category,CA80.Y,- - - Other specified airway disease due to specific organic dust,,True,,,0,,0,0,J66.8,X,Airway disease due to other specific organic dusts
+category,CA80.Z,"- - - Airway disease due to specific organic dust, unspecified",,True,,,0,,0,0,J66,X,Airway disease due to specific organic dust
+category,CA81,"- - Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",,False,,,0,,0,0,J68,X,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours"
+category,CA81.0,"- - - Bronchitis or pneumonitis due to chemicals, gases, fumes or vapours",,True,,,0,,0,0,J68.0,X,"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapours"
+category,CA81.1,"- - - Pulmonary oedema due to chemicals, gases, fumes or vapours",,True,,,0,,0,0,J68.1,X,"Pulmonary oedema due to chemicals, gases, fumes and vapours"
+category,CA81.2,"- - - Upper respiratory inflammation due to chemicals, gases, fumes or vapours, not elsewhere classified",,True,,,0,,0,0,J68.2,X,"Upper respiratory inflammation due to chemicals, gases, fumes and vapours, not elsewhere classified"
+category,CA81.Y,"- - - Other specified respiratory conditions due to inhalation of chemicals, gases, fumes or vapours",,True,,,0,,0,0,J68.8,X,"Other respiratory conditions due to chemicals, gases, fumes and vapours"
+category,CA81.Z,"- - - Respiratory conditions due to inhalation of chemicals, gases, fumes or vapours, unspecified",,True,,,0,,0,0,J68,X,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapours"
+category,CA82,- - Respiratory conditions due to other external agents,,False,,,0,,0,0,J70,X,Respiratory conditions due to other external agents
+category,CA82.0,- - - Acute pulmonary manifestations due to radiation,,True,D017564,Radiation Pneumonitis,9,,0,0,J70.0,X,Acute pulmonary manifestations due to radiation
+category,CA82.1,- - - Chronic or other pulmonary manifestations due to radiation,,True,,,0,,0,0,J70.1,X,Chronic and other pulmonary manifestations due to radiation
+category,CA82.2,- - - Acute drug-induced interstitial lung disorders,,True,,,0,,0,0,J70.2,X,Acute drug-induced interstitial lung disorders
+category,CA82.3,- - - Chronic drug-induced interstitial lung disorders,,True,,,0,,0,0,J70.3,X,Chronic drug-induced interstitial lung disorders
+category,CA82.4,- - - Aspergillus-induced allergic or hypersensitivity conditions,,True,,,0,,0,0,B44.1,I,Other pulmonary aspergillosis
+category,CA82.Y,- - - Other specified respiratory conditions due to other external agents,,True,,,0,,0,0,J70.8,X,Respiratory conditions due to other specified external agents
+category,CA82.Z,"- - - Respiratory conditions due to other external agents, unspecified",,True,,,0,,0,0,J70,X,Respiratory conditions due to other external agents
+category,CA8Y,- - Other specified lung diseases due to external agents,,True,,,0,,0,0,J60-J70,X,Lung diseases due to external agents
+category,CA8Z,"- - Lung diseases due to external agents, unspecified",,True,,,0,,0,0,J60-J70,X,Lung diseases due to external agents
+block,CB00-CB0Z,- Respiratory diseases principally affecting the lung interstitium,,False,,,0,,0,1,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB00,- - Acute respiratory distress syndrome,,True,D012128,"Respiratory Distress Syndrome, Adult (J80)",79,Respiratory distress syndrome,6,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB01,- - Pulmonary oedema,,True,D011654,Pulmonary Edema,93,,0,0,J81,X,Pulmonary oedema
+category,CB02,- - Pulmonary eosinophilia,,False,D011657,Pulmonary Eosinophilia,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.0,- - - Asthmatic pulmonary eosinophilia,,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.1,- - - Idiopathic eosinophilic pneumonitis,,False,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.10,- - - - Idiopathic acute eosinophilic pneumonitis,,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.11,- - - - Idiopathic chronic eosinophilic pneumonitis,,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.1Y,- - - - Other specified idiopathic eosinophilic pneumonitis,,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.1Z,"- - - - Idiopathic eosinophilic pneumonitis, unspecified",,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.2,- - - Tropical pulmonary eosinophilia,,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.Y,- - - Other specified pulmonary eosinophilia,,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB02.Z,"- - - Pulmonary eosinophilia, unspecified",,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB03,- - Idiopathic interstitial pneumonitis,,False,,,0,,0,0,J84,X,Other interstitial pulmonary diseases
+category,CB03.0,- - - Acute interstitial pneumonitis,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB03.1,- - - Combined pulmonary fibrosis and emphysema syndrome,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB03.2,- - - Cryptogenic organizing pneumonitis,,True,,,0,,0,0,J84.1,X,Other interstitial pulmonary diseases with fibrosis
+category,CB03.3,- - - Desquamative interstitial pneumonitis,,True,,,0,,0,0,J84.1,X,Other interstitial pulmonary diseases with fibrosis
+category,CB03.4,- - - Idiopathic pulmonary fibrosis,,True,D054990,Idiopathic Pulmonary Fibrosis,61,Idiopathic pulmonary fibrosis,2,0,J84.1,X,Other interstitial pulmonary diseases with fibrosis
+category,CB03.5,- - - Lymphoid interstitial pneumonia,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB03.6,- - - Respiratory bronchiolitis - interstitial lung disease,,True,,,0,,0,0,J84,X,Other interstitial pulmonary diseases
+category,CB03.Y,- - - Other specified idiopathic interstitial pneumonitis,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB03.Z,"- - - Idiopathic interstitial pneumonitis, unspecified",,True,,,0,,0,0,J84,X,Other interstitial pulmonary diseases
+category,CB04,- - Primary interstitial lung diseases specific to infancy or childhood,,False,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.0,- - - Diffuse pulmonary developmental disorders,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.1,- - - Pulmonary lymphatic dysplasia syndromes,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.2,- - - Disorders of surfactant metabolism,,True,D012127,"Respiratory Distress Syndrome, Newborn",73,Neonatal respiratory distress,1,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.3,- - - Alveolar or peri-alveolar conditions,,False,,,0,,0,0,J84.0,X,Alveolar and parietoalveolar conditions
+category,CB04.30,- - - - Idiopathic pulmonary haemosiderosis,,True,,,0,,0,0,J84.0,X,Alveolar and parietoalveolar conditions
+category,CB04.31,- - - - Pulmonary alveolar proteinosis,,True,D011649,Pulmonary Alveolar Proteinosis,0,,0,0,J84.0,X,Alveolar and parietoalveolar conditions
+category,CB04.3Y,- - - - Other specified alveolar or peri-alveolar conditions,,True,,,0,,0,0,J84.0,X,Alveolar and parietoalveolar conditions
+category,CB04.3Z,"- - - - Alveolar or peri-alveolar conditions, unspecified",,True,,,0,,0,0,J84.0,X,Alveolar and parietoalveolar conditions
+category,CB04.4,- - - Pulmonary capillaritis,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.5,- - - Brain-lung-thyroid syndrome,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.6,- - - Chronic pneumonitis of infancy,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.7,- - - Neuroendocrine cell hyperplasia of infancy,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.Y,- - - Other specified primary interstitial lung diseases specific to infancy or childhood,,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB04.Z,"- - - Primary interstitial lung diseases specific to infancy or childhood, unspecified",,True,,,0,,0,0,J84.8,X,Other specified interstitial pulmonary diseases
+category,CB05,- - Interstitial lung diseases associated with systemic diseases,,False,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB05.0,- - - Diffuse alveolar damage,,True,,,0,,0,0,J84.0,X,Alveolar and parietoalveolar conditions
+category,CB05.1,- - - Interstitial lung diseases associated with connective tissue diseases,,True,,,0,,0,0,J99.1,X,Respiratory disorders in other diffuse connective tissue disorders
+category,CB05.2,- - - Interstitial lung diseases associated with granulomatous diseases,,True,,,0,,0,0,J99.8,X,Respiratory disorders in other diseases classified elsewhere
+category,CB05.3,- - - Interstitial lung diseases associated with metabolic diseases,,True,,,0,,0,0,J99.8,X,Respiratory disorders in other diseases classified elsewhere
+category,CB05.4,- - - Interstitial lung diseases associated with systemic vasculitides,,False,,,0,,0,0,J99.8,X,Respiratory disorders in other diseases classified elsewhere
+category,CB05.40,- - - - Respiratory disorders in Churg-Strauss syndrome,,True,,,0,,0,0,J99.8,X,Respiratory disorders in other diseases classified elsewhere
+category,CB05.41,- - - - Respiratory disorders in microscopic polyangiitis,,True,,,0,,0,0,J99.8,X,Respiratory disorders in other diseases classified elsewhere
+category,CB05.4Y,- - - - Other specified interstitial lung diseases associated with systemic vasculitides,,True,,,0,,0,0,J99.8,X,Respiratory disorders in other diseases classified elsewhere
+category,CB05.4Z,"- - - - Interstitial lung diseases associated with systemic vasculitides, unspecified",,True,,,0,,0,0,J99.8,X,Respiratory disorders in other diseases classified elsewhere
+category,CB05.5,- - - Secondary pulmonary haemosiderosis,,True,,,0,,0,0,J99.8,X,Respiratory disorders in other diseases classified elsewhere
+category,CB05.Y,- - - Other specified interstitial lung diseases associated with systemic diseases,,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB05.Z,"- - - Interstitial lung diseases associated with systemic diseases, unspecified",,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB06,- - Pulmonary alveolar microlithiasis,,True,,,0,,0,0,J84.9,X,"Interstitial pulmonary disease, unspecified"
+category,CB07,- - Lymphangioleiomyomatosis,,False,D018192,Lymphangioleiomyomatosis,0,,0,0,J84.9,X,"Interstitial pulmonary disease, unspecified"
+category,CB07.0,- - - Lymphangioleiomyomatosis associated with tuberous sclerosis complex,,True,,,0,,0,0,J84.9,X,"Interstitial pulmonary disease, unspecified"
+category,CB07.1,- - - Sporadic lymphangioleiomyomatosis,,True,,,0,,0,0,J84.9,X,"Interstitial pulmonary disease, unspecified"
+category,CB07.Y,- - - Other specified lymphangioleiomyomatosis,,True,,,0,,0,0,J84.9,X,"Interstitial pulmonary disease, unspecified"
+category,CB07.Z,"- - - Lymphangioleiomyomatosis, unspecified",,True,,,0,,0,0,J84.9,X,"Interstitial pulmonary disease, unspecified"
+category,CB0Y,- - Other specified respiratory diseases principally affecting the lung interstitium,,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+category,CB0Z,"- - Respiratory diseases principally affecting the lung interstitium, unspecified",,True,,,0,,0,0,J80-J84,X,Other respiratory diseases principally affecting the interstitium
+block,CB20-CB2Z,"- Pleural, diaphragm or mediastinal disorders",,False,,,0,,0,1,,,
+category,CB20,- - Pleural plaque,,True,,,0,,0,0,J92,X,Pleural plaque
+category,CB21,- - Pneumothorax,,False,D011030,Pneumothorax (J93.9),68,,0,0,J93,X,Pneumothorax
+category,CB21.0,- - - Spontaneous tension pneumothorax,,True,,,0,,0,0,J93.0,X,Spontaneous tension pneumothorax
+category,CB21.1,- - - Other spontaneous pneumothorax,,True,,,0,,0,0,J93.1,X,Other spontaneous pneumothorax
+category,CB21.Y,- - - Other specified pneumothorax,,True,,,0,,0,0,J93.8,X,Other pneumothorax
+category,CB21.Z,"- - - Pneumothorax, unspecified",,True,,,0,,0,0,J93,X,Pneumothorax
+category,CB22,"- - Diseases of mediastinum, not elsewhere classified",,False,,,0,,0,0,J98.5,X,"Diseases of mediastinum, not elsewhere classified"
+category,CB22.0,- - - Fibrosing mediastinitis,,True,,,0,,0,0,J98.5,X,"Diseases of mediastinum, not elsewhere classified"
+category,CB22.Y,"- - - Other specified diseases of mediastinum, not elsewhere classified",,True,,,0,,0,0,J98.5,X,"Diseases of mediastinum, not elsewhere classified"
+category,CB22.Z,"- - - Diseases of mediastinum, not elsewhere classified, unspecified",,True,,,0,,0,0,J98.5,X,"Diseases of mediastinum, not elsewhere classified"
+category,CB23,- - Disorders of diaphragm,,True,,,0,,0,0,J98.6,X,Disorders of diaphragm
+category,CB24,- - Chylous effusion,,True,,,0,,0,0,J94.0,X,Chylous effusion
+category,CB25,- - Fibrothorax,,True,,,0,,0,0,J94.1,X,Fibrothorax
+category,CB26,- - Haemothorax,,True,D006491,Hemothorax,22,,0,0,J94.2,X,Haemothorax
+category,CB27,- - Pleural effusion,,True,D010996,Pleural Effusion,64,Pleural disease,1,0,J90,X,"Pleural effusion, not elsewhere classified"
+category,CB2Y,"- - Other specified pleural, diaphragm or mediastinal disorders",,True,,,0,,0,0,X,X,Diseases of the respiratory system
+category,CB2Z,"- - Pleural, diaphragm or mediastinal disorders, unspecified",,True,,,0,,0,0,X,X,Diseases of the respiratory system
+category,CB40,- Certain diseases of the respiratory system,,False,D016535,Bronchial Hyperreactivity,36,bronchial hyperreactivity,3,0,J95-J99,X,Other diseases of the respiratory system
+category,CB40.0,- - Ciliary dyskinesia,,True,,,0,,0,0,J95-J99,X,Other diseases of the respiratory system
+category,CB40.1,- - Young syndrome,,True,,,0,,0,0,J95-J99,X,Other diseases of the respiratory system
+category,CB40.2,- - Pulmonary collapse,,True,D001261,Pulmonary Atelectasis,39,,0,0,J98.1,X,Pulmonary collapse
+category,CB40.3,- - Interstitial emphysema,,True,D008478,Mediastinal Emphysema,61,,0,0,J98.2,X,Interstitial emphysema
+category,CB40.4,- - Compensatory emphysema,,True,,,0,,0,0,J98.3,X,Compensatory emphysema
+category,CB40.Y,- - Other specified diseases of the respiratory system,CB40,True,D016535,Bronchial Hyperreactivity,0,Chronic bronchopulmonary disease,1,0,J95-J99,X,Other diseases of the respiratory system
+category,CB41,- Respiratory failure,,False,D012131,Respiratory Insufficiency (J96.9),149,Respiratory failure,1,0,J96,X,"Respiratory failure, not elsewhere classified"
+category,CB41.0,- - Acute respiratory failure,,False,,,0,,0,0,J96.0,X,Acute respiratory failure
+category,CB41.00,"- - - Acute respiratory failure, Type I",,True,,,0,,0,0,J96.0,X,Acute respiratory failure
+category,CB41.01,"- - - Acute respiratory failure, Type II",,True,,,0,,0,0,J96.0,X,Acute respiratory failure
+category,CB41.0Z,"- - - Acute respiratory failure, unspecified",,True,,,0,,0,0,J96.0,X,Acute respiratory failure
+category,CB41.1,- - Chronic respiratory failure,,False,,,0,,0,0,J96.1,X,Chronic respiratory failure
+category,CB41.10,"- - - Chronic respiratory failure, Type I",,True,,,0,,0,0,J96.1,X,Chronic respiratory failure
+category,CB41.11,"- - - Chronic respiratory failure, Type II",,True,,,0,,0,0,J96.1,X,Chronic respiratory failure
+category,CB41.1Z,"- - - Chronic respiratory failure, unspecified",,True,,,0,,0,0,J96.1,X,Chronic respiratory failure
+category,CB41.2,"- - Respiratory failure, unspecified as acute or chronic",,False,,,0,,0,0,J96.9,X,"Respiratory failure, unspecified"
+category,CB41.20,"- - - Respiratory failure, unspecified, Type I",,True,,,0,,0,0,J96.9,X,"Respiratory failure, unspecified"
+category,CB41.21,"- - - Respiratory failure, unspecified, Type II",,True,,,0,,0,0,J96.9,X,"Respiratory failure, unspecified"
+category,CB41.2Z,"- - - Respiratory failure, unspecified",,True,,,0,,0,0,J96.9,X,"Respiratory failure, unspecified"
+block,CB60-CB64,- Postprocedural disorders of the respiratory system,,False,,,0,,0,0,J95,X,"Postprocedural respiratory disorders, not elsewhere classified"
+category,CB60,- - Tracheostomy malfunction,,True,,,0,,0,0,J95.0,X,Tracheostomy malfunction
+category,CB61,- - Chronic pulmonary insufficiency following surgery,,True,,,0,,0,0,J95.3,X,Chronic pulmonary insufficiency following surgery
+category,CB62,- - Postprocedural subglottic stenosis,,True,,,0,,0,0,J95.5,X,Postprocedural subglottic stenosis
+category,CB63,- - Postprocedural stenosis of the trachea,,True,,,0,,0,0,J95,X,"Postprocedural respiratory disorders, not elsewhere classified"
+category,CB64,- - Transfusion related acute lung injury,,True,,,0,,0,0,J95,X,"Postprocedural respiratory disorders, not elsewhere classified"
+category,CB7Z,"- Diseases of the respiratory system, unspecified",,True,,,0,,0,0,X,X,Diseases of the respiratory system
+,,,,,,,,,,,,,
+chapter,MA00-MH2Y,"Symptoms, signs or clinical findings, not elsewhere classified",,False,,,0,,0,1,,,
+block,MD10-MD6Y,"- Symptoms, signs or clinical findings of the respiratory system",,False,,,0,,0,1,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+block,MD10-MD3Y,- - Symptoms or signs involving the respiratory system,,False,,,0,,0,1,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+category,MD10,- - - Abnormal sputum,MD12,True,D003371,Cough,113,Expectorant,1,0,R09.3,XVIII,Abnormal sputum
+category,MD11,- - - Abnormalities of breathing,,False,,,0,,0,0,R06,XVIII,Abnormalities of breathing
+category,MD11.0,- - - - Apnoea,,True,,,0,,0,0,R06,XVIII,Abnormalities of breathing
+category,MD11.1,- - - - Asphyxia,,True,,,0,,0,0,R09.0,XVIII,Asphyxia
+category,MD11.2,- - - - Ataxic breathing,,True,,,0,,0,0,R06,XVIII,Abnormalities of breathing
+category,MD11.3,- - - - Breath holding,,True,,,0,,0,0,R06,XVIII,Abnormalities of breathing
+category,MD11.4,- - - - Sleep related Cheyne-Stokes respiration,,True,D002639,Cheyne-Stokes Respiration,20,,0,0,R06.3,XVIII,Periodic breathing
+category,MD11.5,- - - - Dyspnoea,,True,D004417,Dyspnea,119,,0,0,R06.0,XVIII,Dyspnoea
+category,MD11.6,- - - - Hiccough,,True,,,0,,0,0,R06.6,XVIII,Hiccough
+category,MD11.7,- - - - Hyperventilation,,True,D006985,Hyperventilation,83,,0,0,R06.4,XVIII,Hyperventilation
+category,MD11.8,- - - - Mouth breathing,,False,D009058,Mouth breathing,21,,0,0,R06.5,XVIII,Mouth breathing
+category,MD11.80,- - - - - Stertor,,True,,,0,,0,0,R06.5,XVIII,Mouth breathing
+category,MD11.8Y,- - - - - Other specified mouth breathing,,True,,,0,,0,0,R06.5,XVIII,Mouth breathing
+category,MD11.8Z,"- - - - - Mouth breathing, unspecified",,True,,,0,,0,0,R06.5,XVIII,Mouth breathing
+category,MD11.9,- - - - Nasal congestion,,True,D015508,Nasal Obstruction,47,Nasal congestion,3,0,R06,XVIII,Abnormalities of breathing
+category,MD11.A,- - - - Sneezing,,True,,,0,,0,0,R06.7,XVIII,Sneezing
+category,MD11.B,- - - - Stridor,,True,,,0,,0,0,R06.1,XVIII,Stridor
+category,MD11.C,- - - - Wheezing,,True,,,0,,0,0,R06.2,XVIII,Wheezing
+category,MD11.D,- - - - Yawning,,True,,,0,,0,0,R06,XVIII,Abnormalities of breathing
+category,MD11.Y,- - - - Other specified abnormalities of breathing,,True,,,0,,0,0,R06.8,XVIII,Other and unspecified abnormalities of breathing
+category,MD11.Z,"- - - - Abnormalities of breathing, unspecified",,True,,,0,,0,0,R06,XVIII,Abnormalities of breathing
+category,MD12,- - - Cough,,True,D003371,Cough,0,Cough,15,0,R05,XVIII,Cough
+block,MD20-MD2Z,- - - Haemorrhage from respiratory passages,,False,,,0,,0,0,R04,XVIII,Haemorrhage from respiratory passages
+category,MD20,- - - - Epistaxis,,True,D004844,Epistaxis,55,,0,0,R04.0,XVIII,Epistaxis
+category,MD21,- - - - Haemorrhage from throat,,True,,,0,,0,0,R04.1,XVIII,Haemorrhage from throat
+category,MD22,- - - - Haemoptysis,,True,D006469,Hemoptysis,51,,0,0,R04.2,XVIII,Haemoptysis
+category,MD23,- - - - Haemorrhage from other sites in respiratory passages,,True,,,0,,0,0,R04.8,XVIII,Haemorrhage from other sites in respiratory passages
+category,MD24,- - - - Acute idiopathic pulmonary haemorrhage in infants over 28 days of age,,True,,,0,,0,0,R04,XVIII,Haemorrhage from respiratory passages
+category,MD2Z,"- - - - Haemorrhage from respiratory passages, unspecified",,True,,,0,,0,0,R04,XVIII,Haemorrhage from respiratory passages
+category,MD30,- - - Pain in throat or chest,,False,,,0,,0,0,R07,XVIII,Pain in throat and chest
+category,MD30.0,- - - - Chest pain on breathing,,True,,,0,,0,0,R07.1,XVIII,Chest pain on breathing
+category,MD30.1,- - - - Other chest pain,,True,,,0,,0,0,R07.3,XVIII,Other chest pain
+category,MD30.Z,"- - - - Chest pain, unspecified",,True,,,0,,0,0,R07,XVIII,Pain in throat and chest
+category,MD31,- - - Pleurisy,,True,D010998,Pleurisy,36,,0,0,R09.1,XVIII,Pleurisy
+category,MD32,- - - Rales,,True,,,0,,0,0,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+category,MD33,- - - Respiratory arrest,,True,,,0,,0,0,R09.2,XVIII,Respiratory arrest
+category,MD34,- - - Symptom or complaint of the nose,,True,,,0,,0,0,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+category,MD35,- - - Symptom or complaint of the sinus,,True,,,0,,0,0,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+category,MD36,- - - Symptom or complaint of the throat,,False,,,0,,0,0,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+category,MD36.0,- - - - Pain in throat,,True,,,0,,0,0,R07.0,XVIII,Pain in throat
+category,MD36.Y,- - - - Other specified symptom or complaint of the throat,,True,,,0,,0,0,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+category,MD36.Z,"- - - - Symptom or complaint of the throat, unspecified",,True,,,0,,0,0,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+category,MD3Y,- - - Other specified symptoms or signs involving the respiratory system,,True,,,0,,0,0,R09,XVIII,Other symptoms and signs involving the circulatory and respiratory systems
+,,,,,,,,,,,,,
+chapter,BA00-BE2Z,Diseases of the circulatory system,,False,D018376,Cardiovascular Abnormalities,26,Cardiovascular disease,36,1,,,
+block,,- Hypertensive diseases,,False,,,0,,,,I10-I15,IX,Hypertensive diseases
+category,BA00,- - Essential hypertension,,False,D006973,Hypertension,,,,,I10,IX,Essential (primary) hypertension
+category,BA00.0,- - - Combined diastolic and systolic hypertension,,True,,,0,,,,I10,IX,Essential (primary) hypertension
+category,BA00.1,- - - Isolated diastolic hypertension,,True,,,0,,,,I10,IX,Essential (primary) hypertension
+category,BA00.2,- - - Isolated systolic hypertension,,True,,,0,,,,I10,IX,Essential (primary) hypertension
+category,BA00.Y,- - - Other specified essential hypertension,,True,,,0,,,,I10,IX,Essential (primary) hypertension
+category,BA00.Z,"- - - Essential hypertension, unspecified",,True,,,0,,,,I10,IX,Essential (primary) hypertension
+category,BA01,- - Hypertensive heart disease,,True,,,0,,,,I11,IX,Hypertensive heart disease
+category,BA02,- - Hypertensive renal disease,,True,D009400,Nephrosclerosis,,,,,I12,IX,Hypertensive renal disease
+category,BA03,- - Hypertensive crisis,,True,,,0,,,,I10-I15,IX,Hypertensive diseases
+category,BA04,- - Secondary hypertension,,False,,,0,,,,I15,IX,Secondary hypertension
+category,BA04.0,- - - Combined diastolic and systolic secondary hypertension,,True,,,0,,,,I15,IX,Secondary hypertension
+category,BA04.1,- - - Isolated diastolic secondary hypertension,,True,,,0,,,,I15,IX,Secondary hypertension
+category,BA04.2,- - - Isolated systolic secondary hypertension,,True,,,0,,,,I15,IX,Secondary hypertension
+category,BA04.Y,- - - Other specified secondary hypertension,,True,,,0,,,,I15.8,IX,Other secondary hypertension
+category,BA04.Z,"- - - Secondary hypertension, unspecified",,True,,,0,,,,I15,IX,Secondary hypertension
+block,,- Hypotension,,False,D007022,Hypotension,,,,,I95,IX,Hypotension
+category,BA20,- - Idiopathic hypotension,,True,,,0,,,,I95.0,IX,Idiopathic hypotension
+category,BA21,- - Orthostatic hypotension,,True,D007024,"Hypotension, Orthostatic",0,,,,I95.1,IX,Orthostatic hypotension
+category,BA2Y,- - Other specified hypotension,,True,,,0,,,,I95.8,IX,Other hypotension
+category,BA2Z,"- - Hypotension, unspecified",,True,,,0,,,,I95,IX,Hypotension
+block,,- Ischaemic heart diseases,,False,D017202,Myocardial Ischemia,,,,,I20-I25,IX,Ischaemic heart diseases
+block,,- - Acute ischaemic heart disease,,False,,,0,,,,I20-I25,IX,Ischaemic heart diseases
+category,BA40,- - - Angina pectoris,,False,D000787,Angina Pectoris,,,,,I20,IX,Angina pectoris
+category,BA40.0,- - - - Unstable angina,,True,D000789,"Angina, Unstable",,,,,I20.0,IX,Unstable angina
+category,BA40.1,- - - - Stable angina,,True,,,0,,,,I20,IX,Angina pectoris
+category,BA40.Y,- - - - Other specified angina pectoris,,True,,,0,,,,I20.8,IX,Other forms of angina pectoris
+category,BA40.Z,"- - - - Angina pectoris, unspecified",,True,,,0,,,,I20,IX,Angina pectoris
+category,BA41,- - - Acute myocardial infarction,,False,D009203,Myocardial Infarction,,,,,I21,IX,Acute myocardial infarction
+category,BA41.0,- - - - Acute ST elevation myocardial infarction,,True,,,0,,,,I21,IX,Acute myocardial infarction
+category,BA41.1,- - - - Acute non-ST elevation myocardial infarction,,True,,,0,,,,I21.4,IX,Acute subendocardial myocardial infarction
+category,BA41.Z,"- - - - Acute myocardial infarction, unspecified",,True,,,0,,,,I21,IX,Acute myocardial infarction
+category,BA42,- - - Subsequent myocardial infarction,,False,,,0,,,,I22,IX,Subsequent myocardial infarction
+category,BA42.0,"- - - - Subsequent myocardial infarction, STEMI",,True,,,0,,,,I22,IX,Subsequent myocardial infarction
+category,BA42.1,"- - - - Subsequent myocardial infarction, NSTEMI",,True,,,0,,,,I22,IX,Subsequent myocardial infarction
+category,BA42.Z,"- - - - Subsequent myocardial infarction, unspecified",,True,,,0,,,,I22,IX,Subsequent myocardial infarction
+category,BA43,- - - Coronary thrombosis not resulting in myocardial infarction,,True,,,0,,,,I24.0,IX,Coronary thrombosis not resulting in myocardial infarction
+category,BA4Z,"- - - Acute ischaemic heart disease, unspecified",,True,,,0,,,,I20-I25,IX,Ischaemic heart diseases
+block,,- - Chronic ischaemic heart disease,,False,,,0,,,,I25,IX,Chronic ischaemic heart disease
+category,BA50,- - - Old myocardial infarction,,True,,,0,,,,I25.2,IX,Old myocardial infarction
+category,BA51,- - - Ischaemic cardiomyopathy,,False,,,0,,,,I25.5,IX,Ischaemic cardiomyopathy
+category,BA51.0,- - - - Dilated cardiomyopathy due to congenital anomaly of coronary artery,,True,,,0,,,,I25.5,IX,Ischaemic cardiomyopathy
+category,BA51.Y,- - - - Other specified ischaemic cardiomyopathy,,True,,,0,,,,I25.5,IX,Ischaemic cardiomyopathy
+category,BA51.Z,"- - - - Ischaemic cardiomyopathy, unspecified",,True,,,0,,,,I25.5,IX,Ischaemic cardiomyopathy
+category,BA52,- - - Coronary atherosclerosis,,False,D003324,Coronary Artery Disease,,,,,I25.1,IX,Atherosclerotic heart disease
+category,BA52.0,- - - - Coronary atherosclerosis of native coronary artery,,True,,,0,,,,I25.1,IX,Atherosclerotic heart disease
+category,BA52.1,- - - - Coronary atherosclerosis of autologous bypass graft,,False,,,0,,,,I25.1,IX,Atherosclerotic heart disease
+category,BA52.10,- - - - - Coronary atherosclerosis of arterial autologous bypass graft,,True,,,0,,,,I25.1,IX,Atherosclerotic heart disease
+category,BA52.11,- - - - - Coronary atherosclerosis of venous autologous bypass graft,,True,,,0,,,,I25.1,IX,Atherosclerotic heart disease
+category,BA52.1Z,- - - - - Coronary atherosclerosis of unspecified autologous bypass graft,,True,,,0,,,,I25.1,IX,Atherosclerotic heart disease
+category,BA52.2,- - - - Coronary atherosclerosis of non-autologous bypass graft,,True,,,0,,,,I25.1,IX,Atherosclerotic heart disease
+category,BA52.Z,"- - - - Coronary atherosclerosis, unspecified site",,True,,,0,,,,I25.1,IX,Atherosclerotic heart disease
+category,BA5Y,- - - Other specified chronic ischaemic heart disease,,True,,,0,,,,I25.8,IX,Other forms of chronic ischaemic heart disease
+category,BA5Z,"- - - Chronic ischaemic heart disease, unspecified",,True,,,0,,,,I25,IX,Chronic ischaemic heart disease
+category,BA60,- - Certain current complications following acute myocardial infarction,,False,,,0,,,,I23,IX,Certain current complications following acute myocardial infarction
+category,BA60.0,- - - Dressler syndrome,,True,,,0,,,,I24.1,IX,Dressler syndrome
+category,BA60.1,- - - Other pericarditis as current complication following acute myocardial infarction,,True,,,0,,,,I23,IX,Certain current complications following acute myocardial infarction
+category,BA60.2,- - - Ventricular aneurysm as current complication following acute myocardial infarction,,True,,,0,,,,I23,IX,Certain current complications following acute myocardial infarction
+category,BA60.3,- - - Ventricular septal defect as current complication following acute myocardial infarction,,True,,,0,,,,I23.2,IX,Ventricular septal defect as current complication following acute myocardial infarction
+category,BA60.4,- - - Cardiac rupture as current complication following acute myocardial infarction,,True,,,0,,,,I23.3,IX,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction
+category,BA60.5,- - - Pulmonary embolism as current complication following acute myocardial infarction,,True,,,0,,,,I23,IX,Certain current complications following acute myocardial infarction
+category,BA60.6,- - - Rupture of papillary muscle or chordae tendineae as current complication following acute myocardial infarction,,True,,,0,,,,I23.4,IX,Rupture of chordae tendineae as current complication following acute myocardial infarction
+category,BA60.7,- - - Mural thrombus as current complication following acute myocardial infarction,,True,,,0,,,,I23.6,IX,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction"
+category,BA60.8,- - - Arrhythmia as current complication following acute myocardial infarction,,True,,,0,,,,I23,IX,Certain current complications following acute myocardial infarction
+category,BA60.9,"- - - Cardiogenic shock, unrelated to mechanical complications, as current complication following acute myocardial infarction",,True,,,0,,,,I23,IX,Certain current complications following acute myocardial infarction
+category,BA60.Y,- - - Other specified current complications following acute myocardial infarction,,True,,,0,,,,I23.8,IX,Other current complications following acute myocardial infarction
+category,BA60.Z,"- - - Certain current complications following acute myocardial infarction, unspecified",,True,,,0,,,,I23,IX,Certain current complications following acute myocardial infarction
+category,BA6Z,"- - Ischaemic heart diseases, unspecified",,True,,,0,,,,I20-I25,IX,Ischaemic heart diseases
+block,,- Diseases of coronary artery,,False,D003327,Coronary Disease,,,,,IX,IX,Diseases of the circulatory system
+category,BA81,- - Coronary artery aneurysm,,False,D003323,Coronary Aneurysm,,,,,I25.4,IX,Coronary artery aneurysm and dissection
+category,BA81.0,- - - Coronary artery aneurysm with perforation,,True,,,0,,,,I25.4,IX,Coronary artery aneurysm and dissection
+category,BA81.1,- - - Coronary artery aneurysm with rupture,,True,,,0,,,,I25.4,IX,Coronary artery aneurysm and dissection
+category,BA81.2,- - - Coronary artery aneurysm without mention of perforation or rupture,,True,,,0,,,,I25.4,IX,Coronary artery aneurysm and dissection
+category,BA82,- - Coronary artery dissection,,True,,,0,,,,I25.4,IX,Coronary artery aneurysm and dissection
+category,BA83,"- - Coronary artery fistula, acquired",,True,,,0,,,,IX,IX,Diseases of the circulatory system
+category,BA84,- - Chronic total occlusion of coronary artery,,True,D054059,Coronary Occlusion,,,,,IX,IX,Diseases of the circulatory system
+category,BA85,- - Coronary vasospastic disease,,False,D003329,Coronary Vasospasm,0,,,,IX,IX,Diseases of the circulatory system
+category,BA85.0,- - - Silent coronary vasospastic disease,,True,,,0,,,,IX,IX,Diseases of the circulatory system
+category,BA85.Y,- - - Other specified coronary vasospastic disease,,True,,,0,,,,IX,IX,Diseases of the circulatory system
+category,BA85.Z,"- - - Coronary vasospastic disease, unspecified",,True,,,0,,,,IX,IX,Diseases of the circulatory system
+category,BA86,- - Coronary microvascular disease,,True,,,0,,,,IX,IX,Diseases of the circulatory system
+category,BA8Y,- - Other specified diseases of coronary artery,,True,,,0,,,,IX,IX,Diseases of the circulatory system
+category,BA8Z,"- - Diseases of coronary artery, unspecified",,True,,,0,,,,IX,IX,Diseases of the circulatory system
+block,BB00-BB0Z,- Pulmonary heart disease or diseases of pulmonary circulation,,False,,,0,,0,1,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB00,- - Pulmonary thromboembolism,,False,D011655,Pulmonary embolism,105,Pulmonary embolism,4,0,I26,IX,Pulmonary embolism
+category,BB00.0,- - - Acute pulmonary thromboembolism,,True,,,0,,0,0,I26,IX,Pulmonary embolism
+category,BB00.1,- - - Chronic pulmonary thromboembolism,,True,,,0,,0,0,I26,IX,Pulmonary embolism
+category,BB00.Z,"- - - Pulmonary thromboembolism, unspecified",,True,,,0,,0,0,I26,IX,Pulmonary embolism
+category,BB01,- - Pulmonary hypertension,,False,D006976,"Hypertension, Pulmonary",88,Pulmonary hypertension,3,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB01.0,- - - Pulmonary arterial hypertension,BB01,True,D006976,"Hypertension, Pulmonary",0,Pulmonary arterial hypertension,6,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB01.1,- - - Pulmonary hypertension due to left heart disease,,True,,,0,,0,0,I27.2,IX,Other secondary pulmonary hypertension
+category,BB01.2,- - - Pulmonary hypertension due to lung disease or hypoxia,,True,,,0,,0,0,I27.2,IX,Other secondary pulmonary hypertension
+category,BB01.3,- - - Chronic thromboembolic pulmonary hypertension,,True,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB01.4,- - - Pulmonary hypertension with multifactorial mechanism,,True,,,0,,0,0,I27.2,IX,Other secondary pulmonary hypertension
+category,BB01.5,- - - Cor pulmonale,,True,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB01.Z,"- - - Pulmonary hypertension, unspecified",,True,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB02,- - Certain specified diseases of pulmonary vessels,,False,,,0,,0,0,I28,IX,Other diseases of pulmonary vessels
+category,BB02.0,- - - Arteriovenous fistula of pulmonary vessels,,True,,,0,,0,0,I28.0,IX,Arteriovenous fistula of pulmonary vessels
+category,BB02.1,- - - Aneurysm of pulmonary artery,,False,,,0,,0,0,I28.1,IX,Aneurysm of pulmonary artery
+category,BB02.10,- - - - Aneurysm of pulmonary artery with perforation,,True,,,0,,0,0,I28.1,IX,Aneurysm of pulmonary artery
+category,BB02.11,- - - - Aneurysm of pulmonary artery with rupture,,True,,,0,,0,0,I28.1,IX,Aneurysm of pulmonary artery
+category,BB02.12,- - - - Aneurysm of pulmonary artery without mention of perforation or rupture,,True,,,0,,0,0,I28.1,IX,Aneurysm of pulmonary artery
+category,BB02.1Y,- - - - Other specified aneurysm of pulmonary artery,,True,,,0,,0,0,I28.1,IX,Aneurysm of pulmonary artery
+category,BB02.1Z,"- - - - Aneurysm of pulmonary artery, unspecified",,True,,,0,,0,0,I28.1,IX,Aneurysm of pulmonary artery
+category,BB02.2,- - - Rupture of pulmonary vessels,,True,,,0,,0,0,I28,IX,Other diseases of pulmonary vessels
+category,BB02.3,- - - Acquired pulmonary arterial tree abnormality,,True,,,0,,0,0,I28,IX,Other diseases of pulmonary vessels
+category,BB03,- - Acquired pulmonary venous abnormality,,False,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB03.0,- - - Acquired pulmonary venous obstruction,,True,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB03.Y,- - - Other specified acquired pulmonary venous abnormality,,True,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB03.Z,"- - - Acquired pulmonary venous abnormality, unspecified",,True,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB0Y,- - Other specified pulmonary heart disease or diseases of pulmonary circulation,,True,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+category,BB0Z,"- - Pulmonary heart disease or diseases of pulmonary circulation, unspecified",,True,,,0,,0,0,I26-I28,IX,Pulmonary heart disease and diseases of pulmonary circulation
+block,BB20-BB2Z,- Pericarditis,,False,D010493,Pericarditis,,,,,I31.9,IX,"Disease of pericardium, unspecified"
+category,BB20,- - Acute pericarditis,,False,,,,,,,I30,IX,Acute pericarditis
+category,BB20.0,- - - Infectious pericarditis,,True,,,,,,,I30.1,IX,Infective pericarditis
+category,BB20.1,- - - Neoplastic pericarditis,,True,,,,,,,I30,IX,Acute pericarditis
+category,BB20.2,- - - Myopericarditis,,True,,,,,,,I30,IX,Acute pericarditis
+category,BB20.Y,- - - Other specified acute pericarditis,,True,,,,,,,I30.8,IX,Other forms of acute pericarditis
+category,BB20.Z,"- - - Acute pericarditis, unspecified",,True,,,,,,,I30,IX,Acute pericarditis
+category,BB21,- - Chronic rheumatic pericarditis,,True,,,,,,,I09.2,IX,Chronic rheumatic pericarditis
+category,BB22,- - Constrictive pericarditis,,True,D010494,"Pericarditis, Constrictive",,,,,I31.1,IX,Chronic constrictive pericarditis
+category,BB23,- - Cardiac tamponade,,True,D002305,Cardiac Tamponade,,,,,I31,IX,Other diseases of pericardium
+category,BB24,- - Haemopericardium,,True,,,,,,,I31.2,IX,"Haemopericardium, not elsewhere classified"
+category,BB25,- - Pericardial effusion,,True,D010490,Pericardial Effusion,,,,,I31.3,IX,Pericardial effusion (noninflammatory)
+category,BB2Y,- - Other specified pericarditis,,True,,,,,,,I31.9,IX,"Disease of pericardium, unspecified"
+category,BB2Z,"- - Pericarditis, unspecified",,True,,,,,,,I31.9,IX,"Disease of pericardium, unspecified"
+block,BB40-BB4Z,- Acute or subacute endocarditis,,False,D004696,Endocarditis,,,,,I33,IX,Acute and subacute endocarditis
+category,BB40,- - Acute or subacute infectious endocarditis,,True,,,,,,,I33.0,IX,Acute and subacute infective endocarditis
+category,BB41,- - Myoendocarditis,,True,,,,,,,I33.9,IX,"Acute endocarditis, unspecified"
+category,BB42,- - Periendocarditis,,True,,,,,,,I33.9,IX,"Acute endocarditis, unspecified"
+category,BB4Y,- - Other specified acute or subacute endocarditis,,True,,,,,,,I33,IX,Acute and subacute endocarditis
+category,BB4Z,"- - Acute or subacute endocarditis, unspecified",,True,,,,,,,I33,IX,Acute and subacute endocarditis
+block,BB60-BC0Z,- Heart valve diseases,,False,D006349,Heart Valve Diseases,,,,,IX,IX,Diseases of the circulatory system
+block,BB60-BB6Z,- - Mitral valve disease,,False,,,,,,,I39.0,IX,Mitral valve disorders in diseases classified elsewhere
+category,BB60,- - - Mitral valve stenosis,,False,D008946,Mitral Valve Stenosis,,,,,I39.0,IX,Mitral valve disorders in diseases classified elsewhere
+category,BB60.0,- - - - Rheumatic mitral valve stenosis,,True,,,,,,,I05.0,IX,Mitral stenosis
+category,BB60.1,- - - - Nonrheumatic mitral valve stenosis,,True,,,,,,,I34.2,IX,Nonrheumatic mitral (valve) stenosis
+category,BB60.Z,"- - - - Mitral valve stenosis, unspecified",,True,,,,,,,I39.0,IX,Mitral valve disorders in diseases classified elsewhere
+category,BB61,- - - Mitral valve insufficiency,,False,D008944,Mitral Valve Insufficiency,,,,,I34.0,IX,Mitral (valve) insufficiency
+category,BB61.0,- - - - Rheumatic mitral valve insufficiency,,True,,,,,,,I05.1,IX,Rheumatic mitral insufficiency
+category,BB61.Y,- - - - Other specified mitral valve insufficiency,,True,,,,,,,I34.0,IX,Mitral (valve) insufficiency
+category,BB61.Z,"- - - - Mitral valve insufficiency, unspecified",,True,,,,,,,I34.0,IX,Mitral (valve) insufficiency
+category,BB62,- - - Mitral valve prolapse,,False,D008944,Mitral Valve Insufficiency,,,,,I34.1,IX,Mitral (valve) prolapse
+category,BB62.0,- - - - Rheumatic mitral valve prolapse,,True,,,,,,,I34.1,IX,Mitral (valve) prolapse
+category,BB62.1,- - - - Degenerative mitral valve prolapse,,True,,,,,,,I34.1,IX,Mitral (valve) prolapse
+category,BB62.Y,- - - - Other specified nonrheumatic mitral valve prolapse,,True,,,,,,,I34.1,IX,Mitral (valve) prolapse
+category,BB62.Z,"- - - - Mitral valve prolapse, unspecified",,True,,,,,,,I34.1,IX,Mitral (valve) prolapse
+category,BB63,- - - Mitral valve stenosis with insufficiency,,False,,,,,,,I39.0,IX,Mitral valve disorders in diseases classified elsewhere
+category,BB63.0,- - - - Rheumatic mitral stenosis with insufficiency,,True,,,,,,,I05.2,IX,Mitral stenosis with insufficiency
+category,BB63.1,- - - - Nonrheumatic mitral stenosis with insufficiency,,True,,,,,,,I39.0,IX,Mitral valve disorders in diseases classified elsewhere
+category,BB63.Z,"- - - - Mitral valve stenosis with insufficiency, unspecified",,True,,,,,,,I39.0,IX,Mitral valve disorders in diseases classified elsewhere
+category,BB64,- - - Mitral valvar abscess,,True,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BB65,- - - Mitral valve rupture,,True,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BB6Y,- - - Other specified mitral valve disease,,True,,,,,,,I39.0,IX,Mitral valve disorders in diseases classified elsewhere
+category,BB6Z,"- - - Mitral valve disease, unspecified",,True,,,,,,,I39.0,IX,Mitral valve disorders in diseases classified elsewhere
+block,BB70-BB7Z,- - Aortic valve disease,,False,,,,,,,I39.1,IX,Aortic valve disorders in diseases classified elsewhere
+category,BB70,- - - Aortic valve stenosis,,False,D001024,Aortic Valve Stenosis,,,,,I35.0,IX,Aortic (valve) stenosis
+category,BB70.0,- - - - Rheumatic aortic valve stenosis,,True,,,,,,,I06.0,IX,Rheumatic aortic stenosis
+category,BB70.1,- - - - Nonrheumatic aortic valve stenosis,,True,,,,,,,I35.0,IX,Aortic (valve) stenosis
+category,BB70.Y,- - - - Other specified aortic valve stenosis,,True,,,,,,,I35.0,IX,Aortic (valve) stenosis
+category,BB70.Z,"- - - - Aortic valve stenosis, unspecified",,True,,,,,,,I35.0,IX,Aortic (valve) stenosis
+category,BB71,- - - Aortic valve insufficiency,,False,D001022,Aortic Valve Insufficiency,,,,,I35.1,IX,Aortic (valve) insufficiency
+category,BB71.0,- - - - Rheumatic aortic valve insufficiency,,True,,,,,,,I06.1,IX,Rheumatic aortic insufficiency
+category,BB71.Y,- - - - Other specified nonrheumatic aortic valve insufficiency,,True,,,,,,,I35.1,IX,Aortic (valve) insufficiency
+category,BB71.Z,"- - - - Aortic valve insufficiency, unspecified",,True,,,,,,,I35.1,IX,Aortic (valve) insufficiency
+category,BB72,- - - Aortic valve stenosis with insufficiency,,False,,,,,,,I35.2,IX,Aortic (valve) stenosis with insufficiency
+category,BB72.0,- - - - Rheumatic aortic stenosis with insufficiency,,True,,,,,,,I06.2,IX,Rheumatic aortic stenosis with insufficiency
+category,BB72.1,- - - - Nonrheumatic aortic valve stenosis with insufficiency,,True,,,,,,,I35.2,IX,Aortic (valve) stenosis with insufficiency
+category,BB72.Z,"- - - - Aortic valve stenosis with insufficiency, unspecified",,True,,,,,,,I35.2,IX,Aortic (valve) stenosis with insufficiency
+category,BB73,- - - Aortic valvar abscess,,True,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BB74,- - - Aortic valvar prolapse,,True,D001023,Aortic Valve Prolapse,,,,,I35.8,IX,Other aortic valve disorders
+category,BB7Y,- - - Other specified aortic valve disease,,True,,,,,,,I39.1,IX,Aortic valve disorders in diseases classified elsewhere
+category,BB7Z,"- - - Aortic valve disease, unspecified",,True,,,,,,,I39.1,IX,Aortic valve disorders in diseases classified elsewhere
+block,BB80-BB8Z,- - Tricuspid valve disease,,False,,,,,,,I39.2,IX,Tricuspid valve disorders in diseases classified elsewhere
+category,BB80,- - - Tricuspid valve stenosis,,False,D014264,Tricuspid Valve Stenosis,,,,,I36.0,IX,Nonrheumatic tricuspid (valve) stenosis
+category,BB80.0,- - - - Rheumatic tricuspid valve stenosis,,True,,,,,,,I07.0,IX,Tricuspid stenosis
+category,BB80.Y,- - - - Other specified nonrheumatic tricuspid valve stenosis,,True,,,,,,,I36.0,IX,Nonrheumatic tricuspid (valve) stenosis
+category,BB80.Z,"- - - - Tricuspid valve stenosis, unspecified",,True,,,,,,,I36.0,IX,Nonrheumatic tricuspid (valve) stenosis
+category,BB81,- - - Tricuspid valve insufficiency,,False,D014262,Tricuspid Valve Insufficiency,,,,,I36.1,IX,Nonrheumatic tricuspid (valve) insufficiency
+category,BB81.0,- - - - Rheumatic tricuspid valve insufficiency,,True,,,,,,,I07.1,IX,Tricuspid insufficiency
+category,BB81.Y,- - - - Other specified nonrheumatic tricuspid valve insufficiency,,True,,,,,,,I36.1,IX,Nonrheumatic tricuspid (valve) insufficiency
+category,BB81.Z,"- - - - Tricuspid valve insufficiency, unspecified",,True,,,,,,,I36.1,IX,Nonrheumatic tricuspid (valve) insufficiency
+category,BB82,- - - Tricuspid valve stenosis with insufficiency,,False,,,,,,,I36.2,IX,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+category,BB82.0,- - - - Rheumatic tricuspid valve stenosis with insufficiency,,True,,,,,,,I07.2,IX,Tricuspid stenosis with insufficiency
+category,BB82.Y,- - - - Other specified nonrheumatic tricuspid valve stenosis with insufficiency,,True,,,,,,,I36.2,IX,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+category,BB82.Z,"- - - - Tricuspid valve stenosis with insufficiency, unspecified",,True,,,,,,,I36.2,IX,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+category,BB83,- - - Tricuspid valvular abscess,,True,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BB84,- - - Tricuspid valve rupture,,True,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BB8Y,- - - Other specified tricuspid valve disease,,True,D014263,Tricuspid Valve Prolapse,,,,,I39.2,IX,Tricuspid valve disorders in diseases classified elsewhere
+category,BB8Z,"- - - Tricuspid valve disease, unspecified",,True,,,,,,,I39.2,IX,Tricuspid valve disorders in diseases classified elsewhere
+block,BB90-BB9Z,- - Pulmonary valve disease,,False,,,,,,,I39.3,IX,Pulmonary valve disorders in diseases classified elsewhere
+category,BB90,- - - Pulmonary valve stenosis,,False,D011666,Pulmonary Valve Stenosis,,,,,I37.0,IX,Pulmonary valve stenosis
+category,BB90.0,- - - - Rheumatic pulmonary valve stenosis,,True,,,,,,,I37.0,IX,Pulmonary valve stenosis
+category,BB90.Y,- - - - Other specified nonrheumatic pulmonary valve stenosis,,True,,,,,,,I37.0,IX,Pulmonary valve stenosis
+category,BB90.Z,"- - - - Pulmonary valve stenosis, unspecified",,True,,,,,,,I37.0,IX,Pulmonary valve stenosis
+category,BB91,- - - Pulmonary valve insufficiency,,False,D011665,Pulmonary Valve Insufficiency,,,,,I37.1,IX,Pulmonary valve insufficiency
+category,BB91.0,- - - - Rheumatic pulmonary valve insufficiency,,True,,,,,,,I37.1,IX,Pulmonary valve insufficiency
+category,BB91.Y,- - - - Other specified nonrheumatic pulmonary valve insufficiency,,True,,,,,,,I37.1,IX,Pulmonary valve insufficiency
+category,BB91.Z,"- - - - Pulmonary valve insufficiency, unspecified",,True,,,,,,,I37.1,IX,Pulmonary valve insufficiency
+category,BB92,- - - Pulmonary valve stenosis with insufficiency,,False,,,,,,,I37.2,IX,Pulmonary valve stenosis with insufficiency
+category,BB92.0,- - - - Rheumatic pulmonary valve stenosis with insufficiency,,True,,,,,,,I37.2,IX,Pulmonary valve stenosis with insufficiency
+category,BB92.1,- - - - Nonrheumatic pulmonary valve stenosis with insufficiency,,True,,,,,,,I37.2,IX,Pulmonary valve stenosis with insufficiency
+category,BB92.Z,"- - - - Pulmonary valve stenosis with insufficiency, unspecified",,True,,,,,,,I37.2,IX,Pulmonary valve stenosis with insufficiency
+category,BB93,- - - Pulmonary valvar abscess,,True,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BB9Y,- - - Other specified pulmonary valve disease,,True,,,,,,,I39.3,IX,Pulmonary valve disorders in diseases classified elsewhere
+category,BB9Z,"- - - Pulmonary valve disease, unspecified",,True,,,,,,,I39.3,IX,Pulmonary valve disorders in diseases classified elsewhere
+category,BC00,- - Multiple valve disease,,True,,,,,,,I39.4,IX,Multiple valve disorders in diseases classified elsewhere
+category,BC01,- - Prosthetic valve disease,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02,- - Acquired abnormality of congenitally malformed valve,,False,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.0,- - - Acquired common atrioventricular valvar abnormality in biventricular connections,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.1,- - - Acquired truncal valvar abnormality,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.2,- - - Acquired common atrioventricular valvar abnormality in double inlet ventricle,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.3,- - - Acquired abnormality of neoaortic valve of pulmonary origin,,False,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.30,- - - - Stenosis of the neoaortic valve of pulmonary origin,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.31,- - - - Insufficiency of the neoaortic valve of pulmonary origin,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.3Y,- - - - Other specified acquired abnormality of neoaortic valve of pulmonary origin,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.3Z,"- - - - Acquired abnormality of neoaortic valve of pulmonary origin, unspecified",,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.4,- - - Acquired abnormality of the neoaortic valve of truncal origin,,False,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.40,- - - - Acquired stenosis of the neoaortic valve of truncal origin,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.41,- - - - Acquired regurgitation of the neoaortic valve of truncal origin,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.4Y,- - - - Other specified acquired abnormality of the neoaortic valve of truncal origin,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.4Z,"- - - - Acquired abnormality of the neoaortic valve of truncal origin, unspecified",,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.Y,- - - Other specified acquired abnormality of congenitally malformed valve,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC02.Z,"- - - Acquired abnormality of congenitally malformed valve, unspecified",,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC0Z,"- - Heart valve diseases, unspecified",,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC20,"- Chronic rheumatic heart diseases, not elsewhere classified",,False,,,,,,,I09,IX,Other rheumatic heart diseases
+category,BC20.0,"- - Rheumatic diseases of endocardium, valve unspecified",,True,,,,,,,I09.1,IX,"Rheumatic diseases of endocardium, valve unspecified"
+category,BC20.1,"- - Rheumatic heart disease, unspecified",,True,D012214,Rheumatic Heart Disease,,,,,I09.9,IX,"Rheumatic heart disease, unspecified"
+category,BC20.Y,- - Other specified chronic rheumatic heart disease,,True,,,,,,,I09.8,IX,Other specified rheumatic heart diseases
+category,BC20.Z,"- - Chronic rheumatic heart disease, unspecified",,True,,,,,,,I09,IX,Other rheumatic heart diseases
+block,BC40-BC4Z,- Diseases of the myocardium or cardiac chambers,,False,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC40,- - Acquired atrial abnormality,,False,,,,,,,I99,IX,Other and unspecified disorders of circulatory system
+category,BC40.0,- - - Acquired interatrial communication,,True,,,,,,,I23.1,IX,Atrial septal defect as current complication following acute myocardial infarction
+category,BC40.Y,- - - Other specified acquired atrial abnormality,,True,D006344,"Heart Septal Defects, Atrial",,,,,I99,IX,Other and unspecified disorders of circulatory system
+category,BC40.Z,"- - - Acquired atrial abnormality, unspecified",,True,,,,,,,I99,IX,Other and unspecified disorders of circulatory system
+category,BC41,- - Acquired ventricular abnormality,,False,,,,,,,I99,IX,Other and unspecified disorders of circulatory system
+category,BC41.0,- - - Acquired interventricular communication,,True,,,,,,,I51.0,IX,"Cardiac septal defect, acquired"
+category,BC41.Y,- - - Other specified acquired ventricular abnormality,,True,D006345,"Heart Septal Defects, Ventricular",,,,,I99,IX,Other and unspecified disorders of circulatory system
+category,BC41.Z,"- - - Acquired ventricular abnormality, unspecified",,True,,,,,,,I99,IX,Other and unspecified disorders of circulatory system
+category,BC42,- - Myocarditis,,False,D009205,Myocarditis,,,,,I51.4,IX,"Myocarditis, unspecified"
+category,BC42.0,- - - Giant cell myocarditis,,True,,,,,,,I40.8,IX,Other acute myocarditis
+category,BC42.1,- - - Infectious myocarditis,,True,,,,,,,I40.0,IX,Infective myocarditis
+category,BC42.2,- - - Hypersensitivity myocarditis,,True,,,,,,,I40.8,IX,Other acute myocarditis
+category,BC42.3,- - - Rheumatic myocarditis,,True,,,,,,,I09.0,IX,Rheumatic myocarditis
+category,BC42.Y,- - - Other specific myocarditis,,True,,,,,,,I51.4,IX,"Myocarditis, unspecified"
+category,BC42.Z,"- - - Myocarditis, unspecified",,True,,,,,,,I51.4,IX,"Myocarditis, unspecified"
+category,BC43,- - Cardiomyopathy,,False,D009202,Cardiomyopathies,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.0,- - - Dilated cardiomyopathy,,False,D002311,"Cardiomyopathy, Dilated",,,,,I42.0,IX,Dilated cardiomyopathy
+category,BC43.00,- - - - Familial-genetic dilated cardiomyopathy,,True,,,,,,,I42.0,IX,Dilated cardiomyopathy
+category,BC43.01,- - - - Nonfamilial dilated cardiomyopathy,,True,,,,,,,I42.0,IX,Dilated cardiomyopathy
+category,BC43.0Z,"- - - - Dilated cardiomyopathy, unspecified",,True,,,,,,,I42.0,IX,Dilated cardiomyopathy
+category,BC43.1,- - - Hypertrophic cardiomyopathy,,False,D002312,"Cardiomyopathy, Hypertrophic",,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.10,- - - - Familial-genetic hypertrophic cardiomyopathy,,True,D024741,"Cardiomyopathy, Hypertrophic, Familial",,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.11,- - - - Non-obstructive hypertrophic cardiomyopathy,,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.12,- - - - Obstructive hypertrophic cardiomyopathy,,True,,,,,,,I42.1,IX,Obstructive hypertrophic cardiomyopathy
+category,BC43.1Y,- - - - Other specified hypertrophic cardiomyopathy,,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.1Z,"- - - - Hypertrophic cardiomyopathy, unspecified",,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.2,- - - Restrictive cardiomyopathy,,False,D002313,"Cardiomyopathy, Restrictive",,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.20,- - - - Nonfamilial restrictive cardiomyopathy,,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.2Y,- - - - Other specified restrictive cardiomyopathy,,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.2Z,"- - - - Restrictive cardiomyopathy, unspecified",,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.3,- - - Endocardial fibroelastosis,,True,D004695,Endocardial Fibroelastosis,,,,,I42.4,IX,Endocardial fibroelastosis
+category,BC43.4,- - - Cardiomyopathy due to drugs or other external agents,,True,,,,,,,I42.7,IX,Cardiomyopathy due to drugs and other external agents
+category,BC43.5,- - - Stress-induced cardiomyopathy,,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.6,- - - Arrhythmogenic ventricular cardiomyopathy,,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.7,- - - Diabetic cardiomyopathy,,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.Y,- - - Other specified cardiomyopathy,,True,D002310,"Cardiomyopathy, Alcoholic",,,,,I30-I52,IX,Other forms of heart disease
+category,BC43.Z,"- - - Cardiomyopathy, unspecified",,True,,,,,,,I30-I52,IX,Other forms of heart disease
+category,BC44,- - Noncompaction cardiomyopathy,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC45,- - Cardiomegaly,,True,D006332,Cardiomegaly,,,,,I51.7,IX,Cardiomegaly
+category,BC46,- - Intracardiac thrombosis,,True,,,,,,,I51.3,IX,"Intracardiac thrombosis, not elsewhere classified"
+category,BC4Y,- - Other specified diseases of the myocardium or cardiac chambers,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC4Z,"- - Diseases of the myocardium or cardiac chambers, unspecified",,True,,,,,,,IX,IX,Diseases of the circulatory system
+block,BC60-BC9Z,- Cardiac arrhythmia,,False,D001145,"Arrhythmias, Cardiac",,,,,IX,IX,Diseases of the circulatory system
+category,BC60,- - Atrial premature depolarization,,True,D018880,Atrial Premature Complexes,,,,,I49.1,IX,Atrial premature depolarization
+category,BC61,- - Junctional premature depolarization,,True,,,,,,,I49.2,IX,Junctional premature depolarization
+category,BC62,- - Accessory pathway,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC63,- - Conduction disorders,,False,,,,,,,I45.9,IX,"Conduction disorder, unspecified"
+category,BC63.0,"- - - Atrioventricular block, first degree",,True,,,,,,,I44.0,IX,"Atrioventricular block, first degree"
+category,BC63.1,"- - - Atrioventricular block, second degree",,False,,,,,,,I44.1,IX,"Atrioventricular block, second degree"
+category,BC63.10,- - - - High-grade second degree atrioventricular block,,True,,,,,,,I44.1,IX,"Atrioventricular block, second degree"
+category,BC63.1Y,"- - - - Other specified atrioventricular block, second degree",,True,,,,,,,I44.1,IX,"Atrioventricular block, second degree"
+category,BC63.1Z,"- - - - Atrioventricular block, second degree, unspecified",,True,,,,,,,I44.1,IX,"Atrioventricular block, second degree"
+category,BC63.2,- - - Complete atrioventricular block,,False,D054537,Atrioventricular Block,,,,,I44.2,IX,"Atrioventricular block, complete"
+category,BC63.20,- - - - Congenital complete atrioventricular block,,True,,,,,,,I44.2,IX,"Atrioventricular block, complete"
+category,BC63.21,- - - - Acquired complete atrioventricular block,,True,,,,,,,I44.2,IX,"Atrioventricular block, complete"
+category,BC63.2Z,"- - - - Complete atrioventricular block, unspecified",,True,,,,,,,I44.2,IX,"Atrioventricular block, complete"
+category,BC63.3,- - - Right bundle branch block,,True,D002037,Bundle-Branch Block,,,,,I45.1,IX,Other and unspecified right bundle-branch block
+category,BC63.4,- - - Left bundle branch block,,False,,,,,,,I44.7,IX,"Left bundle-branch block, unspecified"
+category,BC63.40,- - - - Left anterior fascicular block,,True,,,,,,,I44.4,IX,Left anterior fascicular block
+category,BC63.41,- - - - Left posterior fascicular block,,True,,,,,,,I44.5,IX,Left posterior fascicular block
+category,BC63.4Z,"- - - - Left bundle branch block, fascicle unspecified",,True,,,,,,,I44.7,IX,"Left bundle-branch block, unspecified"
+category,BC63.5,- - - Nonspecific intraventricular conduction delay,,True,,,,,,,I45.4,IX,Nonspecific intraventricular block
+category,BC63.Y,- - - Other specified conduction disorders,,True,,,,,,,I45.9,IX,"Conduction disorder, unspecified"
+category,BC63.Z,"- - - Conduction disorders, unspecified",,True,,,,,,,I45.9,IX,"Conduction disorder, unspecified"
+category,BC64,- - Sudden arrhythmic death syndrome,,True,,,,,,,I49.9,IX,"Cardiac arrhythmia, unspecified"
+category,BC65,- - Cardiac arrhythmia associated with genetic disorder,,False,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC65.0,- - - Long QT syndrome,,True,D008133,Long QT syndrome,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC65.1,- - - Brugada syndrome,,True,D053840,Brugada Syndrome,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC65.2,- - - Short QT syndrome,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC65.3,- - - Early repolarisation syndrome,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC65.4,- - - Idiopathic ventricular fibrillation,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC65.5,- - - Catecholaminergic polymorphic ventricular tachycardia,,True,,,,,,,I47.2,IX,Ventricular tachycardia
+category,BC65.Y,- - - Other specified cardiac arrhythmia associated with genetic disorder,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC65.Z,"- - - Cardiac arrhythmia associated with genetic disorder, unspecified",,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+block,BC70-BC7Z,- - Ventricular rhythm disturbance,,False,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC70,- - - Ventricular premature depolarization,,True,D018879,Ventricular Premature Complexes,,,,,I49.3,IX,Ventricular premature depolarization
+category,BC71,- - - Ventricular tachyarrhythmia,,False,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC71.0,- - - - Ventricular tachycardia,,False,D017180,"Tachycardia, Ventricular",,,,,I47.2,IX,Ventricular tachycardia
+category,BC71.00,- - - - - Right outflow tract ventricular tachycardia,,True,,,,,,,I47.2,IX,Ventricular tachycardia
+category,BC71.01,- - - - - Polymorphic ventricular tachycardia,,True,,,,,,,I47.2,IX,Ventricular tachycardia
+category,BC71.02,- - - - - Sustained ventricular tachycardia,,True,,,,,,,I47.2,IX,Ventricular tachycardia
+category,BC71.03,- - - - - Non-sustained ventricular tachycardia,,True,,,,,,,I47.2,IX,Ventricular tachycardia
+category,BC71.0Y,- - - - - Other specified ventricular tachycardia,,True,,,,,,,I47.2,IX,Ventricular tachycardia
+category,BC71.0Z,"- - - - - Ventricular tachycardia, unspecified",,True,,,,,,,I47.2,IX,Ventricular tachycardia
+category,BC71.1,- - - - Ventricular fibrillation,,True,D014693,Ventricular Fibrillation,,,,,I49.0,IX,Ventricular fibrillation and flutter
+category,BC71.2,- - - - Re-entry ventricular arrhythmia,,True,,,,,,,I47.0,IX,Re-entry ventricular arrhythmia
+category,BC71.Y,- - - - Other specified ventricular tachyarrhythmia,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC71.Z,"- - - - Ventricular tachyarrhythmia, unspecified",,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC7Y,- - - Other specified ventricular rhythm disturbance,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC7Z,"- - - Ventricular rhythm disturbance, unspecified",,True,,,,,,,IX,IX,Diseases of the circulatory system
+block,BC80-BC8Z,- - Supraventricular rhythm disturbance,,False,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC80,- - - Supraventricular bradyarrhythmia,,False,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC80.0,- - - - Sinus pause,,True,,,,,,,I45.5,IX,Other specified heart block
+category,BC80.1,- - - - Sinus bradycardia,,True,,,,,,,R00.1,XVIII,"Bradycardia, unspecified"
+category,BC80.2,- - - - Sinus node dysfunction,,False,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BC80.20,- - - - - Sick sinus syndrome,,True,,,,,,,I49.5,IX,Sick sinus syndrome
+category,BC80.21,- - - - - Sinoatrial block,,True,D012848,Sinoatrial Block,,,,,I45.5,IX,Other specified heart block
+category,BC80.2Y,- - - - - Other specified sinus node dysfunction,,True,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BC80.2Z,"- - - - - Sinus node dysfunction, unspecified",,True,,,,,,,I51.8,IX,Other ill-defined heart diseases
+category,BC80.Y,- - - - Other specified supraventricular bradyarrhythmia,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC80.Z,"- - - - Supraventricular bradyarrhythmia, unspecified",,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC81,- - - Supraventricular tachyarrhythmia,,False,D013617,"Tachycardia, Supraventricular",,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.0,- - - - Ectopic atrial tachycardia,,True,D013612,"Tachycardia, Ectopic Atrial",,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.1,- - - - Junctional ectopic tachycardia,,True,D013613,"Tachycardia, Ectopic Junctional",,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.2,- - - - Macro reentrant atrial tachycardia,,False,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.20,- - - - - Cavotricuspid isthmus dependent macroreentry tachycardia,,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.21,"- - - - - Non-scar, non-isthmus dependent macro reentrant atrial tachycardia",,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.22,- - - - - Scar mediated macro reentrant atrial tachycardia,,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.2Y,- - - - - Other specified macro reentrant atrial tachycardia,,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.2Z,"- - - - - Macro reentrant atrial tachycardia, unspecified",,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.3,- - - - Atrial fibrillation,,False,D001281,Atrial Fibrillation,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.30,- - - - - Paroxysmal atrial fibrillation,,True,,,,,,,I48.0,IX,Paroxysmal atrial fibrillation
+category,BC81.31,- - - - - Persistent atrial fibrillation,,True,,,,,,,I48.1,IX,Persistent atrial fibrillation
+category,BC81.32,- - - - - Permanent atrial fibrillation,,True,,,,,,,I48.2,IX,Chronic atrial fibrillation
+category,BC81.33,- - - - - Preexcited atrial fibrillation,,True,,,,,,,I48.9,IX,"Atrial fibrillation and atrial flutter, unspecified"
+category,BC81.3Y,- - - - - Other specified atrial fibrillation,,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.3Z,"- - - - - Atrial fibrillation, unspecified",,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.4,- - - - Wolff-Parkinson-White syndrome,,True,D014927,Wolff-Parkinson-White Syndrome,,,,,I45.6,IX,Pre-excitation syndrome
+category,BC81.5,- - - - Sinus node reentrant tachycardia,,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.6,- - - - Inappropriate sinus tachycardia,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC81.7,- - - - Atrioventricular reciprocating tachycardia,,False,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.70,"- - - - - Atrioventricular reciprocating tachycardia, orthodromic",,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.71,"- - - - - Atrioventricular reciprocating tachycardia, antidromic",,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.7Y,- - - - - Other specified atrioventricular reciprocating tachycardia,,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.7Z,"- - - - - Atrioventricular reciprocating tachycardia, unspecified",,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.8,- - - - Atrioventricular nodal reentry tachycardia,,True,D013611,"Tachycardia, Atrioventricular Nodal Reentry",,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.Y,- - - - Other specified supraventricular tachyarrhythmia,,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC81.Z,"- - - - Supraventricular tachyarrhythmia, unspecified",,True,,,,,,,I47.1,IX,Supraventricular tachycardia
+category,BC8Y,- - - Other specified supraventricular rhythm disturbance,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC8Z,"- - - Supraventricular rhythm disturbance, unspecified",,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC90,- - Rhythm disturbance at level of atrioventricular junction,,True,,,,,,,I49.8,IX,Other specified cardiac arrhythmias
+category,BC91,- - Pacemaker or implantable cardioverter defibrillator battery at end of battery life,,True,,,,,,,Z45.0,XXI,Adjustment and management of cardiac devices
+category,BC9Y,- - Other specified cardiac arrhythmia,,True,,,,,,,IX,IX,Diseases of the circulatory system
+category,BC9Z,"- - Cardiac arrhythmia, unspecified",,True,,,,,,,IX,IX,Diseases of the circulatory system
+block,BD10-BD1Z,- Heart failure,,False,D006333,Heart Failure,,,,,I50,IX,Heart failure
+category,BD10,- - Congestive heart failure,,True,,,,,,,I50.0,IX,Congestive heart failure
+category,BD11,- - Left ventricular failure,,False,,,,,,,I50.1,IX,Left ventricular failure
+category,BD11.0,- - - Left ventricular failure with preserved ejection fraction,,True,,,,,,,I50.1,IX,Left ventricular failure
+category,BD11.1,- - - Left ventricular failure with mid range ejection fraction,,True,,,,,,,I50.1,IX,Left ventricular failure
+category,BD11.2,- - - Left ventricular failure with reduced ejection fraction,,True,,,,,,,I50.1,IX,Left ventricular failure
+category,BD11.Z,"- - - Left ventricular failure, unspecified",,True,,,,,,,I50.1,IX,Left ventricular failure
+category,BD12,- - High output syndromes,,True,,,,,,,I50,IX,Heart failure
+category,BD13,- - Right ventricular failure,,True,,,,,,,I50,IX,Heart failure
+category,BD14,- - Biventricular failure,,True,,,,,,,I50,IX,Heart failure
+category,BD1Y,- - Other specified heart failure,,True,,,,,,,I50,IX,Heart failure
+category,BD1Z,"- - Heart failure, unspecified",,True,,,,,,,I50,IX,Heart failure
+block,BD30-BD5Z,- Diseases of arteries or arterioles,,False,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30,- - Acute arterial occlusion,,False,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.0,- - - Acute upper limb arterial occlusion,,False,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.00,- - - - Acute thromboembolic upper limb arterial occlusion,,True,,,,,,,I74.2,IX,Embolism and thrombosis of arteries of upper extremities
+category,BD30.01,- - - - Acute thrombotic upper limb arterial occlusion,,True,,,,,,,I74.2,IX,Embolism and thrombosis of arteries of upper extremities
+category,BD30.0Y,- - - - Other specified acute upper limb arterial occlusion,,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.0Z,"- - - - Acute upper limb arterial occlusion, unspecified",,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.1,- - - Acute aortoiliac occlusion,,False,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.10,- - - - Acute thromboembolic aortoiliac occlusion,,True,,,,,,,I74.0,IX,Embolism and thrombosis of abdominal aorta
+category,BD30.11,- - - - Acute thrombotic aortoiliac occlusion,,True,,,,,,,I74.1,IX,Embolism and thrombosis of other and unspecified parts of aorta
+category,BD30.1Y,- - - - Other specified acute aortoiliac occlusion,,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.1Z,"- - - - Acute aortoiliac occlusion, unspecified",,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.2,- - - Acute lower limb arterial occlusion,,False,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.20,- - - - Acute thromboembolic lower limb arterial occlusion,,True,,,,,,,I74.3,IX,Embolism and thrombosis of arteries of lower extremities
+category,BD30.21,- - - - Acute thrombotic lower limb arterial occlusion,,True,,,,,,,I74.3,IX,Embolism and thrombosis of arteries of lower extremities
+category,BD30.2Y,- - - - Other specified acute lower limb arterial occlusion,,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.2Z,"- - - - Acute lower limb arterial occlusion, unspecified",,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.Y,- - - Other specified acute arterial occlusion,,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD30.Z,"- - - Acute arterial occlusion, unspecified",,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+block,BD40-BD4Z,- - Chronic arterial occlusive disease,,False,D016491,Peripheral Vascular Diseases,,,,,I73.9,IX,"Peripheral vascular disease, unspecified"
+category,BD40,- - - Atherosclerotic chronic arterial occlusive disease,,False,D050197,Atherosclerosis,,,,,I70,IX,Atherosclerosis
+category,BD40.0,- - - - Lower limb atherosclerosis,,True,,,,,,,I70.2,IX,Atherosclerosis of arteries of extremities
+category,BD40.1,- - - - Atherosclerosis of aorta,,True,,,,,,,I70.0,IX,Atherosclerosis of aorta
+category,BD40.2,- - - - Atherosclerosis of renal artery,,True,,,,,,,I70.1,IX,Atherosclerosis of renal artery
+category,BD40.3,- - - - Aortic bifurcation syndrome,,True,,,,,,,I70,IX,Atherosclerosis
+category,BD40.Y,- - - - Other specified atherosclerotic chronic arterial occlusive disease,,True,,,,,,,I70.8,IX,Atherosclerosis of other arteries
+category,BD40.Z,"- - - - Atherosclerotic chronic arterial occlusive disease, unspecified",,True,,,,,,,I70,IX,Atherosclerosis
+category,BD41,- - - Non-atherosclerotic chronic arterial occlusive disease,,False,,,,,,,I73.9,IX,"Peripheral vascular disease, unspecified"
+category,BD41.0,- - - - Arterial fibromuscular dysplasia,,True,,,,,,,I77.3,IX,Arterial fibromuscular dysplasia
+category,BD41.Y,- - - - Other specified non-atherosclerotic chronic arterial occlusive disease,,True,,,,,,,I73.9,IX,"Peripheral vascular disease, unspecified"
+category,BD41.Z,"- - - - Non-atherosclerotic chronic arterial occlusive disease, unspecified",,True,,,,,,,I73.9,IX,"Peripheral vascular disease, unspecified"
+category,BD42,- - - Raynaud phenomenon,,False,,,,,,,I73.9,IX,"Peripheral vascular disease, unspecified"
+category,BD42.0,- - - - Primary Raynaud disease,,True,D011928,Raynaud Disease,,,,,I73.0,IX,Raynaud syndrome
+category,BD42.1,- - - - Secondary Raynaud phenomenon,,True,,,,,,,I73.0,IX,Raynaud syndrome
+category,BD42.Z,"- - - - Raynaud phenomenon, unspecified",,True,,,,,,,I73.9,IX,"Peripheral vascular disease, unspecified"
+category,BD4Y,- - - Other specified chronic arterial occlusive disease,,True,,,,,,,I73.9,IX,"Peripheral vascular disease, unspecified"
+category,BD4Z,"- - - Chronic arterial occlusive disease, unspecified",,True,,,,,,,I73.9,IX,"Peripheral vascular disease, unspecified"
+category,BD50,- - Aortic aneurysm or dissection,,False,D001014,Aortic Aneurysm,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.0,"- - - Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch",,False,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.00,"- - - - Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch with perforation",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.01,"- - - - Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch with rupture",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.02,"- - - - Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch without mention of perforation or rupture",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.0Y,"- - - - Other specified thoracic aortic dissection, ascending aorta dissection and propagation beyond arch",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.0Z,"- - - - Thoracic aortic dissection, ascending aorta dissection and propagation beyond arch, unspecified",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.1,- - - Ascending aorta dissection not beyond arch,,False,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.10,- - - - Ascending aorta dissection not beyond arch with perforation,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.11,- - - - Ascending aorta dissection not beyond arch with rupture,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.12,- - - - Ascending aorta dissection not beyond arch without mention of perforation or rupture,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.1Y,- - - - Other specified ascending aorta dissection not beyond arch,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.1Z,"- - - - Ascending aorta dissection not beyond arch, unspecified",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.2,- - - Descending aorta dissection and distal propagation,,False,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.20,- - - - Descending aorta dissection and distal propagation with perforation,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.21,- - - - Descending aorta dissection and distal propagation with rupture,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.22,- - - - Descending aorta dissection and distal propagation without mention of perforation or rupture,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.2Y,- - - - Other specified descending aorta dissection and distal propagation,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.2Z,"- - - - Descending aorta dissection and distal propagation, unspecified",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.3,- - - Thoracic aortic aneurysm,,False,D017545,"Aortic Aneurysm, Thoracic",,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.30,- - - - Thoracic aortic aneurysm with perforation,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.31,- - - - Thoracic aortic aneurysm with rupture,,True,,,,,,,I71.1,IX,"Thoracic aortic aneurysm, ruptured"
+category,BD50.32,- - - - Thoracic aortic aneurysm without mention of perforation or rupture,,True,,,,,,,I71.2,IX,"Thoracic aortic aneurysm, without mention of rupture"
+category,BD50.3Y,- - - - Other specified thoracic aortic aneurysm,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.3Z,"- - - - Thoracic aortic aneurysm, unspecified",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.4,- - - Abdominal aortic aneurysm,,False,D017544,"Aortic Aneurysm, Abdominal",,,,,I71.4,IX,"Abdominal aortic aneurysm, without mention of rupture"
+category,BD50.40,- - - - Abdominal aortic aneurysm with perforation,,True,,,,,,,I71.4,IX,"Abdominal aortic aneurysm, without mention of rupture"
+category,BD50.41,- - - - Abdominal aortic aneurysm with rupture,,True,,,,,,,I71.3,IX,"Abdominal aortic aneurysm, ruptured"
+category,BD50.4Y,- - - - Other specified abdominal aortic aneurysm,,True,,,,,,,I71.4,IX,"Abdominal aortic aneurysm, without mention of rupture"
+category,BD50.4Z,"- - - - Abdominal aortic aneurysm, unspecified",,True,,,,,,,I71.4,IX,"Abdominal aortic aneurysm, without mention of rupture"
+category,BD50.5,- - - Thoracoabdominal aortic aneurysm,,False,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.50,- - - - Thoracoabdominal aortic aneurysm with perforation,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.51,- - - - Thoracoabdominal aortic aneurysm with rupture,,True,,,,,,,I71.5,IX,"Thoracoabdominal aortic aneurysm, ruptured"
+category,BD50.52,- - - - Thoracoabdominal aortic aneurysm without mention of perforation or rupture,,True,,,,,,,I71.6,IX,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+category,BD50.5Y,- - - - Other specified thoracoabdominal aortic aneurysm,,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.5Z,"- - - - Thoracoabdominal aortic aneurysm, unspecified",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD50.Z,"- - - Aortic aneurysm or dissection, unspecified",,True,,,,,,,I71,IX,Aortic aneurysm and dissection
+category,BD51,"- - Arterial aneurysm or dissection, excluding aorta",,False,,,,,,,I72,IX,Other aneurysm and dissection
+category,BD51.0,- - - Aneurysm or dissection of carotid artery,,True,D020215,"Carotid Artery, Internal, Dissection",,,,,I72.0,IX,Aneurysm and dissection of carotid artery
+category,BD51.1,- - - Aneurysm or dissection of vertebral artery,,True,D020217,Vertebral Artery Dissection,,,,,I72.6,IX,Aneurysm and dissection of vertebral artery
+category,BD51.2,- - - Aneurysm or dissection of other precerebral arteries,,True,,,,,,,I72.5,IX,Aneurysm and dissection of other precerebral arteries
+category,BD51.3,- - - Aneurysm or dissection of artery of upper extremity,,True,,,,,,,I72.1,IX,Aneurysm and dissection of artery of upper extremity
+category,BD51.4,- - - Aneurysm or dissection of renal artery,,True,,,,,,,I72.2,IX,Aneurysm and dissection of renal artery
+category,BD51.5,- - - Aneurysm or dissection of iliac artery,,True,,,,,,,I72.3,IX,Aneurysm and dissection of iliac artery
+category,BD51.6,- - - Aneurysm or dissection of artery of lower extremity,,True,,,,,,,I72.4,IX,Aneurysm and dissection of artery of lower extremity
+category,BD51.Y,"- - - Aneurysm and dissection of other artery, excluding aorta",,True,,,,,,,I72.8,IX,Aneurysm and dissection of other specified arteries
+category,BD51.Z,- - - Aneurysm and dissection of unspecified artery,,True,,,,,,,I72,IX,Other aneurysm and dissection
+category,BD52,- - Certain specified disorders of arteries or arterioles,,False,,,,,,,I77,IX,Other disorders of arteries and arterioles
+category,BD52.0,- - - Segmental arterial mediolysis,,True,,,,,,,I77,IX,Other disorders of arteries and arterioles
+category,BD52.1,"- - - Arteriovenous fistula, acquired",,True,D001164,Arteriovenous Fistula,,,,,I77.0,IX,"Arteriovenous fistula, acquired"
+category,BD52.2,- - - Stricture of artery,,True,,,,,,,I77.1,IX,Stricture of artery
+category,BD52.3,- - - Rupture of artery,,True,,,,,,,I77.2,IX,Rupture of artery
+category,BD52.4,- - - Necrosis of artery,,True,,,,,,,I77.5,IX,Necrosis of artery
+category,BD52.5,- - - Coeliac artery compression syndrome,,True,,,,,,,I77.4,IX,Coeliac artery compression syndrome
+category,BD52.6,- - - Congenital great vessel related acquired abnormality,,True,,,,,,,I97.8,IX,"Other postprocedural disorders of circulatory system, not elsewhere classified"
+category,BD52.7,- - - Certain acquired abnormalities of aorta,,False,,,,,,,I77,IX,Other disorders of arteries and arterioles
+category,BD52.70,- - - - Acquired abnormality of aortic arch branch,,True,,,,,,,I77,IX,Other disorders of arteries and arterioles
+category,BD52.71,- - - - Acquired ascending aorta or root dilation,,True,,,,,,,I77,IX,Other disorders of arteries and arterioles
+category,BD52.7Y,- - - - Other specified certain acquired abnormalities of aorta,,True,,,,,,,I77,IX,Other disorders of arteries and arterioles
+category,BD52.7Z,"- - - - Certain acquired abnormalities of aorta, unspecified",,True,,,,,,,I77,IX,Other disorders of arteries and arterioles
+category,BD52.Y,- - - Other specified disorders of arteries or arterioles,,True,,,,,,,I77.8,IX,Other specified disorders of arteries and arterioles
+category,BD53,- - Secondary disorders of arteries and arterioles,,False,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.0,- - - Arterial cystic medial diseases,,True,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.1,- - - Hypothenar hammer syndrome,,True,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.2,- - - Iliac artery arteriopathy,,True,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.3,- - - Popliteal entrapment syndrome,,True,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.4,- - - Cholesterol atheroembolism,,False,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.40,- - - - Cholesterol atheroembolism to kidneys,,True,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.4Y,- - - - Cholesterol atheroembolism to other specified sites,,True,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.4Z,- - - - Cholesterol atheroembolism to unspecified site,,True,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.Y,- - - Other specified secondary disorders of arteries and arterioles,,True,,,,,,,I79.8,IX,"Other disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD53.Z,"- - - Secondary disorders of arteries and arterioles, unspecified",,True,,,,,,,I79,IX,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere"
+category,BD54,- - Diabetic foot ulcer,,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD55,- - Asymptomatic stenosis of intracranial or extracranial artery,,True,,,,,,,I65,IX,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction"
+category,BD56,- - Asymptomatic occlusion of intracranial or extracranial artery,,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD5Y,- - Other specified diseases of arteries or arterioles,,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+category,BD5Z,"- - Diseases of arteries or arterioles, unspecified",,True,,,,,,,I70-I79,IX,"Diseases of arteries, arterioles and capillaries"
+block,BD70-BD7Z,- Diseases of veins,,False,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD70,- - Superficial thrombophlebitis,,False,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD70.0,- - - Superficial thrombophlebitis of lower limbs,,True,,,,,,,I80.0,IX,Phlebitis and thrombophlebitis of superficial vessels of lower extremities
+category,BD70.1,- - - Superficial thrombophlebitis of upper limbs,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD70.2,- - - Thrombophlebitis migrans,,True,,,,,,,I82.1,IX,Thrombophlebitis migrans
+category,BD70.3,- - - Mondor disease,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD70.Y,- - - Other specified superficial thrombophlebitis,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD70.Z,"- - - Superficial thrombophlebitis, unspecified",,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD71,- - Deep vein thrombosis,,False,D020246,Venous Thrombosis,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD71.0,- - - Upper limb deep vein thrombosis,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD71.1,- - - Vena caval thrombosis,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD71.2,- - - Renal vein thrombosis,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD71.3,- - - Iliac vein thrombosis,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD71.4,- - - Lower limb deep vein thrombosis,,True,,,,,,,I80.2,IX,Phlebitis and thrombophlebitis of other deep vessels of lower extremities
+category,BD71.Y,- - - Other specified deep vein thrombosis,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD72,- - Venous thromboembolism,,True,D054556,Venous Thromboembolism,,,,,I82.9,IX,Embolism and thrombosis of unspecified vein
+category,BD73,- - Acquired systemic vein abnormality,,False,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD73.0,- - - Acquired inferior caval vein abnormality,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD73.1,- - - Acquired superior caval vein abnormality,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD73.2,- - - Systemic vein obstruction,,False,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD73.20,- - - - Obstruction of peripheral vein,,True,,,,,,,I87.1,IX,Compression of vein
+category,BD73.21,- - - - Obstruction of visceral vein,,True,,,,,,,I87.1,IX,Compression of vein
+category,BD73.2Y,- - - - Other specified systemic vein obstruction,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD73.2Z,"- - - - Systemic vein obstruction, unspecified",,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD73.3,- - - Acquired coronary sinus abnormality,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD73.Y,- - - Other specified acquired systemic vein abnormality,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD73.Z,"- - - Acquired systemic vein abnormality, unspecified",,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD74,- - Chronic peripheral venous insufficiency of lower extremities,,False,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD74.0,- - - Uncomplicated lower limb venous hypertension,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD74.1,- - - Lower limb varicose veins,,False,D014648,Varicose Veins,,,,,I83,IX,Varicose veins of lower extremities
+category,BD74.10,- - - - Varicose veins with great saphenous reflux,,True,,,,,,,I83,IX,Varicose veins of lower extremities
+category,BD74.11,- - - - Varicose veins with small saphenous reflux,,True,,,,,,,I83,IX,Varicose veins of lower extremities
+category,BD74.12,- - - - Varicose veins with non-truncal reflux,,True,,,,,,,I83,IX,Varicose veins of lower extremities
+category,BD74.1Z,"- - - - Lower limb varicose veins, not further specified",,True,,,,,,,I83,IX,Varicose veins of lower extremities
+category,BD74.2,- - - Lipodermatosclerosis,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD74.3,- - - Venous leg ulcer,,False,,,,,,,I83.0,IX,Varicose veins of lower extremities with ulcer
+category,BD74.30,- - - - Primary venous leg ulcer,,True,,,,,,,I83.0,IX,Varicose veins of lower extremities with ulcer
+category,BD74.31,- - - - Recurrent venous leg ulcer,,True,,,,,,,I83.0,IX,Varicose veins of lower extremities with ulcer
+category,BD74.32,- - - - Healed venous leg ulcer,,True,,,,,,,I83.0,IX,Varicose veins of lower extremities with ulcer
+category,BD74.3Z,"- - - - Venous leg ulcer, unspecified",,True,,,,,,,I83.0,IX,Varicose veins of lower extremities with ulcer
+category,BD74.Z,"- - - Chronic peripheral venous insufficiency of lower extremities, unspecified",,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD75,- - Venous varicosities of sites other than lower extremity,,False,,,,,,,I86,IX,Varicose veins of other sites
+category,BD75.0,- - - Sublingual varices,,True,,,,,,,I86.0,IX,Sublingual varices
+category,BD75.1,- - - Scrotal varices,,True,,,,,,,I86.1,IX,Scrotal varices
+category,BD75.2,- - - Vulval varices,,True,,,,,,,I86.3,IX,Vulval varices
+category,BD75.3,- - - Pelvic varices,,True,,,,,,,I86.2,IX,Pelvic varices
+category,BD75.Y,- - - Venous varicosities of other specified sites,,True,,,,,,,I86.8,IX,Varicose veins of other specified sites
+category,BD75.Z,- - - Venous varicosities of unspecified site,,True,,,,,,,I86,IX,Varicose veins of other sites
+category,BD7Y,- - Other specified diseases of veins,,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+category,BD7Z,"- - Diseases of veins, unspecified",,True,,,,,,,I80-I89,IX,"Diseases of veins, lymphatic vessels and lymph nodes, not elsewhere classified"
+,,,,,,,,,,,,,
+chapter,7A00-7B2Z,Sleep-wake disorders,,False,D012893,Sleep Disorders,151,Sleep-wake disorder,1,1,F51.9,V,"Nonorganic sleep disorder, unspecified"
+block,7A40-7A4Z,- Sleep-related breathing disorders,,False,,,0,,0,1,G47.3,VI,Sleep apnoea
+category,7A40,- - Central sleep apnoeas,,False,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.0,- - - Primary central sleep apnoea,,True,D020182,"Sleep Apnea, Central",43,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.1,- - - Primary central sleep apnoea of infancy,,True,,,0,,0,0,P28.3,XVI,Primary sleep apnoea of newborn
+category,7A40.2,- - - Primary central sleep apnoea of prematurity,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.3,- - - Central sleep apnoea due to a medical condition with Cheyne-Stokes breathing,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.4,- - - Central sleep apnoea due to a medical condition without Cheyne-Stokes breathing,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.5,- - - Central sleep apnoea due to high-altitude periodic breathing,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.6,- - - Central sleep apnoea due to a medication or substance,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.7,- - - Treatment-emergent central sleep apnoea,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.Y,- - - Other specified central sleep apnoeas,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A40.Z,"- - - Central sleep apnoeas, unspecified",,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A41,- - Obstructive sleep apnoea,,True,D020181,"Sleep Apnea, Obstructive",94,,0,0,G47.3,VI,Sleep apnoea
+category,7A42,- - Sleep-related hypoventilation or hypoxemia disorders,,False,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A42.0,- - - Obesity hypoventilation syndrome,,True,,,0,,0,0,E66.2,IV,Extreme obesity with alveolar hypoventilation
+category,7A42.1,- - - Congenital central alveolar sleep-related hypoventilation,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A42.2,- - - Non-congenital central hypoventilation with hypothalamic abnormalities,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A42.3,- - - Idiopathic central alveolar hypoventilation,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A42.4,- - - Sleep-related hypoventilation due to a medication or substance,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A42.5,- - - Sleep-related hypoventilation due to medical condition,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A42.6,- - - Sleep-related hypoxemia due to a medical condition,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A42.Y,- - - Other specified sleep-related hypoventilation or hypoxemia disorders,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A42.Z,"- - - Sleep-related hypoventilation or hypoxemia disorders, unspecified",,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A4Y,- - Other specified sleep-related breathing disorders,,True,,,0,,0,0,G47.3,VI,Sleep apnoea
+category,7A4Z,"- - Sleep-related breathing disorders, unspecified",7A00-7B2Z,True,D012893,Sleep Disorders,0,Chronic breathing disorder,1,0,G47.3,VI,Sleep apnoea
+,,,,,,,,,,,,,
+chapter,2A00-2F9Z,Neoplasms,,False,D009382,"Neoplasms, Unknown Primary",51,Solid tumour/cancer,103,1,,,
+block,2B50-2E2Z,"- Malignant neoplasms, except primary neoplasms of lymphoid, haematopoietic, central nervous system or related tissues",,False,,,0,,0,1,,,
+block,2B50-2D3Z,"- - Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic, central nervous system or related tissues",,False,,,0,,0,1,C00-C75,II,"Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic and related tissue"
+block,2C20-2C2Z,"- - - Malignant neoplasms of middle ear, respiratory or intrathoracic organs",,False,,,0,,0,1,C00-C75,II,"Malignant neoplasms, stated or presumed to be primary, of specified sites, except of lymphoid, haematopoietic and related tissue"
+category,2C22,- - - - Malignant neoplasms of accessory sinuses,,False,,,0,,0,0,C31,II,Malignant neoplasm of accessory sinuses
+category,2C22.0,- - - - - Adenocarcinoma of accessory sinuses,,True,,,0,,0,0,C31,II,Malignant neoplasm of accessory sinuses
+category,2C22.1,- - - - - Squamous cell carcinoma of accessory sinuses,,False,,,0,,0,0,C31,II,Malignant neoplasm of accessory sinuses
+category,2C22.10,- - - - - - Squamous cell carcinoma of sphenoidal sinus,,True,,,0,,0,0,C31,II,Malignant neoplasm of accessory sinuses
+category,2C22.1Y,- - - - - - Squamous cell carcinoma of other specified accessory sinuses,,True,,,0,,0,0,C31,II,Malignant neoplasm of accessory sinuses
+category,2C22.2,"- - - - - Malignant epithelial neoplasms of accessory sinuses, unspecified type",,True,,,0,,0,0,C31,II,Malignant neoplasm of accessory sinuses
+category,2C22.3,- - - - - Melanomas of accessory sinuses,,True,,,0,,0,0,C31,II,Malignant neoplasm of accessory sinuses
+category,2C22.Y,- - - - - Other specified malignant neoplasms of accessory sinuses,,True,,,0,,0,0,C31.8,II,Malignant neoplasm: Overlapping lesion of accessory sinuses
+category,2C22.Z,"- - - - - Malignant neoplasms of accessory sinuses, unspecified",,True,,,0,,0,0,C31,II,Malignant neoplasm of accessory sinuses
+category,2C23,- - - - Malignant neoplasms of larynx,,False,D007822,Laryngeal Neoplasms,68,,0,0,C32,II,Malignant neoplasm of larynx
+category,2C23.1,- - - - - Malignant neoplasms of glottis of larynx,,False,,,0,,0,0,C32.0,II,Malignant neoplasm: Glottis
+category,2C23.10,"- - - - - - Squamous cell carcinoma of larynx, glottis",,True,,,0,,0,0,C32.0,II,Malignant neoplasm: Glottis
+category,2C23.1Y,"- - - - - - Other specified malignant neoplasms of larynx, glottis",,True,,,0,,0,0,C32.0,II,Malignant neoplasm: Glottis
+category,2C23.2,- - - - - Malignant neoplasms of supraglottis of larynx,,False,,,0,,0,0,C32.1,II,Malignant neoplasm: Supraglottis
+category,2C23.20,"- - - - - - Squamous cell carcinoma of larynx, supraglottis",,True,,,0,,0,0,C32.1,II,Malignant neoplasm: Supraglottis
+category,2C23.2Y,"- - - - - - Other specified malignant neoplasms of larynx, supraglottis",,True,,,0,,0,0,C32.1,II,Malignant neoplasm: Supraglottis
+category,2C23.3,- - - - - Malignant neoplasms of subglottis of larynx,,False,,,0,,0,0,C32.2,II,Malignant neoplasm: Subglottis
+category,2C23.30,"- - - - - - Squamous cell carcinoma of larynx, subglottis",,True,,,0,,0,0,C32.2,II,Malignant neoplasm: Subglottis
+category,2C23.31,"- - - - - - Adenocarcinoma of larynx, subglottis",,True,,,0,,0,0,C32.2,II,Malignant neoplasm: Subglottis
+category,2C23.3Y,"- - - - - - Other specified malignant neoplasms of larynx, subglottis",,True,,,0,,0,0,C32.2,II,Malignant neoplasm: Subglottis
+category,2C23.4,- - - - - Malignant neoplasm of laryngeal cartilage,,True,,,0,,0,0,C32,II,Malignant neoplasm of larynx
+category,2C23.5,- - - - - Malignant neoplasm of overlapping lesion of larynx,,True,,,0,,0,0,C32,II,Malignant neoplasm of larynx
+category,2C23.Z,"- - - - - Malignant neoplasms of larynx, unspecified",,True,,,0,,0,0,C32,II,Malignant neoplasm of larynx
+category,2C24,- - - - Malignant neoplasms of trachea,,False,D014134,Tracheal Neoplasms,17,,0,0,C33,II,Malignant neoplasm of trachea
+category,2C24.0,- - - - - Adenocarcinoma of trachea,,True,,,0,,0,0,C33,II,Malignant neoplasm of trachea
+category,2C24.1,- - - - - Squamous cell carcinoma of trachea,,True,,,0,,0,0,C33,II,Malignant neoplasm of trachea
+category,2C24.2,"- - - - - Malignant epithelial neoplasms of trachea, unspecified type",,True,,,0,,0,0,C33,II,Malignant neoplasm of trachea
+category,2C24.Y,- - - - - Other specified malignant neoplasms of trachea,,True,,,0,,0,0,C33,II,Malignant neoplasm of trachea
+category,2C24.Z,"- - - - - Malignant neoplasms of trachea, unspecified",,True,,,0,,0,0,C33,II,Malignant neoplasm of trachea
+category,2C25,- - - - Malignant neoplasms of bronchus or lung,,False,D008175,Lung Neoplasms,0,,0,0,C34,II,Malignant neoplasm of bronchus and lung
+category,2C25.0,- - - - - Adenocarcinoma of bronchus or lung,2C25,True,D008175,Lung Neoplasms,175,Lung cancer,3,0,C34,II,Malignant neoplasm of bronchus and lung
+category,2C25.1,- - - - - Small cell carcinoma of bronchus or lung,,True,,,0,,0,0,C34,II,Malignant neoplasm of bronchus and lung
+category,2C25.2,- - - - - Squamous cell carcinoma of bronchus or lung,,True,,,0,,0,0,C34,II,Malignant neoplasm of bronchus and lung
+category,2C25.3,- - - - - Large cell carcinoma of bronchus or lung,,True,,,0,,0,0,C34,II,Malignant neoplasm of bronchus and lung
+category,2C25.4,- - - - - Carcinoid or other malignant neuroendocrine neoplasms of bronchus or lung,,True,,,0,,0,0,C34,II,Malignant neoplasm of bronchus and lung
+category,2C25.5,- - - - - Unspecified malignant epithelial neoplasm of bronchus or lung,,True,,,0,,0,0,C34,II,Malignant neoplasm of bronchus and lung
+category,2C25.Y,- - - - - Other specified malignant neoplasms of bronchus or lung,2C25,True,D008175,Lung Neoplasms,0,Small-cell lung cancer,14,0,C34.8,II,Malignant neoplasm: Overlapping lesion of bronchus and lung
+category,2C25.Z,"- - - - - Malignant neoplasms of bronchus or lung, unspecified",,True,,,0,,0,0,C34,II,Malignant neoplasm of bronchus and lung
+category,2C26,- - - - Malignant neoplasms of the pleura,,False,D010997,Pleural Neoplasms,0,,0,0,C38.4,II,Malignant neoplasm: Pleura
+category,2C26.0,- - - - - Mesothelioma of pleura,2C26,True,D010997,Pleural Neoplasms,45,Malignant pleural mesothelioma,1,0,C45.0,II,Mesothelioma of pleura
+category,2C26.Y,- - - - - Other specified malignant neoplasms of the pleura,,True,,,0,,0,0,C38.4,II,Malignant neoplasm: Pleura
+category,2C26.Z,"- - - - - Malignant neoplasms of the pleura, unspecified",,True,,,0,,0,0,C38.4,II,Malignant neoplasm: Pleura
+block,2B60-2B6Z,"- - - Malignant neoplasms of lip, oral cavity or pharynx",,False,,,0,,0,0,C00-C14,II,"Malignant neoplasms of lip, oral cavity and pharynx"
+category,2B6A,- - - - Malignant neoplasms of oropharynx,,False,D009959,Oropharyngeal Neoplasms,26,,0,0,C10,II,Malignant neoplasm of oropharynx
+category,2B6A.0,- - - - - Squamous cell carcinoma of oropharynx,,True,,,0,,0,0,C10,II,Malignant neoplasm of oropharynx
+category,2B6A.Y,- - - - - Other specified malignant neoplasms of oropharynx,,True,,,0,,0,0,C10.8,II,Malignant neoplasm: Overlapping lesion of oropharynx
+category,2B6A.Z,"- - - - - Malignant neoplasms of oropharynx, unspecified",,True,,,0,,0,0,C10,II,Malignant neoplasm of oropharynx
+category,2B6B,- - - - Malignant neoplasms of nasopharynx,,False,D009303,Nasopharyngeal Neoplasms,90,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6B.0,- - - - - Squamous cell carcinoma of nasopharynx,,True,,,0,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6B.1,"- - - - - Malignant epithelial neoplasms of nasopharynx, unspecified type",,True,,,0,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6B.2,- - - - - Malignant neoplasms of pharyngeal tonsil,,False,,,0,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6B.20,- - - - - - Squamous cell carcinoma of pharyngeal tonsil,,True,,,0,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6B.21,- - - - - - Other or unspecified malignant epithelial neoplasm of pharyngeal tonsil,,True,,,0,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6B.2Y,- - - - - - Other specified malignant neoplasms of pharyngeal tonsil,,True,,,0,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6B.2Z,- - - - - - Malignant neoplasm of pharyngeal tonsil without mention of type,,True,,,0,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6B.Y,- - - - - Other specified malignant neoplasms of nasopharynx,,True,,,0,,0,0,C11.8,II,Malignant neoplasm: Overlapping lesion of nasopharynx
+category,2B6B.Z,"- - - - - Malignant neoplasms of nasopharynx, unspecified",,True,,,0,,0,0,C11,II,Malignant neoplasm of nasopharynx
+category,2B6C,- - - - Malignant neoplasms of piriform sinus,,False,,,0,,0,0,C12,II,Malignant neoplasm of piriform sinus
+category,2B6C.0,- - - - - Squamous cell carcinoma of piriform sinus,,True,,,0,,0,0,C12,II,Malignant neoplasm of piriform sinus
+category,2B6C.Y,- - - - - Other specified malignant neoplasms of piriform sinus,,True,,,0,,0,0,C12,II,Malignant neoplasm of piriform sinus
+category,2B6C.Z,"- - - - - Malignant neoplasms of piriform sinus, unspecified",,True,,,0,,0,0,C12,II,Malignant neoplasm of piriform sinus
+category,2B6D,- - - - Malignant neoplasms of hypopharynx,,False,D007012,Hypopharyngeal Neoplasms,21,,0,0,C13,II,Malignant neoplasm of hypopharynx
+category,2B6D.0,- - - - - Squamous cell carcinoma of hypopharynx and variants,,True,,,0,,0,0,C13,II,Malignant neoplasm of hypopharynx
+category,2B6D.Y,- - - - - Other specified malignant neoplasms of hypopharynx,,True,,,0,,0,0,C13.8,II,Malignant neoplasm: Overlapping lesion of hypopharynx
+category,2B6D.Z,"- - - - - Malignant neoplasms of hypopharynx, unspecified",,True,,,0,,0,0,C13,II,Malignant neoplasm of hypopharynx
+block,2D50-2E09,- - Malignant neoplasm metastases,,False,D009362,Neoplasm Metastasis,47,Metastatic malignant neoplasm,1,1,C76-C80,II,"Malignant neoplasms of ill-defined, secondary and unspecified sites"
+block,2D70-2D7Z,- - - Malignant neoplasm metastasis in thoracic or respiratory organs,,False,,,0,,0,1,C78,II,Secondary malignant neoplasm of respiratory and digestive organs
+category,2D70,- - - - Malignant neoplasm metastasis in lung,,True,,,0,,0,0,C78.0,II,Secondary malignant neoplasm of lung
+category,2D71,- - - - Malignant neoplasm metastasis in mediastinum,,True,,,0,,0,0,C78.1,II,Secondary malignant neoplasm of mediastinum
+category,2D72,- - - - Malignant neoplasm metastasis in pleura,2C26,True,D010997,Pleural Neoplasms,0,Malignant pleural effusion,1,0,C78.2,II,Secondary malignant neoplasm of pleura
+category,2D73,- - - - Malignant neoplasm metastasis in upper respiratory tract organs,,True,,,0,,0,0,C78.3,II,Secondary malignant neoplasm of other and unspecified respiratory organs
+category,2D7Y,- - - - Malignant neoplasm metastasis in other specified thoracic organs,,True,,,0,,0,0,C78.8,II,Secondary malignant neoplasm of other and unspecified digestive organs
+category,2D7Z,"- - - - Malignant neoplasm metastasis in thoracic or respiratory organs, unspecified",,True,,,0,,0,0,C78,II,Secondary malignant neoplasm of respiratory and digestive organs
+block,2E60-2E6Z,"- In situ neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues",,False,,,0,,0,0,D09.9,II,"Carcinoma in situ, unspecified"
+category,2E+062,- - Carcinoma in situ of middle ear or respiratory system,,False,,,0,,0,0,D02,II,Carcinoma in situ of middle ear and respiratory system
+category,2E62.0,- - - Carcinoma in situ of larynx,,True,,,0,,0,0,D02.0,II,Carcinoma in situ: Larynx
+category,2E62.1,- - - Carcinoma in situ of trachea,,True,,,0,,0,0,D02.1,II,Carcinoma in situ: Trachea
+category,2E62.2,- - - Carcinoma in situ of bronchus or lung,,True,,,0,,0,0,D02.2,II,Carcinoma in situ: Bronchus and lung
+block,2E80-2F5Z,"- Benign neoplasms, except of lymphoid, haematopoietic, central nervous system or related tissues",,False,,,0,,0,0,D10-D36,II,Benign neoplasms
+block,2E90-2F3Z,- - Benign non-mesenchymal neoplasms,,False,,,0,,0,0,D10-D36,II,Benign neoplasms
+block,2F00-2F0Z,- - - Benign neoplasm of respiratory or intrathoracic organs,,False,,,0,,0,0,D15.7,II,Benign neoplasm: Other specified intrathoracic organs
+category,2F00,- - - - Benign neoplasm of middle ear or respiratory system,,False,,,0,,0,0,D14,II,Benign neoplasm of middle ear and respiratory system
+category,2F00.0,- - - - - Middle ear endocrine tumour,,True,,,0,,0,0,D14.0,II,"Benign neoplasm: Middle ear, nasal cavity and accessory sinuses"
+category,2F00.1,- - - - - Recurrent respiratory papillomatosis,,True,,,0,,0,0,D14,II,Benign neoplasm of middle ear and respiratory system
+category,2F00.2,- - - - - Laryngeal endocrine tumour,,True,,,0,,0,0,D14.1,II,Benign neoplasm: Larynx
+category,2F00.Y,- - - - - Other specified benign neoplasm of middle ear or respiratory system,,True,,,0,,0,0,D14,II,Benign neoplasm of middle ear and respiratory system
+category,2F00.Z,"- - - - - Benign neoplasm of middle ear or respiratory system, unspecified",,True,,,0,,0,0,D14,II,Benign neoplasm of middle ear and respiratory system
+category,2F01,- - - - Benign neoplasm of intrathoracic organs,,True,,,0,,0,0,D15,II,Benign neoplasm of other and unspecified intrathoracic organs
+category,2F0Y,- - - - Benign neoplasms of other specified respiratory and intrathoracic organs,,True,,,0,,0,0,D15.7,II,Benign neoplasm: Other specified intrathoracic organs
+category,2F0Z,- - - - Benign neoplasms of unspecified respiratory and intrathoracic organs,,True,,,0,,0,0,D15.7,II,Benign neoplasm: Other specified intrathoracic organs
+block,2F70-2F7Z,"- Neoplasms of uncertain behaviour, except of lymphoid, haematopoietic, central nervous system or related tissues",,False,,,0,,0,0,D37-D48,II,Neoplasms of uncertain or unknown behaviour
+category,2F71,"- - Neoplasms of uncertain behaviour of middle ear, respiratory or intrathoracic organs",,False,,,0,,0,0,D37-D48,II,Neoplasms of uncertain or unknown behaviour
+category,2F71.1,- - - Neoplasms of uncertain behaviour of larynx,,True,,,0,,0,0,D38.0,II,Neoplasm of uncertain or unknown behaviour: Larynx
+category,2F71.2,- - - Neoplasms of uncertain behaviour of pleura,,True,,,0,,0,0,D38.2,II,Neoplasm of uncertain or unknown behaviour: Pleura
+category,2F71.3,"- - - Neoplasms of uncertain behaviour of trachea, bronchus or lung",,True,,,0,,0,0,D38.1,II,"Neoplasm of uncertain or unknown behaviour: Trachea, bronchus and lung"
+block,2F90-2F97,"- Neoplasms of unknown behaviour, except of lymphoid, haematopoietic, central nervous system or related tissues",,False,,,0,,0,0,D37-D48,II,Neoplasms of uncertain or unknown behaviour
+category,2F91,"- - Neoplasms of unknown behaviour of middle ear, respiratory or intrathoracic organs",,False,,,0,,0,0,D38,II,Neoplasm of uncertain or unknown behaviour of middle ear and respiratory and intrathoracic organs
+category,2F91.0,- - - Neoplasms of unknown behaviour of larynx,,True,,,0,,0,0,D38.0,II,Neoplasm of uncertain or unknown behaviour: Larynx
+category,2F91.1,"- - - Neoplasms of unknown behaviour of trachea, bronchus or lung",,True,,,0,,0,0,D38.1,II,"Neoplasm of uncertain or unknown behaviour: Trachea, bronchus and lung"
+,,,,,,,,,,,,,
+chapter,4A00-4B4Z,Diseases of the immune system,,False,,,0,,0,1,D89.9,III,"Disorder involving the immune mechanism, unspecified"
+block,4B20-4B2Y,- Certain disorders involving the immune system,,False,,,0,,0,1,D89.9,III,"Disorder involving the immune mechanism, unspecified"
+category,4B20,- - Sarcoidosis,,False,,,0,,0,0,D86,III,Sarcoidosis
+category,4B20.0,- - - Sarcoidosis of lung,,True,D017565,"Sarcoidosis, Pulmonary",37,,0,0,D86.0,III,Sarcoidosis of lung
+,,,,,,,,,,,,,
+chapter,,"Endocrine, nutritional or metabolic diseases",,False,,,0,,,,IV,IV,"Endocrine, nutritional and metabolic diseases"
+block,,- Endocrine diseases,,False,,,0,,,,IV,IV,"Endocrine, nutritional and metabolic diseases"
+block,,- - Diabetes mellitus,,False,D003920,Diabetes Mellitus,,,,,E10-E14,IV,Diabetes mellitus
+category,5A10,- - - Type 1 diabetes mellitus,,True,D003922,"Diabetes Mellitus, Type 1",,,,,E10-E14,IV,Diabetes mellitus
+category,5A11,- - - Type 2 diabetes mellitus,,True,D003924,"Diabetes Mellitus, Type 2",,,,,E11,IV,Type 2 diabetes mellitus
+category,5A12,- - - Malnutrition-related diabetes mellitus,,True,,,0,,,,E12,IV,Malnutrition-related diabetes mellitus
+category,5A13,"- - - Diabetes mellitus, other specified type",,False,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.0,- - - - Diabetes mellitus due to genetic defects of beta cell function,,True,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.1,- - - - Diabetes mellitus due to genetic defects in insulin action,,True,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.2,- - - - Diabetes mellitus due to diseases of the exocrine pancreas,,True,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.3,- - - - Diabetes mellitus due to endocrinopathies,,True,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.4,- - - - Diabetes mellitus due to drug or chemical,,True,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.5,- - - - Diabetes mellitus due to uncommon forms of immune-mediated diabetes,,True,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.6,- - - - Diabetes mellitus due to other genetic syndromes,,True,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.7,- - - - Diabetes mellitus due to clinically defined subtypes or syndromes,,True,,,0,,,,E13,IV,Other specified diabetes mellitus
+category,5A13.Y,- - - - Diabetes mellitus due to other specified cause,,True,,,0,,,,E13.8,IV,Other specified diabetes mellitus with unspecified complications
+category,5A14,"- - - Diabetes mellitus, type unspecified",,True,,,0,,,,E14,IV,Unspecified diabetes mellitus
+block,,- - - Acute complications of diabetes mellitus,,False,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A20,- - - - Diabetic hyperosmolar hyperglycaemic state,,False,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A20.0,- - - - - Hyperosmolar hyperglycaemic state without coma,,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A20.1,- - - - - Hyperosmolar hyperglycaemic state with coma,,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A20.Z,"- - - - - Diabetic hyperosmolar hyperglycaemic state, unspecified",,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A21,- - - - Hypoglycaemia in the context of diabetes mellitus,,False,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A21.0,- - - - - Hypoglycaemia in the context of diabetes mellitus without coma,,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A21.1,- - - - - Hypoglycaemia in the context of diabetes mellitus with coma,,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A21.Z,"- - - - - Hypoglycaemia in the context of diabetes, unspecified",,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A22,- - - - Diabetic acidosis,,False,,,0,,,,E14.1,IV,Unspecified diabetes mellitus with ketoacidosis
+category,5A22.0,- - - - - Diabetic ketoacidosis without coma,,True,D016883,Diabetic Ketoacidosis,,,,,E14.1,IV,Unspecified diabetes mellitus with ketoacidosis
+category,5A22.1,- - - - - Diabetic lactic acidosis,,True,,,0,,,,E14.1,IV,Unspecified diabetes mellitus with ketoacidosis
+category,5A22.2,- - - - - Diabetic metabolic acidosis,,True,,,0,,,,E14.1,IV,Unspecified diabetes mellitus with ketoacidosis
+category,5A22.3,- - - - - Diabetic ketoacidosis with coma,,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A22.Y,- - - - - Other specified diabetic acidosis,,True,,,0,,,,E14.1,IV,Unspecified diabetes mellitus with ketoacidosis
+category,5A22.Z,"- - - - - Diabetic acidosis, unspecified",,True,,,0,,,,E14.1,IV,Unspecified diabetes mellitus with ketoacidosis
+category,5A23,- - - - Diabetic coma,,True,D003926,Diabetic Coma,,,,,E10-E14,IV,Diabetes mellitus
+category,5A24,- - - - Uncontrolled or unstable diabetes mellitus,,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+category,5A2Y,- - - - Other specified acute complications of diabetes mellitus,,True,,,0,,,,E10-E14,IV,Diabetes mellitus
+block,5B50-5C3Z,- Nutritional disorders,,False,,,,,,,E90,IV,Nutritional and metabolic disorders in diseases classified elsewhere
+block,5B80-5C1Z,"- - Overweight, obesity or specific nutrient excesses",,False,,,,,,,E65-E68,IV,Obesity and other hyperalimentation
+block,5B80-5B81.Z,- - - Overweight or obesity,,False,,,,,,,E65-E68,IV,Obesity and other hyperalimentation
+category,5B80,- - - - Overweight or localised adiposity,,False,,,,,,,E65-E68,IV,Obesity and other hyperalimentation
+category,5B80.0,- - - - - Overweight,,False,,,,,,,E66.9,IV,"Obesity, unspecified"
+category,5B80.00,"- - - - - - Overweight in infants, children or adolescents",,True,,,,,,,E66.9,IV,"Obesity, unspecified"
+category,5B80.01,- - - - - - Overweight in adults,,True,,,,,,,E66.9,IV,"Obesity, unspecified"
+category,5B80.0Z,"- - - - - - Overweight, unspecified",,True,,,,,,,E66.9,IV,"Obesity, unspecified"
+category,5B80.1,- - - - - Localised adiposity,,True,,,,,,,E65,IV,Localized adiposity
+category,5B81,- - - - Obesity,,False,D009765,Obesity,,,,,E66,IV,Obesity
+category,5B81.0,- - - - - Obesity due to energy imbalance,,False,,,,,,,E66.0,IV,Obesity due to excess calories
+category,5B81.00,- - - - - - Obesity in children or adolescents,,True,,,,,,,E66.0,IV,Obesity due to excess calories
+category,5B81.01,- - - - - - Obesity in adults,,True,,,,,,,E66.0,IV,Obesity due to excess calories
+category,5B81.1,- - - - - Drug-induced obesity,,True,,,,,,,E66.1,IV,Drug-induced obesity
+category,5B81.Y,- - - - - Other specified obesity,,True,,,,,,,E66.8,IV,Other obesity
+category,5B81.Z,"- - - - - Obesity, unspecified",,True,,,,,,,E66,IV,Obesity
+,,,,,,,,,,,,,
+chapter,FA00-FC0Z,Diseases of the musculoskeletal system or connective tissue,,False,,,,,,,XIII,XIII,Diseases of the musculoskeletal system and connective tissue
+block,FA00-FA5Z,- Arthropathies,,False,,,,,,,M00-M25,XIII,Arthropathies
+block,FA00-FA0Z,- - Osteoarthritis,,False,D010003,Osteoarthritis,,,,,M00-M25,XIII,Arthropathies
+category,FA00,- - - Osteoarthritis of hip,,False,D015207,"Osteoarthritis, Hip",,,,,M16,XIII,Coxarthrosis [arthrosis of hip]
+category,FA00.0,- - - - Primary osteoarthritis of hip,,True,,,,,,,M16,XIII,Coxarthrosis [arthrosis of hip]
+category,FA00.1,- - - - Post traumatic osteoarthritis of hip,,True,,,,,,,M16,XIII,Coxarthrosis [arthrosis of hip]
+category,FA00.2,- - - - Other secondary osteoarthritis of hip,,True,,,,,,,M16,XIII,Coxarthrosis [arthrosis of hip]
+category,FA00.Z,"- - - - Osteoarthritis of hip, unspecified",,True,,,,,,,M16,XIII,Coxarthrosis [arthrosis of hip]
+category,FA01,- - - Osteoarthritis of knee,,False,D020370,"Osteoarthritis, Knee",,,,,M17,XIII,Gonarthrosis [arthrosis of knee]
+category,FA01.0,- - - - Primary osteoarthritis of knee,,True,,,,,,,M17,XIII,Gonarthrosis [arthrosis of knee]
+category,FA01.1,- - - - Post traumatic osteoarthritis of knee,,True,,,,,,,M17,XIII,Gonarthrosis [arthrosis of knee]
+category,FA01.2,- - - - Other secondary osteoarthritis of knee,,True,,,,,,,M17,XIII,Gonarthrosis [arthrosis of knee]
+category,FA01.Z,"- - - - Osteoarthritis of knee, unspecified",,True,,,,,,,M17,XIII,Gonarthrosis [arthrosis of knee]
+category,FA02,- - - Osteoarthritis of wrist or hand,,False,,,,,,,M00-M25,XIII,Arthropathies
+category,FA02.0,- - - - Primary osteoarthritis of wrist or hand,,True,,,,,,,M00-M25,XIII,Arthropathies
+category,FA02.1,- - - - Post traumatic osteoarthritis of wrist or hand,,True,,,,,,,M00-M25,XIII,Arthropathies
+category,FA02.2,- - - - Other secondary osteoarthritis of wrist or hand,,True,,,,,,,M00-M25,XIII,Arthropathies
+category,FA02.Z,"- - - - Osteoarthritis of wrist or hand, unspecified",,True,,,,,,,M00-M25,XIII,Arthropathies
+category,FA03,- - - Osteoarthritis of other specified joint,,False,,,,,,,M47.9,XIII,"Spondylosis, unspecified"
+category,FA03.0,- - - - Primary osteoarthritis of other specified joint,,True,,,,,,,M47.9,XIII,"Spondylosis, unspecified"
+category,FA03.1,- - - - Post traumatic osteoarthritis of other specified joint,,True,,,,,,,M47.9,XIII,"Spondylosis, unspecified"
+category,FA03.2,- - - - Other secondary osteoarthritis of other specified joint,,True,,,,,,,M47.9,XIII,"Spondylosis, unspecified"
+category,FA03.Z,"- - - - Osteoarthritis of other specified joint, unspecified",,True,,,,,,,M47.9,XIII,"Spondylosis, unspecified"
+category,FA04,- - - Oligoosteoarthritis,,True,,,,,,,M00-M25,XIII,Arthropathies
+category,FA05,- - - Polyosteoarthritis,,True,,,,,,,M15,XIII,Polyarthrosis
+category,FA0Z,"- - - Osteoarthritis, unspecified",,True,,,,,,,M00-M25,XIII,Arthropathies
+block,FA10-FA1Z,- - Infection related arthropathies,,False,,,,,,,M00-M03,XIII,Infectious arthropathies
+category,FA10,- - - Direct infections of joint,,False,,,,,,,M01,XIII,Direct infections of joint in infectious and parasitic diseases classified elsewhere
+category,FA10.0,- - - - Bacterial infection of joint,,True,,,,,,,M01,XIII,Direct infections of joint in infectious and parasitic diseases classified elsewhere
+category,FA10.1,- - - - Viral infection of joint,,True,,,,,,,M01,XIII,Direct infections of joint in infectious and parasitic diseases classified elsewhere
+category,FA10.2,- - - - Fungal infection of joint,,True,,,,,,,M01.6,XIII,Arthritis in mycoses
+category,FA10.Z,"- - - - Direct infections of joint, unspecified",,True,,,,,,,M01,XIII,Direct infections of joint in infectious and parasitic diseases classified elsewhere
+category,FA11,- - - Reactive arthropathies,,False,D016918,"Arthritis, Reactive",,,,,M02,XIII,Reactive arthropathies
+category,FA11.0,- - - - Arthropathy following intestinal bypass,,True,,,,,,,M02.0,XIII,Arthropathy following intestinal bypass
+category,FA11.1,- - - - Arthropathy following vaccination,,True,,,,,,,M02.2,XIII,Postimmunization arthropathy
+category,FA11.2,- - - - Arthropathy following genitourinary infection,,True,,,,,,,M02.3,XIII,Reiter disease
+category,FA11.Y,- - - - Other specified reactive arthropathies,,True,,,,,,,M02.8,XIII,Other reactive arthropathies
+category,FA11.Z,"- - - - Reactive arthropathies, unspecified",,True,,,,,,,M02,XIII,Reactive arthropathies
+category,FA12,- - - Postinfectious arthropathies,,False,,,,,,,M03,XIII,Postinfective and reactive arthropathies in diseases classified elsewhere
+category,FA12.0,- - - - Bacterial postinfectious arthropathy,,True,,,,,,,M03,XIII,Postinfective and reactive arthropathies in diseases classified elsewhere
+category,FA12.1,- - - - Viral postinfectious arthropathies,,True,,,,,,,M03,XIII,Postinfective and reactive arthropathies in diseases classified elsewhere
+category,FA12.2,- - - - Fungal postinfectious arthropathies,,True,,,,,,,M03,XIII,Postinfective and reactive arthropathies in diseases classified elsewhere
+category,FA12.3,- - - - Parasitic postinfectious arthropathies,,True,,,,,,,M03,XIII,Postinfective and reactive arthropathies in diseases classified elsewhere
+category,FA12.Y,- - - - Other specified postinfectious arthropathies,,True,,,,,,,M03,XIII,Postinfective and reactive arthropathies in diseases classified elsewhere
+category,FA12.Z,"- - - - Postinfectious arthropathies, unspecified",,True,,,,,,,M03,XIII,Postinfective and reactive arthropathies in diseases classified elsewhere
+category,FA13,- - - Infectious spondyloarthritis,,True,,,,,,,M49.3,XIII,Spondylopathy in other infectious and parasitic diseases classified elsewhere
+category,FA1Y,- - - Other specified infection related arthropathies,,True,,,,,,,M00-M03,XIII,Infectious arthropathies
+category,FA1Z,"- - - Infection related arthropathies, unspecified",,True,,,,,,,M00-M03,XIII,Infectious arthropathies
+block,FA20-FA2Z,- - Inflammatory arthropathies,,False,,,,,,,M05-M14,XIII,Inflammatory polyarthropathies
+category,FA20,- - - Rheumatoid arthritis,,False,D001172,"Arthritis, Rheumatoid",,,,,M06.0,XIII,Seronegative rheumatoid arthritis
+category,FA20.0,- - - - Seropositive rheumatoid arthritis,,True,,,,,,,M05,XIII,Seropositive rheumatoid arthritis
+category,FA20.1,- - - - Seronegative rheumatoid arthritis,,True,,,,,,,M06.0,XIII,Seronegative rheumatoid arthritis
+category,FA20.Z,"- - - - Rheumatoid arthritis, serology unspecified",,True,,,,,,,M06.0,XIII,Seronegative rheumatoid arthritis
+category,FA21,- - - Psoriatic arthritis,,False,D015535,"Arthritis, Psoriatic",,,,,L40.5,XII,Arthropathic psoriasis
+category,FA21.0,- - - - Psoriatic spondyloarthritis,,True,,,,,,,M07.2,XIII,Psoriatic spondylitis
+category,FA21.Y,- - - - Other specified psoriatic arthritis,,True,,,,,,,L40.5,XII,Arthropathic psoriasis
+category,FA21.Z,"- - - - Psoriatic arthritis, unspecified",,True,,,,,,,L40.5,XII,Arthropathic psoriasis
+category,FA22,- - - Polymyalgia rheumatica,,True,D011111,Polymyalgia Rheumatica,,,,,M35.3,XIII,Polymyalgia rheumatica
+category,FA23,- - - Adult-onset Still disease,,True,D016706,"Still's Disease, Adult-Onset",,,,,M06.1,XIII,Adult-onset Still disease
+category,FA24,- - - Juvenile idiopathic arthritis,,False,,,,,,,M08,XIII,Juvenile arthritis
+category,FA24.0,- - - - Juvenile idiopathic oligoarthritis,,False,,,,,,,M08,XIII,Juvenile arthritis
+category,FA24.00,"- - - - - Juvenile idiopathic oligoarthritis, onset persistent",,True,,,,,,,M08,XIII,Juvenile arthritis
+category,FA24.01,"- - - - - Juvenile idiopathic oligoarthritis, onset extended",,True,,,,,,,M08,XIII,Juvenile arthritis
+category,FA24.0Z,"- - - - - Juvenile idiopathic oligoarthritis, onset unspecified",,True,,,,,,,M08,XIII,Juvenile arthritis
+category,FA24.1,- - - - Juvenile idiopathic polyarthritis,,True,,,,,,,M08,XIII,Juvenile arthritis
+category,FA24.2,- - - - Juvenile psoriatic arthritis,,True,,,,,,,M09.0,XIII,Juvenile arthritis in psoriasis
+category,FA24.3,- - - - Juvenile enthesitis related arthritis,,True,,,,,,,M08,XIII,Juvenile arthritis
+category,FA24.4,- - - - Juvenile systemic arthritis,,True,,,,,,,M08.2,XIII,Juvenile arthritis with systemic onset
+category,FA24.Y,- - - - Other specified juvenile idiopathic arthritis,,True,,,,,,,M08.8,XIII,Other juvenile arthritis
+category,FA24.Z,"- - - - Juvenile idiopathic arthritis, unspecified",,True,,,,,,,M08,XIII,Juvenile arthritis
+category,FA25,- - - Gout,,False,D006073,Gout,,,,,M10,XIII,Gout
+category,FA25.0,- - - - Primary gout,,True,,,,,,,M10.0,XIII,Idiopathic gout
+category,FA25.1,- - - - Secondary gout,,False,,,,,,,M10,XIII,Gout
+category,FA25.10,- - - - - Lead-induced gout,,True,,,,,,,M10.1,XIII,Lead-induced gout
+category,FA25.11,- - - - - Drug-induced gout,,True,,,,,,,M10.2,XIII,Drug-induced gout
+category,FA25.12,- - - - - Gouty arthropathy due to enzyme defects or other inherited disorders,,True,,,,,,,M14.0,XIII,Gouty arthropathy due to enzyme defects and other inherited disorders
+category,FA25.1Y,- - - - - Other specified secondary gout,,True,,,,,,,M10,XIII,Gout
+category,FA25.1Z,"- - - - - Secondary gout, unspecified",,True,,,,,,,M10,XIII,Gout
+category,FA25.2,- - - - Gout without specification whether primary or secondary,,False,,,,,,,M10.9,XIII,"Gout, unspecified"
+category,FA25.20,- - - - - Tophaceous gout,,True,,,,,,,M10.9,XIII,"Gout, unspecified"
+category,FA25.2Y,- - - - - Other specified gout without specification whether primary or secondary,,True,,,,,,,M10.9,XIII,"Gout, unspecified"
+category,FA25.2Z,"- - - - - Gout, unspecified",,True,,,,,,,M10.9,XIII,"Gout, unspecified"
+category,FA26,- - - Certain specified crystal arthropathies,,False,,,,,,,M11,XIII,Other crystal arthropathies
+category,FA26.0,- - - - Calcium pyrophosphate dehydrate deposition disease,,True,,,,,,,M11,XIII,Other crystal arthropathies
+category,FA26.1,- - - - Hydroxyapatite deposition disease,,True,,,,,,,M11.0,XIII,Hydroxyapatite deposition disease
+category,FA26.2,- - - - Chondrocalcinosis,,True,D002805,Chondrocalcinosis,,,,,M11.2,XIII,Other chondrocalcinosis
+category,FA26.Y,- - - - Other specified crystal arthropathies,,True,,,,,,,M11.8,XIII,Other specified crystal arthropathies
+category,FA26.Z,"- - - - Crystal arthropathies, unspecified",,True,,,,,,,M11,XIII,Other crystal arthropathies
+category,FA27,- - - Certain specified inflammatory arthropathies,,False,,,,,,,M12,XIII,Other specific arthropathies
+category,FA27.0,- - - - Kashin-Beck disease,,True,D057767,Kashin-Beck Disease,,,,,M12.1,XIII,Kaschin-Beck disease
+category,FA27.1,- - - - Pigmented villonodular synovitis,,True,D013586,"Synovitis, Pigmented Villonodular",,,,,M12.2,XIII,Villonodular synovitis (pigmented)
+category,FA27.2,- - - - Palindromic rheumatism,,True,,,,,,,M12.3,XIII,Palindromic rheumatism
+category,FA27.3,- - - - Transient synovitis,,True,,,,,,,M67.3,XIII,Transient synovitis
+category,FA27.4,- - - - Intermittent hydrarthrosis,,True,,,,,,,M12.4,XIII,Intermittent hydrarthrosis
+category,FA27.Y,- - - - Other specified inflammatory arthropathies,,True,,,,,,,M12.8,XIII,"Other specific arthropathies, not elsewhere classified"
+category,FA2Z,"- - - Inflammatory arthropathies, unspecified",,True,,,,,,,M05-M14,XIII,Inflammatory polyarthropathies
+block,FA30-FA3Z,- - Certain specified joint disorders or deformities of limbs,,False,,,,,,,M20-M25,XIII,Other joint disorders
+category,FA30,- - - Acquired deformities of fingers or toes,,False,,,,,,,M20,XIII,Acquired deformities of fingers and toes
+category,FA30.0,- - - - Acquired hallux valgus,,True,,,,,,,M20.1,XIII,Hallux valgus (acquired)
+category,FA30.1,- - - - Hallux rigidus,,True,,,,,,,M20.2,XIII,Hallux rigidus
+category,FA30.2,- - - - Acquired hammer toe,,True,,,,,,,M20.4,XIII,Other hammer toe(s) (acquired)
+category,FA30.Y,- - - - Other specified acquired deformities of fingers or toes,,True,,,,,,,M20,XIII,Acquired deformities of fingers and toes
+category,FA30.Z,"- - - - Acquired deformities of fingers or toes, unspecified",,True,,,,,,,M20,XIII,Acquired deformities of fingers and toes
+category,FA31,- - - Other acquired deformities of limbs,,False,,,,,,,M21,XIII,Other acquired deformities of limbs
+category,FA31.0,"- - - - Valgus deformity, not elsewhere classified",,True,,,,,,,M21.0,XIII,"Valgus deformity, not elsewhere classified"
+category,FA31.1,"- - - - Varus deformity, not elsewhere classified",,True,,,,,,,M21.1,XIII,"Varus deformity, not elsewhere classified"
+category,FA31.2,- - - - Flexion deformity,,True,,,,,,,M21.2,XIII,Flexion deformity
+category,FA31.3,- - - - Acquired wrist drop,,True,,,,,,,M21.3,XIII,Wrist or foot drop (acquired)
+category,FA31.4,- - - - Acquired foot drop,,True,,,,,,,M21,XIII,Other acquired deformities of limbs
+category,FA31.5,- - - - Acquired pes planus,,True,,,,,,,M21.4,XIII,Flat foot [pes planus] (acquired)
+category,FA31.6,- - - - Acquired clawhand or clubhand,,True,,,,,,,M21,XIII,Other acquired deformities of limbs
+category,FA31.7,- - - - Acquired clawfoot or clubfoot,,True,,,,,,,M21.5,XIII,"Acquired clawhand, clubhand, clawfoot and clubfoot"
+category,FA31.8,- - - - Acquired unequal limb length,,True,,,,,,,M21.7,XIII,Unequal limb length (acquired)
+category,FA31.Y,- - - - Other specified acquired deformities of limbs,,True,,,,,,,M21.8,XIII,Other specified acquired deformities of limbs
+category,FA31.Z,"- - - - Acquired deformities of limbs, unspecified",,True,,,,,,,M21,XIII,Other acquired deformities of limbs
+category,FA32,- - - Disorders of patella,,False,,,,,,,M22,XIII,Disorders of patella
+category,FA32.0,- - - - Recurrent instability of patella,,True,,,,,,,M22,XIII,Disorders of patella
+category,FA32.1,- - - - Patellofemoral disorders,,True,,,,,,,M22.2,XIII,Patellofemoral disorders
+category,FA32.Y,- - - - Other specified disorders of patella,,True,,,,,,,M22.8,XIII,Other disorders of patella
+category,FA32.Z,"- - - - Disorders of patella, unspecified",,True,,,,,,,M22,XIII,Disorders of patella
+category,FA33,- - - Internal derangement of knee,,False,,,,,,,M23,XIII,Internal derangement of knee
+category,FA33.0,- - - - Cystic meniscus,,True,,,,,,,M23.0,XIII,Cystic meniscus
+category,FA33.1,- - - - Discoid meniscus,,True,,,,,,,M23.1,XIII,Discoid meniscus (congenital)
+category,FA33.2,- - - - Derangement of meniscus due to old tear or injury,,True,,,,,,,M23.2,XIII,Derangement of meniscus due to old tear or injury
+category,FA33.3,- - - - Loose body in knee,,True,,,,,,,M23.4,XIII,Loose body in knee
+category,FA33.4,- - - - Chronic instability of knee,,False,,,,,,,M23.5,XIII,Chronic instability of knee
+category,FA33.40,"- - - - - Chronic instability of knee, medial collateral ligament or other or unspecified part of medial meniscus",,True,,,,,,,M23.5,XIII,Chronic instability of knee
+category,FA33.4Y,- - - - - Other specified chronic instability of knee,,True,,,,,,,M23.5,XIII,Chronic instability of knee
+category,FA33.4Z,"- - - - - Chronic instability of knee, unspecified",,True,,,,,,,M23.5,XIII,Chronic instability of knee
+category,FA33.Y,- - - - Other specified internal derangement of knee,,True,,,,,,,M23.8,XIII,Other internal derangements of knee
+category,FA33.Z,"- - - - Internal derangement of knee, unspecified",,True,,,,,,,M23,XIII,Internal derangement of knee
+category,FA34,- - - Certain specified joint derangements,,False,,,,,,,M24,XIII,Other specific joint derangements
+category,FA34.0,- - - - Loose body in joint,,True,,,,,,,M24.0,XIII,Loose body in joint
+category,FA34.1,- - - - Disorder of ligament,,True,,,,,,,M24.2,XIII,Disorder of ligament
+category,FA34.2,- - - - Recurrent instability of joint,,True,,,,,,,M24.4,XIII,Recurrent dislocation and subluxation of joint
+category,FA34.3,- - - - Contracture of joint,,True,,,,,,,M24.5,XIII,Contracture of joint
+category,FA34.4,- - - - Ankylosis of joint,,True,,,,,,,M24.6,XIII,Ankylosis of joint
+category,FA34.5,- - - - Impingement syndrome of hip,,True,,,,,,,M24,XIII,Other specific joint derangements
+category,FA34.Y,- - - - Other joint derangements,,True,,,,,,,M24.8,XIII,"Other specific joint derangements, not elsewhere classified"
+category,FA35,- - - Wear of articular bearing surface of joint prosthesis,,False,,,,,,,M20-M25,XIII,Other joint disorders
+category,FA35.0,- - - - Wear of articular bearing surface of joint prosthesis of hip,,True,,,,,,,M20-M25,XIII,Other joint disorders
+category,FA35.1,- - - - Wear of articular bearing surface of joint prosthesis of knee,,True,,,,,,,M20-M25,XIII,Other joint disorders
+category,FA35.2,- - - - Wear of articular bearing surface of joint prosthesis of other joint,,True,,,,,,,M20-M25,XIII,Other joint disorders
+category,FA35.Z,- - - - Wear of articular bearing surface of joint prosthesis of unspecified joint,,True,,,,,,,M20-M25,XIII,Other joint disorders
+category,FA36,- - - Effusion of joint,,False,,,,,,,M25.4,XIII,Effusion of joint
+category,FA36.0,- - - - Effusion of joint containing blood,,True,,,,,,,M25.0,XIII,Haemarthrosis
+category,FA36.Y,- - - - Other specified effusion of joint,,True,,,,,,,M25.4,XIII,Effusion of joint
+category,FA36.Z,"- - - - Effusion of joint, unspecified",,True,,,,,,,M25.4,XIII,Effusion of joint
+category,FA37,"- - - Certain joint disorders, not elsewhere classified",,False,,,,,,,M25,XIII,"Other joint disorders, not elsewhere classified"
+category,FA37.0,- - - - Osteophyte,,True,,,,,,,M25.7,XIII,Osteophyte
+category,FA37.Y,"- - - - Other specified certain joint disorders, not elsewhere classified",,True,,,,,,,M25.8,XIII,Other specified joint disorders
+category,FA37.Z,"- - - - Certain joint disorders, not elsewhere classified, unspecified",,True,,,,,,,M25,XIII,"Other joint disorders, not elsewhere classified"
+category,FA38,- - - Arthropathy in diseases classified elsewhere,,False,,,,,,,M14,XIII,Arthropathies in other diseases classified elsewhere
+category,FA38.0,- - - - Diabetic arthropathy,,True,,,,,,,M14.2,XIII,Diabetic arthropathy
+category,FA38.1,- - - - Neuropathic arthropathy,,False,,,,,,,M14.6,XIII,Neuropathic arthropathy
+category,FA38.10,- - - - - Diabetic Charcot arthropathy,,True,,,,,,,M14.6,XIII,Neuropathic arthropathy
+category,FA38.1Y,- - - - - Other specified neuropathic arthropathy,,True,,,,,,,M14.6,XIII,Neuropathic arthropathy
+category,FA38.1Z,"- - - - - Neuropathic arthropathy, unspecified",,True,,,,,,,M14.6,XIII,Neuropathic arthropathy
+category,FA38.2,- - - - Arthropathy in hypersensitivity reactions classified elsewhere,,True,,,,,,,M36.4,XIII,Arthropathy in hypersensitivity reactions classified elsewhere
+category,FA38.3,- - - - Haemophilic arthropathy,,True,,,,,,,M36.2,XIII,Haemophilic arthropathy
+category,FA38.Y,- - - - Other specified arthropathy in diseases classified elsewhere,,True,,,,,,,M14.8,XIII,Arthropathies in other specified diseases classified elsewhere
+category,FA38.Z,- - - - Unspecified arthropathy in diseases classified elsewhere,,True,,,,,,,M14,XIII,Arthropathies in other diseases classified elsewhere
+category,FA3Z,- - - Unspecified joint disorders and deformities of limbs,,True,,,,,,,M20-M25,XIII,Other joint disorders
+category,FA5Y,- - Other specified arthropathies,,True,,,,,,,M00-M25,XIII,Arthropathies
+category,FA5Z,"- - Arthropathies, unspecified",,True,,,,,,,M00-M25,XIII,Arthropathies
+block,FB80-FB8Z,- Osteopathies or chondropathies,,False,,,,,,,M80-M94,XIII,Osteopathies and chondropathies
+category,FB80,- - Certain specified disorders of bone density or structure,,False,,,,,,,M85,XIII,Other disorders of bone density and structure
+category,FB80.0,- - - Fibrous dysplasia of bone,,True,,,,,,,M85.1,XIII,Skeletal fluorosis
+category,FB80.1,- - - Skeletal fluorosis,,True,,,,,,,M85.1,XIII,Skeletal fluorosis
+category,FB80.2,- - - Osteitis condensans,,True,,,,,,,M85.3,XIII,Osteitis condensans
+category,FB80.3,- - - Hyperostosis of skull,,True,,,,,,,M85.2,XIII,Hyperostosis of skull
+category,FB80.4,- - - Osteosclerosis,,True,,,,,,,M85,XIII,Other disorders of bone density and structure
+category,FB80.5,- - - Solitary bone cyst,,True,,,,,,,M85.4,XIII,Solitary bone cyst
+category,FB80.6,- - - Aneurysmal bone cyst,,True,,,,,,,M85.5,XIII,Aneurysmal bone cyst
+category,FB80.7,- - - Malunion of fracture,,True,,,,,,,M84.0,XIII,Malunion of fracture
+category,FB80.8,- - - Nonunion of fracture,,True,,,,,,,M84.1,XIII,Nonunion of fracture [pseudarthrosis]
+category,FB80.9,- - - Delayed union of fracture,,True,,,,,,,M84.2,XIII,Delayed union of fracture
+category,FB80.A,"- - - Stress fracture, not elsewhere classified",,True,,,,,,,M84.3,XIII,"Stress fracture, not elsewhere classified"
+category,FB80.B,"- - - Pathological fracture, not elsewhere classified",,True,,,,,,,M84.4,XIII,"Pathological fracture, not elsewhere classified"
+category,FB80.Y,- - - Other specified disorders of bone density and structure,,True,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB80.Z,"- - - Disorder of bone density and structure, unspecified",,True,,,,,,,M85,XIII,Other disorders of bone density and structure
+category,FB81,- - Osteonecrosis,,False,D010020,Osteonecrosis,,,,,M80-M94,XIII,Osteopathies and chondropathies
+category,FB81.0,- - - Idiopathic aseptic osteonecrosis,,True,,,,,,,M87.0,XIII,Idiopathic aseptic necrosis of bone
+category,FB81.1,- - - Osteonecrosis due to dialysis,,True,,,,,,,M80-M94,XIII,Osteopathies and chondropathies
+category,FB81.2,- - - Drug-induced osteonecrosis,,True,,,,,,,M87.1,XIII,Osteonecrosis due to drugs
+category,FB81.3,- - - Osteonecrosis due to trauma,,True,,,,,,,M87.2,XIII,Osteonecrosis due to previous trauma
+category,FB81.4,- - - Osteonecrosis due to haemoglobinopathy,,True,,,,,,,M90.4,XIII,Osteonecrosis due to haemoglobinopathy
+category,FB81.5,- - - Osteonecrosis due to ionizing radiation,,True,,,,,,,M80-M94,XIII,Osteopathies and chondropathies
+category,FB81.Y,- - - Other specified osteonecrosis,,True,,,,,,,M80-M94,XIII,Osteopathies and chondropathies
+category,FB81.Z,"- - - Osteonecrosis, unspecified",,True,,,,,,,M80-M94,XIII,Osteopathies and chondropathies
+category,FB82,- - Chondropathies,,False,,,,,,,M91-M94,XIII,Chondropathies
+category,FB82.0,- - - Chondromalacia,,False,,,,,,,M94.2,XIII,Chondromalacia
+category,FB82.00,- - - - Chondromalacia patellae,,True,D046789,Chondromalacia Patellae,,,,,M22.4,XIII,Chondromalacia patellae
+category,FB82.0Y,- - - - Other specified chondromalacia,,True,,,,,,,M94.2,XIII,Chondromalacia
+category,FB82.0Z,"- - - - Chondromalacia, unspecified",,True,,,,,,,M94.2,XIII,Chondromalacia
+category,FB82.1,- - - Osteochondrosis or osteochondritis dissecans,,True,D055034,Osteochondrosis,,,,,M93.9,XIII,"Osteochondropathy, unspecified"
+category,FB82.2,- - - Slipped upper femoral epiphysis,,True,,,,,,,M93.0,XIII,Slipped upper femoral epiphysis (nontraumatic)
+category,FB82.3,- - - Relapsing polychondritis,,True,D011081,"Polychondritis, Relapsing",,,,,M94.1,XIII,Relapsing polychondritis
+category,FB82.Y,- - - Other specified chondropathies,,True,,,,,,,M91-M94,XIII,Chondropathies
+category,FB82.Z,"- - - Chondropathies, unspecified",,True,,,,,,,M91-M94,XIII,Chondropathies
+category,FB83,- - Low bone mass disorders,,False,,,,,,,M80-M85,XIII,Disorders of bone density and structure
+category,FB83.0,- - - Osteopenia,,False,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB83.00,- - - - Premenopausal idiopathic osteopenia,,True,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB83.01,- - - - Postmenopausal osteopenia,,True,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB83.02,- - - - Senile osteopenia,,True,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB83.03,- - - - Osteopenia of disuse,,True,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB83.04,- - - - Drug-induced osteopenia,,True,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB83.0Y,- - - - Other specified osteopenia,,True,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB83.0Z,"- - - - Osteopenia, unspecified",,True,,,,,,,M85.8,XIII,Other specified disorders of bone density and structure
+category,FB83.1,- - - Osteoporosis,,False,D010024,Osteoporosis,,,,,M80-M85,XIII,Disorders of bone density and structure
+category,FB83.10,- - - - Premenopausal idiopathic osteoporosis,,True,,,,,,,M81.5,XIII,Idiopathic osteoporosis
+category,FB83.11,- - - - Postmenopausal osteoporosis,,True,D015663,"Osteoporosis, Postmenopausal",,,,,M81.0,XIII,Postmenopausal osteoporosis
+category,FB83.12,- - - - Osteoporosis of disuse,,True,,,,,,,M81.2,XIII,Osteoporosis of disuse
+category,FB83.13,- - - - Drug-induced osteoporosis,,True,,,,,,,M81.4,XIII,Drug-induced osteoporosis
+category,FB83.14,- - - - Osteoporosis due to malabsorption,,True,,,,,,,M81,XIII,Osteoporosis without pathological fracture
+category,FB83.1Y,- - - - Other specified osteoporosis,,True,,,,,,,M80-M85,XIII,Disorders of bone density and structure
+category,FB83.1Z,"- - - - Osteoporosis, unspecified",,True,,,,,,,M80-M85,XIII,Disorders of bone density and structure
+category,FB83.2,- - - Adult osteomalacia,,False,D010018,Osteomalacia,,,,,M83,XIII,Adult osteomalacia
+category,FB83.20,- - - - Aluminium bone disease,,True,,,,,,,M83.4,XIII,Aluminium bone disease
+category,FB83.21,- - - - Adult osteomalacia due to malnutrition,,True,,,,,,,M83.3,XIII,Adult osteomalacia due to malnutrition
+category,FB83.22,- - - - Drug-induced adult osteomalacia,,True,,,,,,,M83.5,XIII,Other drug-induced osteomalacia in adults
+category,FB83.2Y,- - - - Other specified adult osteomalacia,,True,,,,,,,M83.8,XIII,Other adult osteomalacia
+category,FB83.2Z,"- - - - Adult osteomalacia, unspecified",,True,,,,,,,M83,XIII,Adult osteomalacia
+category,FB84,- - Osteomyelitis or osteitis,,False,D010019,Osteomyelitis,,,,,M86,XIII,Osteomyelitis
+category,FB84.0,- - - Acute haematogenous osteomyelitis,,True,,,,,,,M86.0,XIII,Acute haematogenous osteomyelitis
+category,FB84.1,- - - Other acute osteomyelitis,,True,,,,,,,M86,XIII,Osteomyelitis
+category,FB84.2,- - - Subacute osteomyelitis,,True,,,,,,,M86.2,XIII,Subacute osteomyelitis
+category,FB84.3,- - - Chronic multifocal osteomyelitis,,True,,,,,,,M86,XIII,Osteomyelitis
+category,FB84.4,- - - Chronic osteomyelitis with draining sinus,,True,,,,,,,M86,XIII,Osteomyelitis
+category,FB84.5,- - - Other chronic haematogenous osteomyelitis,,True,,,,,,,M86.5,XIII,Other chronic haematogenous osteomyelitis
+category,FB84.Y,- - - Other specified osteomyelitis or osteitis,,True,,,,,,,M86.8,XIII,Other osteomyelitis
+category,FB84.Z,"- - - Osteomyelitis or osteitis, unspecified",,True,,,,,,,M86,XIII,Osteomyelitis
+category,FB85,- - Paget disease of bone,,False,,,,,,,M88,XIII,Paget disease of bone [osteitis deformans]
+category,FB85.0,- - - Juvenile Paget disease,,True,,,,,,,M88,XIII,Paget disease of bone [osteitis deformans]
+category,FB85.1,- - - Paget disease of bone in neoplastic disease,,True,,,,,,,M90.6,XIII,Osteitis deformans in neoplastic disease
+category,FB85.Y,- - - Other specified Paget disease of bone,,True,,,,,,,M88.8,XIII,Paget disease of other bones
+category,FB85.Z,"- - - Paget disease of bone, unspecified",,True,,,,,,,M88,XIII,Paget disease of bone [osteitis deformans]
+category,FB86,- - Disorders associated with bone growth,,False,,,,,,,M89,XIII,Other disorders of bone
+category,FB86.0,- - - Epiphyseal arrest,,True,,,,,,,M89.1,XIII,Epiphyseal arrest
+category,FB86.1,- - - Bone hyperplasias,,False,,,,,,,M89,XIII,Other disorders of bone
+category,FB86.10,- - - - Hypertrophic osteoarthropathy,,True,,,,,,,M89,XIII,Other disorders of bone
+category,FB86.11,- - - - Hypertrophy of bone,,True,,,,,,,M89.3,XIII,Hypertrophy of bone
+category,FB86.1Y,- - - - Other specified bone hyperplasias,,True,,,,,,,M89,XIII,Other disorders of bone
+category,FB86.1Z,"- - - - Bone hyperplasias, unspecified",,True,,,,,,,M89,XIII,Other disorders of bone
+category,FB86.2,- - - Osteolysis,,True,,,,,,,M89.5,XIII,Osteolysis
+category,FB86.Y,- - - Other specified disorders associated with bone growth,,True,,,,,,,M89.8,XIII,Other specified disorders of bone
+category,FB86.Z,"- - - Disorders associated with bone growth, unspecified",,True,,,,,,,M89,XIII,Other disorders of bone
+category,FB8Y,- - Other specified osteopathies or chondropathies,,True,,,,,,,M80-M94,XIII,Osteopathies and chondropathies
+category,FB8Z,"- - Osteopathies or chondropathies, unspecified",,True,,,,,,,M80-M94,XIII,Osteopathies and chondropathies
