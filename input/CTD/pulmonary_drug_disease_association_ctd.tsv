@@ -1,0 +1,3160 @@
+CasRN	ChemicalName	DiseaseID	DiseaseName	Score
+34522-38-8	1'-methylspiro(adamantane-2,3'-pyrrolidine)maleate	D007251	Influenza, Human	0.0
+139890-68-9	1,2-bis(2-aminophenoxy)ethane N,N,N',N'-tetraacetic acid acetoxymethyl ester	D014693	Ventricular Fibrillation	0.0
+611-59-6	1,7-dimethylxanthine	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+48144-44-1	1-(3-chlorophenyl)biguanide	D006973	Hypertension	0.0
+107767-55-5	1-(5-hydroxy-5-methylhexyl)-3-methylxanthine	D002177	Candidiasis	0.0
+9088-01-1	1-Sarcosine-8-Isoleucine Angiotensin II	D006973	Hypertension	0.0
+6874-80-2	13-hydroxylupanine-2-pyrrolecarbonic acid	D001145	Arrhythmias, Cardiac	0.0
+6874-80-2	13-hydroxylupanine-2-pyrrolecarbonic acid	D014693	Ventricular Fibrillation	0.0
+102492-19-3	14-dehydroxy-3-glucodigitoxigenin	D006333	Heart Failure	0.0
+33100-27-5	15-crown-5	D017202	Myocardial Ischemia	0.0
+52670-65-2	17-pentylsparteine	D001145	Arrhythmias, Cardiac	0.0
+1449-05-4	18alpha-glycyrrhetinic acid	D006976	Hypertension, Pulmonary	0.0
+53209-27-1	2''-galloylhyperin	D011654	Pulmonary Edema	0.0
+67287-49-4	2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine	D012893	Sleep Wake Disorders	0.0
+490-79-9	2,5-dihydroxybenzoic acid	D009202	Cardiomyopathies	0.0
+92891-93-5	2-((((2-chloroethyl)nitrosoamino)carbonyl)amino)propanamide	D009303	Nasopharyngeal Neoplasms	0.0
+72583-92-7	2-(2-benzofuranyl)-2-imidazoline	D001145	Arrhythmias, Cardiac	0.0
+154447-36-6	2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one	D007022	Hypotension	0.0
+154447-36-6	2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one	D009362	Neoplasm Metastasis	0.0
+163042-96-4	2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronamide	D009203	Myocardial Infarction	0.0
+146-77-0	2-Chloroadenosine	D009203	Myocardial Infarction	0.0
+88-14-2	2-furoic acid	D008175	Lung Neoplasms	0.0
+362-07-2	2-Methoxyestradiol	D006332	Cardiomegaly	0.0
+362-07-2	2-Methoxyestradiol	D006976	Hypertension, Pulmonary	0.0
+102575-24-6	2-methoxyidazoxan	D007022	Hypotension	0.0
+53296-10-9	2-phenylaminoadenosine	D017202	Myocardial Ischemia	0.0
+2409-55-4	2-tert-butyl-4-methylphenol	D008175	Lung Neoplasms	0.0
+1948-33-0	2-tert-butylhydroquinone	D006332	Cardiomegaly	0.0
+1948-33-0	2-tert-butylhydroquinone	D006973	Hypertension	0.0
+528-74-5	3',5'-dichloromethotrexate	D008175	Lung Neoplasms	0.0
+4339-71-3	3,3',4,5'-tetrahydroxystilbene	D006332	Cardiomegaly	0.0
+4339-71-3	3,3',4,5'-tetrahydroxystilbene	D009362	Neoplasm Metastasis	0.0
+67198-13-4	3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide, (trans)-Isomer	D001145	Arrhythmias, Cardiac	0.0
+6957-27-3	3,4-dihydropapaverine	D006973	Hypertension	0.0
+143578-51-2	3,6-dimethylaminodibenzopyridonium edetate	D001145	Arrhythmias, Cardiac	0.0
+143578-51-2	3,6-dimethylaminodibenzopyridonium edetate	D017180	Tachycardia, Ventricular	0.0
+143578-51-2	3,6-dimethylaminodibenzopyridonium edetate	D014693	Ventricular Fibrillation	0.0
+143578-51-2	3,6-dimethylaminodibenzopyridonium edetate	D018879	Ventricular Premature Complexes	0.0
+76144-81-5	3-(2,2,2-trimethylhydrazine)propionate	D006333	Heart Failure	0.0
+162011-83-8	3-(3,4-difluorophenyl)-4-(4-(methylsulfonyl)phenyl)-2(5H)-furanone	D006333	Heart Failure	0.0
+130061-81-3	3-hydroxy-10,11-dihydroquinidine	D001145	Arrhythmias, Cardiac	0.0
+130061-81-3	3-hydroxy-10,11-dihydroquinidine	D017180	Tachycardia, Ventricular	0.0
+577-85-5	3-hydroxyflavone	D009362	Neoplasm Metastasis	0.0
+5142-23-4	3-methyladenine	D006333	Heart Failure	0.0
+130603-71-3	4(G)-alpha-glucopyranosyl-rutin	D009202	Cardiomyopathies	0.0
+101-77-9	4,4'-diaminodiphenylmethane	D009362	Neoplasm Metastasis	0.0
+504-24-5	4-Aminopyridine	D001145	Arrhythmias, Cardiac	0.0
+504-24-5	4-Aminopyridine	D007022	Hypotension	0.0
+1076-38-6	4-hydroxycoumarin	D009362	Neoplasm Metastasis	0.0
+4843-98-5	4-hydroxypyrazole	D008175	Lung Neoplasms	0.0
+1821-12-1	4-phenylbutyric acid	D009203	Myocardial Infarction	0.0
+3317-61-1	5,5-dimethyl-1-pyrroline-1-oxide	D009202	Cardiomyopathies	0.0
+29347-89-5	5,6,7,8-tetrahydrofolic acid	D018376	Cardiovascular Abnormalities	0.0
+5090-36-8	5,6-Dihydroxytryptamine	D007022	Hypotension	0.0
+31363-74-3	5,7-Dihydroxytryptamine	D007022	Hypotension	0.0
+1191-85-1	5,8,11,14-Eicosatetraynoic Acid	D011654	Pulmonary Edema	0.0
+213252-19-8	5-((2,4-dioxo-5-thiazolidinyl)methyl)-2-methoxy-N-((4-(trifluoromethyl)phenyl)methyl)benzamide	D003920	Diabetes Mellitus	0.0
+153042-42-3	5-(dimethylamino)-N-(3,4-dimethyl-5-isoxazolyl)-1-naphthalenesulfonamide	D006973	Hypertension	0.0
+624-00-0	5-hydroxydecanoic acid	D006973	Hypertension	0.0
+484-20-8	5-Methoxypsoralen	D006332	Cardiomegaly	0.0
+484-20-8	5-Methoxypsoralen	D009203	Myocardial Infarction	0.0
+34661-85-3	5-methylurapidil	D006973	Hypertension	0.0
+115066-14-3	6-Cyano-7-nitroquinoxaline-2,3-dione	D006973	Hypertension	0.0
+56305-04-5	6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid	D009202	Cardiomyopathies	0.0
+50608-63-4	6-methyl-1,2,3,5-tetrahydroimidazo(2,1-b)quinazolin-2-one hydrochloride	D009203	Myocardial Infarction	0.0
+115039-00-4	6-methyl-1,3,8-trichlorodibenzofuran	D008175	Lung Neoplasms	0.0
+115039-00-4	6-methyl-1,3,8-trichlorodibenzofuran	D009362	Neoplasm Metastasis	0.0
+57987-77-6	7,8-dichloro-1,2,3,4-tetrahydroisoquinoline	D007022	Hypotension	0.0
+93-35-6	7-hydroxycoumarin	D006332	Cardiomegaly	0.0
+79821-50-4	7-oxoprostaglandin I2	D001145	Arrhythmias, Cardiac	0.0
+94899-83-9	711389-S	D001145	Arrhythmias, Cardiac	0.0
+94899-83-9	711389-S	D001281	Atrial Fibrillation	0.0
+94899-83-9	711389-S	D018879	Ventricular Premature Complexes	0.0
+148589-13-3	8-(3-chlorostyryl)caffeine	D007022	Hypotension	0.0
+80206-91-3	8-(4-sulfophenyl)theophylline	D007022	Hypotension	0.0
+78950-78-4	8-Hydroxy-2-(di-n-propylamino)tetralin	D006973	Hypertension	0.0
+961-45-5	8-phenyltheophylline	D007022	Hypotension	0.0
+6267-02-3	9,9-dimethylcarbazine	D014376	Tuberculosis	0.0
+60203-57-8	9-deoxy-delta-9-prostaglandin D2	D008175	Lung Neoplasms	0.0
+56180-94-0	Acarbose	D002312	Cardiomyopathy, Hypertrophic	0.0
+56180-94-0	Acarbose	D003924	Diabetes Mellitus, Type 2	0.0
+56180-94-0	Acarbose	D009765	Obesity	0.0
+37517-30-9	Acebutolol	D000787	Angina Pectoris	0.0
+37517-30-9	Acebutolol	D001145	Arrhythmias, Cardiac	0.0
+37517-30-9	Acebutolol	D006973	Hypertension	0.0
+37517-30-9	Acebutolol	D017202	Myocardial Ischemia	0.0
+37517-30-9	Acebutolol	D014693	Ventricular Fibrillation	0.0
+37517-30-9	Acebutolol	D018879	Ventricular Premature Complexes	0.0
+32795-44-1	Acecainide	D018879	Ventricular Premature Complexes	0.0
+89796-99-6	aceclofenac	D001172	Arthritis, Rheumatoid	0.0
+152-72-7	Acenocoumarol	D001145	Arrhythmias, Cardiac	0.0
+152-72-7	Acenocoumarol	D001281	Atrial Fibrillation	0.0
+152-72-7	Acenocoumarol	D012214	Rheumatic Heart Disease	0.0
+152-72-7	Acenocoumarol	D054556	Venous Thromboembolism	0.0
+152-72-7	Acenocoumarol	D020246	Venous Thrombosis	0.0
+103-90-2	Acetaminophen	D001172	Arthritis, Rheumatoid	0.0
+103-90-2	Acetaminophen	D007022	Hypotension	0.0
+103-90-2	Acetaminophen	D009203	Myocardial Infarction	0.0
+103-90-2	Acetaminophen	D010003	Osteoarthritis	0.0
+103-90-2	Acetaminophen	D012141	Respiratory Tract Infections	0.0
+103-90-2	Acetaminophen	D012852	Sinusitis	0.0
+59-66-5	Acetazolamide	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+59-66-5	Acetazolamide	D020182	Sleep Apnea, Central	0.0
+498-02-2	acetovanillone	D002310	Cardiomyopathy, Alcoholic	0.0
+498-02-2	acetovanillone	D006973	Hypertension	0.0
+498-02-2	acetovanillone	D007022	Hypotension	0.0
+14992-62-2	Acetylcarnitine	D009202	Cardiomyopathies	0.0
+51-84-3	Acetylcholine	D006973	Hypertension	0.0
+51-84-3	Acetylcholine	D007022	Hypotension	0.0
+616-91-1	Acetylcysteine	D000789	Angina, Unstable	0.0
+616-91-1	Acetylcysteine	D016535	Bronchial Hyperreactivity	0.0
+616-91-1	Acetylcysteine	D009202	Cardiomyopathies	0.0
+616-91-1	Acetylcysteine	D018376	Cardiovascular Abnormalities	0.0
+616-91-1	Acetylcysteine	D003550	Cystic Fibrosis	0.0
+616-91-1	Acetylcysteine	D006973	Hypertension	0.0
+616-91-1	Acetylcysteine	D007022	Hypotension	0.0
+616-91-1	Acetylcysteine	D008133	Long QT Syndrome	0.0
+616-91-1	Acetylcysteine	D009203	Myocardial Infarction	0.0
+616-91-1	Acetylcysteine	D017202	Myocardial Ischemia	0.0
+616-91-1	Acetylcysteine	D009205	Myocarditis	0.0
+616-91-1	Acetylcysteine	D009362	Neoplasm Metastasis	0.0
+616-91-1	Acetylcysteine	D009765	Obesity	0.0
+616-91-1	Acetylcysteine	D011654	Pulmonary Edema	0.0
+616-91-1	Acetylcysteine	D011656	Pulmonary Emphysema	0.0
+616-91-1	Acetylcysteine	D012128	Respiratory Distress Syndrome	0.0
+60-38-8	acetylstrophanthidin	D006333	Heart Failure	0.0
+55079-83-9	Acitretin	D015535	Arthritis, Psoriatic	0.0
+58-61-7	Adenosine	D001145	Arrhythmias, Cardiac	0.0
+58-61-7	Adenosine	D001249	Asthma	0.0
+58-61-7	Adenosine	D009202	Cardiomyopathies	0.0
+58-61-7	Adenosine	D006333	Heart Failure	0.0
+58-61-7	Adenosine	D006973	Hypertension	0.0
+58-61-7	Adenosine	D017202	Myocardial Ischemia	0.0
+58-61-7	Adenosine	D013617	Tachycardia, Supraventricular	0.0
+58-61-7	Adenosine	D017180	Tachycardia, Ventricular	0.0
+56-65-5	Adenosine Triphosphate	D008175	Lung Neoplasms	0.0
+56-65-5	Adenosine Triphosphate	D013611	Tachycardia, Atrioventricular Nodal Reentry	0.0
+56-65-5	Adenosine Triphosphate	D013617	Tachycardia, Supraventricular	0.0
+56-65-5	Adenosine Triphosphate	D017180	Tachycardia, Ventricular	0.0
+148498-78-6	Adrenomedullin	D006973	Hypertension	0.0
+850140-72-6	Afatinib	D008175	Lung Neoplasms	0.0
+28441-98-7	agathisflavone	D007251	Influenza, Human	0.0
+306-60-5	Agmatine	D007022	Hypotension	0.0
+81443-73-4	AH 23848	D006973	Hypertension	0.0
+96436-73-6	AHR 10718	D001145	Arrhythmias, Cardiac	0.0
+125651-31-2	AHR 12234	D017180	Tachycardia, Ventricular	0.0
+3031-94-5	AICA ribonucleotide	D006332	Cardiomegaly	0.0
+4360-12-7	Ajmaline	D001145	Arrhythmias, Cardiac	0.0
+4360-12-7	Ajmaline	D017180	Tachycardia, Ventricular	0.0
+4360-12-7	Ajmaline	D014693	Ventricular Fibrillation	0.0
+4360-12-7	Ajmaline	D018879	Ventricular Premature Complexes	0.0
+129652-42-2	albolabrin	D011655	Pulmonary Embolism	0.0
+18559-94-9	Albuterol	D001249	Asthma	0.0
+18559-94-9	Albuterol	D029481	Bronchitis, Chronic	0.0
+18559-94-9	Albuterol	D003324	Coronary Artery Disease	0.0
+18559-94-9	Albuterol	D004417	Dyspnea	0.0
+18559-94-9	Albuterol	D006333	Heart Failure	0.0
+18559-94-9	Albuterol	D006973	Hypertension	0.0
+18559-94-9	Albuterol	D009205	Myocarditis	0.0
+18559-94-9	Albuterol	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+18559-94-9	Albuterol	D012141	Respiratory Tract Infections	0.0
+22131-79-9	alclofenac	D001172	Arthritis, Rheumatoid	0.0
+66376-36-1	Alendronate	D010024	Osteoporosis	0.0
+66376-36-1	Alendronate	D015663	Osteoporosis, Postmenopausal	0.0
+41294-56-8	alfacalcidol	D006973	Hypertension	0.0
+41294-56-8	alfacalcidol	D010024	Osteoporosis	0.0
+41294-56-8	alfacalcidol	D015663	Osteoporosis, Postmenopausal	0.0
+41294-56-8	alfacalcidol	D012141	Respiratory Tract Infections	0.0
+71195-58-9	Alfentanil	D003371	Cough	0.0
+71195-58-9	Alfentanil	D006973	Hypertension	0.0
+33178-86-8	alinidine	D000787	Angina Pectoris	0.0
+33178-86-8	alinidine	D001145	Arrhythmias, Cardiac	0.0
+33178-86-8	alinidine	D017180	Tachycardia, Ventricular	0.0
+5300-03-8	Alitretinoin	D008175	Lung Neoplasms	0.0
+23444-65-7	alkannin	D011654	Pulmonary Edema	0.0
+315-30-0	Allopurinol	D006073	Gout	0.0
+592-88-1	allyl sulfide	D011654	Pulmonary Edema	0.0
+27469-53-0	Almitrine	D012131	Respiratory Insufficiency	0.0
+604-59-1	alpha-naphthoflavone	D009765	Obesity	0.0
+59-02-9	alpha-Tocopherol	D006973	Hypertension	0.0
+59-02-9	alpha-Tocopherol	D008175	Lung Neoplasms	0.0
+59-02-9	alpha-Tocopherol	D009203	Myocardial Infarction	0.0
+59-02-9	alpha-Tocopherol	D009362	Neoplasm Metastasis	0.0
+59-02-9	alpha-Tocopherol	D010490	Pericardial Effusion	0.0
+59-02-9	alpha-Tocopherol	D011657	Pulmonary Eosinophilia	0.0
+28981-97-7	Alprazolam	D009203	Myocardial Infarction	0.0
+13655-52-2	Alprenolol	D000787	Angina Pectoris	0.0
+13655-52-2	Alprenolol	D001145	Arrhythmias, Cardiac	0.0
+13655-52-2	Alprenolol	D001281	Atrial Fibrillation	0.0
+13655-52-2	Alprenolol	D006973	Hypertension	0.0
+745-65-3	Alprostadil	D004417	Dyspnea	0.0
+745-65-3	Alprostadil	D006333	Heart Failure	0.0
+745-65-3	Alprostadil	D006973	Hypertension	0.0
+745-65-3	Alprostadil	D006976	Hypertension, Pulmonary	0.0
+745-65-3	Alprostadil	D011655	Pulmonary Embolism	0.0
+745-65-3	Alprostadil	D011928	Raynaud Disease	0.0
+745-65-3	Alprostadil	D012128	Respiratory Distress Syndrome	0.0
+10043-01-3	aluminum sulfate	D050197	Atherosclerosis	0.0
+50588-47-1	amafolone	D017180	Tachycardia, Ventricular	0.0
+768-94-5	Amantadine	D007251	Influenza, Human	0.0
+115-79-7	Ambenonium Chloride	D007022	Hypotension	0.0
+1617-53-4	amentoflavone	D007251	Influenza, Human	0.0
+41658-78-0	amezinium	D007024	Hypotension, Orthostatic	0.0
+20537-88-6	Amifostine	D009202	Cardiomyopathies	0.0
+20537-88-6	Amifostine	D004417	Dyspnea	0.0
+37517-28-5	Amikacin	D003550	Cystic Fibrosis	0.0
+37517-28-5	Amikacin	D004696	Endocarditis	0.0
+37517-28-5	Amikacin	D010493	Pericarditis	0.0
+37517-28-5	Amikacin	D014376	Tuberculosis	0.0
+2609-46-3	Amiloride	D000787	Angina Pectoris	0.0
+2609-46-3	Amiloride	D006333	Heart Failure	0.0
+2609-46-3	Amiloride	D006973	Hypertension	0.0
+68529-45-3	amiloride, hydrochlorothiazide drug combination	D006333	Heart Failure	0.0
+68529-45-3	amiloride, hydrochlorothiazide drug combination	D006973	Hypertension	0.0
+125-84-8	Aminoglutethimide	D006973	Hypertension	0.0
+125-84-8	Aminoglutethimide	D009362	Neoplasm Metastasis	0.0
+645-88-5	Aminooxyacetic Acid	D006332	Cardiomegaly	0.0
+645-88-5	Aminooxyacetic Acid	D006973	Hypertension	0.0
+317-34-0	Aminophylline	D000787	Angina Pectoris	0.0
+317-34-0	Aminophylline	D001249	Asthma	0.0
+317-34-0	Aminophylline	D054537	Atrioventricular Block	0.0
+317-34-0	Aminophylline	D001991	Bronchitis	0.0
+317-34-0	Aminophylline	D029481	Bronchitis, Chronic	0.0
+317-34-0	Aminophylline	D004417	Dyspnea	0.0
+317-34-0	Aminophylline	D006333	Heart Failure	0.0
+317-34-0	Aminophylline	D007022	Hypotension	0.0
+317-34-0	Aminophylline	D008175	Lung Neoplasms	0.0
+317-34-0	Aminophylline	D017202	Myocardial Ischemia	0.0
+317-34-0	Aminophylline	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+317-34-0	Aminophylline	D017180	Tachycardia, Ventricular	0.0
+317-34-0	Aminophylline	D018879	Ventricular Premature Complexes	0.0
+2207-50-3	Aminorex	D009765	Obesity	0.0
+65-49-6	Aminosalicylic Acid	D014376	Tuberculosis	0.0
+1951-25-3	Amiodarone	D000787	Angina Pectoris	0.0
+1951-25-3	Amiodarone	D001145	Arrhythmias, Cardiac	0.0
+1951-25-3	Amiodarone	D001281	Atrial Fibrillation	0.0
+1951-25-3	Amiodarone	D006332	Cardiomegaly	0.0
+1951-25-3	Amiodarone	D009202	Cardiomyopathies	0.0
+1951-25-3	Amiodarone	D002311	Cardiomyopathy, Dilated	0.0
+1951-25-3	Amiodarone	D002312	Cardiomyopathy, Hypertrophic	0.0
+1951-25-3	Amiodarone	D006333	Heart Failure	0.0
+1951-25-3	Amiodarone	D009181	Mycoses	0.0
+1951-25-3	Amiodarone	D009203	Myocardial Infarction	0.0
+1951-25-3	Amiodarone	D017202	Myocardial Ischemia	0.0
+1951-25-3	Amiodarone	D009205	Myocarditis	0.0
+1951-25-3	Amiodarone	D013613	Tachycardia, Ectopic Junctional	0.0
+1951-25-3	Amiodarone	D013617	Tachycardia, Supraventricular	0.0
+1951-25-3	Amiodarone	D017180	Tachycardia, Ventricular	0.0
+1951-25-3	Amiodarone	D014693	Ventricular Fibrillation	0.0
+1951-25-3	Amiodarone	D018879	Ventricular Premature Complexes	0.0
+1951-25-3	Amiodarone	D014927	Wolff-Parkinson-White Syndrome	0.0
+50-48-6	Amitriptyline	D000787	Angina Pectoris	0.0
+50-48-6	Amitriptyline	D006973	Hypertension	0.0
+50-48-6	Amitriptyline	D017202	Myocardial Ischemia	0.0
+50-48-6	Amitriptyline	D012893	Sleep Wake Disorders	0.0
+4317-14-0	amitriptyline N-oxide	D012893	Sleep Wake Disorders	0.0
+61-82-5	Amitrole	D006973	Hypertension	0.0
+88150-42-9	Amlodipine	D000787	Angina Pectoris	0.0
+88150-42-9	Amlodipine	D050197	Atherosclerosis	0.0
+88150-42-9	Amlodipine	D006332	Cardiomegaly	0.0
+88150-42-9	Amlodipine	D003324	Coronary Artery Disease	0.0
+88150-42-9	Amlodipine	D003327	Coronary Disease	0.0
+88150-42-9	Amlodipine	D003371	Cough	0.0
+88150-42-9	Amlodipine	D006973	Hypertension	0.0
+88150-42-9	Amlodipine	D009203	Myocardial Infarction	0.0
+88150-42-9	Amlodipine	D017202	Myocardial Ischemia	0.0
+26787-78-0	Amoxicillin	D001987	Bronchiectasis	0.0
+26787-78-0	Amoxicillin	D029481	Bronchitis, Chronic	0.0
+26787-78-0	Amoxicillin	D018410	Pneumonia, Bacterial	0.0
+74469-00-4	Amoxicillin-Potassium Clavulanate Combination	D000787	Angina Pectoris	0.0
+74469-00-4	Amoxicillin-Potassium Clavulanate Combination	D001991	Bronchitis	0.0
+74469-00-4	Amoxicillin-Potassium Clavulanate Combination	D029481	Bronchitis, Chronic	0.0
+74469-00-4	Amoxicillin-Potassium Clavulanate Combination	D012131	Respiratory Insufficiency	0.0
+74469-00-4	Amoxicillin-Potassium Clavulanate Combination	D012141	Respiratory Tract Infections	0.0
+74469-00-4	Amoxicillin-Potassium Clavulanate Combination	D012852	Sinusitis	0.0
+300-62-9	Amphetamine	D007022	Hypotension	0.0
+1397-89-3	Amphotericin B	D001228	Aspergillosis	0.0
+1397-89-3	Amphotericin B	D002177	Candidiasis	0.0
+1397-89-3	Amphotericin B	D003047	Coccidioidomycosis	0.0
+1397-89-3	Amphotericin B	D003453	Cryptococcosis	0.0
+1397-89-3	Amphotericin B	D006660	Histoplasmosis	0.0
+1397-89-3	Amphotericin B	D009181	Mycoses	0.0
+87687-70-5	amphotericin B, deoxycholate drug combination	D003453	Cryptococcosis	0.0
+87687-70-5	amphotericin B, deoxycholate drug combination	D009181	Mycoses	0.0
+69-53-4	Ampicillin	D004696	Endocarditis	0.0
+69-53-4	Ampicillin	D012852	Sinusitis	0.0
+60719-84-8	Amrinone	D001145	Arrhythmias, Cardiac	0.0
+60719-84-8	Amrinone	D006333	Heart Failure	0.0
+60719-84-8	Amrinone	D006973	Hypertension	0.0
+60719-84-8	Amrinone	D006976	Hypertension, Pulmonary	0.0
+60719-84-8	Amrinone	D007022	Hypotension	0.0
+5508-58-7	andrographolide	D010024	Osteoporosis	0.0
+139051-27-7	anemarsaponin B	D010024	Osteoporosis	0.0
+104-46-1	anethole	D006332	Cardiomegaly	0.0
+104-46-1	anethole	D008133	Long QT Syndrome	0.0
+104-46-1	anethole	D009203	Myocardial Infarction	0.0
+104-46-1	anethole	D009362	Neoplasm Metastasis	0.0
+532-11-6	Anethole Trithione	D008175	Lung Neoplasms	0.0
+56832-47-4	angiotensin II, Sar(1)-Thr(8)-	D006973	Hypertension	0.0
+83200-10-6	anipamil	D009202	Cardiomyopathies	0.0
+117-37-3	anisindione	D020246	Venous Thrombosis	0.0
+55869-99-3	anisodamine	D001172	Arthritis, Rheumatoid	0.0
+55869-99-3	anisodamine	D011654	Pulmonary Edema	0.0
+55869-99-3	anisodamine	D014693	Ventricular Fibrillation	0.0
+55300-29-3	antrafenine	D010003	Osteoarthritis	0.0
+431-89-0	apaflurane	D001249	Asthma	0.0
+520-36-5	Apigenin	D009202	Cardiomyopathies	0.0
+520-36-5	Apigenin	D006976	Hypertension, Pulmonary	0.0
+520-36-5	Apigenin	D009362	Neoplasm Metastasis	0.0
+58-00-4	Apomorphine	D006973	Hypertension	0.0
+37640-71-4	Aprindine	D001145	Arrhythmias, Cardiac	0.0
+37640-71-4	Aprindine	D001281	Atrial Fibrillation	0.0
+37640-71-4	Aprindine	D008133	Long QT Syndrome	0.0
+37640-71-4	Aprindine	D017180	Tachycardia, Ventricular	0.0
+37640-71-4	Aprindine	D014693	Ventricular Fibrillation	0.0
+37640-71-4	Aprindine	D014927	Wolff-Parkinson-White Syndrome	0.0
+67339-62-2	AR-C239	D006973	Hypertension	0.0
+86780-90-7	aranidipine	D006973	Hypertension	0.0
+63-75-2	Arecoline	D007022	Hypotension	0.0
+113-79-1	Arginine Vasopressin	D007022	Hypotension	0.0
+1327-53-3	Arsenic Trioxide	D001145	Arrhythmias, Cardiac	0.0
+1327-53-3	Arsenic Trioxide	D001172	Arthritis, Rheumatoid	0.0
+1327-53-3	Arsenic Trioxide	D001249	Asthma	0.0
+1327-53-3	Arsenic Trioxide	D054990	Idiopathic Pulmonary Fibrosis	0.0
+1327-53-3	Arsenic Trioxide	D008175	Lung Neoplasms	0.0
+1327-53-3	Arsenic Trioxide	D009362	Neoplasm Metastasis	0.0
+50906-56-4	arteannuin B	D002177	Candidiasis	0.0
+71963-77-4	Artemether	D014123	Toxoplasmosis	0.0
+50-81-7	Ascorbic Acid	D009202	Cardiomyopathies	0.0
+50-81-7	Ascorbic Acid	D018376	Cardiovascular Abnormalities	0.0
+50-81-7	Ascorbic Acid	D003139	Common Cold	0.0
+50-81-7	Ascorbic Acid	D003327	Coronary Disease	0.0
+50-81-7	Ascorbic Acid	D006973	Hypertension	0.0
+50-81-7	Ascorbic Acid	D007022	Hypotension	0.0
+50-81-7	Ascorbic Acid	D008133	Long QT Syndrome	0.0
+50-81-7	Ascorbic Acid	D008175	Lung Neoplasms	0.0
+50-81-7	Ascorbic Acid	D009203	Myocardial Infarction	0.0
+50-81-7	Ascorbic Acid	D009765	Obesity	0.0
+50-81-7	Ascorbic Acid	D016491	Peripheral Vascular Diseases	0.0
+50-81-7	Ascorbic Acid	D011654	Pulmonary Edema	0.0
+50-81-7	Ascorbic Acid	D011657	Pulmonary Eosinophilia	0.0
+22839-47-0	Aspartame	D001172	Arthritis, Rheumatoid	0.0
+22839-47-0	Aspartame	D010003	Osteoarthritis	0.0
+50-78-2	Aspirin	D000787	Angina Pectoris	0.0
+50-78-2	Aspirin	D000789	Angina, Unstable	0.0
+50-78-2	Aspirin	D001172	Arthritis, Rheumatoid	0.0
+50-78-2	Aspirin	D050197	Atherosclerosis	0.0
+50-78-2	Aspirin	D001281	Atrial Fibrillation	0.0
+50-78-2	Aspirin	D003323	Coronary Aneurysm	0.0
+50-78-2	Aspirin	D003324	Coronary Artery Disease	0.0
+50-78-2	Aspirin	D003327	Coronary Disease	0.0
+50-78-2	Aspirin	D003371	Cough	0.0
+50-78-2	Aspirin	D003920	Diabetes Mellitus	0.0
+50-78-2	Aspirin	D006333	Heart Failure	0.0
+50-78-2	Aspirin	D006973	Hypertension	0.0
+50-78-2	Aspirin	D007022	Hypotension	0.0
+50-78-2	Aspirin	D007251	Influenza, Human	0.0
+50-78-2	Aspirin	D009203	Myocardial Infarction	0.0
+50-78-2	Aspirin	D017202	Myocardial Ischemia	0.0
+50-78-2	Aspirin	D010003	Osteoarthritis	0.0
+50-78-2	Aspirin	D012141	Respiratory Tract Infections	0.0
+50-78-2	Aspirin	D016706	Still's Disease, Adult-Onset	0.0
+50-78-2	Aspirin	D054556	Venous Thromboembolism	0.0
+50-78-2	Aspirin	D020246	Venous Thrombosis	0.0
+472-61-7	astaxanthine	D003924	Diabetes Mellitus, Type 2	0.0
+68844-77-9	Astemizole	D006255	Rhinitis, Allergic, Seasonal	0.0
+29122-68-7	Atenolol	D000787	Angina Pectoris	0.0
+29122-68-7	Atenolol	D001145	Arrhythmias, Cardiac	0.0
+29122-68-7	Atenolol	D006332	Cardiomegaly	0.0
+29122-68-7	Atenolol	D002311	Cardiomyopathy, Dilated	0.0
+29122-68-7	Atenolol	D003324	Coronary Artery Disease	0.0
+29122-68-7	Atenolol	D006333	Heart Failure	0.0
+29122-68-7	Atenolol	D006973	Hypertension	0.0
+29122-68-7	Atenolol	D007022	Hypotension	0.0
+29122-68-7	Atenolol	D008133	Long QT Syndrome	0.0
+29122-68-7	Atenolol	D009203	Myocardial Infarction	0.0
+29122-68-7	Atenolol	D017202	Myocardial Ischemia	0.0
+29122-68-7	Atenolol	D012893	Sleep Wake Disorders	0.0
+29122-68-7	Atenolol	D013617	Tachycardia, Supraventricular	0.0
+29122-68-7	Atenolol	D017180	Tachycardia, Ventricular	0.0
+29122-68-7	Atenolol	D014693	Ventricular Fibrillation	0.0
+94015-53-9	Atovaquone	D011020	Pneumonia, Pneumocystis	0.0
+94015-53-9	Atovaquone	D014123	Toxoplasmosis	0.0
+51-55-8	Atropine	D000787	Angina Pectoris	0.0
+51-55-8	Atropine	D001145	Arrhythmias, Cardiac	0.0
+51-55-8	Atropine	D001281	Atrial Fibrillation	0.0
+51-55-8	Atropine	D054537	Atrioventricular Block	0.0
+51-55-8	Atropine	D006973	Hypertension	0.0
+51-55-8	Atropine	D007022	Hypotension	0.0
+51-55-8	Atropine	D011654	Pulmonary Edema	0.0
+51-55-8	Atropine	D012120	Respiration Disorders	0.0
+34031-32-8	Auranofin	D001172	Arthritis, Rheumatoid	0.0
+34031-32-8	Auranofin	D008175	Lung Neoplasms	0.0
+12192-57-3	Aurothioglucose	D001172	Arthritis, Rheumatoid	0.0
+21650-02-2	azabicyclane	D003371	Cough	0.0
+320-67-2	Azacitidine	D008175	Lung Neoplasms	0.0
+11141-17-6	azadirachtin	D010024	Osteoporosis	0.0
+3964-81-6	azatadine	D006255	Rhinitis, Allergic, Seasonal	0.0
+446-86-6	Azathioprine	D001172	Arthritis, Rheumatoid	0.0
+446-86-6	Azathioprine	D002311	Cardiomyopathy, Dilated	0.0
+446-86-6	Azathioprine	D006333	Heart Failure	0.0
+446-86-6	Azathioprine	D009205	Myocarditis	0.0
+58581-89-8	azelastine	D006255	Rhinitis, Allergic, Seasonal	0.0
+149888-94-8	azimilide	D001145	Arrhythmias, Cardiac	0.0
+149888-94-8	azimilide	D009203	Myocardial Infarction	0.0
+83905-01-5	Azithromycin	D029481	Bronchitis, Chronic	0.0
+83905-01-5	Azithromycin	D007251	Influenza, Human	0.0
+83905-01-5	Azithromycin	D009164	Mycobacterium Infections	0.0
+83905-01-5	Azithromycin	D018410	Pneumonia, Bacterial	0.0
+83905-01-5	Azithromycin	D012141	Respiratory Tract Infections	0.0
+131860-33-8	azoxystrobin	D009765	Obesity	0.0
+78110-38-0	Aztreonam	D003550	Cystic Fibrosis	0.0
+1134-47-0	Baclofen	D007022	Hypotension	0.0
+491-67-8	baicalein	D008175	Lung Neoplasms	0.0
+81732-65-2	bambuterol	D001249	Asthma	0.0
+81732-65-2	bambuterol	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+4419-39-0	Beclomethasone	D001249	Asthma	0.0
+4419-39-0	Beclomethasone	D016535	Bronchial Hyperreactivity	0.0
+4419-39-0	Beclomethasone	D029481	Bronchitis, Chronic	0.0
+4419-39-0	Beclomethasone	D004417	Dyspnea	0.0
+4419-39-0	Beclomethasone	D009362	Neoplasm Metastasis	0.0
+4419-39-0	Beclomethasone	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+4419-39-0	Beclomethasone	D011654	Pulmonary Edema	0.0
+4419-39-0	Beclomethasone	D011657	Pulmonary Eosinophilia	0.0
+4419-39-0	Beclomethasone	D006255	Rhinitis, Allergic, Seasonal	0.0
+4419-39-0	Beclomethasone	D012852	Sinusitis	0.0
+86541-75-5	benazepril	D050197	Atherosclerosis	0.0
+86541-75-5	benazepril	D001281	Atrial Fibrillation	0.0
+86541-75-5	benazepril	D002311	Cardiomyopathy, Dilated	0.0
+86541-75-5	benazepril	D006333	Heart Failure	0.0
+86541-75-5	benazepril	D006973	Hypertension	0.0
+86541-75-5	benazepril	D017202	Myocardial Ischemia	0.0
+86541-75-5	benazepril	D009400	Nephrosclerosis	0.0
+89747-91-1	benazeprilat	D006973	Hypertension	0.0
+73-48-3	Bendroflumethiazide	D006333	Heart Failure	0.0
+73-48-3	Bendroflumethiazide	D006973	Hypertension	0.0
+105979-17-7	benidipine	D003924	Diabetes Mellitus, Type 2	0.0
+105979-17-7	benidipine	D006973	Hypertension	0.0
+5003-48-5	benorilate	D001172	Arthritis, Rheumatoid	0.0
+322-35-0	Benserazide	D001145	Arrhythmias, Cardiac	0.0
+322-35-0	Benserazide	D007022	Hypotension	0.0
+322-35-0	Benserazide	D007024	Hypotension, Orthostatic	0.0
+3562-84-3	Benzbromarone	D006073	Gout	0.0
+12794-10-4	Benzodiazepines	D002311	Cardiomyopathy, Dilated	0.0
+12794-10-4	Benzodiazepines	D017202	Myocardial Ischemia	0.0
+100-51-6	Benzyl Alcohol	D001145	Arrhythmias, Cardiac	0.0
+2211-57-6	benzylguanidine	D006973	Hypertension	0.0
+114776-28-2	bepafant	D014693	Ventricular Fibrillation	0.0
+64706-54-3	Bepridil	D000787	Angina Pectoris	0.0
+64706-54-3	Bepridil	D001145	Arrhythmias, Cardiac	0.0
+64706-54-3	Bepridil	D001281	Atrial Fibrillation	0.0
+64706-54-3	Bepridil	D006332	Cardiomegaly	0.0
+64706-54-3	Bepridil	D006973	Hypertension	0.0
+64706-54-3	Bepridil	D017180	Tachycardia, Ventricular	0.0
+64706-54-3	Bepridil	D014693	Ventricular Fibrillation	0.0
+108778-82-1	beractant	D012128	Respiratory Distress Syndrome	0.0
+88430-50-6	beraprost	D006976	Hypertension, Pulmonary	0.0
+88430-50-6	beraprost	D011655	Pulmonary Embolism	0.0
+2086-83-1	Berberine	D003920	Diabetes Mellitus	0.0
+2086-83-1	Berberine	D003924	Diabetes Mellitus, Type 2	0.0
+2086-83-1	Berberine	D006973	Hypertension	0.0
+2086-83-1	Berberine	D010024	Osteoporosis	0.0
+7235-40-7	beta Carotene	D001145	Arrhythmias, Cardiac	0.0
+7235-40-7	beta Carotene	D008175	Lung Neoplasms	0.0
+6051-87-2	beta-Naphthoflavone	D011654	Pulmonary Edema	0.0
+5638-76-6	Betahistine	D050197	Atherosclerosis	0.0
+107-43-7	Betaine	D009203	Myocardial Infarction	0.0
+107-43-7	Betaine	D017202	Myocardial Ischemia	0.0
+378-44-9	Betamethasone	D001172	Arthritis, Rheumatoid	0.0
+378-44-9	Betamethasone	D012127	Respiratory Distress Syndrome, Newborn	0.0
+378-44-9	Betamethasone	D012141	Respiratory Tract Infections	0.0
+63659-18-7	Betaxolol	D000787	Angina Pectoris	0.0
+63659-18-7	Betaxolol	D001145	Arrhythmias, Cardiac	0.0
+63659-18-7	Betaxolol	D006973	Hypertension	0.0
+55-73-2	Bethanidine	D006973	Hypertension	0.0
+55-73-2	Bethanidine	D017180	Tachycardia, Ventricular	0.0
+55-73-2	Bethanidine	D014693	Ventricular Fibrillation	0.0
+472-15-1	betulinic acid	D009362	Neoplasm Metastasis	0.0
+59170-23-9	bevantolol	D006973	Hypertension	0.0
+41859-67-0	Bezafibrate	D050197	Atherosclerosis	0.0
+41859-67-0	Bezafibrate	D003324	Coronary Artery Disease	0.0
+41859-67-0	Bezafibrate	D003920	Diabetes Mellitus	0.0
+41859-67-0	Bezafibrate	D003924	Diabetes Mellitus, Type 2	0.0
+41859-67-0	Bezafibrate	D009203	Myocardial Infarction	0.0
+41859-67-0	Bezafibrate	D009765	Obesity	0.0
+485-49-4	Bicuculline	D007022	Hypotension	0.0
+515-69-5	bisabolol	D009203	Myocardial Infarction	0.0
+66722-44-9	Bisoprolol	D000787	Angina Pectoris	0.0
+66722-44-9	Bisoprolol	D001281	Atrial Fibrillation	0.0
+66722-44-9	Bisoprolol	D009202	Cardiomyopathies	0.0
+66722-44-9	Bisoprolol	D006333	Heart Failure	0.0
+66722-44-9	Bisoprolol	D006973	Hypertension	0.0
+66722-44-9	Bisoprolol	D009203	Myocardial Infarction	0.0
+66722-44-9	Bisoprolol	D018879	Ventricular Premature Complexes	0.0
+80-05-7	bisphenol A	D006973	Hypertension	0.0
+80-05-7	bisphenol A	D009765	Obesity	0.0
+30392-40-6	bitolterol	D001249	Asthma	0.0
+128270-60-0	bivalirudin	D017202	Myocardial Ischemia	0.0
+11056-06-7	Bleomycin	D007822	Laryngeal Neoplasms	0.0
+11056-06-7	Bleomycin	D008175	Lung Neoplasms	0.0
+135472-91-2	BN 52256	D014693	Ventricular Fibrillation	0.0
+69010-88-4	bopindolol	D006973	Hypertension	0.0
+11113-50-1	boric acid	D009202	Cardiomyopathies	0.0
+7440-42-8	Boron	D011654	Pulmonary Edema	0.0
+7184-60-3	borrelidin	D009181	Mycoses	0.0
+7184-60-3	borrelidin	D009362	Neoplasm Metastasis	0.0
+147536-97-8	Bosentan	D006333	Heart Failure	0.0
+147536-97-8	Bosentan	D006973	Hypertension	0.0
+147536-97-8	Bosentan	D006976	Hypertension, Pulmonary	0.0
+147536-97-8	Bosentan	D007022	Hypotension	0.0
+147536-97-8	Bosentan	D009203	Myocardial Infarction	0.0
+39715-02-1	BQ 22-708	D006973	Hypertension	0.0
+138866-14-5	bradykinin, 1-adamantanecarboxylic acid-Arg(0)-Hyp(3)-Thi(5,8)-Phe(7)-	D007022	Hypotension	0.0
+600-76-0	brazilein	D009362	Neoplasm Metastasis	0.0
+104051-20-9	brefanolol	D006973	Hypertension	0.0
+59-41-6	bretylium	D017180	Tachycardia, Ventricular	0.0
+59-41-6	bretylium	D014693	Ventricular Fibrillation	0.0
+61-75-6	Bretylium Tosylate	D001145	Arrhythmias, Cardiac	0.0
+61-75-6	Bretylium Tosylate	D017180	Tachycardia, Ventricular	0.0
+61-75-6	Bretylium Tosylate	D014693	Ventricular Fibrillation	0.0
+1812-30-2	Bromazepam	D006973	Hypertension	0.0
+16170-76-6	bromebric acid	D008175	Lung Neoplasms	0.0
+25614-03-3	Bromocriptine	D006333	Heart Failure	0.0
+25614-03-3	Bromocriptine	D006973	Hypertension	0.0
+25614-03-3	Bromocriptine	D017180	Tachycardia, Ventricular	0.0
+357-57-3	brucine	D009362	Neoplasm Metastasis	0.0
+65002-17-7	bucillamine	D001172	Arthritis, Rheumatoid	0.0
+70369-47-0	bucindolol	D006333	Heart Failure	0.0
+58409-59-9	bucumolol	D001145	Arrhythmias, Cardiac	0.0
+51333-22-3	Budesonide	D001249	Asthma	0.0
+51333-22-3	Budesonide	D016535	Bronchial Hyperreactivity	0.0
+51333-22-3	Budesonide	D004417	Dyspnea	0.0
+51333-22-3	Budesonide	D008175	Lung Neoplasms	0.0
+51333-22-3	Budesonide	D015508	Nasal Obstruction	0.0
+51333-22-3	Budesonide	D011654	Pulmonary Edema	0.0
+51333-22-3	Budesonide	D011657	Pulmonary Eosinophilia	0.0
+51333-22-3	Budesonide	D006255	Rhinitis, Allergic, Seasonal	0.0
+51333-22-3	Budesonide	D012893	Sleep Wake Disorders	0.0
+30103-44-7	bumecain	D014693	Ventricular Fibrillation	0.0
+28395-03-1	Bumetanide	D004417	Dyspnea	0.0
+28395-03-1	Bumetanide	D006333	Heart Failure	0.0
+28395-03-1	Bumetanide	D006973	Hypertension	0.0
+28395-03-1	Bumetanide	D017202	Myocardial Ischemia	0.0
+80755-51-7	bunazosin	D006973	Hypertension	0.0
+80755-51-7	bunazosin	D009203	Myocardial Infarction	0.0
+80755-51-7	bunazosin	D017202	Myocardial Ischemia	0.0
+2180-92-9	Bupivacaine	D017202	Myocardial Ischemia	0.0
+2180-92-9	Bupivacaine	D017180	Tachycardia, Ventricular	0.0
+23284-25-5	Bupranolol	D006973	Hypertension	0.0
+52485-79-7	Buprenorphine	D009203	Myocardial Infarction	0.0
+52485-79-7	Buprenorphine	D012131	Respiratory Insufficiency	0.0
+497-23-4	butenolide	D008175	Lung Neoplasms	0.0
+5072-26-4	Buthionine Sulfoximine	D008175	Lung Neoplasms	0.0
+25013-16-5	Butylated Hydroxyanisole	D006976	Hypertension, Pulmonary	0.0
+128-37-0	Butylated Hydroxytoluene	D001145	Arrhythmias, Cardiac	0.0
+128-37-0	Butylated Hydroxytoluene	D009202	Cardiomyopathies	0.0
+107-92-6	Butyric Acid	D008175	Lung Neoplasms	0.0
+64241-34-5	cadralazine	D006973	Hypertension	0.0
+331-39-5	caffeic acid	D050197	Atherosclerosis	0.0
+331-39-5	caffeic acid	D009203	Myocardial Infarction	0.0
+104594-70-9	caffeic acid phenethyl ester	D009203	Myocardial Infarction	0.0
+104594-70-9	caffeic acid phenethyl ester	D009362	Neoplasm Metastasis	0.0
+104594-70-9	caffeic acid phenethyl ester	D010024	Osteoporosis	0.0
+58-08-2	Caffeine	D006973	Hypertension	0.0
+58-08-2	Caffeine	D007022	Hypotension	0.0
+58-08-2	Caffeine	D008175	Lung Neoplasms	0.0
+58-08-2	Caffeine	D017202	Myocardial Ischemia	0.0
+58-08-2	Caffeine	D009765	Obesity	0.0
+19356-17-3	Calcifediol	D010018	Osteomalacia	0.0
+32222-06-3	Calcitriol	D006332	Cardiomegaly	0.0
+32222-06-3	Calcitriol	D003922	Diabetes Mellitus, Type 1	0.0
+32222-06-3	Calcitriol	D006973	Hypertension	0.0
+32222-06-3	Calcitriol	D008175	Lung Neoplasms	0.0
+32222-06-3	Calcitriol	D010018	Osteomalacia	0.0
+32222-06-3	Calcitriol	D015663	Osteoporosis, Postmenopausal	0.0
+32222-06-3	Calcitriol	D011654	Pulmonary Edema	0.0
+32222-06-3	Calcitriol	D012141	Respiratory Tract Infections	0.0
+7440-70-2	Calcium	D001145	Arrhythmias, Cardiac	0.0
+7440-70-2	Calcium	D009202	Cardiomyopathies	0.0
+7440-70-2	Calcium	D006973	Hypertension	0.0
+7440-70-2	Calcium	D007022	Hypotension	0.0
+7440-70-2	Calcium	D010024	Osteoporosis	0.0
+7440-70-2	Calcium	D015663	Osteoporosis, Postmenopausal	0.0
+471-34-1	Calcium Carbonate	D010024	Osteoporosis	0.0
+10043-52-4	Calcium Chloride	D001145	Arrhythmias, Cardiac	0.0
+10043-52-4	Calcium Chloride	D006973	Hypertension	0.0
+10043-52-4	Calcium Chloride	D007022	Hypotension	0.0
+10043-52-4	Calcium Chloride	D014693	Ventricular Fibrillation	0.0
+299-28-5	Calcium Gluconate	D054537	Atrioventricular Block	0.0
+299-28-5	Calcium Gluconate	D007022	Hypotension	0.0
+299-28-5	Calcium Gluconate	D008133	Long QT Syndrome	0.0
+299-28-5	Calcium Gluconate	D011654	Pulmonary Edema	0.0
+299-28-5	Calcium Gluconate	D013617	Tachycardia, Supraventricular	0.0
+37270-89-6	calcium heparin	D020246	Venous Thrombosis	0.0
+76-22-2	Camphor	D003371	Cough	0.0
+139481-59-7	candesartan	D006332	Cardiomegaly	0.0
+139481-59-7	candesartan	D009202	Cardiomyopathies	0.0
+139481-59-7	candesartan	D002312	Cardiomyopathy, Hypertrophic	0.0
+139481-59-7	candesartan	D006333	Heart Failure	0.0
+139481-59-7	candesartan	D006973	Hypertension	0.0
+145040-37-5	candesartan cilexetil	D006332	Cardiomegaly	0.0
+145040-37-5	candesartan cilexetil	D002311	Cardiomyopathy, Dilated	0.0
+145040-37-5	candesartan cilexetil	D006333	Heart Failure	0.0
+145040-37-5	candesartan cilexetil	D006973	Hypertension	0.0
+289499-45-2	Canertinib	D008175	Lung Neoplasms	0.0
+13956-29-1	Cannabidiol	D009362	Neoplasm Metastasis	0.0
+4138-96-9	Canrenoic Acid	D006973	Hypertension	0.0
+4138-96-9	Canrenoic Acid	D009765	Obesity	0.0
+4138-96-9	Canrenoic Acid	D017180	Tachycardia, Ventricular	0.0
+976-71-6	Canrenone	D006973	Hypertension	0.0
+56-25-7	Cantharidin	D008175	Lung Neoplasms	0.0
+11003-38-6	Capreomycin	D014376	Tuberculosis	0.0
+11003-38-6	Capreomycin	D014397	Tuberculosis, Pulmonary	0.0
+404-86-4	Capsaicin	D050197	Atherosclerosis	0.0
+404-86-4	Capsaicin	D006973	Hypertension	0.0
+404-86-4	Capsaicin	D008175	Lung Neoplasms	0.0
+404-86-4	Capsaicin	D009765	Obesity	0.0
+404-86-4	Capsaicin	D010003	Osteoarthritis	0.0
+62571-86-2	Captopril	D006333	Heart Failure	0.0
+298-46-4	Carbamazepine	D009362	Neoplasm Metastasis	0.0
+298-46-4	Carbamazepine	D012893	Sleep Wake Disorders	0.0
+38821-49-7	Carbidopa	D001145	Arrhythmias, Cardiac	0.0
+38821-49-7	Carbidopa	D006973	Hypertension	0.0
+38821-49-7	Carbidopa	D007022	Hypotension	0.0
+22232-54-8	Carbimazole	D001249	Asthma	0.0
+2387-59-9	Carbocysteine	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+630-08-0	Carbon Monoxide	D009202	Cardiomyopathies	0.0
+630-08-0	Carbon Monoxide	D006973	Hypertension	0.0
+41575-94-4	Carboplatin	D008175	Lung Neoplasms	0.0
+41575-94-4	Carboplatin	D009303	Nasopharyngeal Neoplasms	0.0
+41575-94-4	Carboplatin	D009362	Neoplasm Metastasis	0.0
+41575-94-4	Carboplatin	D009382	Neoplasms, Unknown Primary	0.0
+154-93-8	Carmustine	D008175	Lung Neoplasms	0.0
+154-93-8	Carmustine	D009362	Neoplasm Metastasis	0.0
+305-84-0	Carnosine	D050197	Atherosclerosis	0.0
+51781-06-7	Carteolol	D001145	Arrhythmias, Cardiac	0.0
+51781-06-7	Carteolol	D006973	Hypertension	0.0
+51781-06-7	Carteolol	D014693	Ventricular Fibrillation	0.0
+72956-09-3	Carvedilol	D000787	Angina Pectoris	0.0
+72956-09-3	Carvedilol	D001022	Aortic Valve Insufficiency	0.0
+72956-09-3	Carvedilol	D001145	Arrhythmias, Cardiac	0.0
+72956-09-3	Carvedilol	D001281	Atrial Fibrillation	0.0
+72956-09-3	Carvedilol	D006332	Cardiomegaly	0.0
+72956-09-3	Carvedilol	D009202	Cardiomyopathies	0.0
+72956-09-3	Carvedilol	D002310	Cardiomyopathy, Alcoholic	0.0
+72956-09-3	Carvedilol	D002311	Cardiomyopathy, Dilated	0.0
+72956-09-3	Carvedilol	D002312	Cardiomyopathy, Hypertrophic	0.0
+72956-09-3	Carvedilol	D006333	Heart Failure	0.0
+72956-09-3	Carvedilol	D006973	Hypertension	0.0
+72956-09-3	Carvedilol	D006976	Hypertension, Pulmonary	0.0
+72956-09-3	Carvedilol	D007022	Hypotension	0.0
+72956-09-3	Carvedilol	D009203	Myocardial Infarction	0.0
+72956-09-3	Carvedilol	D017202	Myocardial Ischemia	0.0
+72956-09-3	Carvedilol	D009205	Myocarditis	0.0
+72956-09-3	Carvedilol	D017180	Tachycardia, Ventricular	0.0
+72956-09-3	Carvedilol	D014693	Ventricular Fibrillation	0.0
+154-23-4	Catechin	D050197	Atherosclerosis	0.0
+154-23-4	Catechin	D009203	Myocardial Infarction	0.0
+154-23-4	Catechin	D009362	Neoplasm Metastasis	0.0
+162542-90-7	CDP 840	D011657	Pulmonary Eosinophilia	0.0
+53994-73-3	Cefaclor	D012141	Respiratory Tract Infections	0.0
+53994-73-3	Cefaclor	D012852	Sinusitis	0.0
+50370-12-2	Cefadroxil	D012141	Respiratory Tract Infections	0.0
+34444-01-4	Cefamandole	D004696	Endocarditis	0.0
+25953-19-9	Cefazolin	D010019	Osteomyelitis	0.0
+76610-84-9	cefbuperazone	D001991	Bronchitis	0.0
+76610-84-9	cefbuperazone	D014069	Tonsillitis	0.0
+76610-84-9	cefbuperazone	D014917	Whooping Cough	0.0
+88040-23-7	Cefepime	D010019	Osteomyelitis	0.0
+79350-37-1	Cefixime	D001991	Bronchitis	0.0
+79350-37-1	Cefixime	D012141	Respiratory Tract Infections	0.0
+79350-37-1	Cefixime	D014069	Tonsillitis	0.0
+69739-16-8	cefodizime	D018410	Pneumonia, Bacterial	0.0
+63527-52-6	Cefotaxime	D018410	Pneumonia, Bacterial	0.0
+69712-56-7	Cefotetan	D010019	Osteomyelitis	0.0
+84957-29-9	cefpirome	D010019	Osteomyelitis	0.0
+84957-29-9	cefpirome	D018410	Pneumonia, Bacterial	0.0
+82619-04-3	cefpodoxime	D003371	Cough	0.0
+78439-06-2	Ceftazidime	D010019	Osteomyelitis	0.0
+78439-06-2	Ceftazidime	D018410	Pneumonia, Bacterial	0.0
+73384-59-5	Ceftriaxone	D002311	Cardiomyopathy, Dilated	0.0
+73384-59-5	Ceftriaxone	D009617	Nocardia Infections	0.0
+73384-59-5	Ceftriaxone	D010019	Osteomyelitis	0.0
+73384-59-5	Ceftriaxone	D018410	Pneumonia, Bacterial	0.0
+73384-59-5	Ceftriaxone	D012141	Respiratory Tract Infections	0.0
+73384-59-5	Ceftriaxone	D014069	Tonsillitis	0.0
+64544-07-6	cefuroxime axetil	D029481	Bronchitis, Chronic	0.0
+56980-93-9	Celiprolol	D000787	Angina Pectoris	0.0
+56980-93-9	Celiprolol	D001145	Arrhythmias, Cardiac	0.0
+56980-93-9	Celiprolol	D006333	Heart Failure	0.0
+56980-93-9	Celiprolol	D017180	Tachycardia, Ventricular	0.0
+401925-43-7	celivarone	D006973	Hypertension	0.0
+15686-71-2	Cephalexin	D012852	Sinusitis	0.0
+34919-98-7	cetamolol	D008133	Long QT Syndrome	0.0
+34919-98-7	cetamolol	D017180	Tachycardia, Ventricular	0.0
+83881-51-0	Cetirizine	D006255	Rhinitis, Allergic, Seasonal	0.0
+6899-10-1	Cetrimonium	D006973	Hypertension	0.0
+135689-23-5	CGP 48369	D006973	Hypertension	0.0
+154116-31-1	CGS 26303	D006333	Heart Failure	0.0
+94-41-7	Chalcone	D008175	Lung Neoplasms	0.0
+16291-96-6	Charcoal	D008133	Long QT Syndrome	0.0
+474-25-9	Chenodeoxycholic Acid	D014376	Tuberculosis	0.0
+15879-93-3	Chloralose	D006973	Hypertension	0.0
+305-03-3	Chlorambucil	D001172	Arthritis, Rheumatoid	0.0
+56-75-7	Chloramphenicol	D010019	Osteomyelitis	0.0
+7701-62-4	Chlorisondamine	D006973	Hypertension	0.0
+80-77-3	Chlormezanone	D001172	Arthritis, Rheumatoid	0.0
+327-97-9	Chlorogenic Acid	D006332	Cardiomegaly	0.0
+327-97-9	Chlorogenic Acid	D009362	Neoplasm Metastasis	0.0
+54-05-7	Chloroquine	D001172	Arthritis, Rheumatoid	0.0
+54-05-7	Chloroquine	D045169	Severe Acute Respiratory Syndrome	0.0
+50-63-5	chloroquine diphosphate	D001172	Arthritis, Rheumatoid	0.0
+50-63-5	chloroquine diphosphate	D045169	Severe Acute Respiratory Syndrome	0.0
+58-94-6	Chlorothiazide	D006973	Hypertension	0.0
+58-94-6	Chlorothiazide	D020246	Venous Thrombosis	0.0
+54749-90-5	chlorozotocin	D008175	Lung Neoplasms	0.0
+132-22-9	Chlorpheniramine	D011654	Pulmonary Edema	0.0
+132-22-9	Chlorpheniramine	D012131	Respiratory Insufficiency	0.0
+132-22-9	Chlorpheniramine	D012141	Respiratory Tract Infections	0.0
+132-22-9	Chlorpheniramine	D006255	Rhinitis, Allergic, Seasonal	0.0
+132-22-9	Chlorpheniramine	D014693	Ventricular Fibrillation	0.0
+50-53-3	Chlorpromazine	D006973	Hypertension	0.0
+94-20-2	Chlorpropamide	D003920	Diabetes Mellitus	0.0
+94-20-2	Chlorpropamide	D003924	Diabetes Mellitus, Type 2	0.0
+77-36-1	Chlorthalidone	D006332	Cardiomegaly	0.0
+77-36-1	Chlorthalidone	D006973	Hypertension	0.0
+67-97-0	Cholecalciferol	D010018	Osteomalacia	0.0
+67-97-0	Cholecalciferol	D015663	Osteoporosis, Postmenopausal	0.0
+7440-47-3	Chromium	D050197	Atherosclerosis	0.0
+7440-47-3	Chromium	D003924	Diabetes Mellitus, Type 2	0.0
+7440-47-3	Chromium	D006973	Hypertension	0.0
+804-10-4	Chromonar	D001145	Arrhythmias, Cardiac	0.0
+804-10-4	Chromonar	D054537	Atrioventricular Block	0.0
+804-10-4	Chromonar	D006333	Heart Failure	0.0
+804-10-4	Chromonar	D007022	Hypotension	0.0
+480-40-0	chrysin	D006332	Cardiomegaly	0.0
+480-40-0	chrysin	D006976	Hypertension, Pulmonary	0.0
+480-40-0	chrysin	D008175	Lung Neoplasms	0.0
+480-40-0	chrysin	D011654	Pulmonary Edema	0.0
+54063-29-5	cicarperone	D014693	Ventricular Fibrillation	0.0
+29342-05-0	Ciclopirox	D002177	Candidiasis	0.0
+53267-01-9	cifenline	D001145	Arrhythmias, Cardiac	0.0
+53267-01-9	cifenline	D001281	Atrial Fibrillation	0.0
+74772-77-3	ciglitazone	D008175	Lung Neoplasms	0.0
+74772-77-3	ciglitazone	D009203	Myocardial Infarction	0.0
+74772-77-3	ciglitazone	D009362	Neoplasm Metastasis	0.0
+92077-78-6	Cilazapril	D000787	Angina Pectoris	0.0
+92077-78-6	Cilazapril	D001022	Aortic Valve Insufficiency	0.0
+92077-78-6	Cilazapril	D006332	Cardiomegaly	0.0
+92077-78-6	Cilazapril	D009202	Cardiomyopathies	0.0
+92077-78-6	Cilazapril	D006333	Heart Failure	0.0
+92077-78-6	Cilazapril	D006973	Hypertension	0.0
+92077-78-6	Cilazapril	D006976	Hypertension, Pulmonary	0.0
+132203-70-4	cilnidipine	D006332	Cardiomegaly	0.0
+132203-70-4	cilnidipine	D006973	Hypertension	0.0
+73963-72-1	Cilostazol	D006333	Heart Failure	0.0
+73963-72-1	Cilostazol	D009203	Myocardial Infarction	0.0
+138330-18-4	cimadronate	D009362	Neoplasm Metastasis	0.0
+51481-61-9	Cimetidine	D007022	Hypotension	0.0
+298-57-7	Cinnarizine	D014693	Ventricular Fibrillation	0.0
+28657-80-9	Cinoxacin	D012141	Respiratory Tract Infections	0.0
+85721-33-1	Ciprofloxacin	D029481	Bronchitis, Chronic	0.0
+85721-33-1	Ciprofloxacin	D003550	Cystic Fibrosis	0.0
+85721-33-1	Ciprofloxacin	D008175	Lung Neoplasms	0.0
+85721-33-1	Ciprofloxacin	D009164	Mycobacterium Infections	0.0
+85721-33-1	Ciprofloxacin	D010019	Osteomyelitis	0.0
+85721-33-1	Ciprofloxacin	D018410	Pneumonia, Bacterial	0.0
+85721-33-1	Ciprofloxacin	D014123	Toxoplasmosis	0.0
+85721-33-1	Ciprofloxacin	D014376	Tuberculosis	0.0
+15663-27-1	Cisplatin	D008175	Lung Neoplasms	0.0
+15663-27-1	Cisplatin	D009164	Mycobacterium Infections	0.0
+15663-27-1	Cisplatin	D009303	Nasopharyngeal Neoplasms	0.0
+15663-27-1	Cisplatin	D009362	Neoplasm Metastasis	0.0
+15663-27-1	Cisplatin	D010997	Pleural Neoplasms	0.0
+15663-27-1	Cisplatin	D014134	Tracheal Neoplasms	0.0
+59729-33-8	Citalopram	D001145	Arrhythmias, Cardiac	0.0
+59729-33-8	Citalopram	D009362	Neoplasm Metastasis	0.0
+59729-33-8	Citalopram	D012893	Sleep Wake Disorders	0.0
+106-23-0	citronellal	D002177	Candidiasis	0.0
+4291-63-8	Cladribine	D008175	Lung Neoplasms	0.0
+81103-11-9	Clarithromycin	D001281	Atrial Fibrillation	0.0
+81103-11-9	Clarithromycin	D001991	Bronchitis	0.0
+81103-11-9	Clarithromycin	D029481	Bronchitis, Chronic	0.0
+81103-11-9	Clarithromycin	D003371	Cough	0.0
+81103-11-9	Clarithromycin	D009164	Mycobacterium Infections	0.0
+81103-11-9	Clarithromycin	D018410	Pneumonia, Bacterial	0.0
+81103-11-9	Clarithromycin	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+81103-11-9	Clarithromycin	D012141	Respiratory Tract Infections	0.0
+81103-11-9	Clarithromycin	D012852	Sinusitis	0.0
+81103-11-9	Clarithromycin	D014397	Tuberculosis, Pulmonary	0.0
+15686-51-8	Clemastine	D003139	Common Cold	0.0
+111659-76-8	clentiazem	D009202	Cardiomyopathies	0.0
+18323-44-9	Clindamycin	D018410	Pneumonia, Bacterial	0.0
+18323-44-9	Clindamycin	D012141	Respiratory Tract Infections	0.0
+10596-23-3	Clodronic Acid	D016535	Bronchial Hyperreactivity	0.0
+10596-23-3	Clodronic Acid	D009362	Neoplasm Metastasis	0.0
+637-07-0	Clofibrate	D000787	Angina Pectoris	0.0
+637-07-0	Clofibrate	D050197	Atherosclerosis	0.0
+637-07-0	Clofibrate	D003327	Coronary Disease	0.0
+637-07-0	Clofibrate	D016883	Diabetic Ketoacidosis	0.0
+637-07-0	Clofibrate	D006973	Hypertension	0.0
+637-07-0	Clofibrate	D009203	Myocardial Infarction	0.0
+637-07-0	Clofibrate	D009362	Neoplasm Metastasis	0.0
+68379-02-2	clofilium	D014693	Ventricular Fibrillation	0.0
+1622-61-3	Clonazepam	D012893	Sleep Wake Disorders	0.0
+4205-90-7	Clonidine	D001145	Arrhythmias, Cardiac	0.0
+4205-90-7	Clonidine	D006973	Hypertension	0.0
+4205-90-7	Clonidine	D007022	Hypotension	0.0
+4205-90-7	Clonidine	D007024	Hypotension, Orthostatic	0.0
+4205-90-7	Clonidine	D017202	Myocardial Ischemia	0.0
+4205-90-7	Clonidine	D012893	Sleep Wake Disorders	0.0
+4205-90-7	Clonidine	D013617	Tachycardia, Supraventricular	0.0
+636-54-4	Clopamide	D006973	Hypertension	0.0
+17780-72-2	Clorgyline	D007022	Hypotension	0.0
+23593-75-1	Clotrimazole	D001228	Aspergillosis	0.0
+23593-75-1	Clotrimazole	D002177	Candidiasis	0.0
+23593-75-1	Clotrimazole	D008175	Lung Neoplasms	0.0
+23593-75-1	Clotrimazole	D009181	Mycoses	0.0
+23593-75-1	Clotrimazole	D009362	Neoplasm Metastasis	0.0
+14325-03-2	cobaltiprotoporphyrin	D006332	Cardiomegaly	0.0
+14325-03-2	cobaltiprotoporphyrin	D006973	Hypertension	0.0
+14325-03-2	cobaltiprotoporphyrin	D009765	Obesity	0.0
+7646-79-9	cobaltous chloride	D006973	Hypertension	0.0
+7646-79-9	cobaltous chloride	D009203	Myocardial Infarction	0.0
+50-36-2	Cocaine	D004844	Epistaxis	0.0
+8001-69-2	Cod Liver Oil	D006973	Hypertension	0.0
+8001-69-2	Cod Liver Oil	D014693	Ventricular Fibrillation	0.0
+76-57-3	Codeine	D003371	Cough	0.0
+64-86-8	Colchicine	D015535	Arthritis, Psoriatic	0.0
+64-86-8	Colchicine	D006073	Gout	0.0
+50925-79-6	Colestipol	D003324	Coronary Artery Disease	0.0
+138605-00-2	Colforsin	D001145	Arrhythmias, Cardiac	0.0
+138605-00-2	Colforsin	D007022	Hypotension	0.0
+1066-17-7	Colistin	D003550	Cystic Fibrosis	0.0
+1066-17-7	Colistin	D010019	Osteomyelitis	0.0
+7440-50-8	Copper	D006332	Cardiomegaly	0.0
+7440-50-8	Copper	D002312	Cardiomyopathy, Hypertrophic	0.0
+7440-50-8	Copper	D006333	Heart Failure	0.0
+23094-69-1	corilagin	D006332	Cardiomegaly	0.0
+50-22-6	Corticosterone	D007022	Hypotension	0.0
+96118-75-1	corticotropin releasing hormone (9-41)	D007022	Hypotension	0.0
+91-64-5	coumarin	D003924	Diabetes Mellitus, Type 2	0.0
+6903-79-3	creatinol phosphate	D009202	Cardiomyopathies	0.0
+6903-79-3	creatinol phosphate	D014693	Ventricular Fibrillation	0.0
+42553-65-1	crocin	D050197	Atherosclerosis	0.0
+42553-65-1	crocin	D006332	Cardiomegaly	0.0
+42553-65-1	crocin	D009202	Cardiomyopathies	0.0
+42553-65-1	crocin	D007022	Hypotension	0.0
+42553-65-1	crocin	D008133	Long QT Syndrome	0.0
+94470-67-4	Cromakalim	D001145	Arrhythmias, Cardiac	0.0
+94470-67-4	Cromakalim	D006973	Hypertension	0.0
+15826-37-6	Cromolyn Sodium	D001249	Asthma	0.0
+15826-37-6	Cromolyn Sodium	D006332	Cardiomegaly	0.0
+15826-37-6	Cromolyn Sodium	D009202	Cardiomyopathies	0.0
+15826-37-6	Cromolyn Sodium	D009765	Obesity	0.0
+142-71-2	cupric acetate	D050197	Atherosclerosis	0.0
+458-37-7	Curcumin	D001172	Arthritis, Rheumatoid	0.0
+458-37-7	Curcumin	D050197	Atherosclerosis	0.0
+458-37-7	Curcumin	D006332	Cardiomegaly	0.0
+458-37-7	Curcumin	D009202	Cardiomyopathies	0.0
+458-37-7	Curcumin	D002312	Cardiomyopathy, Hypertrophic	0.0
+458-37-7	Curcumin	D003924	Diabetes Mellitus, Type 2	0.0
+458-37-7	Curcumin	D006973	Hypertension	0.0
+458-37-7	Curcumin	D008175	Lung Neoplasms	0.0
+458-37-7	Curcumin	D009203	Myocardial Infarction	0.0
+458-37-7	Curcumin	D017202	Myocardial Ischemia	0.0
+458-37-7	Curcumin	D009205	Myocarditis	0.0
+458-37-7	Curcumin	D009765	Obesity	0.0
+458-37-7	Curcumin	D010003	Osteoarthritis	0.0
+458-37-7	Curcumin	D010024	Osteoporosis	0.0
+458-37-7	Curcumin	D011654	Pulmonary Edema	0.0
+458-37-7	Curcumin	D011656	Pulmonary Emphysema	0.0
+458-37-7	Curcumin	D012128	Respiratory Distress Syndrome	0.0
+458-37-7	Curcumin	D012131	Respiratory Insufficiency	0.0
+420-04-2	Cyanamide	D007022	Hypotension	0.0
+60-92-4	Cyclic AMP	D001249	Asthma	0.0
+4449-51-8	cyclopamine	D008175	Lung Neoplasms	0.0
+742-20-1	Cyclopenthiazide	D006333	Heart Failure	0.0
+742-20-1	Cyclopenthiazide	D006973	Hypertension	0.0
+50-18-0	Cyclophosphamide	D001172	Arthritis, Rheumatoid	0.0
+50-18-0	Cyclophosphamide	D008175	Lung Neoplasms	0.0
+50-18-0	Cyclophosphamide	D009362	Neoplasm Metastasis	0.0
+50-18-0	Cyclophosphamide	D020246	Venous Thrombosis	0.0
+68-41-7	Cycloserine	D014376	Tuberculosis	0.0
+68-41-7	Cycloserine	D014397	Tuberculosis, Pulmonary	0.0
+59865-13-3	Cyclosporine	D001172	Arthritis, Rheumatoid	0.0
+59865-13-3	Cyclosporine	D009202	Cardiomyopathies	0.0
+2259-96-3	cyclothiazide	D006973	Hypertension	0.0
+860-79-7	cyclovirobuxine D	D001145	Arrhythmias, Cardiac	0.0
+860-79-7	cyclovirobuxine D	D001281	Atrial Fibrillation	0.0
+129-03-3	Cyproheptadine	D001022	Aortic Valve Insufficiency	0.0
+129-03-3	Cyproheptadine	D006973	Hypertension	0.0
+129-03-3	Cyproheptadine	D007022	Hypotension	0.0
+60-23-1	Cysteamine	D009362	Neoplasm Metastasis	0.0
+147-94-4	Cytarabine	D009362	Neoplasm Metastasis	0.0
+4342-03-4	Dacarbazine	D009362	Neoplasm Metastasis	0.0
+486-66-8	daidzein	D003924	Diabetes Mellitus, Type 2	0.0
+486-66-8	daidzein	D006973	Hypertension	0.0
+486-66-8	daidzein	D014693	Ventricular Fibrillation	0.0
+83513-48-8	danaparoid	D020246	Venous Thrombosis	0.0
+17230-88-5	Danazol	D011656	Pulmonary Emphysema	0.0
+7261-97-4	Dantrolene	D009202	Cardiomyopathies	0.0
+7261-97-4	Dantrolene	D017180	Tachycardia, Ventricular	0.0
+80-08-0	Dapsone	D011020	Pneumonia, Pneumocystis	0.0
+80-08-0	Dapsone	D014123	Toxoplasmosis	0.0
+103060-53-3	Daptomycin	D010019	Osteomyelitis	0.0
+20830-81-3	Daunorubicin	D009202	Cardiomyopathies	0.0
+524-17-4	dauricine	D001145	Arrhythmias, Cardiac	0.0
+133360-41-5	davallialactone	D009765	Obesity	0.0
+78218-09-4	dazoxiben	D006976	Hypertension, Pulmonary	0.0
+78218-09-4	dazoxiben	D011654	Pulmonary Edema	0.0
+35231-36-8	deacetylmoxisylyte	D007022	Hypotension	0.0
+16679-58-6	Deamino Arginine Vasopressin	D003550	Cystic Fibrosis	0.0
+1131-64-2	Debrisoquin	D006973	Hypertension	0.0
+2353-33-5	Decitabine	D001249	Asthma	0.0
+2353-33-5	Decitabine	D004417	Dyspnea	0.0
+2353-33-5	Decitabine	D008175	Lung Neoplasms	0.0
+30652-11-0	Deferiprone	D009202	Cardiomyopathies	0.0
+70-51-9	Deferoxamine	D009202	Cardiomyopathies	0.0
+522-17-8	deguelin	D008175	Lung Neoplasms	0.0
+522-17-8	deguelin	D009362	Neoplasm Metastasis	0.0
+53-43-0	Dehydroepiandrosterone	D006973	Hypertension	0.0
+53-43-0	Dehydroepiandrosterone	D015663	Osteoporosis, Postmenopausal	0.0
+83435-67-0	delapril	D006973	Hypertension	0.0
+13270-61-6	delphinidin	D050197	Atherosclerosis	0.0
+127-33-3	Demeclocycline	D001991	Bronchitis	0.0
+71771-90-9	denopamine	D006333	Heart Failure	0.0
+154-17-6	Deoxyglucose	D008175	Lung Neoplasms	0.0
+51481-10-8	deoxynivalenol	D009765	Obesity	0.0
+50-47-5	Desipramine	D007022	Hypotension	0.0
+50-47-5	Desipramine	D012893	Sleep Wake Disorders	0.0
+64-85-7	Desoxycorticosterone	D006973	Hypertension	0.0
+50-02-2	Dexamethasone	D001172	Arthritis, Rheumatoid	0.0
+50-02-2	Dexamethasone	D001249	Asthma	0.0
+50-02-2	Dexamethasone	D016535	Bronchial Hyperreactivity	0.0
+50-02-2	Dexamethasone	D009202	Cardiomyopathies	0.0
+50-02-2	Dexamethasone	D006333	Heart Failure	0.0
+50-02-2	Dexamethasone	D006973	Hypertension	0.0
+50-02-2	Dexamethasone	D007022	Hypotension	0.0
+50-02-2	Dexamethasone	D007829	Laryngostenosis	0.0
+50-02-2	Dexamethasone	D008175	Lung Neoplasms	0.0
+50-02-2	Dexamethasone	D015508	Nasal Obstruction	0.0
+50-02-2	Dexamethasone	D010490	Pericardial Effusion	0.0
+50-02-2	Dexamethasone	D010996	Pleural Effusion	0.0
+50-02-2	Dexamethasone	D011654	Pulmonary Edema	0.0
+50-02-2	Dexamethasone	D011657	Pulmonary Eosinophilia	0.0
+50-02-2	Dexamethasone	D012120	Respiration Disorders	0.0
+50-02-2	Dexamethasone	D012128	Respiratory Distress Syndrome	0.0
+50-02-2	Dexamethasone	D012127	Respiratory Distress Syndrome, Newborn	0.0
+21888-98-2	Dexetimide	D006973	Hypertension	0.0
+3239-44-9	Dexfenfluramine	D003924	Diabetes Mellitus, Type 2	0.0
+3239-44-9	Dexfenfluramine	D006973	Hypertension	0.0
+3239-44-9	Dexfenfluramine	D009765	Obesity	0.0
+113775-47-6	Dexmedetomidine	D001145	Arrhythmias, Cardiac	0.0
+113775-47-6	Dexmedetomidine	D009203	Myocardial Infarction	0.0
+113775-47-6	Dexmedetomidine	D017202	Myocardial Ischemia	0.0
+113775-47-6	Dexmedetomidine	D011654	Pulmonary Edema	0.0
+9004-54-0	Dextrans	D007022	Hypotension	0.0
+9004-54-0	Dextrans	D020246	Venous Thrombosis	0.0
+125-71-3	Dextromethorphan	D050197	Atherosclerosis	0.0
+125-71-3	Dextromethorphan	D003371	Cough	0.0
+125-71-3	Dextromethorphan	D012128	Respiratory Distress Syndrome	0.0
+125-73-5	Dextrorphan	D003371	Cough	0.0
+28197-69-5	diacetolol	D001145	Arrhythmias, Cardiac	0.0
+2050-87-5	diallyl trisulfide	D001145	Arrhythmias, Cardiac	0.0
+2050-87-5	diallyl trisulfide	D009202	Cardiomyopathies	0.0
+2050-87-5	diallyl trisulfide	D009362	Neoplasm Metastasis	0.0
+439-14-5	Diazepam	D000787	Angina Pectoris	0.0
+439-14-5	Diazepam	D006973	Hypertension	0.0
+439-14-5	Diazepam	D012131	Respiratory Insufficiency	0.0
+364-98-7	Diazoxide	D006332	Cardiomegaly	0.0
+364-98-7	Diazoxide	D006973	Hypertension	0.0
+364-98-7	Diazoxide	D006976	Hypertension, Pulmonary	0.0
+19395-87-0	Dibenz(b,f)(1,4)oxazepine-10(11H)-carboxylic acid, 8-chloro-, 2-acetylhydrazide	D006973	Hypertension	0.0
+2786-08-5	dibenzothiophene-4-carboxylic acid	D010024	Osteoporosis	0.0
+15307-86-5	Diclofenac	D015535	Arthritis, Psoriatic	0.0
+15307-86-5	Diclofenac	D001172	Arthritis, Rheumatoid	0.0
+15307-86-5	Diclofenac	D006073	Gout	0.0
+15307-86-5	Diclofenac	D010003	Osteoarthritis	0.0
+66-76-2	Dicumarol	D009203	Myocardial Infarction	0.0
+66-76-2	Dicumarol	D011655	Pulmonary Embolism	0.0
+69655-05-6	Didanosine	D011020	Pneumonia, Pneumocystis	0.0
+90-89-1	Diethylcarbamazine	D006973	Hypertension	0.0
+117-81-7	Diethylhexyl Phthalate	D009765	Obesity	0.0
+90-84-6	Diethylpropion	D009765	Obesity	0.0
+56-53-1	Diethylstilbestrol	D006973	Hypertension	0.0
+22494-42-4	Diflunisal	D010003	Osteoarthritis	0.0
+21626-89-1	diftalone	D001172	Arthritis, Rheumatoid	0.0
+752-61-4	digitalin	D001281	Atrial Fibrillation	0.0
+71-63-6	Digitoxin	D001281	Atrial Fibrillation	0.0
+71-63-6	Digitoxin	D018880	Atrial Premature Complexes	0.0
+71-63-6	Digitoxin	D006332	Cardiomegaly	0.0
+71-63-6	Digitoxin	D006333	Heart Failure	0.0
+71-63-6	Digitoxin	D006973	Hypertension	0.0
+71-63-6	Digitoxin	D013617	Tachycardia, Supraventricular	0.0
+20830-75-5	Digoxin	D000787	Angina Pectoris	0.0
+20830-75-5	Digoxin	D001145	Arrhythmias, Cardiac	0.0
+20830-75-5	Digoxin	D001281	Atrial Fibrillation	0.0
+20830-75-5	Digoxin	D009202	Cardiomyopathies	0.0
+20830-75-5	Digoxin	D002311	Cardiomyopathy, Dilated	0.0
+20830-75-5	Digoxin	D003324	Coronary Artery Disease	0.0
+20830-75-5	Digoxin	D006333	Heart Failure	0.0
+20830-75-5	Digoxin	D006973	Hypertension	0.0
+20830-75-5	Digoxin	D008944	Mitral Valve Insufficiency	0.0
+20830-75-5	Digoxin	D011654	Pulmonary Edema	0.0
+20830-75-5	Digoxin	D013617	Tachycardia, Supraventricular	0.0
+484-23-1	Dihydralazine	D002311	Cardiomyopathy, Dilated	0.0
+484-23-1	Dihydralazine	D006333	Heart Failure	0.0
+484-23-1	Dihydralazine	D006973	Hypertension	0.0
+125-28-0	dihydrocodeine	D003371	Cough	0.0
+125-28-0	dihydrocodeine	D010003	Osteoarthritis	0.0
+17479-19-5	Dihydroergocristine	D006973	Hypertension	0.0
+17479-19-5	Dihydroergocristine	D007022	Hypotension	0.0
+511-12-6	Dihydroergotamine	D007022	Hypotension	0.0
+511-12-6	Dihydroergotamine	D007024	Hypotension, Orthostatic	0.0
+511-12-6	Dihydroergotamine	D020246	Venous Thrombosis	0.0
+11032-41-0	Dihydroergotoxine	D006973	Hypertension	0.0
+5490-27-7	Dihydrostreptomycin Sulfate	D014397	Tuberculosis, Pulmonary	0.0
+42399-41-7	Diltiazem	D000787	Angina Pectoris	0.0
+42399-41-7	Diltiazem	D000789	Angina, Unstable	0.0
+42399-41-7	Diltiazem	D001145	Arrhythmias, Cardiac	0.0
+42399-41-7	Diltiazem	D001281	Atrial Fibrillation	0.0
+42399-41-7	Diltiazem	D009202	Cardiomyopathies	0.0
+42399-41-7	Diltiazem	D002312	Cardiomyopathy, Hypertrophic	0.0
+42399-41-7	Diltiazem	D003324	Coronary Artery Disease	0.0
+42399-41-7	Diltiazem	D003327	Coronary Disease	0.0
+42399-41-7	Diltiazem	D006973	Hypertension	0.0
+42399-41-7	Diltiazem	D007022	Hypotension	0.0
+42399-41-7	Diltiazem	D009203	Myocardial Infarction	0.0
+42399-41-7	Diltiazem	D017202	Myocardial Ischemia	0.0
+42399-41-7	Diltiazem	D013617	Tachycardia, Supraventricular	0.0
+42399-41-7	Diltiazem	D017180	Tachycardia, Ventricular	0.0
+42399-41-7	Diltiazem	D014693	Ventricular Fibrillation	0.0
+42399-41-7	Diltiazem	D014927	Wolff-Parkinson-White Syndrome	0.0
+36304-82-2	dimemorfan	D003371	Cough	0.0
+523-87-5	Dimenhydrinate	D053840	Brugada Syndrome	0.0
+59-52-9	Dimercaprol	D008133	Long QT Syndrome	0.0
+22950-29-4	dimethophrine	D007024	Hypotension, Orthostatic	0.0
+67-68-5	Dimethyl Sulfoxide	D007022	Hypotension	0.0
+908-54-3	diminazene aceturate	D017544	Aortic Aneurysm, Abdominal	0.0
+13699-48-4	Dimyristoylphosphatidylcholine	D009181	Mycoses	0.0
+61361-72-6	dimyristoylphosphatidylglycerol	D009181	Mycoses	0.0
+29091-05-2	dinitramine	D014123	Toxoplasmosis	0.0
+363-24-6	Dinoprostone	D001145	Arrhythmias, Cardiac	0.0
+363-24-6	Dinoprostone	D016535	Bronchial Hyperreactivity	0.0
+363-24-6	Dinoprostone	D006973	Hypertension	0.0
+363-24-6	Dinoprostone	D054990	Idiopathic Pulmonary Fibrosis	0.0
+512-04-9	Diosgenin	D006973	Hypertension	0.0
+520-27-4	Diosmin	D003924	Diabetes Mellitus, Type 2	0.0
+58-73-1	Diphenhydramine	D003139	Common Cold	0.0
+58-73-1	Diphenhydramine	D006333	Heart Failure	0.0
+58-73-1	Diphenhydramine	D007022	Hypotension	0.0
+58-73-1	Diphenhydramine	D007826	Laryngismus	0.0
+58-73-1	Diphenhydramine	D006255	Rhinitis, Allergic, Seasonal	0.0
+58-73-1	Diphenhydramine	D012852	Sinusitis	0.0
+17692-31-8	dipropizine	D003371	Cough	0.0
+58-32-2	Dipyridamole	D002311	Cardiomyopathy, Dilated	0.0
+58-32-2	Dipyridamole	D006333	Heart Failure	0.0
+58-32-2	Dipyridamole	D006973	Hypertension	0.0
+58-32-2	Dipyridamole	D006976	Hypertension, Pulmonary	0.0
+58-32-2	Dipyridamole	D007022	Hypotension	0.0
+58-32-2	Dipyridamole	D009203	Myocardial Infarction	0.0
+58-32-2	Dipyridamole	D017202	Myocardial Ischemia	0.0
+58-32-2	Dipyridamole	D020246	Venous Thrombosis	0.0
+3737-09-5	Disopyramide	D001145	Arrhythmias, Cardiac	0.0
+3737-09-5	Disopyramide	D001281	Atrial Fibrillation	0.0
+3737-09-5	Disopyramide	D018880	Atrial Premature Complexes	0.0
+3737-09-5	Disopyramide	D002312	Cardiomyopathy, Hypertrophic	0.0
+3737-09-5	Disopyramide	D009203	Myocardial Infarction	0.0
+3737-09-5	Disopyramide	D013611	Tachycardia, Atrioventricular Nodal Reentry	0.0
+3737-09-5	Disopyramide	D013617	Tachycardia, Supraventricular	0.0
+3737-09-5	Disopyramide	D017180	Tachycardia, Ventricular	0.0
+3737-09-5	Disopyramide	D014693	Ventricular Fibrillation	0.0
+3737-09-5	Disopyramide	D018879	Ventricular Premature Complexes	0.0
+97-77-8	Disulfiram	D002177	Candidiasis	0.0
+97-77-8	Disulfiram	D009362	Neoplasm Metastasis	0.0
+77086-22-7	Dizocilpine Maleate	D001145	Arrhythmias, Cardiac	0.0
+77086-22-7	Dizocilpine Maleate	D007022	Hypotension	0.0
+34368-04-2	Dobutamine	D001024	Aortic Valve Stenosis	0.0
+34368-04-2	Dobutamine	D009202	Cardiomyopathies	0.0
+34368-04-2	Dobutamine	D002311	Cardiomyopathy, Dilated	0.0
+34368-04-2	Dobutamine	D002312	Cardiomyopathy, Hypertrophic	0.0
+34368-04-2	Dobutamine	D003327	Coronary Disease	0.0
+34368-04-2	Dobutamine	D006333	Heart Failure	0.0
+34368-04-2	Dobutamine	D007022	Hypotension	0.0
+34368-04-2	Dobutamine	D009203	Myocardial Infarction	0.0
+34368-04-2	Dobutamine	D017202	Myocardial Ischemia	0.0
+34368-04-2	Dobutamine	D012127	Respiratory Distress Syndrome, Newborn	0.0
+25167-62-8	Docosahexaenoic Acids	D001145	Arrhythmias, Cardiac	0.0
+25167-62-8	Docosahexaenoic Acids	D002312	Cardiomyopathy, Hypertrophic	0.0
+25167-62-8	Docosahexaenoic Acids	D003327	Coronary Disease	0.0
+25167-62-8	Docosahexaenoic Acids	D003550	Cystic Fibrosis	0.0
+25167-62-8	Docosahexaenoic Acids	D008175	Lung Neoplasms	0.0
+25167-62-8	Docosahexaenoic Acids	D009362	Neoplasm Metastasis	0.0
+25167-62-8	Docosahexaenoic Acids	D011928	Raynaud Disease	0.0
+115256-11-6	dofetilide	D001145	Arrhythmias, Cardiac	0.0
+115256-11-6	dofetilide	D001281	Atrial Fibrillation	0.0
+115256-11-6	dofetilide	D006333	Heart Failure	0.0
+115256-11-6	dofetilide	D017180	Tachycardia, Ventricular	0.0
+57808-66-9	Domperidone	D007022	Hypotension	0.0
+57808-66-9	Domperidone	D007024	Hypotension, Orthostatic	0.0
+120011-70-3	Donepezil	D006332	Cardiomegaly	0.0
+120011-70-3	Donepezil	D009203	Myocardial Infarction	0.0
+51-61-6	Dopamine	D004417	Dyspnea	0.0
+51-61-6	Dopamine	D006333	Heart Failure	0.0
+51-61-6	Dopamine	D007022	Hypotension	0.0
+51-61-6	Dopamine	D007024	Hypotension, Orthostatic	0.0
+51-61-6	Dopamine	D012127	Respiratory Distress Syndrome, Newborn	0.0
+64019-03-0	doqualast	D001249	Asthma	0.0
+74191-85-8	Doxazosin	D001145	Arrhythmias, Cardiac	0.0
+74191-85-8	Doxazosin	D006332	Cardiomegaly	0.0
+74191-85-8	Doxazosin	D003327	Coronary Disease	0.0
+74191-85-8	Doxazosin	D006973	Hypertension	0.0
+1668-19-5	Doxepin	D012893	Sleep Wake Disorders	0.0
+3094-09-5	doxifluridine	D009362	Neoplasm Metastasis	0.0
+69975-86-6	doxofylline	D001249	Asthma	0.0
+23214-92-8	Doxorubicin	D008175	Lung Neoplasms	0.0
+23214-92-8	Doxorubicin	D009362	Neoplasm Metastasis	0.0
+23214-92-8	Doxorubicin	D010997	Pleural Neoplasms	0.0
+564-25-0	Doxycycline	D001991	Bronchitis	0.0
+564-25-0	Doxycycline	D006332	Cardiomegaly	0.0
+564-25-0	Doxycycline	D010003	Osteoarthritis	0.0
+564-25-0	Doxycycline	D012141	Respiratory Tract Infections	0.0
+548-73-2	Droperidol	D001145	Arrhythmias, Cardiac	0.0
+548-73-2	Droperidol	D006973	Hypertension	0.0
+548-73-2	Droperidol	D017180	Tachycardia, Ventricular	0.0
+3176-03-2	drotebanol	D003371	Cough	0.0
+23651-95-8	Droxidopa	D007024	Hypotension, Orthostatic	0.0
+62078-98-2	DSP 4	D007022	Hypotension	0.0
+120608-46-0	duteplase	D009203	Myocardial Infarction	0.0
+152-62-5	Dydrogesterone	D003324	Coronary Artery Disease	0.0
+74913-18-1	Dynorphins	D001145	Arrhythmias, Cardiac	0.0
+479-18-5	Dyphylline	D006973	Hypertension	0.0
+113558-89-7	E 4031	D001145	Arrhythmias, Cardiac	0.0
+60940-34-3	ebselen	D009202	Cardiomyopathies	0.0
+510-30-5	echinocystic acid	D017202	Myocardial Ischemia	0.0
+89-25-8	Edaravone	D001172	Arthritis, Rheumatoid	0.0
+480449-70-5	edoxaban	D054556	Venous Thromboembolism	0.0
+312-48-1	Edrophonium	D007022	Hypotension	0.0
+312-48-1	Edrophonium	D013617	Tachycardia, Supraventricular	0.0
+89197-32-0	efaroxan	D007022	Hypotension	0.0
+111011-53-1	efonidipine	D006973	Hypertension	0.0
+1553-41-9	Eicosapentaenoic Acid	D001145	Arrhythmias, Cardiac	0.0
+1553-41-9	Eicosapentaenoic Acid	D003327	Coronary Disease	0.0
+1553-41-9	Eicosapentaenoic Acid	D006973	Hypertension	0.0
+1553-41-9	Eicosapentaenoic Acid	D011928	Raynaud Disease	0.0
+119413-55-7	elgodipine	D006973	Hypertension	0.0
+476-66-4	Ellagic Acid	D009203	Myocardial Infarction	0.0
+156001-18-2	embusartan	D006973	Hypertension	0.0
+518-82-1	Emodin	D001249	Asthma	0.0
+75847-73-3	Enalapril	D050197	Atherosclerosis	0.0
+75847-73-3	Enalapril	D006332	Cardiomegaly	0.0
+75847-73-3	Enalapril	D009202	Cardiomyopathies	0.0
+75847-73-3	Enalapril	D002311	Cardiomyopathy, Dilated	0.0
+75847-73-3	Enalapril	D003324	Coronary Artery Disease	0.0
+75847-73-3	Enalapril	D003924	Diabetes Mellitus, Type 2	0.0
+75847-73-3	Enalapril	D006333	Heart Failure	0.0
+75847-73-3	Enalapril	D006973	Hypertension	0.0
+75847-73-3	Enalapril	D006976	Hypertension, Pulmonary	0.0
+75847-73-3	Enalapril	D008944	Mitral Valve Insufficiency	0.0
+75847-73-3	Enalapril	D009203	Myocardial Infarction	0.0
+75847-73-3	Enalapril	D009400	Nephrosclerosis	0.0
+75847-73-3	Enalapril	D009765	Obesity	0.0
+75847-73-3	Enalapril	D010024	Osteoporosis	0.0
+75847-73-3	Enalapril	D016491	Peripheral Vascular Diseases	0.0
+75847-73-3	Enalapril	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+84680-54-6	Enalaprilat	D006332	Cardiomegaly	0.0
+84680-54-6	Enalaprilat	D009202	Cardiomyopathies	0.0
+84680-54-6	Enalaprilat	D006973	Hypertension	0.0
+84680-54-6	Enalaprilat	D008133	Long QT Syndrome	0.0
+66778-36-7	Encainide	D001145	Arrhythmias, Cardiac	0.0
+66778-36-7	Encainide	D013617	Tachycardia, Supraventricular	0.0
+13838-16-9	Enflurane	D006973	Hypertension	0.0
+13838-16-9	Enflurane	D017180	Tachycardia, Ventricular	0.0
+100929-53-1	Enkephalin, Ala(2)-MePhe(4)-Gly(5)-	D006973	Hypertension	0.0
+63631-40-3	Enkephalin, Leucine-2-Alanine	D006973	Hypertension	0.0
+74011-58-8	Enoxacin	D001987	Bronchiectasis	0.0
+74011-58-8	Enoxacin	D001991	Bronchitis	0.0
+74011-58-8	Enoxacin	D029481	Bronchitis, Chronic	0.0
+77671-31-9	Enoximone	D002311	Cardiomyopathy, Dilated	0.0
+77671-31-9	Enoximone	D003324	Coronary Artery Disease	0.0
+77671-31-9	Enoximone	D006333	Heart Failure	0.0
+77671-31-9	Enoximone	D009203	Myocardial Infarction	0.0
+41078-02-8	enprofylline	D001249	Asthma	0.0
+41078-02-8	enprofylline	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+167256-08-8	enrasentan	D006333	Heart Failure	0.0
+39424-54-9	enterotoxin C, staphylococcal	D011654	Pulmonary Edema	0.0
+69267-68-1	EO 122	D001145	Arrhythmias, Cardiac	0.0
+299-42-3	Ephedrine	D001249	Asthma	0.0
+299-42-3	Ephedrine	D006973	Hypertension	0.0
+299-42-3	Ephedrine	D007022	Hypotension	0.0
+299-42-3	Ephedrine	D007024	Hypotension, Orthostatic	0.0
+299-42-3	Ephedrine	D009765	Obesity	0.0
+989-51-5	epigallocatechin gallate	D001249	Asthma	0.0
+989-51-5	epigallocatechin gallate	D050197	Atherosclerosis	0.0
+989-51-5	epigallocatechin gallate	D002312	Cardiomyopathy, Hypertrophic	0.0
+989-51-5	epigallocatechin gallate	D003924	Diabetes Mellitus, Type 2	0.0
+989-51-5	epigallocatechin gallate	D006973	Hypertension	0.0
+989-51-5	epigallocatechin gallate	D006976	Hypertension, Pulmonary	0.0
+989-51-5	epigallocatechin gallate	D008175	Lung Neoplasms	0.0
+989-51-5	epigallocatechin gallate	D009203	Myocardial Infarction	0.0
+80012-43-7	epinastine	D006255	Rhinitis, Allergic, Seasonal	0.0
+51-43-4	Epinephrine	D001145	Arrhythmias, Cardiac	0.0
+51-43-4	Epinephrine	D001249	Asthma	0.0
+51-43-4	Epinephrine	D054537	Atrioventricular Block	0.0
+51-43-4	Epinephrine	D009202	Cardiomyopathies	0.0
+51-43-4	Epinephrine	D003324	Coronary Artery Disease	0.0
+51-43-4	Epinephrine	D003440	Croup	0.0
+51-43-4	Epinephrine	D004417	Dyspnea	0.0
+51-43-4	Epinephrine	D007022	Hypotension	0.0
+51-43-4	Epinephrine	D007819	Laryngeal Edema	0.0
+51-43-4	Epinephrine	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+51-43-4	Epinephrine	D012120	Respiration Disorders	0.0
+56420-45-2	Epirubicin	D008175	Lung Neoplasms	0.0
+35121-78-9	Epoprostenol	D000787	Angina Pectoris	0.0
+35121-78-9	Epoprostenol	D006344	Heart Septal Defects, Atrial	0.0
+35121-78-9	Epoprostenol	D006973	Hypertension	0.0
+35121-78-9	Epoprostenol	D006976	Hypertension, Pulmonary	0.0
+35121-78-9	Epoprostenol	D011655	Pulmonary Embolism	0.0
+35121-78-9	Epoprostenol	D011928	Raynaud Disease	0.0
+84611-23-4	erdosteine	D009202	Cardiomyopathies	0.0
+113-15-5	Ergotamine	D007024	Hypotension, Orthostatic	0.0
+552-58-9	eriodictyol	D011654	Pulmonary Edema	0.0
+132051-67-3	eristostatin	D011655	Pulmonary Embolism	0.0
+114-07-8	Erythromycin	D018410	Pneumonia, Bacterial	0.0
+114-07-8	Erythromycin	D012141	Respiratory Tract Infections	0.0
+114-07-8	Erythromycin	D014069	Tonsillitis	0.0
+643-22-1	erythromycin stearate	D018410	Pneumonia, Bacterial	0.0
+305-01-1	esculetin	D006973	Hypertension	0.0
+305-01-1	esculetin	D014693	Ventricular Fibrillation	0.0
+84057-94-3	esmolol	D001145	Arrhythmias, Cardiac	0.0
+84057-94-3	esmolol	D006973	Hypertension	0.0
+84057-94-3	esmolol	D007022	Hypotension	0.0
+84057-94-3	esmolol	D017202	Myocardial Ischemia	0.0
+84057-94-3	esmolol	D013617	Tachycardia, Supraventricular	0.0
+50-28-2	Estradiol	D050197	Atherosclerosis	0.0
+50-28-2	Estradiol	D003324	Coronary Artery Disease	0.0
+50-28-2	Estradiol	D009203	Myocardial Infarction	0.0
+50-28-2	Estradiol	D010024	Osteoporosis	0.0
+50-28-2	Estradiol	D015663	Osteoporosis, Postmenopausal	0.0
+50-28-2	Estradiol	D017180	Tachycardia, Ventricular	0.0
+50-28-2	Estradiol	D014693	Ventricular Fibrillation	0.0
+50-27-1	Estriol	D050197	Atherosclerosis	0.0
+22668-01-5	Etanidazole	D008175	Lung Neoplasms	0.0
+58-54-8	Ethacrynic Acid	D007022	Hypotension	0.0
+74-55-5	Ethambutol	D009164	Mycobacterium Infections	0.0
+74-55-5	Ethambutol	D012141	Respiratory Tract Infections	0.0
+74-55-5	Ethambutol	D014376	Tuberculosis	0.0
+74-55-5	Ethambutol	D014397	Tuberculosis, Pulmonary	0.0
+64-17-5	Ethanol	D001281	Atrial Fibrillation	0.0
+64-17-5	Ethanol	D002311	Cardiomyopathy, Dilated	0.0
+64-17-5	Ethanol	D007022	Hypotension	0.0
+57-63-6	Ethinyl Estradiol	D054059	Coronary Occlusion	0.0
+57-63-6	Ethinyl Estradiol	D017202	Myocardial Ischemia	0.0
+57-63-6	Ethinyl Estradiol	D014693	Ventricular Fibrillation	0.0
+8056-51-7	Ethinyl Estradiol-Norgestrel Combination	D050197	Atherosclerosis	0.0
+536-33-4	Ethionamide	D014376	Tuberculosis	0.0
+617-35-6	ethyl pyruvate	D011654	Pulmonary Edema	0.0
+2809-21-4	Etidronic Acid	D010024	Osteoporosis	0.0
+709-55-7	Etilefrine	D007022	Hypotension	0.0
+709-55-7	Etilefrine	D007024	Hypotension, Orthostatic	0.0
+41340-25-4	Etodolac	D009362	Neoplasm Metastasis	0.0
+41340-25-4	Etodolac	D010003	Osteoarthritis	0.0
+82258-36-4	etomoxir	D006333	Heart Failure	0.0
+33419-42-0	Etoposide	D008175	Lung Neoplasms	0.0
+202409-33-4	Etoricoxib	D001172	Arthritis, Rheumatoid	0.0
+202409-33-4	Etoricoxib	D006073	Gout	0.0
+202409-33-4	Etoricoxib	D010003	Osteoarthritis	0.0
+470-82-6	Eucalyptol	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+97-53-0	Eugenol	D008133	Long QT Syndrome	0.0
+97-53-0	Eugenol	D009362	Neoplasm Metastasis	0.0
+5956-87-6	evodiamine	D009362	Neoplasm Metastasis	0.0
+5956-87-6	evodiamine	D009765	Obesity	0.0
+141732-76-5	Exenatide	D003924	Diabetes Mellitus, Type 2	0.0
+141732-76-5	Exenatide	D010024	Osteoporosis	0.0
+102676-47-1	Fadrozole	D009362	Neoplasm Metastasis	0.0
+77862-92-1	falipamil	D000787	Angina Pectoris	0.0
+76824-35-6	Famotidine	D001172	Arthritis, Rheumatoid	0.0
+76824-35-6	Famotidine	D006333	Heart Failure	0.0
+76824-35-6	Famotidine	D006973	Hypertension	0.0
+76824-35-6	Famotidine	D008175	Lung Neoplasms	0.0
+76824-35-6	Famotidine	D009362	Neoplasm Metastasis	0.0
+103745-39-7	fasudil	D002311	Cardiomyopathy, Dilated	0.0
+103745-39-7	fasudil	D006973	Hypertension	0.0
+103745-39-7	fasudil	D011654	Pulmonary Edema	0.0
+72509-76-3	Felodipine	D000787	Angina Pectoris	0.0
+72509-76-3	Felodipine	D003327	Coronary Disease	0.0
+72509-76-3	Felodipine	D006333	Heart Failure	0.0
+72509-76-3	Felodipine	D006973	Hypertension	0.0
+34645-84-6	fenclofenac	D001172	Arthritis, Rheumatoid	0.0
+13042-18-7	Fendiline	D000787	Angina Pectoris	0.0
+458-24-2	Fenfluramine	D006973	Hypertension	0.0
+458-24-2	Fenfluramine	D009765	Obesity	0.0
+49562-28-9	Fenofibrate	D003324	Coronary Artery Disease	0.0
+49562-28-9	Fenofibrate	D006073	Gout	0.0
+49562-28-9	Fenofibrate	D009203	Myocardial Infarction	0.0
+67227-56-9	Fenoldopam	D006973	Hypertension	0.0
+31879-05-7	Fenoprofen	D001172	Arthritis, Rheumatoid	0.0
+31879-05-7	Fenoprofen	D010003	Osteoarthritis	0.0
+13392-18-2	Fenoterol	D001249	Asthma	0.0
+13392-18-2	Fenoterol	D006333	Heart Failure	0.0
+65646-68-6	Fenretinide	D009765	Obesity	0.0
+65646-68-6	Fenretinide	D010490	Pericardial Effusion	0.0
+437-38-7	Fentanyl	D003371	Cough	0.0
+437-38-7	Fentanyl	D006973	Hypertension	0.0
+437-38-7	Fentanyl	D006976	Hypertension, Pulmonary	0.0
+437-38-7	Fentanyl	D011654	Pulmonary Edema	0.0
+1135-24-6	ferulic acid	D050197	Atherosclerosis	0.0
+1135-24-6	ferulic acid	D009202	Cardiomyopathies	0.0
+1135-24-6	ferulic acid	D006973	Hypertension	0.0
+1135-24-6	ferulic acid	D009203	Myocardial Infarction	0.0
+1135-24-6	ferulic acid	D011654	Pulmonary Edema	0.0
+136087-85-9	fidarestat	D006333	Heart Failure	0.0
+247257-48-3	fimasartan	D006973	Hypertension	0.0
+94936-90-0	FK 664	D006333	Heart Failure	0.0
+146-14-5	Flavin-Adenine Dinucleotide	D007022	Hypotension	0.0
+146-14-5	Flavin-Adenine Dinucleotide	D014693	Ventricular Fibrillation	0.0
+54143-55-4	Flecainide	D001145	Arrhythmias, Cardiac	0.0
+54143-55-4	Flecainide	D001281	Atrial Fibrillation	0.0
+54143-55-4	Flecainide	D009203	Myocardial Infarction	0.0
+54143-55-4	Flecainide	D013617	Tachycardia, Supraventricular	0.0
+54143-55-4	Flecainide	D017180	Tachycardia, Ventricular	0.0
+54143-55-4	Flecainide	D014693	Ventricular Fibrillation	0.0
+54143-55-4	Flecainide	D018879	Ventricular Premature Complexes	0.0
+54143-55-4	Flecainide	D014927	Wolff-Parkinson-White Syndrome	0.0
+79660-72-3	Fleroxacin	D001991	Bronchitis	0.0
+98206-10-1	flesinoxan	D006973	Hypertension	0.0
+87721-62-8	flestolol	D000787	Angina Pectoris	0.0
+87721-62-8	flestolol	D013617	Tachycardia, Supraventricular	0.0
+87721-62-8	flestolol	D017180	Tachycardia, Ventricular	0.0
+87721-62-8	flestolol	D014693	Ventricular Fibrillation	0.0
+5250-39-5	Floxacillin	D018410	Pneumonia, Bacterial	0.0
+50-91-9	Floxuridine	D009362	Neoplasm Metastasis	0.0
+86386-73-4	Fluconazole	D001228	Aspergillosis	0.0
+86386-73-4	Fluconazole	D002177	Candidiasis	0.0
+86386-73-4	Fluconazole	D003453	Cryptococcosis	0.0
+86386-73-4	Fluconazole	D004696	Endocarditis	0.0
+86386-73-4	Fluconazole	D009181	Mycoses	0.0
+2022-85-7	Flucytosine	D002177	Candidiasis	0.0
+2022-85-7	Flucytosine	D003453	Cryptococcosis	0.0
+2022-85-7	Flucytosine	D009181	Mycoses	0.0
+21679-14-1	fludarabine	D010020	Osteonecrosis	0.0
+127-31-1	Fludrocortisone	D007022	Hypotension	0.0
+127-31-1	Fludrocortisone	D007024	Hypotension, Orthostatic	0.0
+514-36-3	fludrocortisone acetate	D007024	Hypotension, Orthostatic	0.0
+530-78-9	Flufenamic Acid	D012141	Respiratory Tract Infections	0.0
+957-56-2	fluindione	D001281	Atrial Fibrillation	0.0
+957-56-2	fluindione	D054556	Venous Thromboembolism	0.0
+78755-81-4	Flumazenil	D007022	Hypotension	0.0
+78755-81-4	Flumazenil	D012131	Respiratory Insufficiency	0.0
+52468-60-7	Flunarizine	D017180	Tachycardia, Ventricular	0.0
+52468-60-7	Flunarizine	D014693	Ventricular Fibrillation	0.0
+1622-62-4	Flunitrazepam	D006973	Hypertension	0.0
+51-21-8	Fluorouracil	D007822	Laryngeal Neoplasms	0.0
+51-21-8	Fluorouracil	D008175	Lung Neoplasms	0.0
+51-21-8	Fluorouracil	D009303	Nasopharyngeal Neoplasms	0.0
+51-21-8	Fluorouracil	D009362	Neoplasm Metastasis	0.0
+54910-89-3	Fluoxetine	D006332	Cardiomegaly	0.0
+54910-89-3	Fluoxetine	D006976	Hypertension, Pulmonary	0.0
+54910-89-3	Fluoxetine	D009765	Obesity	0.0
+105182-45-4	fluparoxan	D007022	Hypotension	0.0
+17617-23-1	Flurazepam	D012893	Sleep Wake Disorders	0.0
+5104-49-4	Flurbiprofen	D001172	Arthritis, Rheumatoid	0.0
+406-90-6	fluroxene	D017180	Tachycardia, Ventricular	0.0
+28125-87-3	flutonidine	D006973	Hypertension	0.0
+93957-54-1	Fluvastatin	D050197	Atherosclerosis	0.0
+93957-54-1	Fluvastatin	D009202	Cardiomyopathies	0.0
+93957-54-1	Fluvastatin	D003327	Coronary Disease	0.0
+93957-54-1	Fluvastatin	D006333	Heart Failure	0.0
+93957-54-1	Fluvastatin	D009203	Myocardial Infarction	0.0
+54739-18-3	Fluvoxamine	D009765	Obesity	0.0
+59-30-3	Folic Acid	D015535	Arthritis, Psoriatic	0.0
+59-30-3	Folic Acid	D009202	Cardiomyopathies	0.0
+59-30-3	Folic Acid	D018376	Cardiovascular Abnormalities	0.0
+59-30-3	Folic Acid	D003924	Diabetes Mellitus, Type 2	0.0
+59-30-3	Folic Acid	D006973	Hypertension	0.0
+59-30-3	Folic Acid	D009303	Nasopharyngeal Neoplasms	0.0
+59-30-3	Folic Acid	D010018	Osteomalacia	0.0
+59-30-3	Folic Acid	D014123	Toxoplasmosis	0.0
+50773-42-7	formosanin C	D008175	Lung Neoplasms	0.0
+50773-42-7	formosanin C	D009362	Neoplasm Metastasis	0.0
+23155-02-4	Fosfomycin	D003550	Cystic Fibrosis	0.0
+23155-02-4	Fosfomycin	D018410	Pneumonia, Bacterial	0.0
+98048-97-6	Fosinopril	D006332	Cardiomegaly	0.0
+98048-97-6	Fosinopril	D006333	Heart Failure	0.0
+98048-97-6	Fosinopril	D006973	Hypertension	0.0
+93390-81-9	fosphenytoin	D017180	Tachycardia, Ventricular	0.0
+142375-60-8	FR 139317	D006973	Hypertension	0.0
+102671-35-2	FR 64822	D009765	Obesity	0.0
+488-69-7	fructose-1,6-diphosphate	D009202	Cardiomyopathies	0.0
+9072-19-9	fucoidan	D020246	Venous Thrombosis	0.0
+23110-15-8	fumagillin	D009362	Neoplasm Metastasis	0.0
+23110-15-8	fumagillin	D009765	Obesity	0.0
+85666-17-7	furegrelate	D006973	Hypertension	0.0
+54-31-9	Furosemide	D001281	Atrial Fibrillation	0.0
+54-31-9	Furosemide	D002311	Cardiomyopathy, Dilated	0.0
+54-31-9	Furosemide	D003324	Coronary Artery Disease	0.0
+54-31-9	Furosemide	D004417	Dyspnea	0.0
+54-31-9	Furosemide	D006333	Heart Failure	0.0
+54-31-9	Furosemide	D006973	Hypertension	0.0
+54-31-9	Furosemide	D008944	Mitral Valve Insufficiency	0.0
+54-31-9	Furosemide	D011654	Pulmonary Edema	0.0
+54-31-9	Furosemide	D012128	Respiratory Distress Syndrome	0.0
+78272-90-9	fusaric acid N,N-diethylaminoethylamide	D001145	Arrhythmias, Cardiac	0.0
+6990-06-3	Fusidic Acid	D010019	Osteomyelitis	0.0
+149-91-7	Gallic Acid	D003920	Diabetes Mellitus	0.0
+149-91-7	Gallic Acid	D009203	Myocardial Infarction	0.0
+149-91-7	Gallic Acid	D009362	Neoplasm Metastasis	0.0
+16662-47-8	Gallopamil	D000787	Angina Pectoris	0.0
+16662-47-8	Gallopamil	D001145	Arrhythmias, Cardiac	0.0
+16662-47-8	Gallopamil	D017202	Myocardial Ischemia	0.0
+56-12-2	gamma-Aminobutyric Acid	D006973	Hypertension	0.0
+112811-59-3	Gatifloxacin	D012852	Sinusitis	0.0
+103882-84-4	gemcitabine	D008175	Lung Neoplasms	0.0
+103882-84-4	gemcitabine	D009362	Neoplasm Metastasis	0.0
+103882-84-4	gemcitabine	D009382	Neoplasms, Unknown Primary	0.0
+25812-30-0	Gemfibrozil	D050197	Atherosclerosis	0.0
+25812-30-0	Gemfibrozil	D003324	Coronary Artery Disease	0.0
+25812-30-0	Gemfibrozil	D003327	Coronary Disease	0.0
+446-72-0	Genistein	D003924	Diabetes Mellitus, Type 2	0.0
+446-72-0	Genistein	D008175	Lung Neoplasms	0.0
+446-72-0	Genistein	D009203	Myocardial Infarction	0.0
+446-72-0	Genistein	D009765	Obesity	0.0
+446-72-0	Genistein	D010024	Osteoporosis	0.0
+446-72-0	Genistein	D015663	Osteoporosis, Postmenopausal	0.0
+624-15-7	geraniol	D001145	Arrhythmias, Cardiac	0.0
+624-15-7	geraniol	D001249	Asthma	0.0
+624-15-7	geraniol	D050197	Atherosclerosis	0.0
+624-15-7	geraniol	D002177	Candidiasis	0.0
+624-15-7	geraniol	D006332	Cardiomegaly	0.0
+624-15-7	geraniol	D009202	Cardiomyopathies	0.0
+624-15-7	geraniol	D006973	Hypertension	0.0
+624-15-7	geraniol	D008133	Long QT Syndrome	0.0
+624-15-7	geraniol	D008175	Lung Neoplasms	0.0
+624-15-7	geraniol	D009765	Obesity	0.0
+624-15-7	geraniol	D011654	Pulmonary Edema	0.0
+1391-73-7	gingerol	D009362	Neoplasm Metastasis	0.0
+22910-60-7	ginkgolic acid	D009203	Myocardial Infarction	0.0
+99796-69-7	ginkgolide B	D007022	Hypotension	0.0
+52705-93-8	ginsenoside Rd	D009203	Myocardial Infarction	0.0
+52286-59-6	ginsenoside Re	D002177	Candidiasis	0.0
+52286-59-6	ginsenoside Re	D003924	Diabetes Mellitus, Type 2	0.0
+52286-59-6	ginsenoside Re	D009203	Myocardial Infarction	0.0
+52286-59-6	ginsenoside Re	D014123	Toxoplasmosis	0.0
+22427-39-0	ginsenoside Rg1	D002177	Candidiasis	0.0
+22427-39-0	ginsenoside Rg1	D009203	Myocardial Infarction	0.0
+59870-68-7	glabridin	D009765	Obesity	0.0
+5630-11-5	glaucine	D003371	Cough	0.0
+79498-31-0	glaucocalyxin A	D009362	Neoplasm Metastasis	0.0
+21187-98-4	Gliclazide	D003920	Diabetes Mellitus	0.0
+21187-98-4	Gliclazide	D003924	Diabetes Mellitus, Type 2	0.0
+21187-98-4	Gliclazide	D009203	Myocardial Infarction	0.0
+29094-61-9	Glipizide	D003920	Diabetes Mellitus	0.0
+29094-61-9	Glipizide	D003924	Diabetes Mellitus, Type 2	0.0
+9007-92-5	Glucagon	D007022	Hypotension	0.0
+9007-92-5	Glucagon	D017180	Tachycardia, Ventricular	0.0
+526-95-4	gluconic acid	D001145	Arrhythmias, Cardiac	0.0
+3416-24-8	Glucosamine	D010003	Osteoarthritis	0.0
+3416-24-8	Glucosamine	D010024	Osteoporosis	0.0
+50-99-7	Glucose	D007022	Hypotension	0.0
+70-18-8	Glutathione	D009202	Cardiomyopathies	0.0
+70-18-8	Glutathione	D003550	Cystic Fibrosis	0.0
+70-18-8	Glutathione	D006973	Hypertension	0.0
+10238-21-8	Glyburide	D003920	Diabetes Mellitus	0.0
+10238-21-8	Glyburide	D003924	Diabetes Mellitus, Type 2	0.0
+10238-21-8	Glyburide	D007022	Hypotension	0.0
+10238-21-8	Glyburide	D011654	Pulmonary Edema	0.0
+596-51-0	Glycopyrrolate	D001249	Asthma	0.0
+596-51-0	Glycopyrrolate	D007022	Hypotension	0.0
+596-51-0	Glycopyrrolate	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+7440-57-5	Gold	D001172	Arthritis, Rheumatoid	0.0
+12244-57-4	Gold Sodium Thiomalate	D001172	Arthritis, Rheumatoid	0.0
+126-07-8	Griseofulvin	D009181	Mycoses	0.0
+126-07-8	Griseofulvin	D011928	Raynaud Disease	0.0
+93-14-1	Guaifenesin	D001249	Asthma	0.0
+93-14-1	Guaifenesin	D003371	Cough	0.0
+93-14-1	Guaifenesin	D012852	Sinusitis	0.0
+5051-62-7	Guanabenz	D006973	Hypertension	0.0
+40580-59-4	guanadrel	D006973	Hypertension	0.0
+55-65-2	Guanethidine	D006973	Hypertension	0.0
+55-65-2	Guanethidine	D007022	Hypotension	0.0
+55-65-2	Guanethidine	D009203	Myocardial Infarction	0.0
+29110-47-2	Guanfacine	D006973	Hypertension	0.0
+29110-47-2	Guanfacine	D017180	Tachycardia, Ventricular	0.0
+29110-47-2	Guanfacine	D018879	Ventricular Premature Complexes	0.0
+2165-19-7	guanoxan	D006973	Hypertension	0.0
+83843-49-6	GYKI 23107	D001145	Arrhythmias, Cardiac	0.0
+52-86-8	Haloperidol	D006973	Hypertension	0.0
+52-86-8	Haloperidol	D007022	Hypotension	0.0
+151-67-7	Halothane	D001249	Asthma	0.0
+151-67-7	Halothane	D006973	Hypertension	0.0
+69806-34-4	haloxyfop	D014123	Toxoplasmosis	0.0
+442-51-3	Harmine	D009765	Obesity	0.0
+100438-92-4	heme arginate	D006332	Cardiomegaly	0.0
+100438-92-4	heme arginate	D006973	Hypertension	0.0
+312-45-8	Hemicholinium 3	D006973	Hypertension	0.0
+312-45-8	Hemicholinium 3	D007022	Hypotension	0.0
+16009-13-5	Hemin	D003924	Diabetes Mellitus, Type 2	0.0
+16009-13-5	Hemin	D006973	Hypertension	0.0
+9005-49-6	Heparin	D000787	Angina Pectoris	0.0
+9005-49-6	Heparin	D000789	Angina, Unstable	0.0
+9005-49-6	Heparin	D001249	Asthma	0.0
+9005-49-6	Heparin	D001281	Atrial Fibrillation	0.0
+9005-49-6	Heparin	D003324	Coronary Artery Disease	0.0
+9005-49-6	Heparin	D006973	Hypertension	0.0
+9005-49-6	Heparin	D008175	Lung Neoplasms	0.0
+9005-49-6	Heparin	D009203	Myocardial Infarction	0.0
+9005-49-6	Heparin	D017202	Myocardial Ischemia	0.0
+9005-49-6	Heparin	D010493	Pericarditis	0.0
+9005-49-6	Heparin	D011655	Pulmonary Embolism	0.0
+9005-49-6	Heparin	D054556	Venous Thromboembolism	0.0
+9005-49-6	Heparin	D020246	Venous Thrombosis	0.0
+372-66-7	Heptaminol	D007024	Hypotension, Orthostatic	0.0
+520-33-2	hesperetin	D001261	Pulmonary Atelectasis	0.0
+520-33-2	hesperetin	D011654	Pulmonary Edema	0.0
+520-26-3	Hesperidin	D006332	Cardiomegaly	0.0
+9011-04-5	Hexadimethrine Bromide	D012128	Respiratory Distress Syndrome	0.0
+60-26-4	Hexamethonium	D006973	Hypertension	0.0
+60-26-4	Hexamethonium	D007022	Hypotension	0.0
+140703-51-1	hexarelin	D050197	Atherosclerosis	0.0
+19202-36-9	hinokiflavone	D009362	Neoplasm Metastasis	0.0
+51-45-6	Histamine	D001145	Arrhythmias, Cardiac	0.0
+35354-74-6	honokiol	D009203	Myocardial Infarction	0.0
+35354-74-6	honokiol	D009362	Neoplasm Metastasis	0.0
+35354-74-6	honokiol	D009400	Nephrosclerosis	0.0
+35354-74-6	honokiol	D017180	Tachycardia, Ventricular	0.0
+35354-74-6	honokiol	D014693	Ventricular Fibrillation	0.0
+86-54-4	Hydralazine	D050197	Atherosclerosis	0.0
+86-54-4	Hydralazine	D006332	Cardiomegaly	0.0
+86-54-4	Hydralazine	D002311	Cardiomyopathy, Dilated	0.0
+86-54-4	Hydralazine	D006333	Heart Failure	0.0
+86-54-4	Hydralazine	D006973	Hypertension	0.0
+86-54-4	Hydralazine	D011654	Pulmonary Edema	0.0
+58-93-5	Hydrochlorothiazide	D000787	Angina Pectoris	0.0
+58-93-5	Hydrochlorothiazide	D050197	Atherosclerosis	0.0
+58-93-5	Hydrochlorothiazide	D006333	Heart Failure	0.0
+58-93-5	Hydrochlorothiazide	D006973	Hypertension	0.0
+14124-50-6	hydrochlorothiazide-triamterene	D006973	Hypertension	0.0
+125-29-1	Hydrocodone	D003371	Cough	0.0
+50-23-7	Hydrocortisone	D001172	Arthritis, Rheumatoid	0.0
+50-23-7	Hydrocortisone	D001249	Asthma	0.0
+50-23-7	Hydrocortisone	D004417	Dyspnea	0.0
+50-23-7	Hydrocortisone	D007022	Hypotension	0.0
+50-23-7	Hydrocortisone	D007024	Hypotension, Orthostatic	0.0
+50-23-7	Hydrocortisone	D008133	Long QT Syndrome	0.0
+50-23-7	Hydrocortisone	D017202	Myocardial Ischemia	0.0
+50-23-7	Hydrocortisone	D009362	Neoplasm Metastasis	0.0
+50-23-7	Hydrocortisone	D012131	Respiratory Insufficiency	0.0
+7783-06-4	Hydrogen Sulfide	D006973	Hypertension	0.0
+118-42-3	Hydroxychloroquine	D015535	Arthritis, Psoriatic	0.0
+118-42-3	Hydroxychloroquine	D001172	Arthritis, Rheumatoid	0.0
+118-42-3	Hydroxychloroquine	D003550	Cystic Fibrosis	0.0
+127-07-1	Hydroxyurea	D006976	Hypertension, Pulmonary	0.0
+15687-27-1	Ibuprofen	D003550	Cystic Fibrosis	0.0
+15687-27-1	Ibuprofen	D007022	Hypotension	0.0
+15687-27-1	Ibuprofen	D010003	Osteoarthritis	0.0
+15687-27-1	Ibuprofen	D015207	Osteoarthritis, Hip	0.0
+130350-52-6	ibutilide	D001145	Arrhythmias, Cardiac	0.0
+130350-52-6	ibutilide	D001281	Atrial Fibrillation	0.0
+130350-52-6	ibutilide	D006333	Heart Failure	0.0
+489-32-7	icariin	D010024	Osteoporosis	0.0
+130308-48-4	icatibant	D007022	Hypotension	0.0
+72795-19-8	ICI 118551	D001145	Arrhythmias, Cardiac	0.0
+72795-19-8	ICI 118551	D007022	Hypotension	0.0
+103961-78-0	ICI 195739	D001228	Aspergillosis	0.0
+143494-72-8	ICI D8731	D006332	Cardiomegaly	0.0
+143494-72-8	ICI D8731	D006973	Hypertension	0.0
+79944-58-4	Idazoxan	D006973	Hypertension	0.0
+79944-58-4	Idazoxan	D007022	Hypotension	0.0
+79944-58-4	Idazoxan	D017180	Tachycardia, Ventricular	0.0
+79944-58-4	Idazoxan	D014693	Ventricular Fibrillation	0.0
+127420-24-0	idrapril	D006973	Hypertension	0.0
+23210-56-2	ifenprodil	D001145	Arrhythmias, Cardiac	0.0
+3778-73-2	Ifosfamide	D008175	Lung Neoplasms	0.0
+3778-73-2	Ifosfamide	D009362	Neoplasm Metastasis	0.0
+78919-13-8	Iloprost	D000787	Angina Pectoris	0.0
+78919-13-8	Iloprost	D009202	Cardiomyopathies	0.0
+78919-13-8	Iloprost	D006976	Hypertension, Pulmonary	0.0
+78919-13-8	Iloprost	D016491	Peripheral Vascular Diseases	0.0
+78919-13-8	Iloprost	D011928	Raynaud Disease	0.0
+89371-37-9	imidapril	D006333	Heart Failure	0.0
+89371-37-9	imidapril	D006973	Hypertension	0.0
+89371-37-9	imidapril	D009203	Myocardial Infarction	0.0
+74431-23-5	Imipenem	D000196	Actinomycosis	0.0
+482-44-0	imperatorin	D006973	Hypertension	0.0
+26807-65-8	Indapamide	D003920	Diabetes Mellitus	0.0
+26807-65-8	Indapamide	D006973	Hypertension	0.0
+26807-65-8	Indapamide	D012893	Sleep Wake Disorders	0.0
+74517-78-5	indecainide	D017180	Tachycardia, Ventricular	0.0
+150378-17-9	Indinavir	D009164	Mycobacterium Infections	0.0
+80876-01-3	Indolapril	D006973	Hypertension	0.0
+700-06-1	indole-3-carbinol	D009202	Cardiomyopathies	0.0
+53-86-1	Indomethacin	D001014	Aortic Aneurysm	0.0
+53-86-1	Indomethacin	D017544	Aortic Aneurysm, Abdominal	0.0
+53-86-1	Indomethacin	D001172	Arthritis, Rheumatoid	0.0
+53-86-1	Indomethacin	D002805	Chondrocalcinosis	0.0
+53-86-1	Indomethacin	D054059	Coronary Occlusion	0.0
+53-86-1	Indomethacin	D006073	Gout	0.0
+53-86-1	Indomethacin	D006973	Hypertension	0.0
+53-86-1	Indomethacin	D006976	Hypertension, Pulmonary	0.0
+53-86-1	Indomethacin	D007022	Hypotension	0.0
+53-86-1	Indomethacin	D007024	Hypotension, Orthostatic	0.0
+53-86-1	Indomethacin	D008175	Lung Neoplasms	0.0
+53-86-1	Indomethacin	D009362	Neoplasm Metastasis	0.0
+53-86-1	Indomethacin	D010003	Osteoarthritis	0.0
+53-86-1	Indomethacin	D015207	Osteoarthritis, Hip	0.0
+53-86-1	Indomethacin	D010493	Pericarditis	0.0
+53-86-1	Indomethacin	D011654	Pulmonary Edema	0.0
+53-86-1	Indomethacin	D011928	Raynaud Disease	0.0
+31842-01-0	Indoprofen	D010003	Osteoarthritis	0.0
+26844-12-2	Indoramin	D006973	Hypertension	0.0
+8067-59-2	Innovar	D017180	Tachycardia, Ventricular	0.0
+58-63-9	Inosine	D009202	Cardiomyopathies	0.0
+86-04-4	Inosine Diphosphate	D006333	Heart Failure	0.0
+6917-35-7	Inositol	D008175	Lung Neoplasms	0.0
+9005-80-5	Inulin	D006973	Hypertension	0.0
+7553-56-2	Iodine	D008944	Mitral Valve Insufficiency	0.0
+60205-81-4	Ipratropium	D001249	Asthma	0.0
+60205-81-4	Ipratropium	D003139	Common Cold	0.0
+60205-81-4	Ipratropium	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+54-92-2	Iproniazid	D006332	Cardiomegaly	0.0
+138402-11-6	Irbesartan	D050197	Atherosclerosis	0.0
+138402-11-6	Irbesartan	D001281	Atrial Fibrillation	0.0
+138402-11-6	Irbesartan	D006332	Cardiomegaly	0.0
+138402-11-6	Irbesartan	D003327	Coronary Disease	0.0
+138402-11-6	Irbesartan	D003924	Diabetes Mellitus, Type 2	0.0
+138402-11-6	Irbesartan	D006333	Heart Failure	0.0
+138402-11-6	Irbesartan	D006973	Hypertension	0.0
+138402-11-6	Irbesartan	D009203	Myocardial Infarction	0.0
+59-63-2	Isocarboxazid	D006973	Hypertension	0.0
+26675-46-7	Isoflurane	D001145	Arrhythmias, Cardiac	0.0
+26675-46-7	Isoflurane	D006973	Hypertension	0.0
+26675-46-7	Isoflurane	D011654	Pulmonary Edema	0.0
+26675-46-7	Isoflurane	D017180	Tachycardia, Ventricular	0.0
+961-29-5	isoliquiritigenin	D009362	Neoplasm Metastasis	0.0
+54-85-3	Isoniazid	D009164	Mycobacterium Infections	0.0
+54-85-3	Isoniazid	D014376	Tuberculosis	0.0
+54-85-3	Isoniazid	D014397	Tuberculosis, Pulmonary	0.0
+7683-59-2	Isoproterenol	D000787	Angina Pectoris	0.0
+7683-59-2	Isoproterenol	D001145	Arrhythmias, Cardiac	0.0
+7683-59-2	Isoproterenol	D001249	Asthma	0.0
+7683-59-2	Isoproterenol	D054537	Atrioventricular Block	0.0
+7683-59-2	Isoproterenol	D009202	Cardiomyopathies	0.0
+7683-59-2	Isoproterenol	D006333	Heart Failure	0.0
+7683-59-2	Isoproterenol	D007022	Hypotension	0.0
+7683-59-2	Isoproterenol	D008133	Long QT Syndrome	0.0
+7683-59-2	Isoproterenol	D011654	Pulmonary Edema	0.0
+7683-59-2	Isoproterenol	D012131	Respiratory Insufficiency	0.0
+7683-59-2	Isoproterenol	D017180	Tachycardia, Ventricular	0.0
+7683-59-2	Isoproterenol	D014693	Ventricular Fibrillation	0.0
+7683-59-2	Isoproterenol	D018879	Ventricular Premature Complexes	0.0
+21637-25-2	isoquercitrin	D007251	Influenza, Human	0.0
+87-33-2	Isosorbide Dinitrate	D000787	Angina Pectoris	0.0
+87-33-2	Isosorbide Dinitrate	D003324	Coronary Artery Disease	0.0
+87-33-2	Isosorbide Dinitrate	D003327	Coronary Disease	0.0
+87-33-2	Isosorbide Dinitrate	D003329	Coronary Vasospasm	0.0
+87-33-2	Isosorbide Dinitrate	D006333	Heart Failure	0.0
+87-33-2	Isosorbide Dinitrate	D006973	Hypertension	0.0
+87-33-2	Isosorbide Dinitrate	D007022	Hypotension	0.0
+87-33-2	Isosorbide Dinitrate	D007024	Hypotension, Orthostatic	0.0
+87-33-2	Isosorbide Dinitrate	D009203	Myocardial Infarction	0.0
+87-33-2	Isosorbide Dinitrate	D017202	Myocardial Ischemia	0.0
+87-33-2	Isosorbide Dinitrate	D011655	Pulmonary Embolism	0.0
+16051-77-7	isosorbide-5-mononitrate	D000787	Angina Pectoris	0.0
+16051-77-7	isosorbide-5-mononitrate	D006973	Hypertension	0.0
+16051-77-7	isosorbide-5-mononitrate	D009203	Myocardial Infarction	0.0
+16051-77-7	isosorbide-5-mononitrate	D017202	Myocardial Ischemia	0.0
+16051-77-7	isosorbide-5-mononitrate	D011655	Pulmonary Embolism	0.0
+95508-61-5	isoteolin	D001145	Arrhythmias, Cardiac	0.0
+4759-48-2	Isotretinoin	D008175	Lung Neoplasms	0.0
+395-28-8	Isoxsuprine	D006973	Hypertension	0.0
+75695-93-1	Isradipine	D000787	Angina Pectoris	0.0
+75695-93-1	Isradipine	D050197	Atherosclerosis	0.0
+75695-93-1	Isradipine	D002312	Cardiomyopathy, Hypertrophic	0.0
+75695-93-1	Isradipine	D003327	Coronary Disease	0.0
+75695-93-1	Isradipine	D006973	Hypertension	0.0
+84625-61-6	Itraconazole	D001228	Aspergillosis	0.0
+84625-61-6	Itraconazole	D002177	Candidiasis	0.0
+84625-61-6	Itraconazole	D003047	Coccidioidomycosis	0.0
+84625-61-6	Itraconazole	D003453	Cryptococcosis	0.0
+84625-61-6	Itraconazole	D006660	Histoplasmosis	0.0
+84625-61-6	Itraconazole	D009181	Mycoses	0.0
+84625-61-6	Itraconazole	D010019	Osteomyelitis	0.0
+84625-61-6	Itraconazole	D013174	Sporotrichosis	0.0
+70288-86-7	Ivermectin	D009362	Neoplasm Metastasis	0.0
+219989-84-1	ixabepilone	D009362	Neoplasm Metastasis	0.0
+520-18-3	kaempferol	D050197	Atherosclerosis	0.0
+520-18-3	kaempferol	D009202	Cardiomyopathies	0.0
+520-18-3	kaempferol	D010024	Osteoporosis	0.0
+19895-95-5	kaempferol 3-O-sophoroside	D003920	Diabetes Mellitus	0.0
+59-01-8	Kanamycin	D014376	Tuberculosis	0.0
+6740-88-1	Ketamine	D007022	Hypotension	0.0
+6740-88-1	Ketamine	D017180	Tachycardia, Ventricular	0.0
+74050-98-9	Ketanserin	D006973	Hypertension	0.0
+74050-98-9	Ketanserin	D006976	Hypertension, Pulmonary	0.0
+74050-98-9	Ketanserin	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+65277-42-1	Ketoconazole	D001228	Aspergillosis	0.0
+65277-42-1	Ketoconazole	D002177	Candidiasis	0.0
+65277-42-1	Ketoconazole	D003453	Cryptococcosis	0.0
+65277-42-1	Ketoconazole	D006660	Histoplasmosis	0.0
+65277-42-1	Ketoconazole	D009181	Mycoses	0.0
+65277-42-1	Ketoconazole	D010019	Osteomyelitis	0.0
+22071-15-4	Ketoprofen	D001172	Arthritis, Rheumatoid	0.0
+22071-15-4	Ketoprofen	D009202	Cardiomyopathies	0.0
+22071-15-4	Ketoprofen	D006973	Hypertension	0.0
+22071-15-4	Ketoprofen	D010003	Osteoarthritis	0.0
+34580-13-7	Ketotifen	D001249	Asthma	0.0
+34580-13-7	Ketotifen	D006332	Cardiomegaly	0.0
+34580-13-7	Ketotifen	D006255	Rhinitis, Allergic, Seasonal	0.0
+134186-26-8	KF 14124	D000787	Angina Pectoris	0.0
+134186-26-8	KF 14124	D006333	Heart Failure	0.0
+139298-40-1	KN 93	D006973	Hypertension	0.0
+139298-40-1	KN 93	D009203	Myocardial Infarction	0.0
+105394-80-7	KT 362	D001145	Arrhythmias, Cardiac	0.0
+111466-41-2	L 657743	D007022	Hypotension	0.0
+36894-69-6	Labetalol	D000787	Angina Pectoris	0.0
+36894-69-6	Labetalol	D001014	Aortic Aneurysm	0.0
+36894-69-6	Labetalol	D001145	Arrhythmias, Cardiac	0.0
+36894-69-6	Labetalol	D001281	Atrial Fibrillation	0.0
+36894-69-6	Labetalol	D006973	Hypertension	0.0
+36894-69-6	Labetalol	D007022	Hypotension	0.0
+36894-69-6	Labetalol	D017202	Myocardial Ischemia	0.0
+36894-69-6	Labetalol	D017180	Tachycardia, Ventricular	0.0
+36894-69-6	Labetalol	D018879	Ventricular Premature Complexes	0.0
+17575-22-3	lanatoside C	D001281	Atrial Fibrillation	0.0
+75706-12-6	Leflunomide	D001172	Arthritis, Rheumatoid	0.0
+24697-74-3	leonurine	D002311	Cardiomyopathy, Dilated	0.0
+24697-74-3	leonurine	D009205	Myocarditis	0.0
+100427-26-7	lercanidipine	D006973	Hypertension	0.0
+58-05-9	Leucovorin	D008175	Lung Neoplasms	0.0
+58-05-9	Leucovorin	D009362	Neoplasm Metastasis	0.0
+14769-73-4	Levamisole	D001172	Arthritis, Rheumatoid	0.0
+797-63-7	Levonorgestrel	D010024	Osteoporosis	0.0
+113759-50-5	LF 2-0254	D006973	Hypertension	0.0
+137-58-6	Lidocaine	D001145	Arrhythmias, Cardiac	0.0
+137-58-6	Lidocaine	D003371	Cough	0.0
+137-58-6	Lidocaine	D006973	Hypertension	0.0
+137-58-6	Lidocaine	D007022	Hypotension	0.0
+137-58-6	Lidocaine	D008133	Long QT Syndrome	0.0
+137-58-6	Lidocaine	D009203	Myocardial Infarction	0.0
+137-58-6	Lidocaine	D016491	Peripheral Vascular Diseases	0.0
+137-58-6	Lidocaine	D013617	Tachycardia, Supraventricular	0.0
+137-58-6	Lidocaine	D017180	Tachycardia, Ventricular	0.0
+137-58-6	Lidocaine	D014693	Ventricular Fibrillation	0.0
+137-58-6	Lidocaine	D018879	Ventricular Premature Complexes	0.0
+9005-53-2	Lignin	D009400	Nephrosclerosis	0.0
+154-21-2	Lincomycin	D004696	Endocarditis	0.0
+2197-37-7	Linoleic Acid	D008175	Lung Neoplasms	0.0
+2197-37-7	Linoleic Acid	D009362	Neoplasm Metastasis	0.0
+8001-26-1	Linseed Oil	D006973	Hypertension	0.0
+83915-83-7	Lisinopril	D006332	Cardiomegaly	0.0
+83915-83-7	Lisinopril	D006333	Heart Failure	0.0
+83915-83-7	Lisinopril	D006973	Hypertension	0.0
+83915-83-7	Lisinopril	D009203	Myocardial Infarction	0.0
+83915-83-7	Lisinopril	D011654	Pulmonary Edema	0.0
+7439-93-2	Lithium	D006073	Gout	0.0
+7439-93-2	Lithium	D006973	Hypertension	0.0
+7439-93-2	Lithium	D009203	Myocardial Infarction	0.0
+7439-93-2	Lithium	D014927	Wolff-Parkinson-White Syndrome	0.0
+7447-41-8	Lithium Chloride	D001145	Arrhythmias, Cardiac	0.0
+7447-41-8	Lithium Chloride	D010003	Osteoarthritis	0.0
+7447-41-8	Lithium Chloride	D011654	Pulmonary Edema	0.0
+61742-10-7	lithium hydroxybutyrate	D001145	Arrhythmias, Cardiac	0.0
+61742-10-7	lithium hydroxybutyrate	D011654	Pulmonary Edema	0.0
+434-13-9	Lithocholic Acid	D003924	Diabetes Mellitus, Type 2	0.0
+434-13-9	Lithocholic Acid	D009362	Neoplasm Metastasis	0.0
+90520-42-6	LND 623	D006333	Heart Failure	0.0
+13010-47-4	Lomustine	D008175	Lung Neoplasms	0.0
+79794-75-5	Loratadine	D001249	Asthma	0.0
+79794-75-5	Loratadine	D006255	Rhinitis, Allergic, Seasonal	0.0
+846-49-1	Lorazepam	D006973	Hypertension	0.0
+114798-26-4	Losartan	D050197	Atherosclerosis	0.0
+114798-26-4	Losartan	D006332	Cardiomegaly	0.0
+114798-26-4	Losartan	D002311	Cardiomyopathy, Dilated	0.0
+114798-26-4	Losartan	D002312	Cardiomyopathy, Hypertrophic	0.0
+114798-26-4	Losartan	D006073	Gout	0.0
+114798-26-4	Losartan	D006333	Heart Failure	0.0
+114798-26-4	Losartan	D006973	Hypertension	0.0
+114798-26-4	Losartan	D006976	Hypertension, Pulmonary	0.0
+114798-26-4	Losartan	D008175	Lung Neoplasms	0.0
+114798-26-4	Losartan	D009203	Myocardial Infarction	0.0
+114798-26-4	Losartan	D009400	Nephrosclerosis	0.0
+114798-26-4	Losartan	D020246	Venous Thrombosis	0.0
+75330-75-5	Lovastatin	D050197	Atherosclerosis	0.0
+75330-75-5	Lovastatin	D003324	Coronary Artery Disease	0.0
+75330-75-5	Lovastatin	D006973	Hypertension	0.0
+75330-75-5	Lovastatin	D009362	Neoplasm Metastasis	0.0
+545-47-1	lupeol	D009202	Cardiomyopathies	0.0
+127-40-2	Lutein	D006332	Cardiomegaly	0.0
+127-40-2	Lutein	D009203	Myocardial Infarction	0.0
+491-70-3	Luteolin	D009202	Cardiomyopathies	0.0
+63676-25-5	LY 117018	D001172	Arthritis, Rheumatoid	0.0
+63676-25-5	LY 117018	D015663	Osteoporosis, Postmenopausal	0.0
+88107-10-2	LY 171883	D016535	Bronchial Hyperreactivity	0.0
+88107-10-2	LY 171883	D011654	Pulmonary Edema	0.0
+476-28-8	lycorine	D045169	Severe Acute Respiratory Syndrome	0.0
+7439-95-4	Magnesium	D001145	Arrhythmias, Cardiac	0.0
+7439-95-4	Magnesium	D001281	Atrial Fibrillation	0.0
+7439-95-4	Magnesium	D003329	Coronary Vasospasm	0.0
+7439-95-4	Magnesium	D006973	Hypertension	0.0
+7439-95-4	Magnesium	D008133	Long QT Syndrome	0.0
+7439-95-4	Magnesium	D013612	Tachycardia, Ectopic Atrial	0.0
+7439-95-4	Magnesium	D013617	Tachycardia, Supraventricular	0.0
+7439-95-4	Magnesium	D017180	Tachycardia, Ventricular	0.0
+7439-95-4	Magnesium	D014693	Ventricular Fibrillation	0.0
+7786-30-3	Magnesium Chloride	D017180	Tachycardia, Ventricular	0.0
+7487-88-9	Magnesium Sulfate	D001145	Arrhythmias, Cardiac	0.0
+7487-88-9	Magnesium Sulfate	D006973	Hypertension	0.0
+7487-88-9	Magnesium Sulfate	D006976	Hypertension, Pulmonary	0.0
+7487-88-9	Magnesium Sulfate	D008133	Long QT Syndrome	0.0
+7487-88-9	Magnesium Sulfate	D017180	Tachycardia, Ventricular	0.0
+7487-88-9	Magnesium Sulfate	D014693	Ventricular Fibrillation	0.0
+528-43-8	magnolol	D009203	Myocardial Infarction	0.0
+528-43-8	magnolol	D017180	Tachycardia, Ventricular	0.0
+528-43-8	magnolol	D014693	Ventricular Fibrillation	0.0
+4773-96-0	mangiferin	D050197	Atherosclerosis	0.0
+4773-96-0	mangiferin	D003924	Diabetes Mellitus, Type 2	0.0
+4773-96-0	mangiferin	D008175	Lung Neoplasms	0.0
+4773-96-0	mangiferin	D009203	Myocardial Infarction	0.0
+6147-11-1	mangostin	D009202	Cardiomyopathies	0.0
+6147-11-1	mangostin	D009203	Myocardial Infarction	0.0
+89226-50-6	manidipine	D006973	Hypertension	0.0
+69-65-8	Mannitol	D017202	Myocardial Ischemia	0.0
+69-65-8	Mannitol	D010490	Pericardial Effusion	0.0
+69-65-8	Mannitol	D011654	Pulmonary Edema	0.0
+69-65-8	Mannitol	D011655	Pulmonary Embolism	0.0
+8029-82-1	Margarine	D009765	Obesity	0.0
+22232-71-9	Mazindol	D006973	Hypertension	0.0
+22232-71-9	Mazindol	D009765	Obesity	0.0
+98326-33-1	MCI 154	D006333	Heart Failure	0.0
+94985-29-2	MDL 72567	D000787	Angina Pectoris	0.0
+94985-29-2	MDL 72567	D006333	Heart Failure	0.0
+60-40-2	Mecamylamine	D006973	Hypertension	0.0
+644-62-2	Meclofenamic Acid	D006973	Hypertension	0.0
+30685-43-9	Medigoxin	D001281	Atrial Fibrillation	0.0
+520-85-4	Medroxyprogesterone	D008175	Lung Neoplasms	0.0
+520-85-4	Medroxyprogesterone	D009362	Neoplasm Metastasis	0.0
+71-58-9	Medroxyprogesterone Acetate	D018192	Lymphangioleiomyomatosis	0.0
+71-58-9	Medroxyprogesterone Acetate	D009362	Neoplasm Metastasis	0.0
+61-68-7	Mefenamic Acid	D001172	Arthritis, Rheumatoid	0.0
+61-68-7	Mefenamic Acid	D010003	Osteoarthritis	0.0
+61-68-7	Mefenamic Acid	D015207	Osteoarthritis, Hip	0.0
+53230-10-7	Mefloquine	D012893	Sleep Wake Disorders	0.0
+73-31-4	Melatonin	D006332	Cardiomegaly	0.0
+73-31-4	Melatonin	D009202	Cardiomyopathies	0.0
+73-31-4	Melatonin	D006973	Hypertension	0.0
+73-31-4	Melatonin	D008175	Lung Neoplasms	0.0
+73-31-4	Melatonin	D009203	Myocardial Infarction	0.0
+73-31-4	Melatonin	D017202	Myocardial Ischemia	0.0
+73-31-4	Melatonin	D009362	Neoplasm Metastasis	0.0
+73-31-4	Melatonin	D010024	Osteoporosis	0.0
+73-31-4	Melatonin	D012893	Sleep Wake Disorders	0.0
+20449-79-0	Melitten	D009362	Neoplasm Metastasis	0.0
+71125-38-7	Meloxicam	D001172	Arthritis, Rheumatoid	0.0
+71125-38-7	Meloxicam	D010003	Osteoarthritis	0.0
+148-82-3	Melphalan	D009362	Neoplasm Metastasis	0.0
+148-82-3	Melphalan	D009382	Neoplasms, Unknown Primary	0.0
+46464-11-3	meobentine	D014693	Ventricular Fibrillation	0.0
+57-42-1	Meperidine	D003371	Cough	0.0
+100-92-5	Mephentermine	D007022	Hypotension	0.0
+104713-75-9	mepirodipine	D006973	Hypertension	0.0
+7439-97-6	Mercury	D003922	Diabetes Mellitus, Type 1	0.0
+96036-03-2	Meropenem	D009617	Nocardia Infections	0.0
+19767-45-4	Mesna	D008175	Lung Neoplasms	0.0
+586-06-1	Metaproterenol	D001249	Asthma	0.0
+586-06-1	Metaproterenol	D054537	Atrioventricular Block	0.0
+54-49-9	Metaraminol	D007022	Hypotension	0.0
+657-24-9	Metformin	D006332	Cardiomegaly	0.0
+657-24-9	Metformin	D003920	Diabetes Mellitus	0.0
+657-24-9	Metformin	D003924	Diabetes Mellitus, Type 2	0.0
+657-24-9	Metformin	D006973	Hypertension	0.0
+657-24-9	Metformin	D009203	Myocardial Infarction	0.0
+657-24-9	Metformin	D009362	Neoplasm Metastasis	0.0
+657-24-9	Metformin	D009400	Nephrosclerosis	0.0
+657-24-9	Metformin	D009765	Obesity	0.0
+657-24-9	Metformin	D011654	Pulmonary Edema	0.0
+62-51-1	Methacholine Chloride	D014693	Ventricular Fibrillation	0.0
+91-80-5	Methapyrilene	D007022	Hypotension	0.0
+554-57-4	Methazolamide	D006332	Cardiomegaly	0.0
+61-32-5	Methicillin	D010019	Osteomyelitis	0.0
+60-56-0	Methimazole	D006332	Cardiomegaly	0.0
+60-56-0	Methimazole	D009202	Cardiomyopathies	0.0
+60-56-0	Methimazole	D006973	Hypertension	0.0
+59-05-2	Methotrexate	D015535	Arthritis, Psoriatic	0.0
+59-05-2	Methotrexate	D016918	Arthritis, Reactive	0.0
+59-05-2	Methotrexate	D001172	Arthritis, Rheumatoid	0.0
+59-05-2	Methotrexate	D001249	Asthma	0.0
+59-05-2	Methotrexate	D003550	Cystic Fibrosis	0.0
+59-05-2	Methotrexate	D007022	Hypotension	0.0
+59-05-2	Methotrexate	D008175	Lung Neoplasms	0.0
+59-05-2	Methotrexate	D009298	Nasal Polyps	0.0
+59-05-2	Methotrexate	D009362	Neoplasm Metastasis	0.0
+59-05-2	Methotrexate	D010024	Osteoporosis	0.0
+59-05-2	Methotrexate	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+59-05-2	Methotrexate	D016706	Still's Disease, Adult-Onset	0.0
+390-28-3	Methoxamine	D007022	Hypotension	0.0
+298-81-7	Methoxsalen	D008175	Lung Neoplasms	0.0
+76-38-0	Methoxyflurane	D017180	Tachycardia, Ventricular	0.0
+135-07-9	Methyclothiazide	D006973	Hypertension	0.0
+31610-87-4	methylatropine	D006973	Hypertension	0.0
+555-30-6	Methyldopa	D002312	Cardiomyopathy, Hypertrophic	0.0
+555-30-6	Methyldopa	D006973	Hypertension	0.0
+61-73-4	Methylene Blue	D007022	Hypotension	0.0
+21019-30-7	methyllycaconitine	D006973	Hypertension	0.0
+83-43-2	Methylprednisolone	D001172	Arthritis, Rheumatoid	0.0
+83-43-2	Methylprednisolone	D001249	Asthma	0.0
+83-43-2	Methylprednisolone	D006332	Cardiomegaly	0.0
+83-43-2	Methylprednisolone	D009202	Cardiomyopathies	0.0
+83-43-2	Methylprednisolone	D004417	Dyspnea	0.0
+83-43-2	Methylprednisolone	D009205	Myocarditis	0.0
+83-43-2	Methylprednisolone	D010996	Pleural Effusion	0.0
+83-43-2	Methylprednisolone	D011020	Pneumonia, Pneumocystis	0.0
+83-43-2	Methylprednisolone	D011654	Pulmonary Edema	0.0
+83-43-2	Methylprednisolone	D012131	Respiratory Insufficiency	0.0
+83-43-2	Methylprednisolone	D045169	Severe Acute Respiratory Syndrome	0.0
+2921-57-5	Methylprednisolone Hemisuccinate	D001172	Arthritis, Rheumatoid	0.0
+2921-57-5	Methylprednisolone Hemisuccinate	D001281	Atrial Fibrillation	0.0
+2921-57-5	Methylprednisolone Hemisuccinate	D004417	Dyspnea	0.0
+2921-57-5	Methylprednisolone Hemisuccinate	D006973	Hypertension	0.0
+2921-57-5	Methylprednisolone Hemisuccinate	D007022	Hypotension	0.0
+2921-57-5	Methylprednisolone Hemisuccinate	D009203	Myocardial Infarction	0.0
+28109-92-4	methylxanthine	D001249	Asthma	0.0
+34839-70-8	Metiamide	D007022	Hypotension	0.0
+22664-55-7	Metipranolol	D006973	Hypertension	0.0
+364-62-5	Metoclopramide	D007022	Hypotension	0.0
+17560-51-9	Metolazone	D006973	Hypertension	0.0
+37350-58-6	Metoprolol	D000787	Angina Pectoris	0.0
+37350-58-6	Metoprolol	D001145	Arrhythmias, Cardiac	0.0
+37350-58-6	Metoprolol	D050197	Atherosclerosis	0.0
+37350-58-6	Metoprolol	D001281	Atrial Fibrillation	0.0
+37350-58-6	Metoprolol	D009202	Cardiomyopathies	0.0
+37350-58-6	Metoprolol	D002311	Cardiomyopathy, Dilated	0.0
+37350-58-6	Metoprolol	D002312	Cardiomyopathy, Hypertrophic	0.0
+37350-58-6	Metoprolol	D003324	Coronary Artery Disease	0.0
+37350-58-6	Metoprolol	D003327	Coronary Disease	0.0
+37350-58-6	Metoprolol	D006333	Heart Failure	0.0
+37350-58-6	Metoprolol	D006973	Hypertension	0.0
+37350-58-6	Metoprolol	D006976	Hypertension, Pulmonary	0.0
+37350-58-6	Metoprolol	D007022	Hypotension	0.0
+37350-58-6	Metoprolol	D008133	Long QT Syndrome	0.0
+37350-58-6	Metoprolol	D009203	Myocardial Infarction	0.0
+37350-58-6	Metoprolol	D017202	Myocardial Ischemia	0.0
+37350-58-6	Metoprolol	D011654	Pulmonary Edema	0.0
+37350-58-6	Metoprolol	D013617	Tachycardia, Supraventricular	0.0
+37350-58-6	Metoprolol	D017180	Tachycardia, Ventricular	0.0
+37350-58-6	Metoprolol	D014693	Ventricular Fibrillation	0.0
+37350-58-6	Metoprolol	D018879	Ventricular Premature Complexes	0.0
+443-48-1	Metronidazole	D001987	Bronchiectasis	0.0
+443-48-1	Metronidazole	D010019	Osteomyelitis	0.0
+3575-80-2	metylperon	D014693	Ventricular Fibrillation	0.0
+54-36-4	Metyrapone	D006973	Hypertension	0.0
+31828-71-4	Mexiletine	D001145	Arrhythmias, Cardiac	0.0
+31828-71-4	Mexiletine	D008133	Long QT Syndrome	0.0
+31828-71-4	Mexiletine	D017180	Tachycardia, Ventricular	0.0
+31828-71-4	Mexiletine	D014693	Ventricular Fibrillation	0.0
+31828-71-4	Mexiletine	D018879	Ventricular Premature Complexes	0.0
+116644-53-2	Mibefradil	D000787	Angina Pectoris	0.0
+116644-53-2	Mibefradil	D006332	Cardiomegaly	0.0
+116644-53-2	Mibefradil	D006973	Hypertension	0.0
+116644-53-2	Mibefradil	D009203	Myocardial Infarction	0.0
+116644-53-2	Mibefradil	D014693	Ventricular Fibrillation	0.0
+22916-47-8	Miconazole	D002177	Candidiasis	0.0
+22916-47-8	Miconazole	D003047	Coccidioidomycosis	0.0
+22916-47-8	Miconazole	D009181	Mycoses	0.0
+59467-70-8	Midazolam	D001281	Atrial Fibrillation	0.0
+59467-70-8	Midazolam	D006973	Hypertension	0.0
+59467-70-8	Midazolam	D012127	Respiratory Distress Syndrome, Newborn	0.0
+59467-70-8	Midazolam	D012893	Sleep Wake Disorders	0.0
+42794-76-3	Midodrine	D006333	Heart Failure	0.0
+42794-76-3	Midodrine	D007022	Hypotension	0.0
+42794-76-3	Midodrine	D007024	Hypotension, Orthostatic	0.0
+84371-65-3	Mifepristone	D006973	Hypertension	0.0
+78415-72-2	Milrinone	D006333	Heart Failure	0.0
+78415-72-2	Milrinone	D006976	Hypertension, Pulmonary	0.0
+78415-72-2	Milrinone	D007022	Hypotension	0.0
+78415-72-2	Milrinone	D009203	Myocardial Infarction	0.0
+10118-90-8	Minocycline	D001172	Arthritis, Rheumatoid	0.0
+10118-90-8	Minocycline	D050197	Atherosclerosis	0.0
+10118-90-8	Minocycline	D012131	Respiratory Insufficiency	0.0
+10118-90-8	Minocycline	D012141	Respiratory Tract Infections	0.0
+10118-90-8	Minocycline	D012852	Sinusitis	0.0
+38304-91-5	Minoxidil	D006333	Heart Failure	0.0
+38304-91-5	Minoxidil	D006973	Hypertension	0.0
+38304-91-5	Minoxidil	D006976	Hypertension, Pulmonary	0.0
+13551-87-6	Misonidazole	D008175	Lung Neoplasms	0.0
+59122-46-2	Misoprostol	D001172	Arthritis, Rheumatoid	0.0
+59122-46-2	Misoprostol	D010003	Osteoarthritis	0.0
+50-07-7	Mitomycin	D008175	Lung Neoplasms	0.0
+50-07-7	Mitomycin	D009362	Neoplasm Metastasis	0.0
+106791-40-6	Mivacurium	D007022	Hypotension	0.0
+27737-38-8	mixidine	D001145	Arrhythmias, Cardiac	0.0
+42794-63-8	MK 142	D001145	Arrhythmias, Cardiac	0.0
+65321-41-7	MK 761	D006973	Hypertension	0.0
+118414-82-7	MK-886	D050197	Atherosclerosis	0.0
+118414-82-7	MK-886	D006976	Hypertension, Pulmonary	0.0
+118414-82-7	MK-886	D007022	Hypotension	0.0
+118414-82-7	MK-886	D008175	Lung Neoplasms	0.0
+109376-83-2	ML 7	D009362	Neoplasm Metastasis	0.0
+105637-50-1	ML 9	D009362	Neoplasm Metastasis	0.0
+71320-77-9	Moclobemide	D007022	Hypotension	0.0
+68693-11-8	Modafinil	D012893	Sleep Wake Disorders	0.0
+103775-10-6	moexipril	D006973	Hypertension	0.0
+119637-67-1	moguisteine	D003371	Cough	0.0
+25717-80-0	Molsidomine	D000787	Angina Pectoris	0.0
+25717-80-0	Molsidomine	D006973	Hypertension	0.0
+7728-40-7	monoethylglycinexylidide	D014693	Ventricular Fibrillation	0.0
+158966-92-8	montelukast	D001249	Asthma	0.0
+158966-92-8	montelukast	D055963	Asthma, Aspirin-Induced	0.0
+158966-92-8	montelukast	D001250	Asthma, Exercise-Induced	0.0
+158966-92-8	montelukast	D020181	Sleep Apnea, Obstructive	0.0
+31883-05-3	Moricizine	D001145	Arrhythmias, Cardiac	0.0
+31883-05-3	Moricizine	D017180	Tachycardia, Ventricular	0.0
+74135-04-9	morphiceptin	D001145	Arrhythmias, Cardiac	0.0
+57-27-2	Morphine	D001145	Arrhythmias, Cardiac	0.0
+57-27-2	Morphine	D002311	Cardiomyopathy, Dilated	0.0
+57-27-2	Morphine	D003327	Coronary Disease	0.0
+57-27-2	Morphine	D003371	Cough	0.0
+57-27-2	Morphine	D004417	Dyspnea	0.0
+57-27-2	Morphine	D006973	Hypertension	0.0
+57-27-2	Morphine	D008175	Lung Neoplasms	0.0
+57-27-2	Morphine	D009203	Myocardial Infarction	0.0
+57-27-2	Morphine	D011654	Pulmonary Edema	0.0
+3098-60-0	morphocycline	D000196	Actinomycosis	0.0
+54-32-0	Moxisylyte	D007022	Hypotension	0.0
+107189-96-8	MS 857	D006333	Heart Failure	0.0
+24280-93-1	Mycophenolic Acid	D006973	Hypertension	0.0
+529-44-2	myricetin	D009203	Myocardial Infarction	0.0
+17912-87-7	myricitrin	D050197	Atherosclerosis	0.0
+36396-99-3	N(6)-cyclohexyladenosine	D017202	Myocardial Ischemia	0.0
+16858-02-9	N,N,N',N'-tetrakis(2-pyridylmethyl)ethylenediamine	D016535	Bronchial Hyperreactivity	0.0
+123653-11-2	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	D006332	Cardiomegaly	0.0
+123653-11-2	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	D006973	Hypertension	0.0
+123653-11-2	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	D009362	Neoplasm Metastasis	0.0
+123653-11-2	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	D010490	Pericardial Effusion	0.0
+120008-53-9	N-(8-amino-1-carboxyoctyl)-alanyl-proline	D006332	Cardiomegaly	0.0
+98983-21-2	N-benzyladriamycin-14-valerate	D009202	Cardiomyopathies	0.0
+134431-49-5	N-cyano-N'-(2-nitroxyethyl)-3-pyridinecarboximidamide methanesulfonate	D000787	Angina Pectoris	0.0
+134431-49-5	N-cyano-N'-(2-nitroxyethyl)-3-pyridinecarboximidamide methanesulfonate	D001145	Arrhythmias, Cardiac	0.0
+108935-64-4	N-isobutyl-1,2-diphenylethanolamine	D006973	Hypertension	0.0
+54852-85-6	N-methyl-1,2-diphenylethanolamine	D006973	Hypertension	0.0
+29199-61-9	N-methyllidocaine	D018879	Ventricular Premature Complexes	0.0
+73232-50-5	N-methylnaloxone	D007022	Hypotension	0.0
+73232-50-5	N-methylnaloxone	D012131	Respiratory Insufficiency	0.0
+42924-53-8	Nabumetone	D001172	Arthritis, Rheumatoid	0.0
+42200-33-9	Nadolol	D001281	Atrial Fibrillation	0.0
+42200-33-9	Nadolol	D003324	Coronary Artery Disease	0.0
+42200-33-9	Nadolol	D006973	Hypertension	0.0
+42200-33-9	Nadolol	D013617	Tachycardia, Supraventricular	0.0
+42200-33-9	Nadolol	D017180	Tachycardia, Ventricular	0.0
+42200-33-9	Nadolol	D014693	Ventricular Fibrillation	0.0
+147-52-4	Nafcillin	D004696	Endocarditis	0.0
+147-52-4	Nafcillin	D010019	Osteomyelitis	0.0
+20594-83-6	Nalbuphine	D012131	Respiratory Insufficiency	0.0
+82824-01-9	naloxonazine	D012131	Respiratory Insufficiency	0.0
+465-65-6	Naloxone	D001145	Arrhythmias, Cardiac	0.0
+465-65-6	Naloxone	D050197	Atherosclerosis	0.0
+465-65-6	Naloxone	D006973	Hypertension	0.0
+465-65-6	Naloxone	D006976	Hypertension, Pulmonary	0.0
+465-65-6	Naloxone	D007022	Hypotension	0.0
+465-65-6	Naloxone	D007826	Laryngismus	0.0
+465-65-6	Naloxone	D012131	Respiratory Insufficiency	0.0
+16590-41-3	Naltrexone	D006973	Hypertension	0.0
+16590-41-3	Naltrexone	D007022	Hypotension	0.0
+360-70-3	Nandrolone Decanoate	D010024	Osteoporosis	0.0
+37229-16-6	naphthalan	D015535	Arthritis, Psoriatic	0.0
+37229-16-6	naphthalan	D010996	Pleural Effusion	0.0
+37229-16-6	naphthalan	D010998	Pleurisy	0.0
+91-20-3	naphthalene	D009362	Neoplasm Metastasis	0.0
+32358-83-1	naphtho(1,2-b)furan-4,5-dione	D009362	Neoplasm Metastasis	0.0
+22204-53-1	Naproxen	D015535	Arthritis, Psoriatic	0.0
+22204-53-1	Naproxen	D001172	Arthritis, Rheumatoid	0.0
+22204-53-1	Naproxen	D009765	Obesity	0.0
+22204-53-1	Naproxen	D010003	Osteoarthritis	0.0
+22204-53-1	Naproxen	D015207	Osteoarthritis, Hip	0.0
+480-41-1	naringenin	D050197	Atherosclerosis	0.0
+480-41-1	naringenin	D009202	Cardiomyopathies	0.0
+480-41-1	naringenin	D009765	Obesity	0.0
+10236-47-2	naringin	D006332	Cardiomegaly	0.0
+10236-47-2	naringin	D003371	Cough	0.0
+10236-47-2	naringin	D006973	Hypertension	0.0
+10236-47-2	naringin	D009203	Myocardial Infarction	0.0
+10236-47-2	naringin	D010024	Osteoporosis	0.0
+10236-47-2	naringin	D010998	Pleurisy	0.0
+10236-47-2	naringin	D011654	Pulmonary Edema	0.0
+7681-93-8	Natamycin	D009181	Mycoses	0.0
+105816-04-4	Nateglinide	D003920	Diabetes Mellitus	0.0
+114471-18-0	Natriuretic Peptide, Brain	D006333	Heart Failure	0.0
+69049-73-6	Nedocromil	D001249	Asthma	0.0
+1404-04-2	Neomycin	D006973	Hypertension	0.0
+1404-04-2	Neomycin	D010019	Osteomyelitis	0.0
+59-99-4	Neostigmine	D006332	Cardiomegaly	0.0
+59-99-4	Neostigmine	D007022	Hypotension	0.0
+59-99-4	Neostigmine	D007024	Hypotension, Orthostatic	0.0
+98-92-0	Niacinamide	D003922	Diabetes Mellitus, Type 1	0.0
+76252-06-7	nicainoprol	D001145	Arrhythmias, Cardiac	0.0
+55985-32-5	Nicardipine	D000787	Angina Pectoris	0.0
+55985-32-5	Nicardipine	D001249	Asthma	0.0
+55985-32-5	Nicardipine	D050197	Atherosclerosis	0.0
+55985-32-5	Nicardipine	D003324	Coronary Artery Disease	0.0
+55985-32-5	Nicardipine	D003327	Coronary Disease	0.0
+55985-32-5	Nicardipine	D003329	Coronary Vasospasm	0.0
+55985-32-5	Nicardipine	D006333	Heart Failure	0.0
+55985-32-5	Nicardipine	D006973	Hypertension	0.0
+55985-32-5	Nicardipine	D017202	Myocardial Ischemia	0.0
+55985-32-5	Nicardipine	D012131	Respiratory Insufficiency	0.0
+27848-84-6	Nicergoline	D006973	Hypertension	0.0
+50-65-7	Niclosamide	D009362	Neoplasm Metastasis	0.0
+50-65-7	Niclosamide	D009400	Nephrosclerosis	0.0
+50-65-7	Niclosamide	D045169	Severe Acute Respiratory Syndrome	0.0
+65141-46-0	Nicorandil	D000787	Angina Pectoris	0.0
+65141-46-0	Nicorandil	D001145	Arrhythmias, Cardiac	0.0
+65141-46-0	Nicorandil	D003329	Coronary Vasospasm	0.0
+65141-46-0	Nicorandil	D009203	Myocardial Infarction	0.0
+65141-46-0	Nicorandil	D017180	Tachycardia, Ventricular	0.0
+100-55-0	Nicotinyl Alcohol	D017202	Myocardial Ischemia	0.0
+21829-25-4	Nifedipine	D000787	Angina Pectoris	0.0
+21829-25-4	Nifedipine	D000789	Angina, Unstable	0.0
+21829-25-4	Nifedipine	D017544	Aortic Aneurysm, Abdominal	0.0
+21829-25-4	Nifedipine	D001022	Aortic Valve Insufficiency	0.0
+21829-25-4	Nifedipine	D001145	Arrhythmias, Cardiac	0.0
+21829-25-4	Nifedipine	D001249	Asthma	0.0
+21829-25-4	Nifedipine	D050197	Atherosclerosis	0.0
+21829-25-4	Nifedipine	D006332	Cardiomegaly	0.0
+21829-25-4	Nifedipine	D002311	Cardiomyopathy, Dilated	0.0
+21829-25-4	Nifedipine	D002312	Cardiomyopathy, Hypertrophic	0.0
+21829-25-4	Nifedipine	D003324	Coronary Artery Disease	0.0
+21829-25-4	Nifedipine	D003327	Coronary Disease	0.0
+21829-25-4	Nifedipine	D003329	Coronary Vasospasm	0.0
+21829-25-4	Nifedipine	D003550	Cystic Fibrosis	0.0
+21829-25-4	Nifedipine	D004417	Dyspnea	0.0
+21829-25-4	Nifedipine	D006333	Heart Failure	0.0
+21829-25-4	Nifedipine	D006973	Hypertension	0.0
+21829-25-4	Nifedipine	D006976	Hypertension, Pulmonary	0.0
+21829-25-4	Nifedipine	D009203	Myocardial Infarction	0.0
+21829-25-4	Nifedipine	D017202	Myocardial Ischemia	0.0
+21829-25-4	Nifedipine	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+21829-25-4	Nifedipine	D011654	Pulmonary Edema	0.0
+21829-25-4	Nifedipine	D011655	Pulmonary Embolism	0.0
+21829-25-4	Nifedipine	D011928	Raynaud Disease	0.0
+21829-25-4	Nifedipine	D013617	Tachycardia, Supraventricular	0.0
+21829-25-4	Nifedipine	D014693	Ventricular Fibrillation	0.0
+5054-57-9	nifenalol	D001145	Arrhythmias, Cardiac	0.0
+51803-78-2	nimesulide	D006973	Hypertension	0.0
+51803-78-2	nimesulide	D007012	Hypopharyngeal Neoplasms	0.0
+51803-78-2	nimesulide	D009203	Myocardial Infarction	0.0
+51803-78-2	nimesulide	D009362	Neoplasm Metastasis	0.0
+51803-78-2	nimesulide	D010003	Osteoarthritis	0.0
+51803-78-2	nimesulide	D015207	Osteoarthritis, Hip	0.0
+51803-78-2	nimesulide	D020370	Osteoarthritis, Knee	0.0
+51803-78-2	nimesulide	D012141	Respiratory Tract Infections	0.0
+66085-59-4	Nimodipine	D001145	Arrhythmias, Cardiac	0.0
+66085-59-4	Nimodipine	D006973	Hypertension	0.0
+42471-28-3	Nimustine	D008175	Lung Neoplasms	0.0
+63675-72-9	Nisoldipine	D000787	Angina Pectoris	0.0
+63675-72-9	Nisoldipine	D006332	Cardiomegaly	0.0
+63675-72-9	Nisoldipine	D003327	Coronary Disease	0.0
+63675-72-9	Nisoldipine	D006333	Heart Failure	0.0
+63675-72-9	Nisoldipine	D006973	Hypertension	0.0
+63675-72-9	Nisoldipine	D009203	Myocardial Infarction	0.0
+63675-72-9	Nisoldipine	D017202	Myocardial Ischemia	0.0
+146-22-5	Nitrazepam	D012893	Sleep Wake Disorders	0.0
+39562-70-4	Nitrendipine	D050197	Atherosclerosis	0.0
+39562-70-4	Nitrendipine	D006332	Cardiomegaly	0.0
+39562-70-4	Nitrendipine	D003329	Coronary Vasospasm	0.0
+39562-70-4	Nitrendipine	D003924	Diabetes Mellitus, Type 2	0.0
+39562-70-4	Nitrendipine	D006973	Hypertension	0.0
+7697-37-2	Nitric Acid	D000787	Angina Pectoris	0.0
+10102-43-9	Nitric Oxide	D000787	Angina Pectoris	0.0
+10102-43-9	Nitric Oxide	D050197	Atherosclerosis	0.0
+10102-43-9	Nitric Oxide	D009202	Cardiomyopathies	0.0
+10102-43-9	Nitric Oxide	D006973	Hypertension	0.0
+10102-43-9	Nitric Oxide	D006976	Hypertension, Pulmonary	0.0
+10102-43-9	Nitric Oxide	D009203	Myocardial Infarction	0.0
+10102-43-9	Nitric Oxide	D017202	Myocardial Ischemia	0.0
+10102-43-9	Nitric Oxide	D011654	Pulmonary Edema	0.0
+10102-43-9	Nitric Oxide	D012128	Respiratory Distress Syndrome	0.0
+10102-43-9	Nitric Oxide	D014693	Ventricular Fibrillation	0.0
+59-87-0	Nitrofurazone	D009362	Neoplasm Metastasis	0.0
+55-63-0	Nitroglycerin	D000787	Angina Pectoris	0.0
+55-63-0	Nitroglycerin	D000789	Angina, Unstable	0.0
+55-63-0	Nitroglycerin	D003324	Coronary Artery Disease	0.0
+55-63-0	Nitroglycerin	D003327	Coronary Disease	0.0
+55-63-0	Nitroglycerin	D054059	Coronary Occlusion	0.0
+55-63-0	Nitroglycerin	D003329	Coronary Vasospasm	0.0
+55-63-0	Nitroglycerin	D004417	Dyspnea	0.0
+55-63-0	Nitroglycerin	D006333	Heart Failure	0.0
+55-63-0	Nitroglycerin	D006973	Hypertension	0.0
+55-63-0	Nitroglycerin	D006976	Hypertension, Pulmonary	0.0
+55-63-0	Nitroglycerin	D007022	Hypotension	0.0
+55-63-0	Nitroglycerin	D009203	Myocardial Infarction	0.0
+55-63-0	Nitroglycerin	D017202	Myocardial Ischemia	0.0
+55-63-0	Nitroglycerin	D011654	Pulmonary Edema	0.0
+55-63-0	Nitroglycerin	D017180	Tachycardia, Ventricular	0.0
+15078-28-1	Nitroprusside	D004417	Dyspnea	0.0
+15078-28-1	Nitroprusside	D006333	Heart Failure	0.0
+15078-28-1	Nitroprusside	D006973	Hypertension	0.0
+15078-28-1	Nitroprusside	D006976	Hypertension, Pulmonary	0.0
+15078-28-1	Nitroprusside	D008944	Mitral Valve Insufficiency	0.0
+15078-28-1	Nitroprusside	D009203	Myocardial Infarction	0.0
+15078-28-1	Nitroprusside	D016491	Peripheral Vascular Diseases	0.0
+15078-28-1	Nitroprusside	D011654	Pulmonary Edema	0.0
+15078-28-1	Nitroprusside	D011655	Pulmonary Embolism	0.0
+105618-26-6	norbinaltorphimine	D012131	Respiratory Insufficiency	0.0
+51-41-2	Norepinephrine	D002037	Bundle-Branch Block	0.0
+51-41-2	Norepinephrine	D007022	Hypotension	0.0
+51-41-2	Norepinephrine	D017202	Myocardial Ischemia	0.0
+51-41-2	Norepinephrine	D012120	Respiration Disorders	0.0
+51-41-2	Norepinephrine	D012131	Respiratory Insufficiency	0.0
+51-41-2	Norepinephrine	D014693	Ventricular Fibrillation	0.0
+38673-38-0	Norethindrone Acetate	D054059	Coronary Occlusion	0.0
+38673-38-0	Norethindrone Acetate	D017202	Myocardial Ischemia	0.0
+38673-38-0	Norethindrone Acetate	D015663	Osteoporosis, Postmenopausal	0.0
+536-21-0	norfenefrine	D007024	Hypotension, Orthostatic	0.0
+72-69-5	Nortriptyline	D001145	Arrhythmias, Cardiac	0.0
+72-69-5	Nortriptyline	D012893	Sleep Wake Disorders	0.0
+128-62-1	Noscapine	D003371	Cough	0.0
+125068-43-1	NSP 804	D006333	Heart Failure	0.0
+125068-54-4	NSP 805	D006333	Heart Failure	0.0
+1400-61-9	Nystatin	D009181	Mycoses	0.0
+37612-09-2	O-demethylencainide	D001145	Arrhythmias, Cardiac	0.0
+114-90-9	Obidoxime Chloride	D007022	Hypotension	0.0
+83150-76-9	Octreotide	D007024	Hypotension, Orthostatic	0.0
+83150-76-9	Octreotide	D009362	Neoplasm Metastasis	0.0
+82419-36-1	Ofloxacin	D001991	Bronchitis	0.0
+82419-36-1	Ofloxacin	D029481	Bronchitis, Chronic	0.0
+82419-36-1	Ofloxacin	D003550	Cystic Fibrosis	0.0
+82419-36-1	Ofloxacin	D009164	Mycobacterium Infections	0.0
+82419-36-1	Ofloxacin	D010019	Osteomyelitis	0.0
+82419-36-1	Ofloxacin	D018410	Pneumonia, Bacterial	0.0
+82419-36-1	Ofloxacin	D012141	Respiratory Tract Infections	0.0
+82419-36-1	Ofloxacin	D012852	Sinusitis	0.0
+82419-36-1	Ofloxacin	D014376	Tuberculosis	0.0
+82419-36-1	Ofloxacin	D014397	Tuberculosis, Pulmonary	0.0
+508-02-1	Oleanolic Acid	D017202	Myocardial Ischemia	0.0
+508-02-1	Oleanolic Acid	D009765	Obesity	0.0
+32619-42-4	oleuropein	D006332	Cardiomegaly	0.0
+32619-42-4	oleuropein	D006973	Hypertension	0.0
+119615-63-3	olprinone	D006333	Heart Failure	0.0
+99614-02-5	Ondansetron	D016883	Diabetic Ketoacidosis	0.0
+99614-02-5	Ondansetron	D007022	Hypotension	0.0
+96829-58-2	Orlistat	D050197	Atherosclerosis	0.0
+96829-58-2	Orlistat	D003924	Diabetes Mellitus, Type 2	0.0
+96829-58-2	Orlistat	D006333	Heart Failure	0.0
+96829-58-2	Orlistat	D006973	Hypertension	0.0
+96829-58-2	Orlistat	D009164	Mycobacterium Infections	0.0
+96829-58-2	Orlistat	D009765	Obesity	0.0
+50808-49-6	Ornade	D012852	Sinusitis	0.0
+19044-88-3	oryzalin	D014123	Toxoplasmosis	0.0
+484-12-8	osthol	D003920	Diabetes Mellitus	0.0
+102394-31-0	otenzepad	D001145	Arrhythmias, Cardiac	0.0
+630-60-4	Ouabain	D006333	Heart Failure	0.0
+66-79-5	Oxacillin	D010493	Pericarditis	0.0
+1199-18-4	Oxidopamine	D006973	Hypertension	0.0
+1199-18-4	Oxidopamine	D007022	Hypotension	0.0
+30286-75-0	oxitropium	D001249	Asthma	0.0
+70-22-4	Oxotremorine	D007022	Hypotension	0.0
+70-22-4	Oxotremorine	D014693	Ventricular Fibrillation	0.0
+6452-71-7	Oxprenolol	D000787	Angina Pectoris	0.0
+6452-71-7	Oxprenolol	D001145	Arrhythmias, Cardiac	0.0
+6452-71-7	Oxprenolol	D006332	Cardiomegaly	0.0
+6452-71-7	Oxprenolol	D003327	Coronary Disease	0.0
+6452-71-7	Oxprenolol	D006973	Hypertension	0.0
+6452-71-7	Oxprenolol	D009203	Myocardial Infarction	0.0
+6452-71-7	Oxprenolol	D017202	Myocardial Ischemia	0.0
+6452-71-7	Oxprenolol	D014693	Ventricular Fibrillation	0.0
+6452-71-7	Oxprenolol	D018879	Ventricular Premature Complexes	0.0
+15687-41-9	Oxyfedrine	D000787	Angina Pectoris	0.0
+7782-44-7	Oxygen	D050197	Atherosclerosis	0.0
+7782-44-7	Oxygen	D004417	Dyspnea	0.0
+7782-44-7	Oxygen	D006976	Hypertension, Pulmonary	0.0
+7782-44-7	Oxygen	D012128	Respiratory Distress Syndrome	0.0
+7782-44-7	Oxygen	D012131	Respiratory Insufficiency	0.0
+16837-52-8	oxymatrine	D001172	Arthritis, Rheumatoid	0.0
+1491-59-4	Oxymetazoline	D003139	Common Cold	0.0
+76-41-5	Oxymorphone	D003371	Cough	0.0
+129-20-4	Oxyphenbutazone	D001172	Arthritis, Rheumatoid	0.0
+2465-59-0	Oxypurinol	D006073	Gout	0.0
+82571-53-7	ozagrel	D006973	Hypertension	0.0
+82571-53-7	ozagrel	D006976	Hypertension, Pulmonary	0.0
+10028-15-6	Ozone	D001172	Arthritis, Rheumatoid	0.0
+40391-99-9	Pamidronate	D009362	Neoplasm Metastasis	0.0
+40391-99-9	Pamidronate	D010024	Osteoporosis	0.0
+58-74-2	Papaverine	D001145	Arrhythmias, Cardiac	0.0
+311-45-5	Paraoxon	D050197	Atherosclerosis	0.0
+47082-97-3	pargolol	D001145	Arrhythmias, Cardiac	0.0
+47082-97-3	pargolol	D007022	Hypotension	0.0
+555-57-7	Pargyline	D001145	Arrhythmias, Cardiac	0.0
+555-57-7	Pargyline	D006973	Hypertension	0.0
+153049-49-1	PD 145065	D006973	Hypertension	0.0
+70458-92-3	Pefloxacin	D001172	Arthritis, Rheumatoid	0.0
+70458-92-3	Pefloxacin	D001987	Bronchiectasis	0.0
+70458-92-3	Pefloxacin	D029481	Bronchitis, Chronic	0.0
+70458-92-3	Pefloxacin	D010019	Osteomyelitis	0.0
+70458-92-3	Pefloxacin	D018410	Pneumonia, Bacterial	0.0
+36507-48-9	Penbutolol	D006973	Hypertension	0.0
+52-67-5	Penicillamine	D015535	Arthritis, Psoriatic	0.0
+52-67-5	Penicillamine	D016918	Arthritis, Reactive	0.0
+52-67-5	Penicillamine	D001172	Arthritis, Rheumatoid	0.0
+61-33-6	Penicillin G	D004696	Endocarditis	0.0
+61-33-6	Penicillin G	D006349	Heart Valve Diseases	0.0
+6130-64-9	Penicillin G Procaine	D018410	Pneumonia, Bacterial	0.0
+87-08-1	Penicillin V	D014069	Tonsillitis	0.0
+49776-64-9	pentaacetyl geniposide	D009362	Neoplasm Metastasis	0.0
+78-11-5	Pentaerythritol Tetranitrate	D003324	Coronary Artery Disease	0.0
+78-11-5	Pentaerythritol Tetranitrate	D006973	Hypertension	0.0
+100-33-4	Pentamidine	D011020	Pneumonia, Pneumocystis	0.0
+359-83-1	Pentazocine	D009203	Myocardial Infarction	0.0
+76-74-4	Pentobarbital	D014693	Ventricular Fibrillation	0.0
+52-62-0	Pentolinium Tartrate	D006973	Hypertension	0.0
+52-62-0	Pentolinium Tartrate	D011654	Pulmonary Edema	0.0
+6493-05-6	Pentoxifylline	D050197	Atherosclerosis	0.0
+6493-05-6	Pentoxifylline	D009202	Cardiomyopathies	0.0
+6493-05-6	Pentoxifylline	D003924	Diabetes Mellitus, Type 2	0.0
+6493-05-6	Pentoxifylline	D017202	Myocardial Ischemia	0.0
+6493-05-6	Pentoxifylline	D009362	Neoplasm Metastasis	0.0
+6493-05-6	Pentoxifylline	D016491	Peripheral Vascular Diseases	0.0
+6493-05-6	Pentoxifylline	D011928	Raynaud Disease	0.0
+23180-57-6	peoniflorin	D007022	Hypotension	0.0
+66104-22-1	Pergolide	D006973	Hypertension	0.0
+66104-22-1	Pergolide	D012893	Sleep Wake Disorders	0.0
+6621-47-2	Perhexiline	D000787	Angina Pectoris	0.0
+6621-47-2	Perhexiline	D006333	Heart Failure	0.0
+6724-53-4	perhexiline maleate	D000787	Angina Pectoris	0.0
+6724-53-4	perhexiline maleate	D003327	Coronary Disease	0.0
+6724-53-4	perhexiline maleate	D009203	Myocardial Infarction	0.0
+82834-16-0	Perindopril	D006332	Cardiomegaly	0.0
+82834-16-0	Perindopril	D003920	Diabetes Mellitus	0.0
+82834-16-0	Perindopril	D006973	Hypertension	0.0
+82834-16-0	Perindopril	D009203	Myocardial Infarction	0.0
+82834-16-0	Perindopril	D017202	Myocardial Ischemia	0.0
+95153-31-4	perindoprilat	D006973	Hypertension	0.0
+163251-41-0	PH 163	D016535	Bronchial Hyperreactivity	0.0
+21784-30-5	phendimetrazine	D009765	Obesity	0.0
+51-71-8	Phenelzine	D006332	Cardiomegaly	0.0
+114-86-3	Phenformin	D003920	Diabetes Mellitus	0.0
+83-12-5	Phenindione	D009203	Myocardial Infarction	0.0
+83-12-5	Phenindione	D020246	Venous Thrombosis	0.0
+50-06-6	Phenobarbital	D001249	Asthma	0.0
+59-96-1	Phenoxybenzamine	D001145	Arrhythmias, Cardiac	0.0
+59-96-1	Phenoxybenzamine	D006973	Hypertension	0.0
+59-96-1	Phenoxybenzamine	D009203	Myocardial Infarction	0.0
+435-97-2	Phenprocoumon	D001281	Atrial Fibrillation	0.0
+122-09-8	Phentermine	D006973	Hypertension	0.0
+122-09-8	Phentermine	D009765	Obesity	0.0
+50-60-2	Phentolamine	D000787	Angina Pectoris	0.0
+50-60-2	Phentolamine	D001022	Aortic Valve Insufficiency	0.0
+50-60-2	Phentolamine	D006333	Heart Failure	0.0
+50-60-2	Phentolamine	D006973	Hypertension	0.0
+50-60-2	Phentolamine	D006976	Hypertension, Pulmonary	0.0
+50-60-2	Phentolamine	D007022	Hypotension	0.0
+50-60-2	Phentolamine	D008944	Mitral Valve Insufficiency	0.0
+50-60-2	Phentolamine	D009203	Myocardial Infarction	0.0
+50-60-2	Phentolamine	D017202	Myocardial Ischemia	0.0
+50-60-2	Phentolamine	D017180	Tachycardia, Ventricular	0.0
+3376-24-7	phenyl-N-tert-butylnitrone	D009202	Cardiomyopathies	0.0
+50-33-9	Phenylbutazone	D001172	Arthritis, Rheumatoid	0.0
+50-33-9	Phenylbutazone	D010003	Osteoarthritis	0.0
+50-33-9	Phenylbutazone	D015207	Osteoarthritis, Hip	0.0
+59-42-7	Phenylephrine	D007022	Hypotension	0.0
+59-42-7	Phenylephrine	D007024	Hypotension, Orthostatic	0.0
+59-42-7	Phenylephrine	D012852	Sinusitis	0.0
+59-42-7	Phenylephrine	D014693	Ventricular Fibrillation	0.0
+14838-15-4	Phenylpropanolamine	D003139	Common Cold	0.0
+14838-15-4	Phenylpropanolamine	D006973	Hypertension	0.0
+14838-15-4	Phenylpropanolamine	D011654	Pulmonary Edema	0.0
+14838-15-4	Phenylpropanolamine	D012131	Respiratory Insufficiency	0.0
+14838-15-4	Phenylpropanolamine	D012141	Respiratory Tract Infections	0.0
+14838-15-4	Phenylpropanolamine	D012852	Sinusitis	0.0
+14838-15-4	Phenylpropanolamine	D014693	Ventricular Fibrillation	0.0
+57-41-0	Phenytoin	D001145	Arrhythmias, Cardiac	0.0
+57-41-0	Phenytoin	D050197	Atherosclerosis	0.0
+57-41-0	Phenytoin	D008133	Long QT Syndrome	0.0
+57-41-0	Phenytoin	D017180	Tachycardia, Ventricular	0.0
+57-41-0	Phenytoin	D014693	Ventricular Fibrillation	0.0
+57-41-0	Phenytoin	D018879	Ventricular Premature Complexes	0.0
+36357-77-4	phosphoramidon	D006973	Hypertension	0.0
+57-47-6	Physostigmine	D001145	Arrhythmias, Cardiac	0.0
+57-47-6	Physostigmine	D006973	Hypertension	0.0
+57-47-6	Physostigmine	D007022	Hypotension	0.0
+57-47-6	Physostigmine	D007024	Hypotension, Orthostatic	0.0
+57-47-6	Physostigmine	D012131	Respiratory Insufficiency	0.0
+57-47-6	Physostigmine	D020181	Sleep Apnea, Obstructive	0.0
+57-47-6	Physostigmine	D017180	Tachycardia, Ventricular	0.0
+57-47-6	Physostigmine	D014693	Ventricular Fibrillation	0.0
+83-86-3	Phytic Acid	D008175	Lung Neoplasms	0.0
+150-86-7	Phytol	D008175	Lung Neoplasms	0.0
+39325-01-4	Picibanil	D008175	Lung Neoplasms	0.0
+39325-01-4	Picibanil	D009362	Neoplasm Metastasis	0.0
+124-87-8	Picrotoxin	D007022	Hypotension	0.0
+92-13-7	Pilocarpine	D001145	Arrhythmias, Cardiac	0.0
+92-13-7	Pilocarpine	D006332	Cardiomegaly	0.0
+88069-49-2	pilsicainide	D001145	Arrhythmias, Cardiac	0.0
+88069-49-2	pilsicainide	D001281	Atrial Fibrillation	0.0
+79-17-4	pimagedine	D009202	Cardiomyopathies	0.0
+79-17-4	pimagedine	D009362	Neoplasm Metastasis	0.0
+74150-27-9	pimobendan	D006332	Cardiomegaly	0.0
+74150-27-9	pimobendan	D002311	Cardiomyopathy, Dilated	0.0
+74150-27-9	pimobendan	D009205	Myocarditis	0.0
+85371-64-8	Pinacidil	D001145	Arrhythmias, Cardiac	0.0
+85371-64-8	Pinacidil	D006973	Hypertension	0.0
+85371-64-8	Pinacidil	D006976	Hypertension, Pulmonary	0.0
+85371-64-8	Pinacidil	D017180	Tachycardia, Ventricular	0.0
+85371-64-8	Pinacidil	D018879	Ventricular Premature Complexes	0.0
+13523-86-9	Pindolol	D000787	Angina Pectoris	0.0
+13523-86-9	Pindolol	D006973	Hypertension	0.0
+13523-86-9	Pindolol	D007022	Hypotension	0.0
+111025-46-8	Pioglitazone	D003550	Cystic Fibrosis	0.0
+111025-46-8	Pioglitazone	D003920	Diabetes Mellitus	0.0
+111025-46-8	Pioglitazone	D003924	Diabetes Mellitus, Type 2	0.0
+111025-46-8	Pioglitazone	D006973	Hypertension	0.0
+111025-46-8	Pioglitazone	D009203	Myocardial Infarction	0.0
+111025-46-8	Pioglitazone	D009765	Obesity	0.0
+61477-96-1	Piperacillin	D003550	Cystic Fibrosis	0.0
+157044-21-8	Piperacillin, Tazobactam Drug Combination	D000196	Actinomycosis	0.0
+110-85-0	Piperazine	D001145	Arrhythmias, Cardiac	0.0
+7780-20-3	piperine	D006973	Hypertension	0.0
+59-39-2	Piperoxan	D006973	Hypertension	0.0
+59-39-2	Piperoxan	D007022	Hypotension	0.0
+38677-81-5	pirbuterol	D003324	Coronary Artery Disease	0.0
+38677-81-5	pirbuterol	D006333	Heart Failure	0.0
+28797-61-7	Pirenzepine	D006973	Hypertension	0.0
+53179-13-8	pirfenidone	D006332	Cardiomegaly	0.0
+53179-13-8	pirfenidone	D054990	Idiopathic Pulmonary Fibrosis	0.0
+53179-13-8	pirfenidone	D011654	Pulmonary Edema	0.0
+50892-23-4	pirinixic acid	D006333	Heart Failure	0.0
+50892-23-4	pirinixic acid	D009203	Myocardial Infarction	0.0
+50892-23-4	pirinixic acid	D009765	Obesity	0.0
+61477-94-9	pirmenol	D001145	Arrhythmias, Cardiac	0.0
+36322-90-4	Piroxicam	D001172	Arthritis, Rheumatoid	0.0
+36322-90-4	Piroxicam	D008175	Lung Neoplasms	0.0
+36322-90-4	Piroxicam	D009203	Myocardial Infarction	0.0
+36322-90-4	Piroxicam	D010003	Osteoarthritis	0.0
+36322-90-4	Piroxicam	D015207	Osteoarthritis, Hip	0.0
+31793-07-4	pirprofen	D001172	Arthritis, Rheumatoid	0.0
+147511-69-1	pitavastatin	D006333	Heart Failure	0.0
+104777-68-6	plantamajoside	D006332	Cardiomegaly	0.0
+58479-68-8	platycodin D	D006332	Cardiomegaly	0.0
+58479-68-8	platycodin D	D009362	Neoplasm Metastasis	0.0
+58479-68-8	platycodin D	D009765	Obesity	0.0
+58479-68-8	platycodin D	D010024	Osteoporosis	0.0
+106392-12-5	Poloxamer	D009765	Obesity	0.0
+65914-17-2	polydatin	D006332	Cardiomegaly	0.0
+9015-56-9	Polygeline	D007022	Hypotension	0.0
+25104-18-1	Polylysine	D009765	Obesity	0.0
+346-18-9	Polythiazide	D006973	Hypertension	0.0
+346-18-9	Polythiazide	D009765	Obesity	0.0
+78664-73-0	posatirelin	D012131	Respiratory Insufficiency	0.0
+7440-09-7	Potassium	D001145	Arrhythmias, Cardiac	0.0
+7440-09-7	Potassium	D003920	Diabetes Mellitus	0.0
+7440-09-7	Potassium	D016883	Diabetic Ketoacidosis	0.0
+7440-09-7	Potassium	D006333	Heart Failure	0.0
+7440-09-7	Potassium	D006973	Hypertension	0.0
+7447-40-7	Potassium Chloride	D001145	Arrhythmias, Cardiac	0.0
+7447-40-7	Potassium Chloride	D006333	Heart Failure	0.0
+6673-35-4	Practolol	D001145	Arrhythmias, Cardiac	0.0
+6673-35-4	Practolol	D006973	Hypertension	0.0
+6673-35-4	Practolol	D013617	Tachycardia, Supraventricular	0.0
+35080-11-6	Prajmaline	D001145	Arrhythmias, Cardiac	0.0
+35080-11-6	Prajmaline	D009202	Cardiomyopathies	0.0
+50643-33-9	pranolium	D017180	Tachycardia, Ventricular	0.0
+81093-37-0	Pravastatin	D050197	Atherosclerosis	0.0
+81093-37-0	Pravastatin	D006332	Cardiomegaly	0.0
+81093-37-0	Pravastatin	D003324	Coronary Artery Disease	0.0
+81093-37-0	Pravastatin	D003327	Coronary Disease	0.0
+81093-37-0	Pravastatin	D003920	Diabetes Mellitus	0.0
+81093-37-0	Pravastatin	D006973	Hypertension	0.0
+81093-37-0	Pravastatin	D009203	Myocardial Infarction	0.0
+19216-56-9	Prazosin	D009202	Cardiomyopathies	0.0
+19216-56-9	Prazosin	D006333	Heart Failure	0.0
+19216-56-9	Prazosin	D006973	Hypertension	0.0
+19216-56-9	Prazosin	D007022	Hypotension	0.0
+19216-56-9	Prazosin	D008944	Mitral Valve Insufficiency	0.0
+19216-56-9	Prazosin	D011928	Raynaud Disease	0.0
+19216-56-9	Prazosin	D014693	Ventricular Fibrillation	0.0
+50-24-8	Prednisolone	D001172	Arthritis, Rheumatoid	0.0
+50-24-8	Prednisolone	D001249	Asthma	0.0
+50-24-8	Prednisolone	D016535	Bronchial Hyperreactivity	0.0
+50-24-8	Prednisolone	D009203	Myocardial Infarction	0.0
+50-24-8	Prednisolone	D009205	Myocarditis	0.0
+50-24-8	Prednisolone	D010490	Pericardial Effusion	0.0
+50-24-8	Prednisolone	D010493	Pericarditis	0.0
+50-24-8	Prednisolone	D010996	Pleural Effusion	0.0
+50-24-8	Prednisolone	D011020	Pneumonia, Pneumocystis	0.0
+50-24-8	Prednisolone	D012131	Respiratory Insufficiency	0.0
+50-24-8	Prednisolone	D014376	Tuberculosis	0.0
+2920-86-7	prednisolone hemisuccinate	D003324	Coronary Artery Disease	0.0
+53-03-2	Prednisone	D001172	Arthritis, Rheumatoid	0.0
+53-03-2	Prednisone	D001249	Asthma	0.0
+53-03-2	Prednisone	D001607	Berylliosis	0.0
+53-03-2	Prednisone	D009202	Cardiomyopathies	0.0
+53-03-2	Prednisone	D002311	Cardiomyopathy, Dilated	0.0
+53-03-2	Prednisone	D006333	Heart Failure	0.0
+53-03-2	Prednisone	D009205	Myocarditis	0.0
+53-03-2	Prednisone	D010996	Pleural Effusion	0.0
+53-03-2	Prednisone	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+53-03-2	Prednisone	D012852	Sinusitis	0.0
+95975-55-6	pregna-4,17-diene-3,16-dione	D050197	Atherosclerosis	0.0
+95975-55-6	pregna-4,17-diene-3,16-dione	D003920	Diabetes Mellitus	0.0
+95975-55-6	pregna-4,17-diene-3,16-dione	D009765	Obesity	0.0
+95975-55-6	pregna-4,17-diene-3,16-dione	D010003	Osteoarthritis	0.0
+390-64-7	Prenylamine	D000787	Angina Pectoris	0.0
+390-64-7	Prenylamine	D014693	Ventricular Fibrillation	0.0
+69-43-2	prenylamine lactate	D000787	Angina Pectoris	0.0
+57-66-9	Probenecid	D006073	Gout	0.0
+57-66-9	Probenecid	D007251	Influenza, Human	0.0
+23288-49-5	Probucol	D050197	Atherosclerosis	0.0
+23288-49-5	Probucol	D006332	Cardiomegaly	0.0
+23288-49-5	Probucol	D009202	Cardiomyopathies	0.0
+23288-49-5	Probucol	D003327	Coronary Disease	0.0
+23288-49-5	Probucol	D006333	Heart Failure	0.0
+51-06-9	Procainamide	D001145	Arrhythmias, Cardiac	0.0
+51-06-9	Procainamide	D001281	Atrial Fibrillation	0.0
+51-06-9	Procainamide	D003324	Coronary Artery Disease	0.0
+51-06-9	Procainamide	D004417	Dyspnea	0.0
+51-06-9	Procainamide	D007022	Hypotension	0.0
+51-06-9	Procainamide	D009203	Myocardial Infarction	0.0
+51-06-9	Procainamide	D013617	Tachycardia, Supraventricular	0.0
+51-06-9	Procainamide	D017180	Tachycardia, Ventricular	0.0
+51-06-9	Procainamide	D014693	Ventricular Fibrillation	0.0
+51-06-9	Procainamide	D018879	Ventricular Premature Complexes	0.0
+51-06-9	Procainamide	D014927	Wolff-Parkinson-White Syndrome	0.0
+59-46-1	Procaine	D017202	Myocardial Ischemia	0.0
+72332-33-3	Procaterol	D001249	Asthma	0.0
+29106-49-8	procyanidin B2	D011654	Pulmonary Edema	0.0
+57-83-0	Progesterone	D001145	Arrhythmias, Cardiac	0.0
+57-83-0	Progesterone	D006973	Hypertension	0.0
+135467-92-4	prolinedithiocarbamate	D006332	Cardiomegaly	0.0
+135467-92-4	prolinedithiocarbamate	D006973	Hypertension	0.0
+54-80-8	pronethalol	D001145	Arrhythmias, Cardiac	0.0
+54063-53-5	Propafenone	D001145	Arrhythmias, Cardiac	0.0
+54063-53-5	Propafenone	D001281	Atrial Fibrillation	0.0
+54063-53-5	Propafenone	D013611	Tachycardia, Atrioventricular Nodal Reentry	0.0
+54063-53-5	Propafenone	D013617	Tachycardia, Supraventricular	0.0
+54063-53-5	Propafenone	D018879	Ventricular Premature Complexes	0.0
+54063-53-5	Propafenone	D014927	Wolff-Parkinson-White Syndrome	0.0
+17298-37-2	propionylcarnitine	D009202	Cardiomyopathies	0.0
+96513-83-6	propisomide	D001145	Arrhythmias, Cardiac	0.0
+2078-54-8	Propofol	D001145	Arrhythmias, Cardiac	0.0
+9009-62-5	Propolis	D009202	Cardiomyopathies	0.0
+525-66-6	Propranolol	D000787	Angina Pectoris	0.0
+525-66-6	Propranolol	D001145	Arrhythmias, Cardiac	0.0
+525-66-6	Propranolol	D001249	Asthma	0.0
+525-66-6	Propranolol	D001281	Atrial Fibrillation	0.0
+525-66-6	Propranolol	D054537	Atrioventricular Block	0.0
+525-66-6	Propranolol	D006332	Cardiomegaly	0.0
+525-66-6	Propranolol	D009202	Cardiomyopathies	0.0
+525-66-6	Propranolol	D002312	Cardiomyopathy, Hypertrophic	0.0
+525-66-6	Propranolol	D003324	Coronary Artery Disease	0.0
+525-66-6	Propranolol	D003327	Coronary Disease	0.0
+525-66-6	Propranolol	D006333	Heart Failure	0.0
+525-66-6	Propranolol	D006973	Hypertension	0.0
+525-66-6	Propranolol	D006976	Hypertension, Pulmonary	0.0
+525-66-6	Propranolol	D007022	Hypotension	0.0
+525-66-6	Propranolol	D008133	Long QT Syndrome	0.0
+525-66-6	Propranolol	D009203	Myocardial Infarction	0.0
+525-66-6	Propranolol	D017202	Myocardial Ischemia	0.0
+525-66-6	Propranolol	D010024	Osteoporosis	0.0
+525-66-6	Propranolol	D013617	Tachycardia, Supraventricular	0.0
+525-66-6	Propranolol	D017180	Tachycardia, Ventricular	0.0
+525-66-6	Propranolol	D014693	Ventricular Fibrillation	0.0
+525-66-6	Propranolol	D018879	Ventricular Premature Complexes	0.0
+525-66-6	Propranolol	D014927	Wolff-Parkinson-White Syndrome	0.0
+51-52-5	Propylthiouracil	D006973	Hypertension	0.0
+23476-83-7	Prospidium	D001172	Arthritis, Rheumatoid	0.0
+14152-28-4	prostaglandin A1	D009203	Myocardial Infarction	0.0
+438-60-8	Protriptyline	D007024	Hypotension, Orthostatic	0.0
+603-00-9	proxyphylline	D006973	Hypertension	0.0
+603-00-9	proxyphylline	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+90-82-4	Pseudoephedrine	D003139	Common Cold	0.0
+90-82-4	Pseudoephedrine	D007251	Influenza, Human	0.0
+90-82-4	Pseudoephedrine	D006255	Rhinitis, Allergic, Seasonal	0.0
+90-82-4	Pseudoephedrine	D012852	Sinusitis	0.0
+4721-07-7	puag-haad	D009765	Obesity	0.0
+3681-99-0	puerarin	D003920	Diabetes Mellitus	0.0
+3681-99-0	puerarin	D006973	Hypertension	0.0
+3681-99-0	puerarin	D017202	Myocardial Ischemia	0.0
+98-96-4	Pyrazinamide	D014376	Tuberculosis	0.0
+98-96-4	Pyrazinamide	D014397	Tuberculosis, Pulmonary	0.0
+101-26-8	Pyridostigmine Bromide	D017202	Myocardial Ischemia	0.0
+85-87-0	Pyridoxamine	D009202	Cardiomyopathies	0.0
+58-14-0	Pyrimethamine	D014123	Toxoplasmosis	0.0
+25769-03-3	pyrrolidine dithiocarbamic acid	D009202	Cardiomyopathies	0.0
+25769-03-3	pyrrolidine dithiocarbamic acid	D007251	Influenza, Human	0.0
+25769-03-3	pyrrolidine dithiocarbamic acid	D012128	Respiratory Distress Syndrome	0.0
+7187-62-4	pyrvinium	D006332	Cardiomegaly	0.0
+117-39-5	Quercetin	D017544	Aortic Aneurysm, Abdominal	0.0
+117-39-5	Quercetin	D050197	Atherosclerosis	0.0
+117-39-5	Quercetin	D006332	Cardiomegaly	0.0
+117-39-5	Quercetin	D009202	Cardiomyopathies	0.0
+117-39-5	Quercetin	D002312	Cardiomyopathy, Hypertrophic	0.0
+117-39-5	Quercetin	D006973	Hypertension	0.0
+117-39-5	Quercetin	D006976	Hypertension, Pulmonary	0.0
+117-39-5	Quercetin	D007251	Influenza, Human	0.0
+117-39-5	Quercetin	D008175	Lung Neoplasms	0.0
+117-39-5	Quercetin	D009203	Myocardial Infarction	0.0
+117-39-5	Quercetin	D009362	Neoplasm Metastasis	0.0
+117-39-5	Quercetin	D009765	Obesity	0.0
+117-39-5	Quercetin	D015663	Osteoporosis, Postmenopausal	0.0
+117-39-5	Quercetin	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+117-39-5	Quercetin	D011654	Pulmonary Edema	0.0
+86073-85-0	quinacainol	D017180	Tachycardia, Ventricular	0.0
+83-89-6	Quinacrine	D001172	Arthritis, Rheumatoid	0.0
+83-89-6	Quinacrine	D010996	Pleural Effusion	0.0
+82586-55-8	Quinapril	D001145	Arrhythmias, Cardiac	0.0
+82586-55-8	Quinapril	D006332	Cardiomegaly	0.0
+82586-55-8	Quinapril	D002312	Cardiomyopathy, Hypertrophic	0.0
+82586-55-8	Quinapril	D003324	Coronary Artery Disease	0.0
+82586-55-8	Quinapril	D006333	Heart Failure	0.0
+82586-55-8	Quinapril	D006973	Hypertension	0.0
+82768-85-2	quinaprilat	D006973	Hypertension	0.0
+5714-76-1	quinetolate	D018879	Ventricular Premature Complexes	0.0
+56-54-2	Quinidine	D001145	Arrhythmias, Cardiac	0.0
+56-54-2	Quinidine	D001281	Atrial Fibrillation	0.0
+56-54-2	Quinidine	D054537	Atrioventricular Block	0.0
+56-54-2	Quinidine	D003324	Coronary Artery Disease	0.0
+56-54-2	Quinidine	D006333	Heart Failure	0.0
+56-54-2	Quinidine	D013617	Tachycardia, Supraventricular	0.0
+56-54-2	Quinidine	D017180	Tachycardia, Ventricular	0.0
+56-54-2	Quinidine	D014693	Ventricular Fibrillation	0.0
+56-54-2	Quinidine	D018879	Ventricular Premature Complexes	0.0
+56-54-2	Quinidine	D014927	Wolff-Parkinson-White Syndrome	0.0
+747-45-5	quinidine bisulfate	D001281	Atrial Fibrillation	0.0
+126602-89-9	quinupristin-dalfopristin	D000196	Actinomycosis	0.0
+104606-13-5	R 56865	D017180	Tachycardia, Ventricular	0.0
+87333-19-5	Ramipril	D000787	Angina Pectoris	0.0
+87333-19-5	Ramipril	D001145	Arrhythmias, Cardiac	0.0
+87333-19-5	Ramipril	D050197	Atherosclerosis	0.0
+87333-19-5	Ramipril	D009202	Cardiomyopathies	0.0
+87333-19-5	Ramipril	D002311	Cardiomyopathy, Dilated	0.0
+87333-19-5	Ramipril	D002312	Cardiomyopathy, Hypertrophic	0.0
+87333-19-5	Ramipril	D003920	Diabetes Mellitus	0.0
+87333-19-5	Ramipril	D006333	Heart Failure	0.0
+87333-19-5	Ramipril	D006973	Hypertension	0.0
+87333-19-5	Ramipril	D009203	Myocardial Infarction	0.0
+87269-97-4	ramiprilat	D001145	Arrhythmias, Cardiac	0.0
+87269-97-4	ramiprilat	D006973	Hypertension	0.0
+5471-51-2	raspberry ketone	D009765	Obesity	0.0
+21416-87-5	Razoxane	D009202	Cardiomyopathies	0.0
+21416-87-5	Razoxane	D006333	Heart Failure	0.0
+80125-14-0	Remoxipride	D007022	Hypotension	0.0
+72679-47-1	rentiapril	D006973	Hypertension	0.0
+50-55-5	Reserpine	D001145	Arrhythmias, Cardiac	0.0
+50-55-5	Reserpine	D006973	Hypertension	0.0
+133652-38-7	reteplase	D006976	Hypertension, Pulmonary	0.0
+133652-38-7	reteplase	D009203	Myocardial Infarction	0.0
+133652-38-7	reteplase	D011655	Pulmonary Embolism	0.0
+36791-04-5	Ribavirin	D011024	Pneumonia, Viral	0.0
+36791-04-5	Ribavirin	D045169	Severe Acute Respiratory Syndrome	0.0
+72559-06-9	Rifabutin	D014397	Tuberculosis, Pulmonary	0.0
+13292-46-1	Rifampin	D004696	Endocarditis	0.0
+13292-46-1	Rifampin	D009164	Mycobacterium Infections	0.0
+13292-46-1	Rifampin	D010019	Osteomyelitis	0.0
+13292-46-1	Rifampin	D012141	Respiratory Tract Infections	0.0
+13292-46-1	Rifampin	D014376	Tuberculosis	0.0
+13292-46-1	Rifampin	D014397	Tuberculosis, Pulmonary	0.0
+6998-60-3	rifamycin SV	D001172	Arthritis, Rheumatoid	0.0
+54187-04-1	Rilmenidine	D001145	Arrhythmias, Cardiac	0.0
+54187-04-1	Rilmenidine	D006973	Hypertension	0.0
+13392-28-4	Rimantadine	D007251	Influenza, Human	0.0
+158681-13-1	Rimonabant	D009202	Cardiomyopathies	0.0
+158681-13-1	Rimonabant	D007022	Hypotension	0.0
+158681-13-1	Rimonabant	D009765	Obesity	0.0
+106266-06-2	Risperidone	D012893	Sleep Wake Disorders	0.0
+26652-09-5	Ritodrine	D054537	Atrioventricular Block	0.0
+26652-09-5	Ritodrine	D017202	Myocardial Ischemia	0.0
+26652-09-5	Ritodrine	D011654	Pulmonary Edema	0.0
+120280-37-7	Ro 31-6930	D006973	Hypertension	0.0
+61413-54-5	Rolipram	D001145	Arrhythmias, Cardiac	0.0
+61413-54-5	Rolipram	D009202	Cardiomyopathies	0.0
+61413-54-5	Rolipram	D011657	Pulmonary Eosinophilia	0.0
+83-79-4	Rotenone	D006973	Hypertension	0.0
+170449-18-0	RTKI cpd	D008175	Lung Neoplasms	0.0
+170449-18-0	RTKI cpd	D009362	Neoplasm Metastasis	0.0
+169939-94-0	ruboxistaurin	D006333	Heart Failure	0.0
+169939-94-0	ruboxistaurin	D011654	Pulmonary Edema	0.0
+11103-72-3	Ruthenium Red	D009765	Obesity	0.0
+11103-72-3	Ruthenium Red	D012120	Respiration Disorders	0.0
+153-18-4	Rutin	D006332	Cardiomegaly	0.0
+153-18-4	Rutin	D008133	Long QT Syndrome	0.0
+153-18-4	Rutin	D011654	Pulmonary Edema	0.0
+15662-33-6	Ryanodine	D001145	Arrhythmias, Cardiac	0.0
+15662-33-6	Ryanodine	D017180	Tachycardia, Ventricular	0.0
+150863-82-4	S 1 (combination)	D010996	Pleural Effusion	0.0
+112966-96-8	S 145	D011655	Pulmonary Embolism	0.0
+91403-55-3	S 9871	D007022	Hypotension	0.0
+21593-77-1	S-allylcysteine	D009203	Myocardial Infarction	0.0
+8001-23-8	Safflower Oil	D009203	Myocardial Infarction	0.0
+69-72-7	Salicylic Acid	D050197	Atherosclerosis	0.0
+53003-10-4	salinomycin	D009362	Neoplasm Metastasis	0.0
+146613-90-3	saprisartan potassium	D006973	Hypertension	0.0
+34273-10-4	Saralasin	D006973	Hypertension	0.0
+86819-20-7	sarpogrelate	D050197	Atherosclerosis	0.0
+86819-20-7	sarpogrelate	D006332	Cardiomegaly	0.0
+86819-20-7	sarpogrelate	D006333	Heart Failure	0.0
+86819-20-7	sarpogrelate	D006976	Hypertension, Pulmonary	0.0
+96914-40-8	SC 36602	D001145	Arrhythmias, Cardiac	0.0
+7782-49-2	Selenium	D007251	Influenza, Human	0.0
+7782-49-2	Selenium	D057767	Kashin-Beck Disease	0.0
+101526-62-9	sematilide	D001145	Arrhythmias, Cardiac	0.0
+13909-09-6	Semustine	D009362	Neoplasm Metastasis	0.0
+99592-32-2	sertaconazole	D009181	Mycoses	0.0
+79617-96-2	Sertraline	D009765	Obesity	0.0
+533-31-3	sesamol	D009203	Myocardial Infarction	0.0
+106650-56-0	sibutramine	D009765	Obesity	0.0
+22888-70-6	Silybin	D008175	Lung Neoplasms	0.0
+131741-08-7	Simendan	D006332	Cardiomegaly	0.0
+131741-08-7	Simendan	D006333	Heart Failure	0.0
+131741-08-7	Simendan	D006973	Hypertension	0.0
+131741-08-7	Simendan	D009203	Myocardial Infarction	0.0
+131741-08-7	Simendan	D017202	Myocardial Ischemia	0.0
+131741-08-7	Simendan	D009205	Myocarditis	0.0
+79902-63-9	Simvastatin	D001014	Aortic Aneurysm	0.0
+79902-63-9	Simvastatin	D050197	Atherosclerosis	0.0
+79902-63-9	Simvastatin	D001281	Atrial Fibrillation	0.0
+79902-63-9	Simvastatin	D006332	Cardiomegaly	0.0
+79902-63-9	Simvastatin	D003324	Coronary Artery Disease	0.0
+79902-63-9	Simvastatin	D003327	Coronary Disease	0.0
+79902-63-9	Simvastatin	D003550	Cystic Fibrosis	0.0
+79902-63-9	Simvastatin	D006333	Heart Failure	0.0
+79902-63-9	Simvastatin	D006973	Hypertension	0.0
+79902-63-9	Simvastatin	D006976	Hypertension, Pulmonary	0.0
+79902-63-9	Simvastatin	D008133	Long QT Syndrome	0.0
+79902-63-9	Simvastatin	D009203	Myocardial Infarction	0.0
+79902-63-9	Simvastatin	D009362	Neoplasm Metastasis	0.0
+79902-63-9	Simvastatin	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+79902-63-9	Simvastatin	D011654	Pulmonary Edema	0.0
+530-59-6	sinapinic acid	D006332	Cardiomegaly	0.0
+53123-88-9	Sirolimus	D050197	Atherosclerosis	0.0
+53123-88-9	Sirolimus	D006332	Cardiomegaly	0.0
+53123-88-9	Sirolimus	D006333	Heart Failure	0.0
+53123-88-9	Sirolimus	D009362	Neoplasm Metastasis	0.0
+127373-66-4	sivelestat	D012128	Respiratory Distress Syndrome	0.0
+141874-20-6	SL 84.0418	D006973	Hypertension	0.0
+7440-23-5	Sodium	D001145	Arrhythmias, Cardiac	0.0
+7440-23-5	Sodium	D007022	Hypotension	0.0
+7440-23-5	Sodium	D014693	Ventricular Fibrillation	0.0
+13768-07-5	sodium arsenite	D003922	Diabetes Mellitus, Type 1	0.0
+144-55-8	Sodium Bicarbonate	D001145	Arrhythmias, Cardiac	0.0
+144-55-8	Sodium Bicarbonate	D004417	Dyspnea	0.0
+144-55-8	Sodium Bicarbonate	D007022	Hypotension	0.0
+144-55-8	Sodium Bicarbonate	D017180	Tachycardia, Ventricular	0.0
+16721-80-5	sodium bisulfide	D050197	Atherosclerosis	0.0
+16721-80-5	sodium bisulfide	D006973	Hypertension	0.0
+72-17-3	Sodium Lactate	D017180	Tachycardia, Ventricular	0.0
+10102-18-8	Sodium Selenite	D009202	Cardiomyopathies	0.0
+10102-18-8	Sodium Selenite	D003920	Diabetes Mellitus	0.0
+1191-50-0	Sodium Tetradecyl Sulfate	D014648	Varicose Veins	0.0
+10102-17-7	sodium thiosulfate	D009203	Myocardial Infarction	0.0
+3930-20-9	Sotalol	D000787	Angina Pectoris	0.0
+3930-20-9	Sotalol	D001145	Arrhythmias, Cardiac	0.0
+3930-20-9	Sotalol	D001281	Atrial Fibrillation	0.0
+3930-20-9	Sotalol	D003327	Coronary Disease	0.0
+3930-20-9	Sotalol	D003329	Coronary Vasospasm	0.0
+3930-20-9	Sotalol	D006333	Heart Failure	0.0
+3930-20-9	Sotalol	D009203	Myocardial Infarction	0.0
+3930-20-9	Sotalol	D017202	Myocardial Ischemia	0.0
+3930-20-9	Sotalol	D013617	Tachycardia, Supraventricular	0.0
+3930-20-9	Sotalol	D017180	Tachycardia, Ventricular	0.0
+3930-20-9	Sotalol	D014693	Ventricular Fibrillation	0.0
+3930-20-9	Sotalol	D018879	Ventricular Premature Complexes	0.0
+8001-22-7	Soybean Oil	D017180	Tachycardia, Ventricular	0.0
+90-39-1	Sparteine	D001145	Arrhythmias, Cardiac	0.0
+83647-97-6	spirapril	D006973	Hypertension	0.0
+52-01-7	Spironolactone	D001281	Atrial Fibrillation	0.0
+52-01-7	Spironolactone	D006332	Cardiomegaly	0.0
+52-01-7	Spironolactone	D009202	Cardiomyopathies	0.0
+52-01-7	Spironolactone	D002311	Cardiomyopathy, Dilated	0.0
+52-01-7	Spironolactone	D006333	Heart Failure	0.0
+52-01-7	Spironolactone	D006973	Hypertension	0.0
+52-01-7	Spironolactone	D009203	Myocardial Infarction	0.0
+52-01-7	Spironolactone	D020181	Sleep Apnea, Obstructive	0.0
+98299-61-7	SQ 29548	D006973	Hypertension	0.0
+111-02-4	Squalene	D009203	Myocardial Infarction	0.0
+7772-99-8	stannous chloride	D003924	Diabetes Mellitus, Type 2	0.0
+7772-99-8	stannous chloride	D006973	Hypertension	0.0
+57-92-1	Streptomycin	D000196	Actinomycosis	0.0
+57-92-1	Streptomycin	D006349	Heart Valve Diseases	0.0
+57-92-1	Streptomycin	D014376	Tuberculosis	0.0
+57-92-1	Streptomycin	D014397	Tuberculosis, Pulmonary	0.0
+304-55-2	Succimer	D006973	Hypertension	0.0
+306-40-1	Succinylcholine	D007826	Laryngismus	0.0
+68373-14-8	Sulbactam	D004696	Endocarditis	0.0
+68-35-9	Sulfadiazine	D009617	Nocardia Infections	0.0
+68-35-9	Sulfadiazine	D018410	Pneumonia, Bacterial	0.0
+68-35-9	Sulfadiazine	D012852	Sinusitis	0.0
+68-35-9	Sulfadiazine	D014123	Toxoplasmosis	0.0
+599-79-1	Sulfasalazine	D015535	Arthritis, Psoriatic	0.0
+599-79-1	Sulfasalazine	D001172	Arthritis, Rheumatoid	0.0
+599-79-1	Sulfasalazine	D009362	Neoplasm Metastasis	0.0
+66264-77-5	sulfinalol	D006973	Hypertension	0.0
+57-96-5	Sulfinpyrazone	D000787	Angina Pectoris	0.0
+57-96-5	Sulfinpyrazone	D002312	Cardiomyopathy, Hypertrophic	0.0
+57-96-5	Sulfinpyrazone	D006073	Gout	0.0
+57-96-5	Sulfinpyrazone	D009203	Myocardial Infarction	0.0
+38194-50-2	Sulindac	D001172	Arthritis, Rheumatoid	0.0
+38194-50-2	Sulindac	D008175	Lung Neoplasms	0.0
+38194-50-2	Sulindac	D010003	Osteoarthritis	0.0
+59864-04-9	sulindac sulfone	D008175	Lung Neoplasms	0.0
+73384-60-8	sulmazole	D006333	Heart Failure	0.0
+15676-16-1	Sulpiride	D007022	Hypotension	0.0
+76497-13-7	sultamicillin	D004696	Endocarditis	0.0
+76497-13-7	sultamicillin	D018410	Pneumonia, Bacterial	0.0
+76497-13-7	sultamicillin	D014069	Tonsillitis	0.0
+94-07-5	Synephrine	D001249	Asthma	0.0
+94-07-5	Synephrine	D003371	Cough	0.0
+118-34-3	syringin	D001249	Asthma	0.0
+321-64-2	Tacrine	D007022	Hypotension	0.0
+109581-93-3	Tacrolimus	D001172	Arthritis, Rheumatoid	0.0
+109581-93-3	Tacrolimus	D006332	Cardiomegaly	0.0
+109581-93-3	Tacrolimus	D006973	Hypertension	0.0
+109581-93-3	Tacrolimus	D007022	Hypotension	0.0
+94497-51-5	tamibarotene	D001172	Arthritis, Rheumatoid	0.0
+94497-51-5	tamibarotene	D050197	Atherosclerosis	0.0
+10540-29-1	Tamoxifen	D050197	Atherosclerosis	0.0
+10540-29-1	Tamoxifen	D008175	Lung Neoplasms	0.0
+10540-29-1	Tamoxifen	D009362	Neoplasm Metastasis	0.0
+10540-29-1	Tamoxifen	D010997	Pleural Neoplasms	0.0
+481-53-8	tangeretin	D006973	Hypertension	0.0
+568-73-0	tanshinone	D050197	Atherosclerosis	0.0
+568-73-0	tanshinone	D006973	Hypertension	0.0
+568-73-0	tanshinone	D010024	Osteoporosis	0.0
+568-73-0	tanshinone	D012829	Silicosis	0.0
+69659-80-9	tanshinone II A sodium sulfonate	D009202	Cardiomyopathies	0.0
+107-35-7	Taurine	D001145	Arrhythmias, Cardiac	0.0
+107-35-7	Taurine	D009202	Cardiomyopathies	0.0
+107-35-7	Taurine	D003922	Diabetes Mellitus, Type 1	0.0
+107-35-7	Taurine	D006973	Hypertension	0.0
+107-35-7	Taurine	D007022	Hypotension	0.0
+107-35-7	Taurine	D009203	Myocardial Infarction	0.0
+107-35-7	Taurine	D009765	Obesity	0.0
+17902-23-7	Tegafur	D008175	Lung Neoplasms	0.0
+17902-23-7	Tegafur	D009362	Neoplasm Metastasis	0.0
+61036-62-2	Teicoplanin	D010019	Osteomyelitis	0.0
+61036-62-2	Teicoplanin	D010493	Pericarditis	0.0
+61036-62-2	Teicoplanin	D018410	Pneumonia, Bacterial	0.0
+61036-62-2	Teicoplanin	D045169	Severe Acute Respiratory Syndrome	0.0
+846-50-4	Temazepam	D012893	Sleep Wake Disorders	0.0
+110221-44-8	temocapril hydrochloride	D006332	Cardiomegaly	0.0
+110221-44-8	temocapril hydrochloride	D009202	Cardiomyopathies	0.0
+110221-44-8	temocapril hydrochloride	D006333	Heart Failure	0.0
+110221-44-8	temocapril hydrochloride	D006973	Hypertension	0.0
+2226-96-2	tempol	D006332	Cardiomegaly	0.0
+2226-96-2	tempol	D006973	Hypertension	0.0
+120210-48-2	tenidap	D001172	Arthritis, Rheumatoid	0.0
+59804-37-4	tenoxicam	D001172	Arthritis, Rheumatoid	0.0
+59804-37-4	tenoxicam	D010003	Osteoarthritis	0.0
+35115-60-7	Teprotide	D006333	Heart Failure	0.0
+35115-60-7	Teprotide	D006973	Hypertension	0.0
+63590-64-7	Terazosin	D006973	Hypertension	0.0
+91161-71-6	Terbinafine	D009181	Mycoses	0.0
+91161-71-6	Terbinafine	D011020	Pneumonia, Pneumocystis	0.0
+23031-25-6	Terbutaline	D001249	Asthma	0.0
+23031-25-6	Terbutaline	D016535	Bronchial Hyperreactivity	0.0
+23031-25-6	Terbutaline	D001991	Bronchitis	0.0
+23031-25-6	Terbutaline	D003371	Cough	0.0
+23031-25-6	Terbutaline	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+23031-25-6	Terbutaline	D011654	Pulmonary Edema	0.0
+23031-25-6	Terbutaline	D012128	Respiratory Distress Syndrome	0.0
+50679-08-8	Terfenadine	D001249	Asthma	0.0
+50679-08-8	Terfenadine	D010024	Osteoporosis	0.0
+50679-08-8	Terfenadine	D006255	Rhinitis, Allergic, Seasonal	0.0
+50679-08-8	Terfenadine	D012852	Sinusitis	0.0
+52232-67-4	Teriparatide	D010024	Osteoporosis	0.0
+25683-71-0	terizidone	D014376	Tuberculosis	0.0
+14636-12-5	Terlipressin	D006073	Gout	0.0
+14636-12-5	Terlipressin	D007022	Hypotension	0.0
+83688-84-0	tertatolol	D006973	Hypertension	0.0
+83688-84-0	tertatolol	D007022	Hypotension	0.0
+58694-52-3	tertiapin	D001281	Atrial Fibrillation	0.0
+58-22-0	Testosterone	D006333	Heart Failure	0.0
+58-22-0	Testosterone	D017202	Myocardial Ischemia	0.0
+58-22-0	Testosterone	D009362	Neoplasm Metastasis	0.0
+58-46-8	Tetrabenazine	D007022	Hypotension	0.0
+1746-01-6	Tetrachlorodibenzodioxin	D003922	Diabetes Mellitus, Type 1	0.0
+1746-01-6	Tetrachlorodibenzodioxin	D009362	Neoplasm Metastasis	0.0
+60-54-8	Tetracycline	D050197	Atherosclerosis	0.0
+60-54-8	Tetracycline	D001991	Bronchitis	0.0
+60-54-8	Tetracycline	D010996	Pleural Effusion	0.0
+60-54-8	Tetracycline	D012141	Respiratory Tract Infections	0.0
+36062-04-1	tetrahydrocurcumin	D018376	Cardiovascular Abnormalities	0.0
+36062-04-1	tetrahydrocurcumin	D006973	Hypertension	0.0
+70649-54-6	tetrakis(N-methyl-4-pyridiniumyl)porphine manganese(III) complex	D002310	Cardiomyopathy, Alcoholic	0.0
+80-12-6	tetramethylenedisulfotetramine	D007022	Hypotension	0.0
+518-34-3	tetrandrine	D009203	Myocardial Infarction	0.0
+16330-92-0	tetrathiomolybdate	D009202	Cardiomyopathies	0.0
+4368-28-9	Tetrodotoxin	D017180	Tachycardia, Ventricular	0.0
+50-35-1	Thalidomide	D001172	Arthritis, Rheumatoid	0.0
+50-35-1	Thalidomide	D006333	Heart Failure	0.0
+50-35-1	Thalidomide	D008175	Lung Neoplasms	0.0
+50-35-1	Thalidomide	D011654	Pulmonary Edema	0.0
+4670-05-7	theaflavin	D050197	Atherosclerosis	0.0
+58-55-9	Theophylline	D001249	Asthma	0.0
+58-55-9	Theophylline	D001991	Bronchitis	0.0
+58-55-9	Theophylline	D029481	Bronchitis, Chronic	0.0
+58-55-9	Theophylline	D009202	Cardiomyopathies	0.0
+58-55-9	Theophylline	D004417	Dyspnea	0.0
+58-55-9	Theophylline	D006973	Hypertension	0.0
+58-55-9	Theophylline	D007022	Hypotension	0.0
+58-55-9	Theophylline	D008175	Lung Neoplasms	0.0
+58-55-9	Theophylline	D017202	Myocardial Ischemia	0.0
+58-55-9	Theophylline	D009362	Neoplasm Metastasis	0.0
+58-55-9	Theophylline	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+58-55-9	Theophylline	D012120	Respiration Disorders	0.0
+59-43-8	Thiamine	D009202	Cardiomyopathies	0.0
+59-43-8	Thiamine	D006333	Heart Failure	0.0
+104-06-3	Thioacetazone	D014376	Tuberculosis	0.0
+62-46-4	Thioctic Acid	D003327	Coronary Disease	0.0
+62-46-4	Thioctic Acid	D006973	Hypertension	0.0
+62-46-4	Thioctic Acid	D008133	Long QT Syndrome	0.0
+62-46-4	Thioctic Acid	D011654	Pulmonary Edema	0.0
+76-75-5	Thiopental	D007022	Hypotension	0.0
+50-52-2	Thioridazine	D011654	Pulmonary Edema	0.0
+50-52-2	Thioridazine	D012131	Respiratory Insufficiency	0.0
+50-52-2	Thioridazine	D014693	Ventricular Fibrillation	0.0
+79-19-6	thiosemicarbazide	D012131	Respiratory Insufficiency	0.0
+52-24-4	Thiotepa	D009362	Neoplasm Metastasis	0.0
+89-83-8	Thymol	D001228	Aspergillosis	0.0
+490-91-5	thymoquinone	D001172	Arthritis, Rheumatoid	0.0
+490-91-5	thymoquinone	D006973	Hypertension	0.0
+490-91-5	thymoquinone	D009362	Neoplasm Metastasis	0.0
+7488-70-2	Thyroxine	D006973	Hypertension	0.0
+31428-61-2	tiamenidine	D006973	Hypertension	0.0
+57010-31-8	Tiapamil Hydrochloride	D000787	Angina Pectoris	0.0
+57010-31-8	Tiapamil Hydrochloride	D006973	Hypertension	0.0
+55142-85-3	Ticlopidine	D000787	Angina Pectoris	0.0
+55142-85-3	Ticlopidine	D050197	Atherosclerosis	0.0
+55142-85-3	Ticlopidine	D003324	Coronary Artery Disease	0.0
+55142-85-3	Ticlopidine	D009203	Myocardial Infarction	0.0
+40180-04-9	Ticrynafen	D006973	Hypertension	0.0
+85136-71-6	tilisolol	D017180	Tachycardia, Ventricular	0.0
+26839-75-8	Timolol	D000787	Angina Pectoris	0.0
+26839-75-8	Timolol	D001145	Arrhythmias, Cardiac	0.0
+26839-75-8	Timolol	D001281	Atrial Fibrillation	0.0
+26839-75-8	Timolol	D003327	Coronary Disease	0.0
+26839-75-8	Timolol	D006973	Hypertension	0.0
+26839-75-8	Timolol	D008133	Long QT Syndrome	0.0
+26839-75-8	Timolol	D009203	Myocardial Infarction	0.0
+1953-02-2	Tiopronin	D001172	Arthritis, Rheumatoid	0.0
+13379-86-7	tiprenolol	D006973	Hypertension	0.0
+13379-86-7	tiprenolol	D007022	Hypotension	0.0
+13379-86-7	tiprenolol	D017180	Tachycardia, Ventricular	0.0
+39563-28-5	tobanum	D001145	Arrhythmias, Cardiac	0.0
+32986-56-4	Tobramycin	D001987	Bronchiectasis	0.0
+32986-56-4	Tobramycin	D003550	Cystic Fibrosis	0.0
+32986-56-4	Tobramycin	D010019	Osteomyelitis	0.0
+32986-56-4	Tobramycin	D012141	Respiratory Tract Infections	0.0
+41708-72-9	Tocainide	D001145	Arrhythmias, Cardiac	0.0
+41708-72-9	Tocainide	D008133	Long QT Syndrome	0.0
+41708-72-9	Tocainide	D017180	Tachycardia, Ventricular	0.0
+41708-72-9	Tocainide	D018879	Ventricular Premature Complexes	0.0
+38103-61-6	tolamolol	D006973	Hypertension	0.0
+59-98-3	Tolazoline	D006976	Hypertension, Pulmonary	0.0
+64-77-7	Tolbutamide	D003924	Diabetes Mellitus, Type 2	0.0
+26171-23-3	Tolmetin	D010003	Osteoarthritis	0.0
+150683-30-0	Tolvaptan	D006333	Heart Failure	0.0
+97240-79-4	Topiramate	D003924	Diabetes Mellitus, Type 2	0.0
+97240-79-4	Topiramate	D009765	Obesity	0.0
+56211-40-6	Torsemide	D002311	Cardiomyopathy, Dilated	0.0
+56211-40-6	Torsemide	D006333	Heart Failure	0.0
+56211-40-6	Torsemide	D006973	Hypertension	0.0
+56211-40-6	Torsemide	D006976	Hypertension, Pulmonary	0.0
+27203-92-5	Tramadol	D010003	Osteoarthritis	0.0
+27203-92-5	Tramadol	D020370	Osteoarthritis, Knee	0.0
+53902-12-8	tranilast	D001249	Asthma	0.0
+155-09-9	Tranylcypromine	D007022	Hypotension	0.0
+19794-93-5	Trazodone	D009765	Obesity	0.0
+19794-93-5	Trazodone	D012893	Sleep Wake Disorders	0.0
+302-79-4	Tretinoin	D001172	Arthritis, Rheumatoid	0.0
+302-79-4	Tretinoin	D001249	Asthma	0.0
+302-79-4	Tretinoin	D006332	Cardiomegaly	0.0
+302-79-4	Tretinoin	D003324	Coronary Artery Disease	0.0
+302-79-4	Tretinoin	D009362	Neoplasm Metastasis	0.0
+302-79-4	Tretinoin	D017180	Tachycardia, Ventricular	0.0
+302-79-4	Tretinoin	D014376	Tuberculosis	0.0
+302-79-4	Tretinoin	D014693	Ventricular Fibrillation	0.0
+78-30-8	tri-o-cresyl phosphate	D012120	Respiration Disorders	0.0
+124-94-7	Triamcinolone	D010493	Pericarditis	0.0
+76-25-5	Triamcinolone Acetonide	D001249	Asthma	0.0
+396-01-0	Triamterene	D001145	Arrhythmias, Cardiac	0.0
+396-01-0	Triamterene	D006973	Hypertension	0.0
+28911-01-5	Triazolam	D012893	Sleep Wake Disorders	0.0
+133-67-5	Trichlormethiazide	D006973	Hypertension	0.0
+58880-19-6	trichostatin A	D008175	Lung Neoplasms	0.0
+58880-19-6	trichostatin A	D009362	Neoplasm Metastasis	0.0
+101-20-2	triclocarban	D007022	Hypotension	0.0
+112-24-3	Trientine	D006332	Cardiomegaly	0.0
+112-24-3	Trientine	D003920	Diabetes Mellitus	0.0
+117-89-5	Trifluoperazine	D001145	Arrhythmias, Cardiac	0.0
+322-79-2	triflusal	D009203	Myocardial Infarction	0.0
+535-83-1	trigonelline	D006973	Hypertension	0.0
+35795-16-5	trimazosin	D006973	Hypertension	0.0
+616-68-2	Trimecaine	D001145	Arrhythmias, Cardiac	0.0
+616-68-2	Trimecaine	D001281	Atrial Fibrillation	0.0
+616-68-2	Trimecaine	D014693	Ventricular Fibrillation	0.0
+5011-34-7	Trimetazidine	D000787	Angina Pectoris	0.0
+5011-34-7	Trimetazidine	D001145	Arrhythmias, Cardiac	0.0
+5011-34-7	Trimetazidine	D009202	Cardiomyopathies	0.0
+5011-34-7	Trimetazidine	D006333	Heart Failure	0.0
+5011-34-7	Trimetazidine	D007022	Hypotension	0.0
+5011-34-7	Trimetazidine	D008133	Long QT Syndrome	0.0
+5011-34-7	Trimetazidine	D017202	Myocardial Ischemia	0.0
+68-91-7	trimethaphan camsylate	D006973	Hypertension	0.0
+738-70-5	Trimethoprim	D011020	Pneumonia, Pneumocystis	0.0
+738-70-5	Trimethoprim	D012852	Sinusitis	0.0
+8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	D001249	Asthma	0.0
+8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	D001991	Bronchitis	0.0
+8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	D009164	Mycobacterium Infections	0.0
+8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	D009617	Nocardia Infections	0.0
+8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	D010019	Osteomyelitis	0.0
+8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	D010998	Pleurisy	0.0
+8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	D018410	Pneumonia, Bacterial	0.0
+8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	D011020	Pneumonia, Pneumocystis	0.0
+486-12-4	Triprolidine	D012852	Sinusitis	0.0
+38748-32-2	triptolide	D001172	Arthritis, Rheumatoid	0.0
+38748-32-2	triptolide	D009362	Neoplasm Metastasis	0.0
+38647-11-9	triptonide	D009362	Neoplasm Metastasis	0.0
+97322-87-7	Troglitazone	D050197	Atherosclerosis	0.0
+97322-87-7	Troglitazone	D003920	Diabetes Mellitus	0.0
+97322-87-7	Troglitazone	D003924	Diabetes Mellitus, Type 2	0.0
+97322-87-7	Troglitazone	D006973	Hypertension	0.0
+97322-87-7	Troglitazone	D008175	Lung Neoplasms	0.0
+10405-02-4	trospium chloride	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+57-95-4	Tubocurarine	D006973	Hypertension	0.0
+41570-61-0	tulobuterol	D001249	Asthma	0.0
+7440-33-7	Tungsten	D050197	Atherosclerosis	0.0
+57568-80-6	U 37883A	D007022	Hypotension	0.0
+66-22-8	Uracil	D009362	Neoplasm Metastasis	0.0
+51-79-6	Urethane	D006973	Hypertension	0.0
+69-93-2	Uric Acid	D002310	Cardiomyopathy, Alcoholic	0.0
+8064-12-8	urovision	D007022	Hypotension	0.0
+128-13-2	Ursodeoxycholic Acid	D003550	Cystic Fibrosis	0.0
+77-52-1	ursolic acid	D017202	Myocardial Ischemia	0.0
+99-66-1	Valproic Acid	D006973	Hypertension	0.0
+99-66-1	Valproic Acid	D006976	Hypertension, Pulmonary	0.0
+1404-90-6	Vancomycin	D004696	Endocarditis	0.0
+1404-90-6	Vancomycin	D010019	Osteomyelitis	0.0
+1404-90-6	Vancomycin	D010493	Pericarditis	0.0
+1404-90-6	Vancomycin	D018410	Pneumonia, Bacterial	0.0
+73168-24-8	vasopressin, 1-(1-mercaptocyclohexaneacetic acid)-2-(O- methyl-L-tyrosine)-8-L-arginine-	D006973	Hypertension	0.0
+11000-17-2	Vasopressins	D007022	Hypotension	0.0
+52-53-9	Verapamil	D000787	Angina Pectoris	0.0
+52-53-9	Verapamil	D001145	Arrhythmias, Cardiac	0.0
+52-53-9	Verapamil	D001281	Atrial Fibrillation	0.0
+52-53-9	Verapamil	D006332	Cardiomegaly	0.0
+52-53-9	Verapamil	D009202	Cardiomyopathies	0.0
+52-53-9	Verapamil	D002312	Cardiomyopathy, Hypertrophic	0.0
+52-53-9	Verapamil	D003324	Coronary Artery Disease	0.0
+52-53-9	Verapamil	D003327	Coronary Disease	0.0
+52-53-9	Verapamil	D003329	Coronary Vasospasm	0.0
+52-53-9	Verapamil	D004417	Dyspnea	0.0
+52-53-9	Verapamil	D006333	Heart Failure	0.0
+52-53-9	Verapamil	D006973	Hypertension	0.0
+52-53-9	Verapamil	D007022	Hypotension	0.0
+52-53-9	Verapamil	D009203	Myocardial Infarction	0.0
+52-53-9	Verapamil	D017202	Myocardial Ischemia	0.0
+52-53-9	Verapamil	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+52-53-9	Verapamil	D013611	Tachycardia, Atrioventricular Nodal Reentry	0.0
+52-53-9	Verapamil	D013613	Tachycardia, Ectopic Junctional	0.0
+52-53-9	Verapamil	D013617	Tachycardia, Supraventricular	0.0
+52-53-9	Verapamil	D017180	Tachycardia, Ventricular	0.0
+52-53-9	Verapamil	D014376	Tuberculosis	0.0
+52-53-9	Verapamil	D014693	Ventricular Fibrillation	0.0
+52-53-9	Verapamil	D018879	Ventricular Premature Complexes	0.0
+81840-15-5	vesnarinone	D006333	Heart Failure	0.0
+865-21-4	Vinblastine	D009362	Neoplasm Metastasis	0.0
+53643-48-4	Vindesine	D008175	Lung Neoplasms	0.0
+71486-22-1	Vinorelbine	D008175	Lung Neoplasms	0.0
+71486-22-1	Vinorelbine	D009362	Neoplasm Metastasis	0.0
+32988-50-4	Viomycin	D014376	Tuberculosis	0.0
+11103-57-4	Vitamin A	D009202	Cardiomyopathies	0.0
+11103-57-4	Vitamin A	D012127	Respiratory Distress Syndrome, Newborn	0.0
+68-19-9	Vitamin B 12	D007024	Hypotension, Orthostatic	0.0
+1406-16-2	Vitamin D	D006973	Hypertension	0.0
+1406-16-2	Vitamin D	D010024	Osteoporosis	0.0
+1406-16-2	Vitamin D	D015663	Osteoporosis, Postmenopausal	0.0
+1406-18-4	Vitamin E	D000787	Angina Pectoris	0.0
+1406-18-4	Vitamin E	D050197	Atherosclerosis	0.0
+1406-18-4	Vitamin E	D006332	Cardiomegaly	0.0
+1406-18-4	Vitamin E	D018376	Cardiovascular Abnormalities	0.0
+1406-18-4	Vitamin E	D006333	Heart Failure	0.0
+1406-18-4	Vitamin E	D006973	Hypertension	0.0
+1406-18-4	Vitamin E	D007251	Influenza, Human	0.0
+1406-18-4	Vitamin E	D008175	Lung Neoplasms	0.0
+1406-18-4	Vitamin E	D009203	Myocardial Infarction	0.0
+1406-18-4	Vitamin E	D009205	Myocarditis	0.0
+1406-18-4	Vitamin E	D016491	Peripheral Vascular Diseases	0.0
+11032-49-8	Vitamin K 2	D010024	Osteoporosis	0.0
+58-27-5	Vitamin K 3	D012128	Respiratory Distress Syndrome	0.0
+81-81-2	Warfarin	D001281	Atrial Fibrillation	0.0
+81-81-2	Warfarin	D009202	Cardiomyopathies	0.0
+81-81-2	Warfarin	D003323	Coronary Aneurysm	0.0
+81-81-2	Warfarin	D003324	Coronary Artery Disease	0.0
+81-81-2	Warfarin	D003922	Diabetes Mellitus, Type 1	0.0
+81-81-2	Warfarin	D006333	Heart Failure	0.0
+81-81-2	Warfarin	D006976	Hypertension, Pulmonary	0.0
+81-81-2	Warfarin	D008946	Mitral Valve Stenosis	0.0
+81-81-2	Warfarin	D009203	Myocardial Infarction	0.0
+81-81-2	Warfarin	D017202	Myocardial Ischemia	0.0
+81-81-2	Warfarin	D009362	Neoplasm Metastasis	0.0
+81-81-2	Warfarin	D010493	Pericarditis	0.0
+81-81-2	Warfarin	D011655	Pulmonary Embolism	0.0
+81-81-2	Warfarin	D054556	Venous Thromboembolism	0.0
+81-81-2	Warfarin	D020246	Venous Thrombosis	0.0
+5119-48-2	withaferin A	D050197	Atherosclerosis	0.0
+5119-48-2	withaferin A	D009362	Neoplasm Metastasis	0.0
+632-85-9	wogonin	D011654	Pulmonary Edema	0.0
+19545-26-7	Wortmannin	D007022	Hypotension	0.0
+19545-26-7	Wortmannin	D009362	Neoplasm Metastasis	0.0
+81801-12-9	Xamoterol	D001281	Atrial Fibrillation	0.0
+81801-12-9	Xamoterol	D006333	Heart Failure	0.0
+6754-58-1	xanthohumol	D008175	Lung Neoplasms	0.0
+6754-58-1	xanthohumol	D009765	Obesity	0.0
+6754-58-1	xanthohumol	D010003	Osteoarthritis	0.0
+6754-58-1	xanthohumol	D010024	Osteoporosis	0.0
+90-47-1	xanthone	D006973	Hypertension	0.0
+14293-44-8	Xipamide	D006973	Hypertension	0.0
+526-36-3	xylometazoline	D003139	Common Cold	0.0
+138381-45-0	Y 27632	D006973	Hypertension	0.0
+127657-42-5	YM 529	D009362	Neoplasm Metastasis	0.0
+127657-42-5	YM 529	D010024	Osteoporosis	0.0
+146-48-5	Yohimbine	D001145	Arrhythmias, Cardiac	0.0
+146-48-5	Yohimbine	D006973	Hypertension	0.0
+146-48-5	Yohimbine	D007022	Hypotension	0.0
+146-48-5	Yohimbine	D007024	Hypotension, Orthostatic	0.0
+146-48-5	Yohimbine	D009203	Myocardial Infarction	0.0
+146-48-5	Yohimbine	D017202	Myocardial Ischemia	0.0
+146-48-5	Yohimbine	D009765	Obesity	0.0
+146-48-5	Yohimbine	D017180	Tachycardia, Ventricular	0.0
+146-48-5	Yohimbine	D014693	Ventricular Fibrillation	0.0
+107753-78-6	zafirlukast	D001249	Asthma	0.0
+107753-78-6	zafirlukast	D055963	Asthma, Aspirin-Induced	0.0
+107753-78-6	zafirlukast	D001250	Asthma, Exercise-Induced	0.0
+107753-78-6	zafirlukast	D003371	Cough	0.0
+107753-78-6	zafirlukast	D003550	Cystic Fibrosis	0.0
+107753-78-6	zafirlukast	D006976	Hypertension, Pulmonary	0.0
+107753-78-6	zafirlukast	D009298	Nasal Polyps	0.0
+107753-78-6	zafirlukast	D029424	Pulmonary Disease, Chronic Obstructive	0.0
+107753-78-6	zafirlukast	D011654	Pulmonary Edema	0.0
+107753-78-6	zafirlukast	D012852	Sinusitis	0.0
+37762-06-4	zaprinast	D006973	Hypertension	0.0
+85175-67-3	zatebradine	D000787	Angina Pectoris	0.0
+85175-67-3	zatebradine	D017202	Myocardial Ischemia	0.0
+85175-67-3	zatebradine	D017180	Tachycardia, Ventricular	0.0
+471-05-6	zerumbone	D011654	Pulmonary Edema	0.0
+30516-87-1	Zidovudine	D011020	Pneumonia, Pneumocystis	0.0
+132880-11-6	zileuton	D001249	Asthma	0.0
+132880-11-6	zileuton	D001250	Asthma, Exercise-Induced	0.0
+132880-11-6	zileuton	D016535	Bronchial Hyperreactivity	0.0
+132880-11-6	zileuton	D006976	Hypertension, Pulmonary	0.0
+132880-11-6	zileuton	D009298	Nasal Polyps	0.0
+132880-11-6	zileuton	D011654	Pulmonary Edema	0.0
+132880-11-6	zileuton	D012852	Sinusitis	0.0
+132880-11-6	zileuton	D020181	Sleep Apnea, Obstructive	0.0
+7440-66-6	Zinc	D001249	Asthma	0.0
+7440-66-6	Zinc	D050197	Atherosclerosis	0.0
+7440-66-6	Zinc	D003920	Diabetes Mellitus	0.0
+7440-66-6	Zinc	D003924	Diabetes Mellitus, Type 2	0.0
+7440-66-6	Zinc	D007022	Hypotension	0.0
+110703-94-1	zopolrestat	D006973	Hypertension	0.0

@@ -1,0 +1,3160 @@
+DiseaseID	DiseaseName	CasRN	ChemicalName	Score
+D000196	Actinomycosis	74431-23-5	Imipenem	0.0
+D000196	Actinomycosis	3098-60-0	morphocycline	0.0
+D000196	Actinomycosis	157044-21-8	Piperacillin, Tazobactam Drug Combination	0.0
+D000196	Actinomycosis	126602-89-9	quinupristin-dalfopristin	0.0
+D000196	Actinomycosis	57-92-1	Streptomycin	0.0
+D000787	Angina Pectoris	37517-30-9	Acebutolol	0.0
+D000787	Angina Pectoris	33178-86-8	alinidine	0.0
+D000787	Angina Pectoris	13655-52-2	Alprenolol	0.0
+D000787	Angina Pectoris	2609-46-3	Amiloride	0.0
+D000787	Angina Pectoris	317-34-0	Aminophylline	0.0
+D000787	Angina Pectoris	1951-25-3	Amiodarone	0.0
+D000787	Angina Pectoris	50-48-6	Amitriptyline	0.0
+D000787	Angina Pectoris	88150-42-9	Amlodipine	0.0
+D000787	Angina Pectoris	74469-00-4	Amoxicillin-Potassium Clavulanate Combination	0.0
+D000787	Angina Pectoris	50-78-2	Aspirin	0.0
+D000787	Angina Pectoris	29122-68-7	Atenolol	0.0
+D000787	Angina Pectoris	51-55-8	Atropine	0.0
+D000787	Angina Pectoris	64706-54-3	Bepridil	0.0
+D000787	Angina Pectoris	63659-18-7	Betaxolol	0.0
+D000787	Angina Pectoris	66722-44-9	Bisoprolol	0.0
+D000787	Angina Pectoris	72956-09-3	Carvedilol	0.0
+D000787	Angina Pectoris	56980-93-9	Celiprolol	0.0
+D000787	Angina Pectoris	92077-78-6	Cilazapril	0.0
+D000787	Angina Pectoris	637-07-0	Clofibrate	0.0
+D000787	Angina Pectoris	439-14-5	Diazepam	0.0
+D000787	Angina Pectoris	20830-75-5	Digoxin	0.0
+D000787	Angina Pectoris	42399-41-7	Diltiazem	0.0
+D000787	Angina Pectoris	35121-78-9	Epoprostenol	0.0
+D000787	Angina Pectoris	77862-92-1	falipamil	0.0
+D000787	Angina Pectoris	72509-76-3	Felodipine	0.0
+D000787	Angina Pectoris	13042-18-7	Fendiline	0.0
+D000787	Angina Pectoris	87721-62-8	flestolol	0.0
+D000787	Angina Pectoris	16662-47-8	Gallopamil	0.0
+D000787	Angina Pectoris	9005-49-6	Heparin	0.0
+D000787	Angina Pectoris	58-93-5	Hydrochlorothiazide	0.0
+D000787	Angina Pectoris	78919-13-8	Iloprost	0.0
+D000787	Angina Pectoris	7683-59-2	Isoproterenol	0.0
+D000787	Angina Pectoris	87-33-2	Isosorbide Dinitrate	0.0
+D000787	Angina Pectoris	16051-77-7	isosorbide-5-mononitrate	0.0
+D000787	Angina Pectoris	75695-93-1	Isradipine	0.0
+D000787	Angina Pectoris	134186-26-8	KF 14124	0.0
+D000787	Angina Pectoris	36894-69-6	Labetalol	0.0
+D000787	Angina Pectoris	94985-29-2	MDL 72567	0.0
+D000787	Angina Pectoris	37350-58-6	Metoprolol	0.0
+D000787	Angina Pectoris	116644-53-2	Mibefradil	0.0
+D000787	Angina Pectoris	25717-80-0	Molsidomine	0.0
+D000787	Angina Pectoris	134431-49-5	N-cyano-N'-(2-nitroxyethyl)-3-pyridinecarboximidamide methanesulfonate	0.0
+D000787	Angina Pectoris	55985-32-5	Nicardipine	0.0
+D000787	Angina Pectoris	65141-46-0	Nicorandil	0.0
+D000787	Angina Pectoris	21829-25-4	Nifedipine	0.0
+D000787	Angina Pectoris	63675-72-9	Nisoldipine	0.0
+D000787	Angina Pectoris	7697-37-2	Nitric Acid	0.0
+D000787	Angina Pectoris	10102-43-9	Nitric Oxide	0.0
+D000787	Angina Pectoris	55-63-0	Nitroglycerin	0.0
+D000787	Angina Pectoris	6452-71-7	Oxprenolol	0.0
+D000787	Angina Pectoris	15687-41-9	Oxyfedrine	0.0
+D000787	Angina Pectoris	6621-47-2	Perhexiline	0.0
+D000787	Angina Pectoris	6724-53-4	perhexiline maleate	0.0
+D000787	Angina Pectoris	50-60-2	Phentolamine	0.0
+D000787	Angina Pectoris	13523-86-9	Pindolol	0.0
+D000787	Angina Pectoris	390-64-7	Prenylamine	0.0
+D000787	Angina Pectoris	69-43-2	prenylamine lactate	0.0
+D000787	Angina Pectoris	525-66-6	Propranolol	0.0
+D000787	Angina Pectoris	87333-19-5	Ramipril	0.0
+D000787	Angina Pectoris	3930-20-9	Sotalol	0.0
+D000787	Angina Pectoris	57-96-5	Sulfinpyrazone	0.0
+D000787	Angina Pectoris	57010-31-8	Tiapamil Hydrochloride	0.0
+D000787	Angina Pectoris	55142-85-3	Ticlopidine	0.0
+D000787	Angina Pectoris	26839-75-8	Timolol	0.0
+D000787	Angina Pectoris	5011-34-7	Trimetazidine	0.0
+D000787	Angina Pectoris	52-53-9	Verapamil	0.0
+D000787	Angina Pectoris	1406-18-4	Vitamin E	0.0
+D000787	Angina Pectoris	85175-67-3	zatebradine	0.0
+D000789	Angina, Unstable	616-91-1	Acetylcysteine	0.0
+D000789	Angina, Unstable	50-78-2	Aspirin	0.0
+D000789	Angina, Unstable	42399-41-7	Diltiazem	0.0
+D000789	Angina, Unstable	9005-49-6	Heparin	0.0
+D000789	Angina, Unstable	21829-25-4	Nifedipine	0.0
+D000789	Angina, Unstable	55-63-0	Nitroglycerin	0.0
+D001014	Aortic Aneurysm	53-86-1	Indomethacin	0.0
+D001014	Aortic Aneurysm	36894-69-6	Labetalol	0.0
+D001014	Aortic Aneurysm	79902-63-9	Simvastatin	0.0
+D017544	Aortic Aneurysm, Abdominal	908-54-3	diminazene aceturate	0.0
+D017544	Aortic Aneurysm, Abdominal	53-86-1	Indomethacin	0.0
+D017544	Aortic Aneurysm, Abdominal	21829-25-4	Nifedipine	0.0
+D017544	Aortic Aneurysm, Abdominal	117-39-5	Quercetin	0.0
+D001022	Aortic Valve Insufficiency	72956-09-3	Carvedilol	0.0
+D001022	Aortic Valve Insufficiency	92077-78-6	Cilazapril	0.0
+D001022	Aortic Valve Insufficiency	129-03-3	Cyproheptadine	0.0
+D001022	Aortic Valve Insufficiency	21829-25-4	Nifedipine	0.0
+D001022	Aortic Valve Insufficiency	50-60-2	Phentolamine	0.0
+D001024	Aortic Valve Stenosis	34368-04-2	Dobutamine	0.0
+D001145	Arrhythmias, Cardiac	6874-80-2	13-hydroxylupanine-2-pyrrolecarbonic acid	0.0
+D001145	Arrhythmias, Cardiac	52670-65-2	17-pentylsparteine	0.0
+D001145	Arrhythmias, Cardiac	72583-92-7	2-(2-benzofuranyl)-2-imidazoline	0.0
+D001145	Arrhythmias, Cardiac	67198-13-4	3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide, (trans)-Isomer	0.0
+D001145	Arrhythmias, Cardiac	143578-51-2	3,6-dimethylaminodibenzopyridonium edetate	0.0
+D001145	Arrhythmias, Cardiac	130061-81-3	3-hydroxy-10,11-dihydroquinidine	0.0
+D001145	Arrhythmias, Cardiac	504-24-5	4-Aminopyridine	0.0
+D001145	Arrhythmias, Cardiac	79821-50-4	7-oxoprostaglandin I2	0.0
+D001145	Arrhythmias, Cardiac	94899-83-9	711389-S	0.0
+D001145	Arrhythmias, Cardiac	37517-30-9	Acebutolol	0.0
+D001145	Arrhythmias, Cardiac	152-72-7	Acenocoumarol	0.0
+D001145	Arrhythmias, Cardiac	58-61-7	Adenosine	0.0
+D001145	Arrhythmias, Cardiac	96436-73-6	AHR 10718	0.0
+D001145	Arrhythmias, Cardiac	4360-12-7	Ajmaline	0.0
+D001145	Arrhythmias, Cardiac	33178-86-8	alinidine	0.0
+D001145	Arrhythmias, Cardiac	13655-52-2	Alprenolol	0.0
+D001145	Arrhythmias, Cardiac	1951-25-3	Amiodarone	0.0
+D001145	Arrhythmias, Cardiac	60719-84-8	Amrinone	0.0
+D001145	Arrhythmias, Cardiac	37640-71-4	Aprindine	0.0
+D001145	Arrhythmias, Cardiac	1327-53-3	Arsenic Trioxide	0.0
+D001145	Arrhythmias, Cardiac	29122-68-7	Atenolol	0.0
+D001145	Arrhythmias, Cardiac	51-55-8	Atropine	0.0
+D001145	Arrhythmias, Cardiac	149888-94-8	azimilide	0.0
+D001145	Arrhythmias, Cardiac	322-35-0	Benserazide	0.0
+D001145	Arrhythmias, Cardiac	100-51-6	Benzyl Alcohol	0.0
+D001145	Arrhythmias, Cardiac	64706-54-3	Bepridil	0.0
+D001145	Arrhythmias, Cardiac	7235-40-7	beta Carotene	0.0
+D001145	Arrhythmias, Cardiac	63659-18-7	Betaxolol	0.0
+D001145	Arrhythmias, Cardiac	61-75-6	Bretylium Tosylate	0.0
+D001145	Arrhythmias, Cardiac	58409-59-9	bucumolol	0.0
+D001145	Arrhythmias, Cardiac	128-37-0	Butylated Hydroxytoluene	0.0
+D001145	Arrhythmias, Cardiac	7440-70-2	Calcium	0.0
+D001145	Arrhythmias, Cardiac	10043-52-4	Calcium Chloride	0.0
+D001145	Arrhythmias, Cardiac	38821-49-7	Carbidopa	0.0
+D001145	Arrhythmias, Cardiac	51781-06-7	Carteolol	0.0
+D001145	Arrhythmias, Cardiac	72956-09-3	Carvedilol	0.0
+D001145	Arrhythmias, Cardiac	56980-93-9	Celiprolol	0.0
+D001145	Arrhythmias, Cardiac	804-10-4	Chromonar	0.0
+D001145	Arrhythmias, Cardiac	53267-01-9	cifenline	0.0
+D001145	Arrhythmias, Cardiac	59729-33-8	Citalopram	0.0
+D001145	Arrhythmias, Cardiac	4205-90-7	Clonidine	0.0
+D001145	Arrhythmias, Cardiac	138605-00-2	Colforsin	0.0
+D001145	Arrhythmias, Cardiac	94470-67-4	Cromakalim	0.0
+D001145	Arrhythmias, Cardiac	860-79-7	cyclovirobuxine D	0.0
+D001145	Arrhythmias, Cardiac	524-17-4	dauricine	0.0
+D001145	Arrhythmias, Cardiac	113775-47-6	Dexmedetomidine	0.0
+D001145	Arrhythmias, Cardiac	28197-69-5	diacetolol	0.0
+D001145	Arrhythmias, Cardiac	2050-87-5	diallyl trisulfide	0.0
+D001145	Arrhythmias, Cardiac	20830-75-5	Digoxin	0.0
+D001145	Arrhythmias, Cardiac	42399-41-7	Diltiazem	0.0
+D001145	Arrhythmias, Cardiac	363-24-6	Dinoprostone	0.0
+D001145	Arrhythmias, Cardiac	3737-09-5	Disopyramide	0.0
+D001145	Arrhythmias, Cardiac	77086-22-7	Dizocilpine Maleate	0.0
+D001145	Arrhythmias, Cardiac	25167-62-8	Docosahexaenoic Acids	0.0
+D001145	Arrhythmias, Cardiac	115256-11-6	dofetilide	0.0
+D001145	Arrhythmias, Cardiac	74191-85-8	Doxazosin	0.0
+D001145	Arrhythmias, Cardiac	548-73-2	Droperidol	0.0
+D001145	Arrhythmias, Cardiac	74913-18-1	Dynorphins	0.0
+D001145	Arrhythmias, Cardiac	113558-89-7	E 4031	0.0
+D001145	Arrhythmias, Cardiac	1553-41-9	Eicosapentaenoic Acid	0.0
+D001145	Arrhythmias, Cardiac	66778-36-7	Encainide	0.0
+D001145	Arrhythmias, Cardiac	69267-68-1	EO 122	0.0
+D001145	Arrhythmias, Cardiac	51-43-4	Epinephrine	0.0
+D001145	Arrhythmias, Cardiac	84057-94-3	esmolol	0.0
+D001145	Arrhythmias, Cardiac	54143-55-4	Flecainide	0.0
+D001145	Arrhythmias, Cardiac	78272-90-9	fusaric acid N,N-diethylaminoethylamide	0.0
+D001145	Arrhythmias, Cardiac	16662-47-8	Gallopamil	0.0
+D001145	Arrhythmias, Cardiac	624-15-7	geraniol	0.0
+D001145	Arrhythmias, Cardiac	526-95-4	gluconic acid	0.0
+D001145	Arrhythmias, Cardiac	83843-49-6	GYKI 23107	0.0
+D001145	Arrhythmias, Cardiac	51-45-6	Histamine	0.0
+D001145	Arrhythmias, Cardiac	130350-52-6	ibutilide	0.0
+D001145	Arrhythmias, Cardiac	72795-19-8	ICI 118551	0.0
+D001145	Arrhythmias, Cardiac	23210-56-2	ifenprodil	0.0
+D001145	Arrhythmias, Cardiac	26675-46-7	Isoflurane	0.0
+D001145	Arrhythmias, Cardiac	7683-59-2	Isoproterenol	0.0
+D001145	Arrhythmias, Cardiac	95508-61-5	isoteolin	0.0
+D001145	Arrhythmias, Cardiac	105394-80-7	KT 362	0.0
+D001145	Arrhythmias, Cardiac	36894-69-6	Labetalol	0.0
+D001145	Arrhythmias, Cardiac	137-58-6	Lidocaine	0.0
+D001145	Arrhythmias, Cardiac	7447-41-8	Lithium Chloride	0.0
+D001145	Arrhythmias, Cardiac	61742-10-7	lithium hydroxybutyrate	0.0
+D001145	Arrhythmias, Cardiac	7439-95-4	Magnesium	0.0
+D001145	Arrhythmias, Cardiac	7487-88-9	Magnesium Sulfate	0.0
+D001145	Arrhythmias, Cardiac	37350-58-6	Metoprolol	0.0
+D001145	Arrhythmias, Cardiac	31828-71-4	Mexiletine	0.0
+D001145	Arrhythmias, Cardiac	27737-38-8	mixidine	0.0
+D001145	Arrhythmias, Cardiac	42794-63-8	MK 142	0.0
+D001145	Arrhythmias, Cardiac	31883-05-3	Moricizine	0.0
+D001145	Arrhythmias, Cardiac	74135-04-9	morphiceptin	0.0
+D001145	Arrhythmias, Cardiac	57-27-2	Morphine	0.0
+D001145	Arrhythmias, Cardiac	134431-49-5	N-cyano-N'-(2-nitroxyethyl)-3-pyridinecarboximidamide methanesulfonate	0.0
+D001145	Arrhythmias, Cardiac	465-65-6	Naloxone	0.0
+D001145	Arrhythmias, Cardiac	76252-06-7	nicainoprol	0.0
+D001145	Arrhythmias, Cardiac	65141-46-0	Nicorandil	0.0
+D001145	Arrhythmias, Cardiac	21829-25-4	Nifedipine	0.0
+D001145	Arrhythmias, Cardiac	5054-57-9	nifenalol	0.0
+D001145	Arrhythmias, Cardiac	66085-59-4	Nimodipine	0.0
+D001145	Arrhythmias, Cardiac	72-69-5	Nortriptyline	0.0
+D001145	Arrhythmias, Cardiac	37612-09-2	O-demethylencainide	0.0
+D001145	Arrhythmias, Cardiac	102394-31-0	otenzepad	0.0
+D001145	Arrhythmias, Cardiac	6452-71-7	Oxprenolol	0.0
+D001145	Arrhythmias, Cardiac	58-74-2	Papaverine	0.0
+D001145	Arrhythmias, Cardiac	47082-97-3	pargolol	0.0
+D001145	Arrhythmias, Cardiac	555-57-7	Pargyline	0.0
+D001145	Arrhythmias, Cardiac	59-96-1	Phenoxybenzamine	0.0
+D001145	Arrhythmias, Cardiac	57-41-0	Phenytoin	0.0
+D001145	Arrhythmias, Cardiac	57-47-6	Physostigmine	0.0
+D001145	Arrhythmias, Cardiac	92-13-7	Pilocarpine	0.0
+D001145	Arrhythmias, Cardiac	88069-49-2	pilsicainide	0.0
+D001145	Arrhythmias, Cardiac	85371-64-8	Pinacidil	0.0
+D001145	Arrhythmias, Cardiac	110-85-0	Piperazine	0.0
+D001145	Arrhythmias, Cardiac	61477-94-9	pirmenol	0.0
+D001145	Arrhythmias, Cardiac	7440-09-7	Potassium	0.0
+D001145	Arrhythmias, Cardiac	7447-40-7	Potassium Chloride	0.0
+D001145	Arrhythmias, Cardiac	6673-35-4	Practolol	0.0
+D001145	Arrhythmias, Cardiac	35080-11-6	Prajmaline	0.0
+D001145	Arrhythmias, Cardiac	51-06-9	Procainamide	0.0
+D001145	Arrhythmias, Cardiac	57-83-0	Progesterone	0.0
+D001145	Arrhythmias, Cardiac	54-80-8	pronethalol	0.0
+D001145	Arrhythmias, Cardiac	54063-53-5	Propafenone	0.0
+D001145	Arrhythmias, Cardiac	96513-83-6	propisomide	0.0
+D001145	Arrhythmias, Cardiac	2078-54-8	Propofol	0.0
+D001145	Arrhythmias, Cardiac	525-66-6	Propranolol	0.0
+D001145	Arrhythmias, Cardiac	82586-55-8	Quinapril	0.0
+D001145	Arrhythmias, Cardiac	56-54-2	Quinidine	0.0
+D001145	Arrhythmias, Cardiac	87333-19-5	Ramipril	0.0
+D001145	Arrhythmias, Cardiac	87269-97-4	ramiprilat	0.0
+D001145	Arrhythmias, Cardiac	50-55-5	Reserpine	0.0
+D001145	Arrhythmias, Cardiac	54187-04-1	Rilmenidine	0.0
+D001145	Arrhythmias, Cardiac	61413-54-5	Rolipram	0.0
+D001145	Arrhythmias, Cardiac	15662-33-6	Ryanodine	0.0
+D001145	Arrhythmias, Cardiac	96914-40-8	SC 36602	0.0
+D001145	Arrhythmias, Cardiac	101526-62-9	sematilide	0.0
+D001145	Arrhythmias, Cardiac	7440-23-5	Sodium	0.0
+D001145	Arrhythmias, Cardiac	144-55-8	Sodium Bicarbonate	0.0
+D001145	Arrhythmias, Cardiac	3930-20-9	Sotalol	0.0
+D001145	Arrhythmias, Cardiac	90-39-1	Sparteine	0.0
+D001145	Arrhythmias, Cardiac	107-35-7	Taurine	0.0
+D001145	Arrhythmias, Cardiac	26839-75-8	Timolol	0.0
+D001145	Arrhythmias, Cardiac	39563-28-5	tobanum	0.0
+D001145	Arrhythmias, Cardiac	41708-72-9	Tocainide	0.0
+D001145	Arrhythmias, Cardiac	396-01-0	Triamterene	0.0
+D001145	Arrhythmias, Cardiac	117-89-5	Trifluoperazine	0.0
+D001145	Arrhythmias, Cardiac	616-68-2	Trimecaine	0.0
+D001145	Arrhythmias, Cardiac	5011-34-7	Trimetazidine	0.0
+D001145	Arrhythmias, Cardiac	52-53-9	Verapamil	0.0
+D001145	Arrhythmias, Cardiac	146-48-5	Yohimbine	0.0
+D015535	Arthritis, Psoriatic	55079-83-9	Acitretin	0.0
+D015535	Arthritis, Psoriatic	64-86-8	Colchicine	0.0
+D015535	Arthritis, Psoriatic	15307-86-5	Diclofenac	0.0
+D015535	Arthritis, Psoriatic	59-30-3	Folic Acid	0.0
+D015535	Arthritis, Psoriatic	118-42-3	Hydroxychloroquine	0.0
+D015535	Arthritis, Psoriatic	59-05-2	Methotrexate	0.0
+D015535	Arthritis, Psoriatic	37229-16-6	naphthalan	0.0
+D015535	Arthritis, Psoriatic	22204-53-1	Naproxen	0.0
+D015535	Arthritis, Psoriatic	52-67-5	Penicillamine	0.0
+D015535	Arthritis, Psoriatic	599-79-1	Sulfasalazine	0.0
+D016918	Arthritis, Reactive	59-05-2	Methotrexate	0.0
+D016918	Arthritis, Reactive	52-67-5	Penicillamine	0.0
+D001172	Arthritis, Rheumatoid	89796-99-6	aceclofenac	0.0
+D001172	Arthritis, Rheumatoid	103-90-2	Acetaminophen	0.0
+D001172	Arthritis, Rheumatoid	22131-79-9	alclofenac	0.0
+D001172	Arthritis, Rheumatoid	55869-99-3	anisodamine	0.0
+D001172	Arthritis, Rheumatoid	1327-53-3	Arsenic Trioxide	0.0
+D001172	Arthritis, Rheumatoid	22839-47-0	Aspartame	0.0
+D001172	Arthritis, Rheumatoid	50-78-2	Aspirin	0.0
+D001172	Arthritis, Rheumatoid	34031-32-8	Auranofin	0.0
+D001172	Arthritis, Rheumatoid	12192-57-3	Aurothioglucose	0.0
+D001172	Arthritis, Rheumatoid	446-86-6	Azathioprine	0.0
+D001172	Arthritis, Rheumatoid	5003-48-5	benorilate	0.0
+D001172	Arthritis, Rheumatoid	378-44-9	Betamethasone	0.0
+D001172	Arthritis, Rheumatoid	65002-17-7	bucillamine	0.0
+D001172	Arthritis, Rheumatoid	305-03-3	Chlorambucil	0.0
+D001172	Arthritis, Rheumatoid	80-77-3	Chlormezanone	0.0
+D001172	Arthritis, Rheumatoid	54-05-7	Chloroquine	0.0
+D001172	Arthritis, Rheumatoid	50-63-5	chloroquine diphosphate	0.0
+D001172	Arthritis, Rheumatoid	458-37-7	Curcumin	0.0
+D001172	Arthritis, Rheumatoid	50-18-0	Cyclophosphamide	0.0
+D001172	Arthritis, Rheumatoid	59865-13-3	Cyclosporine	0.0
+D001172	Arthritis, Rheumatoid	50-02-2	Dexamethasone	0.0
+D001172	Arthritis, Rheumatoid	15307-86-5	Diclofenac	0.0
+D001172	Arthritis, Rheumatoid	21626-89-1	diftalone	0.0
+D001172	Arthritis, Rheumatoid	89-25-8	Edaravone	0.0
+D001172	Arthritis, Rheumatoid	202409-33-4	Etoricoxib	0.0
+D001172	Arthritis, Rheumatoid	76824-35-6	Famotidine	0.0
+D001172	Arthritis, Rheumatoid	34645-84-6	fenclofenac	0.0
+D001172	Arthritis, Rheumatoid	31879-05-7	Fenoprofen	0.0
+D001172	Arthritis, Rheumatoid	5104-49-4	Flurbiprofen	0.0
+D001172	Arthritis, Rheumatoid	7440-57-5	Gold	0.0
+D001172	Arthritis, Rheumatoid	12244-57-4	Gold Sodium Thiomalate	0.0
+D001172	Arthritis, Rheumatoid	50-23-7	Hydrocortisone	0.0
+D001172	Arthritis, Rheumatoid	118-42-3	Hydroxychloroquine	0.0
+D001172	Arthritis, Rheumatoid	53-86-1	Indomethacin	0.0
+D001172	Arthritis, Rheumatoid	22071-15-4	Ketoprofen	0.0
+D001172	Arthritis, Rheumatoid	75706-12-6	Leflunomide	0.0
+D001172	Arthritis, Rheumatoid	14769-73-4	Levamisole	0.0
+D001172	Arthritis, Rheumatoid	63676-25-5	LY 117018	0.0
+D001172	Arthritis, Rheumatoid	61-68-7	Mefenamic Acid	0.0
+D001172	Arthritis, Rheumatoid	71125-38-7	Meloxicam	0.0
+D001172	Arthritis, Rheumatoid	59-05-2	Methotrexate	0.0
+D001172	Arthritis, Rheumatoid	83-43-2	Methylprednisolone	0.0
+D001172	Arthritis, Rheumatoid	2921-57-5	Methylprednisolone Hemisuccinate	0.0
+D001172	Arthritis, Rheumatoid	10118-90-8	Minocycline	0.0
+D001172	Arthritis, Rheumatoid	59122-46-2	Misoprostol	0.0
+D001172	Arthritis, Rheumatoid	42924-53-8	Nabumetone	0.0
+D001172	Arthritis, Rheumatoid	22204-53-1	Naproxen	0.0
+D001172	Arthritis, Rheumatoid	16837-52-8	oxymatrine	0.0
+D001172	Arthritis, Rheumatoid	129-20-4	Oxyphenbutazone	0.0
+D001172	Arthritis, Rheumatoid	10028-15-6	Ozone	0.0
+D001172	Arthritis, Rheumatoid	70458-92-3	Pefloxacin	0.0
+D001172	Arthritis, Rheumatoid	52-67-5	Penicillamine	0.0
+D001172	Arthritis, Rheumatoid	50-33-9	Phenylbutazone	0.0
+D001172	Arthritis, Rheumatoid	36322-90-4	Piroxicam	0.0
+D001172	Arthritis, Rheumatoid	31793-07-4	pirprofen	0.0
+D001172	Arthritis, Rheumatoid	50-24-8	Prednisolone	0.0
+D001172	Arthritis, Rheumatoid	53-03-2	Prednisone	0.0
+D001172	Arthritis, Rheumatoid	23476-83-7	Prospidium	0.0
+D001172	Arthritis, Rheumatoid	83-89-6	Quinacrine	0.0
+D001172	Arthritis, Rheumatoid	6998-60-3	rifamycin SV	0.0
+D001172	Arthritis, Rheumatoid	599-79-1	Sulfasalazine	0.0
+D001172	Arthritis, Rheumatoid	38194-50-2	Sulindac	0.0
+D001172	Arthritis, Rheumatoid	109581-93-3	Tacrolimus	0.0
+D001172	Arthritis, Rheumatoid	94497-51-5	tamibarotene	0.0
+D001172	Arthritis, Rheumatoid	120210-48-2	tenidap	0.0
+D001172	Arthritis, Rheumatoid	59804-37-4	tenoxicam	0.0
+D001172	Arthritis, Rheumatoid	50-35-1	Thalidomide	0.0
+D001172	Arthritis, Rheumatoid	490-91-5	thymoquinone	0.0
+D001172	Arthritis, Rheumatoid	1953-02-2	Tiopronin	0.0
+D001172	Arthritis, Rheumatoid	302-79-4	Tretinoin	0.0
+D001172	Arthritis, Rheumatoid	38748-32-2	triptolide	0.0
+D001228	Aspergillosis	1397-89-3	Amphotericin B	0.0
+D001228	Aspergillosis	23593-75-1	Clotrimazole	0.0
+D001228	Aspergillosis	86386-73-4	Fluconazole	0.0
+D001228	Aspergillosis	103961-78-0	ICI 195739	0.0
+D001228	Aspergillosis	84625-61-6	Itraconazole	0.0
+D001228	Aspergillosis	65277-42-1	Ketoconazole	0.0
+D001228	Aspergillosis	89-83-8	Thymol	0.0
+D001249	Asthma	58-61-7	Adenosine	0.0
+D001249	Asthma	18559-94-9	Albuterol	0.0
+D001249	Asthma	317-34-0	Aminophylline	0.0
+D001249	Asthma	431-89-0	apaflurane	0.0
+D001249	Asthma	1327-53-3	Arsenic Trioxide	0.0
+D001249	Asthma	81732-65-2	bambuterol	0.0
+D001249	Asthma	4419-39-0	Beclomethasone	0.0
+D001249	Asthma	30392-40-6	bitolterol	0.0
+D001249	Asthma	51333-22-3	Budesonide	0.0
+D001249	Asthma	22232-54-8	Carbimazole	0.0
+D001249	Asthma	15826-37-6	Cromolyn Sodium	0.0
+D001249	Asthma	60-92-4	Cyclic AMP	0.0
+D001249	Asthma	2353-33-5	Decitabine	0.0
+D001249	Asthma	50-02-2	Dexamethasone	0.0
+D001249	Asthma	64019-03-0	doqualast	0.0
+D001249	Asthma	69975-86-6	doxofylline	0.0
+D001249	Asthma	518-82-1	Emodin	0.0
+D001249	Asthma	41078-02-8	enprofylline	0.0
+D001249	Asthma	299-42-3	Ephedrine	0.0
+D001249	Asthma	989-51-5	epigallocatechin gallate	0.0
+D001249	Asthma	51-43-4	Epinephrine	0.0
+D001249	Asthma	13392-18-2	Fenoterol	0.0
+D001249	Asthma	624-15-7	geraniol	0.0
+D001249	Asthma	596-51-0	Glycopyrrolate	0.0
+D001249	Asthma	93-14-1	Guaifenesin	0.0
+D001249	Asthma	151-67-7	Halothane	0.0
+D001249	Asthma	9005-49-6	Heparin	0.0
+D001249	Asthma	50-23-7	Hydrocortisone	0.0
+D001249	Asthma	60205-81-4	Ipratropium	0.0
+D001249	Asthma	7683-59-2	Isoproterenol	0.0
+D001249	Asthma	34580-13-7	Ketotifen	0.0
+D001249	Asthma	79794-75-5	Loratadine	0.0
+D001249	Asthma	586-06-1	Metaproterenol	0.0
+D001249	Asthma	59-05-2	Methotrexate	0.0
+D001249	Asthma	83-43-2	Methylprednisolone	0.0
+D001249	Asthma	28109-92-4	methylxanthine	0.0
+D001249	Asthma	158966-92-8	montelukast	0.0
+D001249	Asthma	69049-73-6	Nedocromil	0.0
+D001249	Asthma	55985-32-5	Nicardipine	0.0
+D001249	Asthma	21829-25-4	Nifedipine	0.0
+D001249	Asthma	30286-75-0	oxitropium	0.0
+D001249	Asthma	50-06-6	Phenobarbital	0.0
+D001249	Asthma	50-24-8	Prednisolone	0.0
+D001249	Asthma	53-03-2	Prednisone	0.0
+D001249	Asthma	72332-33-3	Procaterol	0.0
+D001249	Asthma	525-66-6	Propranolol	0.0
+D001249	Asthma	94-07-5	Synephrine	0.0
+D001249	Asthma	118-34-3	syringin	0.0
+D001249	Asthma	23031-25-6	Terbutaline	0.0
+D001249	Asthma	50679-08-8	Terfenadine	0.0
+D001249	Asthma	58-55-9	Theophylline	0.0
+D001249	Asthma	53902-12-8	tranilast	0.0
+D001249	Asthma	302-79-4	Tretinoin	0.0
+D001249	Asthma	76-25-5	Triamcinolone Acetonide	0.0
+D001249	Asthma	8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	0.0
+D001249	Asthma	41570-61-0	tulobuterol	0.0
+D001249	Asthma	107753-78-6	zafirlukast	0.0
+D001249	Asthma	132880-11-6	zileuton	0.0
+D001249	Asthma	7440-66-6	Zinc	0.0
+D055963	Asthma, Aspirin-Induced	158966-92-8	montelukast	0.0
+D055963	Asthma, Aspirin-Induced	107753-78-6	zafirlukast	0.0
+D001250	Asthma, Exercise-Induced	158966-92-8	montelukast	0.0
+D001250	Asthma, Exercise-Induced	107753-78-6	zafirlukast	0.0
+D001250	Asthma, Exercise-Induced	132880-11-6	zileuton	0.0
+D050197	Atherosclerosis	10043-01-3	aluminum sulfate	0.0
+D050197	Atherosclerosis	88150-42-9	Amlodipine	0.0
+D050197	Atherosclerosis	50-78-2	Aspirin	0.0
+D050197	Atherosclerosis	86541-75-5	benazepril	0.0
+D050197	Atherosclerosis	5638-76-6	Betahistine	0.0
+D050197	Atherosclerosis	41859-67-0	Bezafibrate	0.0
+D050197	Atherosclerosis	331-39-5	caffeic acid	0.0
+D050197	Atherosclerosis	404-86-4	Capsaicin	0.0
+D050197	Atherosclerosis	305-84-0	Carnosine	0.0
+D050197	Atherosclerosis	154-23-4	Catechin	0.0
+D050197	Atherosclerosis	7440-47-3	Chromium	0.0
+D050197	Atherosclerosis	637-07-0	Clofibrate	0.0
+D050197	Atherosclerosis	42553-65-1	crocin	0.0
+D050197	Atherosclerosis	142-71-2	cupric acetate	0.0
+D050197	Atherosclerosis	458-37-7	Curcumin	0.0
+D050197	Atherosclerosis	13270-61-6	delphinidin	0.0
+D050197	Atherosclerosis	125-71-3	Dextromethorphan	0.0
+D050197	Atherosclerosis	75847-73-3	Enalapril	0.0
+D050197	Atherosclerosis	989-51-5	epigallocatechin gallate	0.0
+D050197	Atherosclerosis	50-28-2	Estradiol	0.0
+D050197	Atherosclerosis	50-27-1	Estriol	0.0
+D050197	Atherosclerosis	8056-51-7	Ethinyl Estradiol-Norgestrel Combination	0.0
+D050197	Atherosclerosis	1135-24-6	ferulic acid	0.0
+D050197	Atherosclerosis	93957-54-1	Fluvastatin	0.0
+D050197	Atherosclerosis	25812-30-0	Gemfibrozil	0.0
+D050197	Atherosclerosis	624-15-7	geraniol	0.0
+D050197	Atherosclerosis	140703-51-1	hexarelin	0.0
+D050197	Atherosclerosis	86-54-4	Hydralazine	0.0
+D050197	Atherosclerosis	58-93-5	Hydrochlorothiazide	0.0
+D050197	Atherosclerosis	138402-11-6	Irbesartan	0.0
+D050197	Atherosclerosis	75695-93-1	Isradipine	0.0
+D050197	Atherosclerosis	520-18-3	kaempferol	0.0
+D050197	Atherosclerosis	114798-26-4	Losartan	0.0
+D050197	Atherosclerosis	75330-75-5	Lovastatin	0.0
+D050197	Atherosclerosis	4773-96-0	mangiferin	0.0
+D050197	Atherosclerosis	37350-58-6	Metoprolol	0.0
+D050197	Atherosclerosis	10118-90-8	Minocycline	0.0
+D050197	Atherosclerosis	118414-82-7	MK-886	0.0
+D050197	Atherosclerosis	17912-87-7	myricitrin	0.0
+D050197	Atherosclerosis	465-65-6	Naloxone	0.0
+D050197	Atherosclerosis	480-41-1	naringenin	0.0
+D050197	Atherosclerosis	55985-32-5	Nicardipine	0.0
+D050197	Atherosclerosis	21829-25-4	Nifedipine	0.0
+D050197	Atherosclerosis	39562-70-4	Nitrendipine	0.0
+D050197	Atherosclerosis	10102-43-9	Nitric Oxide	0.0
+D050197	Atherosclerosis	96829-58-2	Orlistat	0.0
+D050197	Atherosclerosis	7782-44-7	Oxygen	0.0
+D050197	Atherosclerosis	311-45-5	Paraoxon	0.0
+D050197	Atherosclerosis	6493-05-6	Pentoxifylline	0.0
+D050197	Atherosclerosis	57-41-0	Phenytoin	0.0
+D050197	Atherosclerosis	81093-37-0	Pravastatin	0.0
+D050197	Atherosclerosis	95975-55-6	pregna-4,17-diene-3,16-dione	0.0
+D050197	Atherosclerosis	23288-49-5	Probucol	0.0
+D050197	Atherosclerosis	117-39-5	Quercetin	0.0
+D050197	Atherosclerosis	87333-19-5	Ramipril	0.0
+D050197	Atherosclerosis	69-72-7	Salicylic Acid	0.0
+D050197	Atherosclerosis	86819-20-7	sarpogrelate	0.0
+D050197	Atherosclerosis	79902-63-9	Simvastatin	0.0
+D050197	Atherosclerosis	53123-88-9	Sirolimus	0.0
+D050197	Atherosclerosis	16721-80-5	sodium bisulfide	0.0
+D050197	Atherosclerosis	94497-51-5	tamibarotene	0.0
+D050197	Atherosclerosis	10540-29-1	Tamoxifen	0.0
+D050197	Atherosclerosis	568-73-0	tanshinone	0.0
+D050197	Atherosclerosis	60-54-8	Tetracycline	0.0
+D050197	Atherosclerosis	4670-05-7	theaflavin	0.0
+D050197	Atherosclerosis	55142-85-3	Ticlopidine	0.0
+D050197	Atherosclerosis	97322-87-7	Troglitazone	0.0
+D050197	Atherosclerosis	7440-33-7	Tungsten	0.0
+D050197	Atherosclerosis	1406-18-4	Vitamin E	0.0
+D050197	Atherosclerosis	5119-48-2	withaferin A	0.0
+D050197	Atherosclerosis	7440-66-6	Zinc	0.0
+D001281	Atrial Fibrillation	94899-83-9	711389-S	0.0
+D001281	Atrial Fibrillation	152-72-7	Acenocoumarol	0.0
+D001281	Atrial Fibrillation	13655-52-2	Alprenolol	0.0
+D001281	Atrial Fibrillation	1951-25-3	Amiodarone	0.0
+D001281	Atrial Fibrillation	37640-71-4	Aprindine	0.0
+D001281	Atrial Fibrillation	50-78-2	Aspirin	0.0
+D001281	Atrial Fibrillation	51-55-8	Atropine	0.0
+D001281	Atrial Fibrillation	86541-75-5	benazepril	0.0
+D001281	Atrial Fibrillation	64706-54-3	Bepridil	0.0
+D001281	Atrial Fibrillation	66722-44-9	Bisoprolol	0.0
+D001281	Atrial Fibrillation	72956-09-3	Carvedilol	0.0
+D001281	Atrial Fibrillation	53267-01-9	cifenline	0.0
+D001281	Atrial Fibrillation	81103-11-9	Clarithromycin	0.0
+D001281	Atrial Fibrillation	860-79-7	cyclovirobuxine D	0.0
+D001281	Atrial Fibrillation	752-61-4	digitalin	0.0
+D001281	Atrial Fibrillation	71-63-6	Digitoxin	0.0
+D001281	Atrial Fibrillation	20830-75-5	Digoxin	0.0
+D001281	Atrial Fibrillation	42399-41-7	Diltiazem	0.0
+D001281	Atrial Fibrillation	3737-09-5	Disopyramide	0.0
+D001281	Atrial Fibrillation	115256-11-6	dofetilide	0.0
+D001281	Atrial Fibrillation	64-17-5	Ethanol	0.0
+D001281	Atrial Fibrillation	54143-55-4	Flecainide	0.0
+D001281	Atrial Fibrillation	957-56-2	fluindione	0.0
+D001281	Atrial Fibrillation	54-31-9	Furosemide	0.0
+D001281	Atrial Fibrillation	9005-49-6	Heparin	0.0
+D001281	Atrial Fibrillation	130350-52-6	ibutilide	0.0
+D001281	Atrial Fibrillation	138402-11-6	Irbesartan	0.0
+D001281	Atrial Fibrillation	36894-69-6	Labetalol	0.0
+D001281	Atrial Fibrillation	17575-22-3	lanatoside C	0.0
+D001281	Atrial Fibrillation	7439-95-4	Magnesium	0.0
+D001281	Atrial Fibrillation	30685-43-9	Medigoxin	0.0
+D001281	Atrial Fibrillation	2921-57-5	Methylprednisolone Hemisuccinate	0.0
+D001281	Atrial Fibrillation	37350-58-6	Metoprolol	0.0
+D001281	Atrial Fibrillation	59467-70-8	Midazolam	0.0
+D001281	Atrial Fibrillation	42200-33-9	Nadolol	0.0
+D001281	Atrial Fibrillation	435-97-2	Phenprocoumon	0.0
+D001281	Atrial Fibrillation	88069-49-2	pilsicainide	0.0
+D001281	Atrial Fibrillation	51-06-9	Procainamide	0.0
+D001281	Atrial Fibrillation	54063-53-5	Propafenone	0.0
+D001281	Atrial Fibrillation	525-66-6	Propranolol	0.0
+D001281	Atrial Fibrillation	56-54-2	Quinidine	0.0
+D001281	Atrial Fibrillation	747-45-5	quinidine bisulfate	0.0
+D001281	Atrial Fibrillation	79902-63-9	Simvastatin	0.0
+D001281	Atrial Fibrillation	3930-20-9	Sotalol	0.0
+D001281	Atrial Fibrillation	52-01-7	Spironolactone	0.0
+D001281	Atrial Fibrillation	58694-52-3	tertiapin	0.0
+D001281	Atrial Fibrillation	26839-75-8	Timolol	0.0
+D001281	Atrial Fibrillation	616-68-2	Trimecaine	0.0
+D001281	Atrial Fibrillation	52-53-9	Verapamil	0.0
+D001281	Atrial Fibrillation	81-81-2	Warfarin	0.0
+D001281	Atrial Fibrillation	81801-12-9	Xamoterol	0.0
+D018880	Atrial Premature Complexes	71-63-6	Digitoxin	0.0
+D018880	Atrial Premature Complexes	3737-09-5	Disopyramide	0.0
+D054537	Atrioventricular Block	317-34-0	Aminophylline	0.0
+D054537	Atrioventricular Block	51-55-8	Atropine	0.0
+D054537	Atrioventricular Block	299-28-5	Calcium Gluconate	0.0
+D054537	Atrioventricular Block	804-10-4	Chromonar	0.0
+D054537	Atrioventricular Block	51-43-4	Epinephrine	0.0
+D054537	Atrioventricular Block	7683-59-2	Isoproterenol	0.0
+D054537	Atrioventricular Block	586-06-1	Metaproterenol	0.0
+D054537	Atrioventricular Block	525-66-6	Propranolol	0.0
+D054537	Atrioventricular Block	56-54-2	Quinidine	0.0
+D054537	Atrioventricular Block	26652-09-5	Ritodrine	0.0
+D001607	Berylliosis	53-03-2	Prednisone	0.0
+D016535	Bronchial Hyperreactivity	616-91-1	Acetylcysteine	0.0
+D016535	Bronchial Hyperreactivity	4419-39-0	Beclomethasone	0.0
+D016535	Bronchial Hyperreactivity	51333-22-3	Budesonide	0.0
+D016535	Bronchial Hyperreactivity	10596-23-3	Clodronic Acid	0.0
+D016535	Bronchial Hyperreactivity	50-02-2	Dexamethasone	0.0
+D016535	Bronchial Hyperreactivity	363-24-6	Dinoprostone	0.0
+D016535	Bronchial Hyperreactivity	88107-10-2	LY 171883	0.0
+D016535	Bronchial Hyperreactivity	16858-02-9	N,N,N',N'-tetrakis(2-pyridylmethyl)ethylenediamine	0.0
+D016535	Bronchial Hyperreactivity	163251-41-0	PH 163	0.0
+D016535	Bronchial Hyperreactivity	50-24-8	Prednisolone	0.0
+D016535	Bronchial Hyperreactivity	23031-25-6	Terbutaline	0.0
+D016535	Bronchial Hyperreactivity	132880-11-6	zileuton	0.0
+D001987	Bronchiectasis	26787-78-0	Amoxicillin	0.0
+D001987	Bronchiectasis	74011-58-8	Enoxacin	0.0
+D001987	Bronchiectasis	443-48-1	Metronidazole	0.0
+D001987	Bronchiectasis	70458-92-3	Pefloxacin	0.0
+D001987	Bronchiectasis	32986-56-4	Tobramycin	0.0
+D001991	Bronchitis	317-34-0	Aminophylline	0.0
+D001991	Bronchitis	74469-00-4	Amoxicillin-Potassium Clavulanate Combination	0.0
+D001991	Bronchitis	76610-84-9	cefbuperazone	0.0
+D001991	Bronchitis	79350-37-1	Cefixime	0.0
+D001991	Bronchitis	81103-11-9	Clarithromycin	0.0
+D001991	Bronchitis	127-33-3	Demeclocycline	0.0
+D001991	Bronchitis	564-25-0	Doxycycline	0.0
+D001991	Bronchitis	74011-58-8	Enoxacin	0.0
+D001991	Bronchitis	79660-72-3	Fleroxacin	0.0
+D001991	Bronchitis	82419-36-1	Ofloxacin	0.0
+D001991	Bronchitis	23031-25-6	Terbutaline	0.0
+D001991	Bronchitis	60-54-8	Tetracycline	0.0
+D001991	Bronchitis	58-55-9	Theophylline	0.0
+D001991	Bronchitis	8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	0.0
+D029481	Bronchitis, Chronic	18559-94-9	Albuterol	0.0
+D029481	Bronchitis, Chronic	317-34-0	Aminophylline	0.0
+D029481	Bronchitis, Chronic	26787-78-0	Amoxicillin	0.0
+D029481	Bronchitis, Chronic	74469-00-4	Amoxicillin-Potassium Clavulanate Combination	0.0
+D029481	Bronchitis, Chronic	83905-01-5	Azithromycin	0.0
+D029481	Bronchitis, Chronic	4419-39-0	Beclomethasone	0.0
+D029481	Bronchitis, Chronic	64544-07-6	cefuroxime axetil	0.0
+D029481	Bronchitis, Chronic	85721-33-1	Ciprofloxacin	0.0
+D029481	Bronchitis, Chronic	81103-11-9	Clarithromycin	0.0
+D029481	Bronchitis, Chronic	74011-58-8	Enoxacin	0.0
+D029481	Bronchitis, Chronic	82419-36-1	Ofloxacin	0.0
+D029481	Bronchitis, Chronic	70458-92-3	Pefloxacin	0.0
+D029481	Bronchitis, Chronic	58-55-9	Theophylline	0.0
+D053840	Brugada Syndrome	523-87-5	Dimenhydrinate	0.0
+D002037	Bundle-Branch Block	51-41-2	Norepinephrine	0.0
+D002177	Candidiasis	107767-55-5	1-(5-hydroxy-5-methylhexyl)-3-methylxanthine	0.0
+D002177	Candidiasis	1397-89-3	Amphotericin B	0.0
+D002177	Candidiasis	50906-56-4	arteannuin B	0.0
+D002177	Candidiasis	29342-05-0	Ciclopirox	0.0
+D002177	Candidiasis	106-23-0	citronellal	0.0
+D002177	Candidiasis	23593-75-1	Clotrimazole	0.0
+D002177	Candidiasis	97-77-8	Disulfiram	0.0
+D002177	Candidiasis	86386-73-4	Fluconazole	0.0
+D002177	Candidiasis	2022-85-7	Flucytosine	0.0
+D002177	Candidiasis	624-15-7	geraniol	0.0
+D002177	Candidiasis	52286-59-6	ginsenoside Re	0.0
+D002177	Candidiasis	22427-39-0	ginsenoside Rg1	0.0
+D002177	Candidiasis	84625-61-6	Itraconazole	0.0
+D002177	Candidiasis	65277-42-1	Ketoconazole	0.0
+D002177	Candidiasis	22916-47-8	Miconazole	0.0
+D006332	Cardiomegaly	362-07-2	2-Methoxyestradiol	0.0
+D006332	Cardiomegaly	1948-33-0	2-tert-butylhydroquinone	0.0
+D006332	Cardiomegaly	4339-71-3	3,3',4,5'-tetrahydroxystilbene	0.0
+D006332	Cardiomegaly	484-20-8	5-Methoxypsoralen	0.0
+D006332	Cardiomegaly	93-35-6	7-hydroxycoumarin	0.0
+D006332	Cardiomegaly	3031-94-5	AICA ribonucleotide	0.0
+D006332	Cardiomegaly	645-88-5	Aminooxyacetic Acid	0.0
+D006332	Cardiomegaly	1951-25-3	Amiodarone	0.0
+D006332	Cardiomegaly	88150-42-9	Amlodipine	0.0
+D006332	Cardiomegaly	104-46-1	anethole	0.0
+D006332	Cardiomegaly	29122-68-7	Atenolol	0.0
+D006332	Cardiomegaly	64706-54-3	Bepridil	0.0
+D006332	Cardiomegaly	32222-06-3	Calcitriol	0.0
+D006332	Cardiomegaly	139481-59-7	candesartan	0.0
+D006332	Cardiomegaly	145040-37-5	candesartan cilexetil	0.0
+D006332	Cardiomegaly	72956-09-3	Carvedilol	0.0
+D006332	Cardiomegaly	327-97-9	Chlorogenic Acid	0.0
+D006332	Cardiomegaly	77-36-1	Chlorthalidone	0.0
+D006332	Cardiomegaly	480-40-0	chrysin	0.0
+D006332	Cardiomegaly	92077-78-6	Cilazapril	0.0
+D006332	Cardiomegaly	132203-70-4	cilnidipine	0.0
+D006332	Cardiomegaly	14325-03-2	cobaltiprotoporphyrin	0.0
+D006332	Cardiomegaly	7440-50-8	Copper	0.0
+D006332	Cardiomegaly	23094-69-1	corilagin	0.0
+D006332	Cardiomegaly	42553-65-1	crocin	0.0
+D006332	Cardiomegaly	15826-37-6	Cromolyn Sodium	0.0
+D006332	Cardiomegaly	458-37-7	Curcumin	0.0
+D006332	Cardiomegaly	364-98-7	Diazoxide	0.0
+D006332	Cardiomegaly	71-63-6	Digitoxin	0.0
+D006332	Cardiomegaly	120011-70-3	Donepezil	0.0
+D006332	Cardiomegaly	74191-85-8	Doxazosin	0.0
+D006332	Cardiomegaly	564-25-0	Doxycycline	0.0
+D006332	Cardiomegaly	75847-73-3	Enalapril	0.0
+D006332	Cardiomegaly	84680-54-6	Enalaprilat	0.0
+D006332	Cardiomegaly	54910-89-3	Fluoxetine	0.0
+D006332	Cardiomegaly	98048-97-6	Fosinopril	0.0
+D006332	Cardiomegaly	624-15-7	geraniol	0.0
+D006332	Cardiomegaly	100438-92-4	heme arginate	0.0
+D006332	Cardiomegaly	520-26-3	Hesperidin	0.0
+D006332	Cardiomegaly	86-54-4	Hydralazine	0.0
+D006332	Cardiomegaly	143494-72-8	ICI D8731	0.0
+D006332	Cardiomegaly	54-92-2	Iproniazid	0.0
+D006332	Cardiomegaly	138402-11-6	Irbesartan	0.0
+D006332	Cardiomegaly	34580-13-7	Ketotifen	0.0
+D006332	Cardiomegaly	83915-83-7	Lisinopril	0.0
+D006332	Cardiomegaly	114798-26-4	Losartan	0.0
+D006332	Cardiomegaly	127-40-2	Lutein	0.0
+D006332	Cardiomegaly	73-31-4	Melatonin	0.0
+D006332	Cardiomegaly	657-24-9	Metformin	0.0
+D006332	Cardiomegaly	554-57-4	Methazolamide	0.0
+D006332	Cardiomegaly	60-56-0	Methimazole	0.0
+D006332	Cardiomegaly	83-43-2	Methylprednisolone	0.0
+D006332	Cardiomegaly	116644-53-2	Mibefradil	0.0
+D006332	Cardiomegaly	123653-11-2	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	0.0
+D006332	Cardiomegaly	120008-53-9	N-(8-amino-1-carboxyoctyl)-alanyl-proline	0.0
+D006332	Cardiomegaly	10236-47-2	naringin	0.0
+D006332	Cardiomegaly	59-99-4	Neostigmine	0.0
+D006332	Cardiomegaly	21829-25-4	Nifedipine	0.0
+D006332	Cardiomegaly	63675-72-9	Nisoldipine	0.0
+D006332	Cardiomegaly	39562-70-4	Nitrendipine	0.0
+D006332	Cardiomegaly	32619-42-4	oleuropein	0.0
+D006332	Cardiomegaly	6452-71-7	Oxprenolol	0.0
+D006332	Cardiomegaly	82834-16-0	Perindopril	0.0
+D006332	Cardiomegaly	51-71-8	Phenelzine	0.0
+D006332	Cardiomegaly	92-13-7	Pilocarpine	0.0
+D006332	Cardiomegaly	74150-27-9	pimobendan	0.0
+D006332	Cardiomegaly	53179-13-8	pirfenidone	0.0
+D006332	Cardiomegaly	104777-68-6	plantamajoside	0.0
+D006332	Cardiomegaly	58479-68-8	platycodin D	0.0
+D006332	Cardiomegaly	65914-17-2	polydatin	0.0
+D006332	Cardiomegaly	81093-37-0	Pravastatin	0.0
+D006332	Cardiomegaly	23288-49-5	Probucol	0.0
+D006332	Cardiomegaly	135467-92-4	prolinedithiocarbamate	0.0
+D006332	Cardiomegaly	525-66-6	Propranolol	0.0
+D006332	Cardiomegaly	7187-62-4	pyrvinium	0.0
+D006332	Cardiomegaly	117-39-5	Quercetin	0.0
+D006332	Cardiomegaly	82586-55-8	Quinapril	0.0
+D006332	Cardiomegaly	153-18-4	Rutin	0.0
+D006332	Cardiomegaly	86819-20-7	sarpogrelate	0.0
+D006332	Cardiomegaly	131741-08-7	Simendan	0.0
+D006332	Cardiomegaly	79902-63-9	Simvastatin	0.0
+D006332	Cardiomegaly	530-59-6	sinapinic acid	0.0
+D006332	Cardiomegaly	53123-88-9	Sirolimus	0.0
+D006332	Cardiomegaly	52-01-7	Spironolactone	0.0
+D006332	Cardiomegaly	109581-93-3	Tacrolimus	0.0
+D006332	Cardiomegaly	110221-44-8	temocapril hydrochloride	0.0
+D006332	Cardiomegaly	2226-96-2	tempol	0.0
+D006332	Cardiomegaly	302-79-4	Tretinoin	0.0
+D006332	Cardiomegaly	112-24-3	Trientine	0.0
+D006332	Cardiomegaly	52-53-9	Verapamil	0.0
+D006332	Cardiomegaly	1406-18-4	Vitamin E	0.0
+D009202	Cardiomyopathies	490-79-9	2,5-dihydroxybenzoic acid	0.0
+D009202	Cardiomyopathies	130603-71-3	4(G)-alpha-glucopyranosyl-rutin	0.0
+D009202	Cardiomyopathies	3317-61-1	5,5-dimethyl-1-pyrroline-1-oxide	0.0
+D009202	Cardiomyopathies	56305-04-5	6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid	0.0
+D009202	Cardiomyopathies	14992-62-2	Acetylcarnitine	0.0
+D009202	Cardiomyopathies	616-91-1	Acetylcysteine	0.0
+D009202	Cardiomyopathies	58-61-7	Adenosine	0.0
+D009202	Cardiomyopathies	20537-88-6	Amifostine	0.0
+D009202	Cardiomyopathies	1951-25-3	Amiodarone	0.0
+D009202	Cardiomyopathies	83200-10-6	anipamil	0.0
+D009202	Cardiomyopathies	520-36-5	Apigenin	0.0
+D009202	Cardiomyopathies	50-81-7	Ascorbic Acid	0.0
+D009202	Cardiomyopathies	66722-44-9	Bisoprolol	0.0
+D009202	Cardiomyopathies	11113-50-1	boric acid	0.0
+D009202	Cardiomyopathies	128-37-0	Butylated Hydroxytoluene	0.0
+D009202	Cardiomyopathies	7440-70-2	Calcium	0.0
+D009202	Cardiomyopathies	139481-59-7	candesartan	0.0
+D009202	Cardiomyopathies	630-08-0	Carbon Monoxide	0.0
+D009202	Cardiomyopathies	72956-09-3	Carvedilol	0.0
+D009202	Cardiomyopathies	92077-78-6	Cilazapril	0.0
+D009202	Cardiomyopathies	111659-76-8	clentiazem	0.0
+D009202	Cardiomyopathies	6903-79-3	creatinol phosphate	0.0
+D009202	Cardiomyopathies	42553-65-1	crocin	0.0
+D009202	Cardiomyopathies	15826-37-6	Cromolyn Sodium	0.0
+D009202	Cardiomyopathies	458-37-7	Curcumin	0.0
+D009202	Cardiomyopathies	59865-13-3	Cyclosporine	0.0
+D009202	Cardiomyopathies	7261-97-4	Dantrolene	0.0
+D009202	Cardiomyopathies	20830-81-3	Daunorubicin	0.0
+D009202	Cardiomyopathies	30652-11-0	Deferiprone	0.0
+D009202	Cardiomyopathies	70-51-9	Deferoxamine	0.0
+D009202	Cardiomyopathies	50-02-2	Dexamethasone	0.0
+D009202	Cardiomyopathies	2050-87-5	diallyl trisulfide	0.0
+D009202	Cardiomyopathies	20830-75-5	Digoxin	0.0
+D009202	Cardiomyopathies	42399-41-7	Diltiazem	0.0
+D009202	Cardiomyopathies	34368-04-2	Dobutamine	0.0
+D009202	Cardiomyopathies	60940-34-3	ebselen	0.0
+D009202	Cardiomyopathies	75847-73-3	Enalapril	0.0
+D009202	Cardiomyopathies	84680-54-6	Enalaprilat	0.0
+D009202	Cardiomyopathies	51-43-4	Epinephrine	0.0
+D009202	Cardiomyopathies	84611-23-4	erdosteine	0.0
+D009202	Cardiomyopathies	1135-24-6	ferulic acid	0.0
+D009202	Cardiomyopathies	93957-54-1	Fluvastatin	0.0
+D009202	Cardiomyopathies	59-30-3	Folic Acid	0.0
+D009202	Cardiomyopathies	488-69-7	fructose-1,6-diphosphate	0.0
+D009202	Cardiomyopathies	624-15-7	geraniol	0.0
+D009202	Cardiomyopathies	70-18-8	Glutathione	0.0
+D009202	Cardiomyopathies	78919-13-8	Iloprost	0.0
+D009202	Cardiomyopathies	700-06-1	indole-3-carbinol	0.0
+D009202	Cardiomyopathies	58-63-9	Inosine	0.0
+D009202	Cardiomyopathies	7683-59-2	Isoproterenol	0.0
+D009202	Cardiomyopathies	520-18-3	kaempferol	0.0
+D009202	Cardiomyopathies	22071-15-4	Ketoprofen	0.0
+D009202	Cardiomyopathies	545-47-1	lupeol	0.0
+D009202	Cardiomyopathies	491-70-3	Luteolin	0.0
+D009202	Cardiomyopathies	6147-11-1	mangostin	0.0
+D009202	Cardiomyopathies	73-31-4	Melatonin	0.0
+D009202	Cardiomyopathies	60-56-0	Methimazole	0.0
+D009202	Cardiomyopathies	83-43-2	Methylprednisolone	0.0
+D009202	Cardiomyopathies	37350-58-6	Metoprolol	0.0
+D009202	Cardiomyopathies	98983-21-2	N-benzyladriamycin-14-valerate	0.0
+D009202	Cardiomyopathies	480-41-1	naringenin	0.0
+D009202	Cardiomyopathies	10102-43-9	Nitric Oxide	0.0
+D009202	Cardiomyopathies	6493-05-6	Pentoxifylline	0.0
+D009202	Cardiomyopathies	3376-24-7	phenyl-N-tert-butylnitrone	0.0
+D009202	Cardiomyopathies	79-17-4	pimagedine	0.0
+D009202	Cardiomyopathies	35080-11-6	Prajmaline	0.0
+D009202	Cardiomyopathies	19216-56-9	Prazosin	0.0
+D009202	Cardiomyopathies	53-03-2	Prednisone	0.0
+D009202	Cardiomyopathies	23288-49-5	Probucol	0.0
+D009202	Cardiomyopathies	17298-37-2	propionylcarnitine	0.0
+D009202	Cardiomyopathies	9009-62-5	Propolis	0.0
+D009202	Cardiomyopathies	525-66-6	Propranolol	0.0
+D009202	Cardiomyopathies	85-87-0	Pyridoxamine	0.0
+D009202	Cardiomyopathies	25769-03-3	pyrrolidine dithiocarbamic acid	0.0
+D009202	Cardiomyopathies	117-39-5	Quercetin	0.0
+D009202	Cardiomyopathies	87333-19-5	Ramipril	0.0
+D009202	Cardiomyopathies	21416-87-5	Razoxane	0.0
+D009202	Cardiomyopathies	158681-13-1	Rimonabant	0.0
+D009202	Cardiomyopathies	61413-54-5	Rolipram	0.0
+D009202	Cardiomyopathies	10102-18-8	Sodium Selenite	0.0
+D009202	Cardiomyopathies	52-01-7	Spironolactone	0.0
+D009202	Cardiomyopathies	69659-80-9	tanshinone II A sodium sulfonate	0.0
+D009202	Cardiomyopathies	107-35-7	Taurine	0.0
+D009202	Cardiomyopathies	110221-44-8	temocapril hydrochloride	0.0
+D009202	Cardiomyopathies	16330-92-0	tetrathiomolybdate	0.0
+D009202	Cardiomyopathies	58-55-9	Theophylline	0.0
+D009202	Cardiomyopathies	59-43-8	Thiamine	0.0
+D009202	Cardiomyopathies	5011-34-7	Trimetazidine	0.0
+D009202	Cardiomyopathies	52-53-9	Verapamil	0.0
+D009202	Cardiomyopathies	11103-57-4	Vitamin A	0.0
+D009202	Cardiomyopathies	81-81-2	Warfarin	0.0
+D002310	Cardiomyopathy, Alcoholic	498-02-2	acetovanillone	0.0
+D002310	Cardiomyopathy, Alcoholic	72956-09-3	Carvedilol	0.0
+D002310	Cardiomyopathy, Alcoholic	70649-54-6	tetrakis(N-methyl-4-pyridiniumyl)porphine manganese(III) complex	0.0
+D002310	Cardiomyopathy, Alcoholic	69-93-2	Uric Acid	0.0
+D002311	Cardiomyopathy, Dilated	1951-25-3	Amiodarone	0.0
+D002311	Cardiomyopathy, Dilated	29122-68-7	Atenolol	0.0
+D002311	Cardiomyopathy, Dilated	446-86-6	Azathioprine	0.0
+D002311	Cardiomyopathy, Dilated	86541-75-5	benazepril	0.0
+D002311	Cardiomyopathy, Dilated	12794-10-4	Benzodiazepines	0.0
+D002311	Cardiomyopathy, Dilated	145040-37-5	candesartan cilexetil	0.0
+D002311	Cardiomyopathy, Dilated	72956-09-3	Carvedilol	0.0
+D002311	Cardiomyopathy, Dilated	73384-59-5	Ceftriaxone	0.0
+D002311	Cardiomyopathy, Dilated	20830-75-5	Digoxin	0.0
+D002311	Cardiomyopathy, Dilated	484-23-1	Dihydralazine	0.0
+D002311	Cardiomyopathy, Dilated	58-32-2	Dipyridamole	0.0
+D002311	Cardiomyopathy, Dilated	34368-04-2	Dobutamine	0.0
+D002311	Cardiomyopathy, Dilated	75847-73-3	Enalapril	0.0
+D002311	Cardiomyopathy, Dilated	77671-31-9	Enoximone	0.0
+D002311	Cardiomyopathy, Dilated	64-17-5	Ethanol	0.0
+D002311	Cardiomyopathy, Dilated	103745-39-7	fasudil	0.0
+D002311	Cardiomyopathy, Dilated	54-31-9	Furosemide	0.0
+D002311	Cardiomyopathy, Dilated	86-54-4	Hydralazine	0.0
+D002311	Cardiomyopathy, Dilated	24697-74-3	leonurine	0.0
+D002311	Cardiomyopathy, Dilated	114798-26-4	Losartan	0.0
+D002311	Cardiomyopathy, Dilated	37350-58-6	Metoprolol	0.0
+D002311	Cardiomyopathy, Dilated	57-27-2	Morphine	0.0
+D002311	Cardiomyopathy, Dilated	21829-25-4	Nifedipine	0.0
+D002311	Cardiomyopathy, Dilated	74150-27-9	pimobendan	0.0
+D002311	Cardiomyopathy, Dilated	53-03-2	Prednisone	0.0
+D002311	Cardiomyopathy, Dilated	87333-19-5	Ramipril	0.0
+D002311	Cardiomyopathy, Dilated	52-01-7	Spironolactone	0.0
+D002311	Cardiomyopathy, Dilated	56211-40-6	Torsemide	0.0
+D002312	Cardiomyopathy, Hypertrophic	56180-94-0	Acarbose	0.0
+D002312	Cardiomyopathy, Hypertrophic	1951-25-3	Amiodarone	0.0
+D002312	Cardiomyopathy, Hypertrophic	139481-59-7	candesartan	0.0
+D002312	Cardiomyopathy, Hypertrophic	72956-09-3	Carvedilol	0.0
+D002312	Cardiomyopathy, Hypertrophic	7440-50-8	Copper	0.0
+D002312	Cardiomyopathy, Hypertrophic	458-37-7	Curcumin	0.0
+D002312	Cardiomyopathy, Hypertrophic	42399-41-7	Diltiazem	0.0
+D002312	Cardiomyopathy, Hypertrophic	3737-09-5	Disopyramide	0.0
+D002312	Cardiomyopathy, Hypertrophic	34368-04-2	Dobutamine	0.0
+D002312	Cardiomyopathy, Hypertrophic	25167-62-8	Docosahexaenoic Acids	0.0
+D002312	Cardiomyopathy, Hypertrophic	989-51-5	epigallocatechin gallate	0.0
+D002312	Cardiomyopathy, Hypertrophic	75695-93-1	Isradipine	0.0
+D002312	Cardiomyopathy, Hypertrophic	114798-26-4	Losartan	0.0
+D002312	Cardiomyopathy, Hypertrophic	555-30-6	Methyldopa	0.0
+D002312	Cardiomyopathy, Hypertrophic	37350-58-6	Metoprolol	0.0
+D002312	Cardiomyopathy, Hypertrophic	21829-25-4	Nifedipine	0.0
+D002312	Cardiomyopathy, Hypertrophic	525-66-6	Propranolol	0.0
+D002312	Cardiomyopathy, Hypertrophic	117-39-5	Quercetin	0.0
+D002312	Cardiomyopathy, Hypertrophic	82586-55-8	Quinapril	0.0
+D002312	Cardiomyopathy, Hypertrophic	87333-19-5	Ramipril	0.0
+D002312	Cardiomyopathy, Hypertrophic	57-96-5	Sulfinpyrazone	0.0
+D002312	Cardiomyopathy, Hypertrophic	52-53-9	Verapamil	0.0
+D018376	Cardiovascular Abnormalities	29347-89-5	5,6,7,8-tetrahydrofolic acid	0.0
+D018376	Cardiovascular Abnormalities	616-91-1	Acetylcysteine	0.0
+D018376	Cardiovascular Abnormalities	50-81-7	Ascorbic Acid	0.0
+D018376	Cardiovascular Abnormalities	59-30-3	Folic Acid	0.0
+D018376	Cardiovascular Abnormalities	36062-04-1	tetrahydrocurcumin	0.0
+D018376	Cardiovascular Abnormalities	1406-18-4	Vitamin E	0.0
+D002805	Chondrocalcinosis	53-86-1	Indomethacin	0.0
+D003047	Coccidioidomycosis	1397-89-3	Amphotericin B	0.0
+D003047	Coccidioidomycosis	84625-61-6	Itraconazole	0.0
+D003047	Coccidioidomycosis	22916-47-8	Miconazole	0.0
+D003139	Common Cold	50-81-7	Ascorbic Acid	0.0
+D003139	Common Cold	15686-51-8	Clemastine	0.0
+D003139	Common Cold	58-73-1	Diphenhydramine	0.0
+D003139	Common Cold	60205-81-4	Ipratropium	0.0
+D003139	Common Cold	1491-59-4	Oxymetazoline	0.0
+D003139	Common Cold	14838-15-4	Phenylpropanolamine	0.0
+D003139	Common Cold	90-82-4	Pseudoephedrine	0.0
+D003139	Common Cold	526-36-3	xylometazoline	0.0
+D003323	Coronary Aneurysm	50-78-2	Aspirin	0.0
+D003323	Coronary Aneurysm	81-81-2	Warfarin	0.0
+D003324	Coronary Artery Disease	18559-94-9	Albuterol	0.0
+D003324	Coronary Artery Disease	88150-42-9	Amlodipine	0.0
+D003324	Coronary Artery Disease	50-78-2	Aspirin	0.0
+D003324	Coronary Artery Disease	29122-68-7	Atenolol	0.0
+D003324	Coronary Artery Disease	41859-67-0	Bezafibrate	0.0
+D003324	Coronary Artery Disease	50925-79-6	Colestipol	0.0
+D003324	Coronary Artery Disease	20830-75-5	Digoxin	0.0
+D003324	Coronary Artery Disease	42399-41-7	Diltiazem	0.0
+D003324	Coronary Artery Disease	152-62-5	Dydrogesterone	0.0
+D003324	Coronary Artery Disease	75847-73-3	Enalapril	0.0
+D003324	Coronary Artery Disease	77671-31-9	Enoximone	0.0
+D003324	Coronary Artery Disease	51-43-4	Epinephrine	0.0
+D003324	Coronary Artery Disease	50-28-2	Estradiol	0.0
+D003324	Coronary Artery Disease	49562-28-9	Fenofibrate	0.0
+D003324	Coronary Artery Disease	54-31-9	Furosemide	0.0
+D003324	Coronary Artery Disease	25812-30-0	Gemfibrozil	0.0
+D003324	Coronary Artery Disease	9005-49-6	Heparin	0.0
+D003324	Coronary Artery Disease	87-33-2	Isosorbide Dinitrate	0.0
+D003324	Coronary Artery Disease	75330-75-5	Lovastatin	0.0
+D003324	Coronary Artery Disease	37350-58-6	Metoprolol	0.0
+D003324	Coronary Artery Disease	42200-33-9	Nadolol	0.0
+D003324	Coronary Artery Disease	55985-32-5	Nicardipine	0.0
+D003324	Coronary Artery Disease	21829-25-4	Nifedipine	0.0
+D003324	Coronary Artery Disease	55-63-0	Nitroglycerin	0.0
+D003324	Coronary Artery Disease	78-11-5	Pentaerythritol Tetranitrate	0.0
+D003324	Coronary Artery Disease	38677-81-5	pirbuterol	0.0
+D003324	Coronary Artery Disease	81093-37-0	Pravastatin	0.0
+D003324	Coronary Artery Disease	2920-86-7	prednisolone hemisuccinate	0.0
+D003324	Coronary Artery Disease	51-06-9	Procainamide	0.0
+D003324	Coronary Artery Disease	525-66-6	Propranolol	0.0
+D003324	Coronary Artery Disease	82586-55-8	Quinapril	0.0
+D003324	Coronary Artery Disease	56-54-2	Quinidine	0.0
+D003324	Coronary Artery Disease	79902-63-9	Simvastatin	0.0
+D003324	Coronary Artery Disease	55142-85-3	Ticlopidine	0.0
+D003324	Coronary Artery Disease	302-79-4	Tretinoin	0.0
+D003324	Coronary Artery Disease	52-53-9	Verapamil	0.0
+D003324	Coronary Artery Disease	81-81-2	Warfarin	0.0
+D003327	Coronary Disease	88150-42-9	Amlodipine	0.0
+D003327	Coronary Disease	50-81-7	Ascorbic Acid	0.0
+D003327	Coronary Disease	50-78-2	Aspirin	0.0
+D003327	Coronary Disease	637-07-0	Clofibrate	0.0
+D003327	Coronary Disease	42399-41-7	Diltiazem	0.0
+D003327	Coronary Disease	34368-04-2	Dobutamine	0.0
+D003327	Coronary Disease	25167-62-8	Docosahexaenoic Acids	0.0
+D003327	Coronary Disease	74191-85-8	Doxazosin	0.0
+D003327	Coronary Disease	1553-41-9	Eicosapentaenoic Acid	0.0
+D003327	Coronary Disease	72509-76-3	Felodipine	0.0
+D003327	Coronary Disease	93957-54-1	Fluvastatin	0.0
+D003327	Coronary Disease	25812-30-0	Gemfibrozil	0.0
+D003327	Coronary Disease	138402-11-6	Irbesartan	0.0
+D003327	Coronary Disease	87-33-2	Isosorbide Dinitrate	0.0
+D003327	Coronary Disease	75695-93-1	Isradipine	0.0
+D003327	Coronary Disease	37350-58-6	Metoprolol	0.0
+D003327	Coronary Disease	57-27-2	Morphine	0.0
+D003327	Coronary Disease	55985-32-5	Nicardipine	0.0
+D003327	Coronary Disease	21829-25-4	Nifedipine	0.0
+D003327	Coronary Disease	63675-72-9	Nisoldipine	0.0
+D003327	Coronary Disease	55-63-0	Nitroglycerin	0.0
+D003327	Coronary Disease	6452-71-7	Oxprenolol	0.0
+D003327	Coronary Disease	6724-53-4	perhexiline maleate	0.0
+D003327	Coronary Disease	81093-37-0	Pravastatin	0.0
+D003327	Coronary Disease	23288-49-5	Probucol	0.0
+D003327	Coronary Disease	525-66-6	Propranolol	0.0
+D003327	Coronary Disease	79902-63-9	Simvastatin	0.0
+D003327	Coronary Disease	3930-20-9	Sotalol	0.0
+D003327	Coronary Disease	62-46-4	Thioctic Acid	0.0
+D003327	Coronary Disease	26839-75-8	Timolol	0.0
+D003327	Coronary Disease	52-53-9	Verapamil	0.0
+D054059	Coronary Occlusion	57-63-6	Ethinyl Estradiol	0.0
+D054059	Coronary Occlusion	53-86-1	Indomethacin	0.0
+D054059	Coronary Occlusion	55-63-0	Nitroglycerin	0.0
+D054059	Coronary Occlusion	38673-38-0	Norethindrone Acetate	0.0
+D003329	Coronary Vasospasm	87-33-2	Isosorbide Dinitrate	0.0
+D003329	Coronary Vasospasm	7439-95-4	Magnesium	0.0
+D003329	Coronary Vasospasm	55985-32-5	Nicardipine	0.0
+D003329	Coronary Vasospasm	65141-46-0	Nicorandil	0.0
+D003329	Coronary Vasospasm	21829-25-4	Nifedipine	0.0
+D003329	Coronary Vasospasm	39562-70-4	Nitrendipine	0.0
+D003329	Coronary Vasospasm	55-63-0	Nitroglycerin	0.0
+D003329	Coronary Vasospasm	3930-20-9	Sotalol	0.0
+D003329	Coronary Vasospasm	52-53-9	Verapamil	0.0
+D003371	Cough	71195-58-9	Alfentanil	0.0
+D003371	Cough	88150-42-9	Amlodipine	0.0
+D003371	Cough	50-78-2	Aspirin	0.0
+D003371	Cough	21650-02-2	azabicyclane	0.0
+D003371	Cough	76-22-2	Camphor	0.0
+D003371	Cough	82619-04-3	cefpodoxime	0.0
+D003371	Cough	81103-11-9	Clarithromycin	0.0
+D003371	Cough	76-57-3	Codeine	0.0
+D003371	Cough	125-71-3	Dextromethorphan	0.0
+D003371	Cough	125-73-5	Dextrorphan	0.0
+D003371	Cough	125-28-0	dihydrocodeine	0.0
+D003371	Cough	36304-82-2	dimemorfan	0.0
+D003371	Cough	17692-31-8	dipropizine	0.0
+D003371	Cough	3176-03-2	drotebanol	0.0
+D003371	Cough	437-38-7	Fentanyl	0.0
+D003371	Cough	5630-11-5	glaucine	0.0
+D003371	Cough	93-14-1	Guaifenesin	0.0
+D003371	Cough	125-29-1	Hydrocodone	0.0
+D003371	Cough	137-58-6	Lidocaine	0.0
+D003371	Cough	57-42-1	Meperidine	0.0
+D003371	Cough	119637-67-1	moguisteine	0.0
+D003371	Cough	57-27-2	Morphine	0.0
+D003371	Cough	10236-47-2	naringin	0.0
+D003371	Cough	128-62-1	Noscapine	0.0
+D003371	Cough	76-41-5	Oxymorphone	0.0
+D003371	Cough	94-07-5	Synephrine	0.0
+D003371	Cough	23031-25-6	Terbutaline	0.0
+D003371	Cough	107753-78-6	zafirlukast	0.0
+D003440	Croup	51-43-4	Epinephrine	0.0
+D003453	Cryptococcosis	1397-89-3	Amphotericin B	0.0
+D003453	Cryptococcosis	87687-70-5	amphotericin B, deoxycholate drug combination	0.0
+D003453	Cryptococcosis	86386-73-4	Fluconazole	0.0
+D003453	Cryptococcosis	2022-85-7	Flucytosine	0.0
+D003453	Cryptococcosis	84625-61-6	Itraconazole	0.0
+D003453	Cryptococcosis	65277-42-1	Ketoconazole	0.0
+D003550	Cystic Fibrosis	616-91-1	Acetylcysteine	0.0
+D003550	Cystic Fibrosis	37517-28-5	Amikacin	0.0
+D003550	Cystic Fibrosis	78110-38-0	Aztreonam	0.0
+D003550	Cystic Fibrosis	85721-33-1	Ciprofloxacin	0.0
+D003550	Cystic Fibrosis	1066-17-7	Colistin	0.0
+D003550	Cystic Fibrosis	16679-58-6	Deamino Arginine Vasopressin	0.0
+D003550	Cystic Fibrosis	25167-62-8	Docosahexaenoic Acids	0.0
+D003550	Cystic Fibrosis	23155-02-4	Fosfomycin	0.0
+D003550	Cystic Fibrosis	70-18-8	Glutathione	0.0
+D003550	Cystic Fibrosis	118-42-3	Hydroxychloroquine	0.0
+D003550	Cystic Fibrosis	15687-27-1	Ibuprofen	0.0
+D003550	Cystic Fibrosis	59-05-2	Methotrexate	0.0
+D003550	Cystic Fibrosis	21829-25-4	Nifedipine	0.0
+D003550	Cystic Fibrosis	82419-36-1	Ofloxacin	0.0
+D003550	Cystic Fibrosis	111025-46-8	Pioglitazone	0.0
+D003550	Cystic Fibrosis	61477-96-1	Piperacillin	0.0
+D003550	Cystic Fibrosis	79902-63-9	Simvastatin	0.0
+D003550	Cystic Fibrosis	32986-56-4	Tobramycin	0.0
+D003550	Cystic Fibrosis	128-13-2	Ursodeoxycholic Acid	0.0
+D003550	Cystic Fibrosis	107753-78-6	zafirlukast	0.0
+D003920	Diabetes Mellitus	213252-19-8	5-((2,4-dioxo-5-thiazolidinyl)methyl)-2-methoxy-N-((4-(trifluoromethyl)phenyl)methyl)benzamide	0.0
+D003920	Diabetes Mellitus	50-78-2	Aspirin	0.0
+D003920	Diabetes Mellitus	2086-83-1	Berberine	0.0
+D003920	Diabetes Mellitus	41859-67-0	Bezafibrate	0.0
+D003920	Diabetes Mellitus	94-20-2	Chlorpropamide	0.0
+D003920	Diabetes Mellitus	149-91-7	Gallic Acid	0.0
+D003920	Diabetes Mellitus	21187-98-4	Gliclazide	0.0
+D003920	Diabetes Mellitus	29094-61-9	Glipizide	0.0
+D003920	Diabetes Mellitus	10238-21-8	Glyburide	0.0
+D003920	Diabetes Mellitus	26807-65-8	Indapamide	0.0
+D003920	Diabetes Mellitus	19895-95-5	kaempferol 3-O-sophoroside	0.0
+D003920	Diabetes Mellitus	657-24-9	Metformin	0.0
+D003920	Diabetes Mellitus	105816-04-4	Nateglinide	0.0
+D003920	Diabetes Mellitus	484-12-8	osthol	0.0
+D003920	Diabetes Mellitus	82834-16-0	Perindopril	0.0
+D003920	Diabetes Mellitus	114-86-3	Phenformin	0.0
+D003920	Diabetes Mellitus	111025-46-8	Pioglitazone	0.0
+D003920	Diabetes Mellitus	7440-09-7	Potassium	0.0
+D003920	Diabetes Mellitus	81093-37-0	Pravastatin	0.0
+D003920	Diabetes Mellitus	95975-55-6	pregna-4,17-diene-3,16-dione	0.0
+D003920	Diabetes Mellitus	3681-99-0	puerarin	0.0
+D003920	Diabetes Mellitus	87333-19-5	Ramipril	0.0
+D003920	Diabetes Mellitus	10102-18-8	Sodium Selenite	0.0
+D003920	Diabetes Mellitus	112-24-3	Trientine	0.0
+D003920	Diabetes Mellitus	97322-87-7	Troglitazone	0.0
+D003920	Diabetes Mellitus	7440-66-6	Zinc	0.0
+D003922	Diabetes Mellitus, Type 1	32222-06-3	Calcitriol	0.0
+D003922	Diabetes Mellitus, Type 1	7439-97-6	Mercury	0.0
+D003922	Diabetes Mellitus, Type 1	98-92-0	Niacinamide	0.0
+D003922	Diabetes Mellitus, Type 1	13768-07-5	sodium arsenite	0.0
+D003922	Diabetes Mellitus, Type 1	107-35-7	Taurine	0.0
+D003922	Diabetes Mellitus, Type 1	1746-01-6	Tetrachlorodibenzodioxin	0.0
+D003922	Diabetes Mellitus, Type 1	81-81-2	Warfarin	0.0
+D003924	Diabetes Mellitus, Type 2	56180-94-0	Acarbose	0.0
+D003924	Diabetes Mellitus, Type 2	472-61-7	astaxanthine	0.0
+D003924	Diabetes Mellitus, Type 2	105979-17-7	benidipine	0.0
+D003924	Diabetes Mellitus, Type 2	2086-83-1	Berberine	0.0
+D003924	Diabetes Mellitus, Type 2	41859-67-0	Bezafibrate	0.0
+D003924	Diabetes Mellitus, Type 2	94-20-2	Chlorpropamide	0.0
+D003924	Diabetes Mellitus, Type 2	7440-47-3	Chromium	0.0
+D003924	Diabetes Mellitus, Type 2	91-64-5	coumarin	0.0
+D003924	Diabetes Mellitus, Type 2	458-37-7	Curcumin	0.0
+D003924	Diabetes Mellitus, Type 2	486-66-8	daidzein	0.0
+D003924	Diabetes Mellitus, Type 2	3239-44-9	Dexfenfluramine	0.0
+D003924	Diabetes Mellitus, Type 2	520-27-4	Diosmin	0.0
+D003924	Diabetes Mellitus, Type 2	75847-73-3	Enalapril	0.0
+D003924	Diabetes Mellitus, Type 2	989-51-5	epigallocatechin gallate	0.0
+D003924	Diabetes Mellitus, Type 2	141732-76-5	Exenatide	0.0
+D003924	Diabetes Mellitus, Type 2	59-30-3	Folic Acid	0.0
+D003924	Diabetes Mellitus, Type 2	446-72-0	Genistein	0.0
+D003924	Diabetes Mellitus, Type 2	52286-59-6	ginsenoside Re	0.0
+D003924	Diabetes Mellitus, Type 2	21187-98-4	Gliclazide	0.0
+D003924	Diabetes Mellitus, Type 2	29094-61-9	Glipizide	0.0
+D003924	Diabetes Mellitus, Type 2	10238-21-8	Glyburide	0.0
+D003924	Diabetes Mellitus, Type 2	16009-13-5	Hemin	0.0
+D003924	Diabetes Mellitus, Type 2	138402-11-6	Irbesartan	0.0
+D003924	Diabetes Mellitus, Type 2	434-13-9	Lithocholic Acid	0.0
+D003924	Diabetes Mellitus, Type 2	4773-96-0	mangiferin	0.0
+D003924	Diabetes Mellitus, Type 2	657-24-9	Metformin	0.0
+D003924	Diabetes Mellitus, Type 2	39562-70-4	Nitrendipine	0.0
+D003924	Diabetes Mellitus, Type 2	96829-58-2	Orlistat	0.0
+D003924	Diabetes Mellitus, Type 2	6493-05-6	Pentoxifylline	0.0
+D003924	Diabetes Mellitus, Type 2	111025-46-8	Pioglitazone	0.0
+D003924	Diabetes Mellitus, Type 2	7772-99-8	stannous chloride	0.0
+D003924	Diabetes Mellitus, Type 2	64-77-7	Tolbutamide	0.0
+D003924	Diabetes Mellitus, Type 2	97240-79-4	Topiramate	0.0
+D003924	Diabetes Mellitus, Type 2	97322-87-7	Troglitazone	0.0
+D003924	Diabetes Mellitus, Type 2	7440-66-6	Zinc	0.0
+D016883	Diabetic Ketoacidosis	637-07-0	Clofibrate	0.0
+D016883	Diabetic Ketoacidosis	99614-02-5	Ondansetron	0.0
+D016883	Diabetic Ketoacidosis	7440-09-7	Potassium	0.0
+D004417	Dyspnea	18559-94-9	Albuterol	0.0
+D004417	Dyspnea	745-65-3	Alprostadil	0.0
+D004417	Dyspnea	20537-88-6	Amifostine	0.0
+D004417	Dyspnea	317-34-0	Aminophylline	0.0
+D004417	Dyspnea	4419-39-0	Beclomethasone	0.0
+D004417	Dyspnea	51333-22-3	Budesonide	0.0
+D004417	Dyspnea	28395-03-1	Bumetanide	0.0
+D004417	Dyspnea	2353-33-5	Decitabine	0.0
+D004417	Dyspnea	51-61-6	Dopamine	0.0
+D004417	Dyspnea	51-43-4	Epinephrine	0.0
+D004417	Dyspnea	54-31-9	Furosemide	0.0
+D004417	Dyspnea	50-23-7	Hydrocortisone	0.0
+D004417	Dyspnea	83-43-2	Methylprednisolone	0.0
+D004417	Dyspnea	2921-57-5	Methylprednisolone Hemisuccinate	0.0
+D004417	Dyspnea	57-27-2	Morphine	0.0
+D004417	Dyspnea	21829-25-4	Nifedipine	0.0
+D004417	Dyspnea	55-63-0	Nitroglycerin	0.0
+D004417	Dyspnea	15078-28-1	Nitroprusside	0.0
+D004417	Dyspnea	7782-44-7	Oxygen	0.0
+D004417	Dyspnea	51-06-9	Procainamide	0.0
+D004417	Dyspnea	144-55-8	Sodium Bicarbonate	0.0
+D004417	Dyspnea	58-55-9	Theophylline	0.0
+D004417	Dyspnea	52-53-9	Verapamil	0.0
+D004696	Endocarditis	37517-28-5	Amikacin	0.0
+D004696	Endocarditis	69-53-4	Ampicillin	0.0
+D004696	Endocarditis	34444-01-4	Cefamandole	0.0
+D004696	Endocarditis	86386-73-4	Fluconazole	0.0
+D004696	Endocarditis	154-21-2	Lincomycin	0.0
+D004696	Endocarditis	147-52-4	Nafcillin	0.0
+D004696	Endocarditis	61-33-6	Penicillin G	0.0
+D004696	Endocarditis	13292-46-1	Rifampin	0.0
+D004696	Endocarditis	68373-14-8	Sulbactam	0.0
+D004696	Endocarditis	76497-13-7	sultamicillin	0.0
+D004696	Endocarditis	1404-90-6	Vancomycin	0.0
+D004844	Epistaxis	50-36-2	Cocaine	0.0
+D006073	Gout	315-30-0	Allopurinol	0.0
+D006073	Gout	3562-84-3	Benzbromarone	0.0
+D006073	Gout	64-86-8	Colchicine	0.0
+D006073	Gout	15307-86-5	Diclofenac	0.0
+D006073	Gout	202409-33-4	Etoricoxib	0.0
+D006073	Gout	49562-28-9	Fenofibrate	0.0
+D006073	Gout	53-86-1	Indomethacin	0.0
+D006073	Gout	7439-93-2	Lithium	0.0
+D006073	Gout	114798-26-4	Losartan	0.0
+D006073	Gout	2465-59-0	Oxypurinol	0.0
+D006073	Gout	57-66-9	Probenecid	0.0
+D006073	Gout	57-96-5	Sulfinpyrazone	0.0
+D006073	Gout	14636-12-5	Terlipressin	0.0
+D006333	Heart Failure	102492-19-3	14-dehydroxy-3-glucodigitoxigenin	0.0
+D006333	Heart Failure	76144-81-5	3-(2,2,2-trimethylhydrazine)propionate	0.0
+D006333	Heart Failure	162011-83-8	3-(3,4-difluorophenyl)-4-(4-(methylsulfonyl)phenyl)-2(5H)-furanone	0.0
+D006333	Heart Failure	5142-23-4	3-methyladenine	0.0
+D006333	Heart Failure	60-38-8	acetylstrophanthidin	0.0
+D006333	Heart Failure	58-61-7	Adenosine	0.0
+D006333	Heart Failure	18559-94-9	Albuterol	0.0
+D006333	Heart Failure	745-65-3	Alprostadil	0.0
+D006333	Heart Failure	2609-46-3	Amiloride	0.0
+D006333	Heart Failure	68529-45-3	amiloride, hydrochlorothiazide drug combination	0.0
+D006333	Heart Failure	317-34-0	Aminophylline	0.0
+D006333	Heart Failure	1951-25-3	Amiodarone	0.0
+D006333	Heart Failure	60719-84-8	Amrinone	0.0
+D006333	Heart Failure	50-78-2	Aspirin	0.0
+D006333	Heart Failure	29122-68-7	Atenolol	0.0
+D006333	Heart Failure	446-86-6	Azathioprine	0.0
+D006333	Heart Failure	86541-75-5	benazepril	0.0
+D006333	Heart Failure	73-48-3	Bendroflumethiazide	0.0
+D006333	Heart Failure	66722-44-9	Bisoprolol	0.0
+D006333	Heart Failure	147536-97-8	Bosentan	0.0
+D006333	Heart Failure	25614-03-3	Bromocriptine	0.0
+D006333	Heart Failure	70369-47-0	bucindolol	0.0
+D006333	Heart Failure	28395-03-1	Bumetanide	0.0
+D006333	Heart Failure	139481-59-7	candesartan	0.0
+D006333	Heart Failure	145040-37-5	candesartan cilexetil	0.0
+D006333	Heart Failure	62571-86-2	Captopril	0.0
+D006333	Heart Failure	72956-09-3	Carvedilol	0.0
+D006333	Heart Failure	56980-93-9	Celiprolol	0.0
+D006333	Heart Failure	154116-31-1	CGS 26303	0.0
+D006333	Heart Failure	804-10-4	Chromonar	0.0
+D006333	Heart Failure	92077-78-6	Cilazapril	0.0
+D006333	Heart Failure	73963-72-1	Cilostazol	0.0
+D006333	Heart Failure	7440-50-8	Copper	0.0
+D006333	Heart Failure	742-20-1	Cyclopenthiazide	0.0
+D006333	Heart Failure	71771-90-9	denopamine	0.0
+D006333	Heart Failure	50-02-2	Dexamethasone	0.0
+D006333	Heart Failure	71-63-6	Digitoxin	0.0
+D006333	Heart Failure	20830-75-5	Digoxin	0.0
+D006333	Heart Failure	484-23-1	Dihydralazine	0.0
+D006333	Heart Failure	58-73-1	Diphenhydramine	0.0
+D006333	Heart Failure	58-32-2	Dipyridamole	0.0
+D006333	Heart Failure	34368-04-2	Dobutamine	0.0
+D006333	Heart Failure	115256-11-6	dofetilide	0.0
+D006333	Heart Failure	51-61-6	Dopamine	0.0
+D006333	Heart Failure	75847-73-3	Enalapril	0.0
+D006333	Heart Failure	77671-31-9	Enoximone	0.0
+D006333	Heart Failure	167256-08-8	enrasentan	0.0
+D006333	Heart Failure	82258-36-4	etomoxir	0.0
+D006333	Heart Failure	76824-35-6	Famotidine	0.0
+D006333	Heart Failure	72509-76-3	Felodipine	0.0
+D006333	Heart Failure	13392-18-2	Fenoterol	0.0
+D006333	Heart Failure	136087-85-9	fidarestat	0.0
+D006333	Heart Failure	94936-90-0	FK 664	0.0
+D006333	Heart Failure	93957-54-1	Fluvastatin	0.0
+D006333	Heart Failure	98048-97-6	Fosinopril	0.0
+D006333	Heart Failure	54-31-9	Furosemide	0.0
+D006333	Heart Failure	86-54-4	Hydralazine	0.0
+D006333	Heart Failure	58-93-5	Hydrochlorothiazide	0.0
+D006333	Heart Failure	130350-52-6	ibutilide	0.0
+D006333	Heart Failure	89371-37-9	imidapril	0.0
+D006333	Heart Failure	86-04-4	Inosine Diphosphate	0.0
+D006333	Heart Failure	138402-11-6	Irbesartan	0.0
+D006333	Heart Failure	7683-59-2	Isoproterenol	0.0
+D006333	Heart Failure	87-33-2	Isosorbide Dinitrate	0.0
+D006333	Heart Failure	134186-26-8	KF 14124	0.0
+D006333	Heart Failure	83915-83-7	Lisinopril	0.0
+D006333	Heart Failure	90520-42-6	LND 623	0.0
+D006333	Heart Failure	114798-26-4	Losartan	0.0
+D006333	Heart Failure	98326-33-1	MCI 154	0.0
+D006333	Heart Failure	94985-29-2	MDL 72567	0.0
+D006333	Heart Failure	37350-58-6	Metoprolol	0.0
+D006333	Heart Failure	42794-76-3	Midodrine	0.0
+D006333	Heart Failure	78415-72-2	Milrinone	0.0
+D006333	Heart Failure	38304-91-5	Minoxidil	0.0
+D006333	Heart Failure	107189-96-8	MS 857	0.0
+D006333	Heart Failure	114471-18-0	Natriuretic Peptide, Brain	0.0
+D006333	Heart Failure	55985-32-5	Nicardipine	0.0
+D006333	Heart Failure	21829-25-4	Nifedipine	0.0
+D006333	Heart Failure	63675-72-9	Nisoldipine	0.0
+D006333	Heart Failure	55-63-0	Nitroglycerin	0.0
+D006333	Heart Failure	15078-28-1	Nitroprusside	0.0
+D006333	Heart Failure	125068-43-1	NSP 804	0.0
+D006333	Heart Failure	125068-54-4	NSP 805	0.0
+D006333	Heart Failure	119615-63-3	olprinone	0.0
+D006333	Heart Failure	96829-58-2	Orlistat	0.0
+D006333	Heart Failure	630-60-4	Ouabain	0.0
+D006333	Heart Failure	6621-47-2	Perhexiline	0.0
+D006333	Heart Failure	50-60-2	Phentolamine	0.0
+D006333	Heart Failure	38677-81-5	pirbuterol	0.0
+D006333	Heart Failure	50892-23-4	pirinixic acid	0.0
+D006333	Heart Failure	147511-69-1	pitavastatin	0.0
+D006333	Heart Failure	7440-09-7	Potassium	0.0
+D006333	Heart Failure	7447-40-7	Potassium Chloride	0.0
+D006333	Heart Failure	19216-56-9	Prazosin	0.0
+D006333	Heart Failure	53-03-2	Prednisone	0.0
+D006333	Heart Failure	23288-49-5	Probucol	0.0
+D006333	Heart Failure	525-66-6	Propranolol	0.0
+D006333	Heart Failure	82586-55-8	Quinapril	0.0
+D006333	Heart Failure	56-54-2	Quinidine	0.0
+D006333	Heart Failure	87333-19-5	Ramipril	0.0
+D006333	Heart Failure	21416-87-5	Razoxane	0.0
+D006333	Heart Failure	169939-94-0	ruboxistaurin	0.0
+D006333	Heart Failure	86819-20-7	sarpogrelate	0.0
+D006333	Heart Failure	131741-08-7	Simendan	0.0
+D006333	Heart Failure	79902-63-9	Simvastatin	0.0
+D006333	Heart Failure	53123-88-9	Sirolimus	0.0
+D006333	Heart Failure	3930-20-9	Sotalol	0.0
+D006333	Heart Failure	52-01-7	Spironolactone	0.0
+D006333	Heart Failure	73384-60-8	sulmazole	0.0
+D006333	Heart Failure	110221-44-8	temocapril hydrochloride	0.0
+D006333	Heart Failure	35115-60-7	Teprotide	0.0
+D006333	Heart Failure	58-22-0	Testosterone	0.0
+D006333	Heart Failure	50-35-1	Thalidomide	0.0
+D006333	Heart Failure	59-43-8	Thiamine	0.0
+D006333	Heart Failure	150683-30-0	Tolvaptan	0.0
+D006333	Heart Failure	56211-40-6	Torsemide	0.0
+D006333	Heart Failure	5011-34-7	Trimetazidine	0.0
+D006333	Heart Failure	52-53-9	Verapamil	0.0
+D006333	Heart Failure	81840-15-5	vesnarinone	0.0
+D006333	Heart Failure	1406-18-4	Vitamin E	0.0
+D006333	Heart Failure	81-81-2	Warfarin	0.0
+D006333	Heart Failure	81801-12-9	Xamoterol	0.0
+D006344	Heart Septal Defects, Atrial	35121-78-9	Epoprostenol	0.0
+D006349	Heart Valve Diseases	61-33-6	Penicillin G	0.0
+D006349	Heart Valve Diseases	57-92-1	Streptomycin	0.0
+D006660	Histoplasmosis	1397-89-3	Amphotericin B	0.0
+D006660	Histoplasmosis	84625-61-6	Itraconazole	0.0
+D006660	Histoplasmosis	65277-42-1	Ketoconazole	0.0
+D006973	Hypertension	48144-44-1	1-(3-chlorophenyl)biguanide	0.0
+D006973	Hypertension	9088-01-1	1-Sarcosine-8-Isoleucine Angiotensin II	0.0
+D006973	Hypertension	1948-33-0	2-tert-butylhydroquinone	0.0
+D006973	Hypertension	6957-27-3	3,4-dihydropapaverine	0.0
+D006973	Hypertension	153042-42-3	5-(dimethylamino)-N-(3,4-dimethyl-5-isoxazolyl)-1-naphthalenesulfonamide	0.0
+D006973	Hypertension	624-00-0	5-hydroxydecanoic acid	0.0
+D006973	Hypertension	34661-85-3	5-methylurapidil	0.0
+D006973	Hypertension	115066-14-3	6-Cyano-7-nitroquinoxaline-2,3-dione	0.0
+D006973	Hypertension	78950-78-4	8-Hydroxy-2-(di-n-propylamino)tetralin	0.0
+D006973	Hypertension	37517-30-9	Acebutolol	0.0
+D006973	Hypertension	498-02-2	acetovanillone	0.0
+D006973	Hypertension	51-84-3	Acetylcholine	0.0
+D006973	Hypertension	616-91-1	Acetylcysteine	0.0
+D006973	Hypertension	58-61-7	Adenosine	0.0
+D006973	Hypertension	148498-78-6	Adrenomedullin	0.0
+D006973	Hypertension	81443-73-4	AH 23848	0.0
+D006973	Hypertension	18559-94-9	Albuterol	0.0
+D006973	Hypertension	41294-56-8	alfacalcidol	0.0
+D006973	Hypertension	71195-58-9	Alfentanil	0.0
+D006973	Hypertension	59-02-9	alpha-Tocopherol	0.0
+D006973	Hypertension	13655-52-2	Alprenolol	0.0
+D006973	Hypertension	745-65-3	Alprostadil	0.0
+D006973	Hypertension	2609-46-3	Amiloride	0.0
+D006973	Hypertension	68529-45-3	amiloride, hydrochlorothiazide drug combination	0.0
+D006973	Hypertension	125-84-8	Aminoglutethimide	0.0
+D006973	Hypertension	645-88-5	Aminooxyacetic Acid	0.0
+D006973	Hypertension	50-48-6	Amitriptyline	0.0
+D006973	Hypertension	61-82-5	Amitrole	0.0
+D006973	Hypertension	88150-42-9	Amlodipine	0.0
+D006973	Hypertension	60719-84-8	Amrinone	0.0
+D006973	Hypertension	56832-47-4	angiotensin II, Sar(1)-Thr(8)-	0.0
+D006973	Hypertension	58-00-4	Apomorphine	0.0
+D006973	Hypertension	67339-62-2	AR-C239	0.0
+D006973	Hypertension	86780-90-7	aranidipine	0.0
+D006973	Hypertension	50-81-7	Ascorbic Acid	0.0
+D006973	Hypertension	50-78-2	Aspirin	0.0
+D006973	Hypertension	29122-68-7	Atenolol	0.0
+D006973	Hypertension	51-55-8	Atropine	0.0
+D006973	Hypertension	86541-75-5	benazepril	0.0
+D006973	Hypertension	89747-91-1	benazeprilat	0.0
+D006973	Hypertension	73-48-3	Bendroflumethiazide	0.0
+D006973	Hypertension	105979-17-7	benidipine	0.0
+D006973	Hypertension	2211-57-6	benzylguanidine	0.0
+D006973	Hypertension	64706-54-3	Bepridil	0.0
+D006973	Hypertension	2086-83-1	Berberine	0.0
+D006973	Hypertension	63659-18-7	Betaxolol	0.0
+D006973	Hypertension	55-73-2	Bethanidine	0.0
+D006973	Hypertension	59170-23-9	bevantolol	0.0
+D006973	Hypertension	66722-44-9	Bisoprolol	0.0
+D006973	Hypertension	80-05-7	bisphenol A	0.0
+D006973	Hypertension	69010-88-4	bopindolol	0.0
+D006973	Hypertension	147536-97-8	Bosentan	0.0
+D006973	Hypertension	39715-02-1	BQ 22-708	0.0
+D006973	Hypertension	104051-20-9	brefanolol	0.0
+D006973	Hypertension	1812-30-2	Bromazepam	0.0
+D006973	Hypertension	25614-03-3	Bromocriptine	0.0
+D006973	Hypertension	28395-03-1	Bumetanide	0.0
+D006973	Hypertension	80755-51-7	bunazosin	0.0
+D006973	Hypertension	23284-25-5	Bupranolol	0.0
+D006973	Hypertension	64241-34-5	cadralazine	0.0
+D006973	Hypertension	58-08-2	Caffeine	0.0
+D006973	Hypertension	32222-06-3	Calcitriol	0.0
+D006973	Hypertension	7440-70-2	Calcium	0.0
+D006973	Hypertension	10043-52-4	Calcium Chloride	0.0
+D006973	Hypertension	139481-59-7	candesartan	0.0
+D006973	Hypertension	145040-37-5	candesartan cilexetil	0.0
+D006973	Hypertension	4138-96-9	Canrenoic Acid	0.0
+D006973	Hypertension	976-71-6	Canrenone	0.0
+D006973	Hypertension	404-86-4	Capsaicin	0.0
+D006973	Hypertension	38821-49-7	Carbidopa	0.0
+D006973	Hypertension	630-08-0	Carbon Monoxide	0.0
+D006973	Hypertension	51781-06-7	Carteolol	0.0
+D006973	Hypertension	72956-09-3	Carvedilol	0.0
+D006973	Hypertension	401925-43-7	celivarone	0.0
+D006973	Hypertension	6899-10-1	Cetrimonium	0.0
+D006973	Hypertension	135689-23-5	CGP 48369	0.0
+D006973	Hypertension	15879-93-3	Chloralose	0.0
+D006973	Hypertension	7701-62-4	Chlorisondamine	0.0
+D006973	Hypertension	58-94-6	Chlorothiazide	0.0
+D006973	Hypertension	50-53-3	Chlorpromazine	0.0
+D006973	Hypertension	77-36-1	Chlorthalidone	0.0
+D006973	Hypertension	7440-47-3	Chromium	0.0
+D006973	Hypertension	92077-78-6	Cilazapril	0.0
+D006973	Hypertension	132203-70-4	cilnidipine	0.0
+D006973	Hypertension	637-07-0	Clofibrate	0.0
+D006973	Hypertension	4205-90-7	Clonidine	0.0
+D006973	Hypertension	636-54-4	Clopamide	0.0
+D006973	Hypertension	14325-03-2	cobaltiprotoporphyrin	0.0
+D006973	Hypertension	7646-79-9	cobaltous chloride	0.0
+D006973	Hypertension	8001-69-2	Cod Liver Oil	0.0
+D006973	Hypertension	94470-67-4	Cromakalim	0.0
+D006973	Hypertension	458-37-7	Curcumin	0.0
+D006973	Hypertension	742-20-1	Cyclopenthiazide	0.0
+D006973	Hypertension	2259-96-3	cyclothiazide	0.0
+D006973	Hypertension	129-03-3	Cyproheptadine	0.0
+D006973	Hypertension	486-66-8	daidzein	0.0
+D006973	Hypertension	1131-64-2	Debrisoquin	0.0
+D006973	Hypertension	53-43-0	Dehydroepiandrosterone	0.0
+D006973	Hypertension	83435-67-0	delapril	0.0
+D006973	Hypertension	64-85-7	Desoxycorticosterone	0.0
+D006973	Hypertension	50-02-2	Dexamethasone	0.0
+D006973	Hypertension	21888-98-2	Dexetimide	0.0
+D006973	Hypertension	3239-44-9	Dexfenfluramine	0.0
+D006973	Hypertension	439-14-5	Diazepam	0.0
+D006973	Hypertension	364-98-7	Diazoxide	0.0
+D006973	Hypertension	19395-87-0	Dibenz(b,f)(1,4)oxazepine-10(11H)-carboxylic acid, 8-chloro-, 2-acetylhydrazide	0.0
+D006973	Hypertension	90-89-1	Diethylcarbamazine	0.0
+D006973	Hypertension	56-53-1	Diethylstilbestrol	0.0
+D006973	Hypertension	71-63-6	Digitoxin	0.0
+D006973	Hypertension	20830-75-5	Digoxin	0.0
+D006973	Hypertension	484-23-1	Dihydralazine	0.0
+D006973	Hypertension	17479-19-5	Dihydroergocristine	0.0
+D006973	Hypertension	11032-41-0	Dihydroergotoxine	0.0
+D006973	Hypertension	42399-41-7	Diltiazem	0.0
+D006973	Hypertension	363-24-6	Dinoprostone	0.0
+D006973	Hypertension	512-04-9	Diosgenin	0.0
+D006973	Hypertension	58-32-2	Dipyridamole	0.0
+D006973	Hypertension	74191-85-8	Doxazosin	0.0
+D006973	Hypertension	548-73-2	Droperidol	0.0
+D006973	Hypertension	479-18-5	Dyphylline	0.0
+D006973	Hypertension	111011-53-1	efonidipine	0.0
+D006973	Hypertension	1553-41-9	Eicosapentaenoic Acid	0.0
+D006973	Hypertension	119413-55-7	elgodipine	0.0
+D006973	Hypertension	156001-18-2	embusartan	0.0
+D006973	Hypertension	75847-73-3	Enalapril	0.0
+D006973	Hypertension	84680-54-6	Enalaprilat	0.0
+D006973	Hypertension	13838-16-9	Enflurane	0.0
+D006973	Hypertension	100929-53-1	Enkephalin, Ala(2)-MePhe(4)-Gly(5)-	0.0
+D006973	Hypertension	63631-40-3	Enkephalin, Leucine-2-Alanine	0.0
+D006973	Hypertension	299-42-3	Ephedrine	0.0
+D006973	Hypertension	989-51-5	epigallocatechin gallate	0.0
+D006973	Hypertension	35121-78-9	Epoprostenol	0.0
+D006973	Hypertension	305-01-1	esculetin	0.0
+D006973	Hypertension	84057-94-3	esmolol	0.0
+D006973	Hypertension	76824-35-6	Famotidine	0.0
+D006973	Hypertension	103745-39-7	fasudil	0.0
+D006973	Hypertension	72509-76-3	Felodipine	0.0
+D006973	Hypertension	458-24-2	Fenfluramine	0.0
+D006973	Hypertension	67227-56-9	Fenoldopam	0.0
+D006973	Hypertension	437-38-7	Fentanyl	0.0
+D006973	Hypertension	1135-24-6	ferulic acid	0.0
+D006973	Hypertension	247257-48-3	fimasartan	0.0
+D006973	Hypertension	98206-10-1	flesinoxan	0.0
+D006973	Hypertension	1622-62-4	Flunitrazepam	0.0
+D006973	Hypertension	28125-87-3	flutonidine	0.0
+D006973	Hypertension	59-30-3	Folic Acid	0.0
+D006973	Hypertension	98048-97-6	Fosinopril	0.0
+D006973	Hypertension	142375-60-8	FR 139317	0.0
+D006973	Hypertension	85666-17-7	furegrelate	0.0
+D006973	Hypertension	54-31-9	Furosemide	0.0
+D006973	Hypertension	56-12-2	gamma-Aminobutyric Acid	0.0
+D006973	Hypertension	624-15-7	geraniol	0.0
+D006973	Hypertension	70-18-8	Glutathione	0.0
+D006973	Hypertension	5051-62-7	Guanabenz	0.0
+D006973	Hypertension	40580-59-4	guanadrel	0.0
+D006973	Hypertension	55-65-2	Guanethidine	0.0
+D006973	Hypertension	29110-47-2	Guanfacine	0.0
+D006973	Hypertension	2165-19-7	guanoxan	0.0
+D006973	Hypertension	52-86-8	Haloperidol	0.0
+D006973	Hypertension	151-67-7	Halothane	0.0
+D006973	Hypertension	100438-92-4	heme arginate	0.0
+D006973	Hypertension	312-45-8	Hemicholinium 3	0.0
+D006973	Hypertension	16009-13-5	Hemin	0.0
+D006973	Hypertension	9005-49-6	Heparin	0.0
+D006973	Hypertension	60-26-4	Hexamethonium	0.0
+D006973	Hypertension	86-54-4	Hydralazine	0.0
+D006973	Hypertension	58-93-5	Hydrochlorothiazide	0.0
+D006973	Hypertension	14124-50-6	hydrochlorothiazide-triamterene	0.0
+D006973	Hypertension	7783-06-4	Hydrogen Sulfide	0.0
+D006973	Hypertension	143494-72-8	ICI D8731	0.0
+D006973	Hypertension	79944-58-4	Idazoxan	0.0
+D006973	Hypertension	127420-24-0	idrapril	0.0
+D006973	Hypertension	89371-37-9	imidapril	0.0
+D006973	Hypertension	482-44-0	imperatorin	0.0
+D006973	Hypertension	26807-65-8	Indapamide	0.0
+D006973	Hypertension	80876-01-3	Indolapril	0.0
+D006973	Hypertension	53-86-1	Indomethacin	0.0
+D006973	Hypertension	26844-12-2	Indoramin	0.0
+D006973	Hypertension	9005-80-5	Inulin	0.0
+D006973	Hypertension	138402-11-6	Irbesartan	0.0
+D006973	Hypertension	59-63-2	Isocarboxazid	0.0
+D006973	Hypertension	26675-46-7	Isoflurane	0.0
+D006973	Hypertension	87-33-2	Isosorbide Dinitrate	0.0
+D006973	Hypertension	16051-77-7	isosorbide-5-mononitrate	0.0
+D006973	Hypertension	395-28-8	Isoxsuprine	0.0
+D006973	Hypertension	75695-93-1	Isradipine	0.0
+D006973	Hypertension	74050-98-9	Ketanserin	0.0
+D006973	Hypertension	22071-15-4	Ketoprofen	0.0
+D006973	Hypertension	139298-40-1	KN 93	0.0
+D006973	Hypertension	36894-69-6	Labetalol	0.0
+D006973	Hypertension	100427-26-7	lercanidipine	0.0
+D006973	Hypertension	113759-50-5	LF 2-0254	0.0
+D006973	Hypertension	137-58-6	Lidocaine	0.0
+D006973	Hypertension	8001-26-1	Linseed Oil	0.0
+D006973	Hypertension	83915-83-7	Lisinopril	0.0
+D006973	Hypertension	7439-93-2	Lithium	0.0
+D006973	Hypertension	846-49-1	Lorazepam	0.0
+D006973	Hypertension	114798-26-4	Losartan	0.0
+D006973	Hypertension	75330-75-5	Lovastatin	0.0
+D006973	Hypertension	7439-95-4	Magnesium	0.0
+D006973	Hypertension	7487-88-9	Magnesium Sulfate	0.0
+D006973	Hypertension	89226-50-6	manidipine	0.0
+D006973	Hypertension	22232-71-9	Mazindol	0.0
+D006973	Hypertension	60-40-2	Mecamylamine	0.0
+D006973	Hypertension	644-62-2	Meclofenamic Acid	0.0
+D006973	Hypertension	73-31-4	Melatonin	0.0
+D006973	Hypertension	104713-75-9	mepirodipine	0.0
+D006973	Hypertension	657-24-9	Metformin	0.0
+D006973	Hypertension	60-56-0	Methimazole	0.0
+D006973	Hypertension	135-07-9	Methyclothiazide	0.0
+D006973	Hypertension	31610-87-4	methylatropine	0.0
+D006973	Hypertension	555-30-6	Methyldopa	0.0
+D006973	Hypertension	21019-30-7	methyllycaconitine	0.0
+D006973	Hypertension	2921-57-5	Methylprednisolone Hemisuccinate	0.0
+D006973	Hypertension	22664-55-7	Metipranolol	0.0
+D006973	Hypertension	17560-51-9	Metolazone	0.0
+D006973	Hypertension	37350-58-6	Metoprolol	0.0
+D006973	Hypertension	54-36-4	Metyrapone	0.0
+D006973	Hypertension	116644-53-2	Mibefradil	0.0
+D006973	Hypertension	59467-70-8	Midazolam	0.0
+D006973	Hypertension	84371-65-3	Mifepristone	0.0
+D006973	Hypertension	38304-91-5	Minoxidil	0.0
+D006973	Hypertension	65321-41-7	MK 761	0.0
+D006973	Hypertension	103775-10-6	moexipril	0.0
+D006973	Hypertension	25717-80-0	Molsidomine	0.0
+D006973	Hypertension	57-27-2	Morphine	0.0
+D006973	Hypertension	24280-93-1	Mycophenolic Acid	0.0
+D006973	Hypertension	123653-11-2	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	0.0
+D006973	Hypertension	108935-64-4	N-isobutyl-1,2-diphenylethanolamine	0.0
+D006973	Hypertension	54852-85-6	N-methyl-1,2-diphenylethanolamine	0.0
+D006973	Hypertension	42200-33-9	Nadolol	0.0
+D006973	Hypertension	465-65-6	Naloxone	0.0
+D006973	Hypertension	16590-41-3	Naltrexone	0.0
+D006973	Hypertension	10236-47-2	naringin	0.0
+D006973	Hypertension	1404-04-2	Neomycin	0.0
+D006973	Hypertension	55985-32-5	Nicardipine	0.0
+D006973	Hypertension	27848-84-6	Nicergoline	0.0
+D006973	Hypertension	21829-25-4	Nifedipine	0.0
+D006973	Hypertension	51803-78-2	nimesulide	0.0
+D006973	Hypertension	66085-59-4	Nimodipine	0.0
+D006973	Hypertension	63675-72-9	Nisoldipine	0.0
+D006973	Hypertension	39562-70-4	Nitrendipine	0.0
+D006973	Hypertension	10102-43-9	Nitric Oxide	0.0
+D006973	Hypertension	55-63-0	Nitroglycerin	0.0
+D006973	Hypertension	15078-28-1	Nitroprusside	0.0
+D006973	Hypertension	32619-42-4	oleuropein	0.0
+D006973	Hypertension	96829-58-2	Orlistat	0.0
+D006973	Hypertension	1199-18-4	Oxidopamine	0.0
+D006973	Hypertension	6452-71-7	Oxprenolol	0.0
+D006973	Hypertension	82571-53-7	ozagrel	0.0
+D006973	Hypertension	555-57-7	Pargyline	0.0
+D006973	Hypertension	153049-49-1	PD 145065	0.0
+D006973	Hypertension	36507-48-9	Penbutolol	0.0
+D006973	Hypertension	78-11-5	Pentaerythritol Tetranitrate	0.0
+D006973	Hypertension	52-62-0	Pentolinium Tartrate	0.0
+D006973	Hypertension	66104-22-1	Pergolide	0.0
+D006973	Hypertension	82834-16-0	Perindopril	0.0
+D006973	Hypertension	95153-31-4	perindoprilat	0.0
+D006973	Hypertension	59-96-1	Phenoxybenzamine	0.0
+D006973	Hypertension	122-09-8	Phentermine	0.0
+D006973	Hypertension	50-60-2	Phentolamine	0.0
+D006973	Hypertension	14838-15-4	Phenylpropanolamine	0.0
+D006973	Hypertension	36357-77-4	phosphoramidon	0.0
+D006973	Hypertension	57-47-6	Physostigmine	0.0
+D006973	Hypertension	85371-64-8	Pinacidil	0.0
+D006973	Hypertension	13523-86-9	Pindolol	0.0
+D006973	Hypertension	111025-46-8	Pioglitazone	0.0
+D006973	Hypertension	7780-20-3	piperine	0.0
+D006973	Hypertension	59-39-2	Piperoxan	0.0
+D006973	Hypertension	28797-61-7	Pirenzepine	0.0
+D006973	Hypertension	346-18-9	Polythiazide	0.0
+D006973	Hypertension	7440-09-7	Potassium	0.0
+D006973	Hypertension	6673-35-4	Practolol	0.0
+D006973	Hypertension	81093-37-0	Pravastatin	0.0
+D006973	Hypertension	19216-56-9	Prazosin	0.0
+D006973	Hypertension	57-83-0	Progesterone	0.0
+D006973	Hypertension	135467-92-4	prolinedithiocarbamate	0.0
+D006973	Hypertension	525-66-6	Propranolol	0.0
+D006973	Hypertension	51-52-5	Propylthiouracil	0.0
+D006973	Hypertension	603-00-9	proxyphylline	0.0
+D006973	Hypertension	3681-99-0	puerarin	0.0
+D006973	Hypertension	117-39-5	Quercetin	0.0
+D006973	Hypertension	82586-55-8	Quinapril	0.0
+D006973	Hypertension	82768-85-2	quinaprilat	0.0
+D006973	Hypertension	87333-19-5	Ramipril	0.0
+D006973	Hypertension	87269-97-4	ramiprilat	0.0
+D006973	Hypertension	72679-47-1	rentiapril	0.0
+D006973	Hypertension	50-55-5	Reserpine	0.0
+D006973	Hypertension	54187-04-1	Rilmenidine	0.0
+D006973	Hypertension	120280-37-7	Ro 31-6930	0.0
+D006973	Hypertension	83-79-4	Rotenone	0.0
+D006973	Hypertension	146613-90-3	saprisartan potassium	0.0
+D006973	Hypertension	34273-10-4	Saralasin	0.0
+D006973	Hypertension	131741-08-7	Simendan	0.0
+D006973	Hypertension	79902-63-9	Simvastatin	0.0
+D006973	Hypertension	141874-20-6	SL 84.0418	0.0
+D006973	Hypertension	16721-80-5	sodium bisulfide	0.0
+D006973	Hypertension	83647-97-6	spirapril	0.0
+D006973	Hypertension	52-01-7	Spironolactone	0.0
+D006973	Hypertension	98299-61-7	SQ 29548	0.0
+D006973	Hypertension	7772-99-8	stannous chloride	0.0
+D006973	Hypertension	304-55-2	Succimer	0.0
+D006973	Hypertension	66264-77-5	sulfinalol	0.0
+D006973	Hypertension	109581-93-3	Tacrolimus	0.0
+D006973	Hypertension	481-53-8	tangeretin	0.0
+D006973	Hypertension	568-73-0	tanshinone	0.0
+D006973	Hypertension	107-35-7	Taurine	0.0
+D006973	Hypertension	110221-44-8	temocapril hydrochloride	0.0
+D006973	Hypertension	2226-96-2	tempol	0.0
+D006973	Hypertension	35115-60-7	Teprotide	0.0
+D006973	Hypertension	63590-64-7	Terazosin	0.0
+D006973	Hypertension	83688-84-0	tertatolol	0.0
+D006973	Hypertension	36062-04-1	tetrahydrocurcumin	0.0
+D006973	Hypertension	58-55-9	Theophylline	0.0
+D006973	Hypertension	62-46-4	Thioctic Acid	0.0
+D006973	Hypertension	490-91-5	thymoquinone	0.0
+D006973	Hypertension	7488-70-2	Thyroxine	0.0
+D006973	Hypertension	31428-61-2	tiamenidine	0.0
+D006973	Hypertension	57010-31-8	Tiapamil Hydrochloride	0.0
+D006973	Hypertension	40180-04-9	Ticrynafen	0.0
+D006973	Hypertension	26839-75-8	Timolol	0.0
+D006973	Hypertension	13379-86-7	tiprenolol	0.0
+D006973	Hypertension	38103-61-6	tolamolol	0.0
+D006973	Hypertension	56211-40-6	Torsemide	0.0
+D006973	Hypertension	396-01-0	Triamterene	0.0
+D006973	Hypertension	133-67-5	Trichlormethiazide	0.0
+D006973	Hypertension	535-83-1	trigonelline	0.0
+D006973	Hypertension	35795-16-5	trimazosin	0.0
+D006973	Hypertension	68-91-7	trimethaphan camsylate	0.0
+D006973	Hypertension	97322-87-7	Troglitazone	0.0
+D006973	Hypertension	57-95-4	Tubocurarine	0.0
+D006973	Hypertension	51-79-6	Urethane	0.0
+D006973	Hypertension	99-66-1	Valproic Acid	0.0
+D006973	Hypertension	73168-24-8	vasopressin, 1-(1-mercaptocyclohexaneacetic acid)-2-(O- methyl-L-tyrosine)-8-L-arginine-	0.0
+D006973	Hypertension	52-53-9	Verapamil	0.0
+D006973	Hypertension	1406-16-2	Vitamin D	0.0
+D006973	Hypertension	1406-18-4	Vitamin E	0.0
+D006973	Hypertension	90-47-1	xanthone	0.0
+D006973	Hypertension	14293-44-8	Xipamide	0.0
+D006973	Hypertension	138381-45-0	Y 27632	0.0
+D006973	Hypertension	146-48-5	Yohimbine	0.0
+D006973	Hypertension	37762-06-4	zaprinast	0.0
+D006973	Hypertension	110703-94-1	zopolrestat	0.0
+D006976	Hypertension, Pulmonary	1449-05-4	18alpha-glycyrrhetinic acid	0.0
+D006976	Hypertension, Pulmonary	362-07-2	2-Methoxyestradiol	0.0
+D006976	Hypertension, Pulmonary	745-65-3	Alprostadil	0.0
+D006976	Hypertension, Pulmonary	60719-84-8	Amrinone	0.0
+D006976	Hypertension, Pulmonary	520-36-5	Apigenin	0.0
+D006976	Hypertension, Pulmonary	88430-50-6	beraprost	0.0
+D006976	Hypertension, Pulmonary	147536-97-8	Bosentan	0.0
+D006976	Hypertension, Pulmonary	25013-16-5	Butylated Hydroxyanisole	0.0
+D006976	Hypertension, Pulmonary	72956-09-3	Carvedilol	0.0
+D006976	Hypertension, Pulmonary	480-40-0	chrysin	0.0
+D006976	Hypertension, Pulmonary	92077-78-6	Cilazapril	0.0
+D006976	Hypertension, Pulmonary	78218-09-4	dazoxiben	0.0
+D006976	Hypertension, Pulmonary	364-98-7	Diazoxide	0.0
+D006976	Hypertension, Pulmonary	58-32-2	Dipyridamole	0.0
+D006976	Hypertension, Pulmonary	75847-73-3	Enalapril	0.0
+D006976	Hypertension, Pulmonary	989-51-5	epigallocatechin gallate	0.0
+D006976	Hypertension, Pulmonary	35121-78-9	Epoprostenol	0.0
+D006976	Hypertension, Pulmonary	437-38-7	Fentanyl	0.0
+D006976	Hypertension, Pulmonary	54910-89-3	Fluoxetine	0.0
+D006976	Hypertension, Pulmonary	127-07-1	Hydroxyurea	0.0
+D006976	Hypertension, Pulmonary	78919-13-8	Iloprost	0.0
+D006976	Hypertension, Pulmonary	53-86-1	Indomethacin	0.0
+D006976	Hypertension, Pulmonary	74050-98-9	Ketanserin	0.0
+D006976	Hypertension, Pulmonary	114798-26-4	Losartan	0.0
+D006976	Hypertension, Pulmonary	7487-88-9	Magnesium Sulfate	0.0
+D006976	Hypertension, Pulmonary	37350-58-6	Metoprolol	0.0
+D006976	Hypertension, Pulmonary	78415-72-2	Milrinone	0.0
+D006976	Hypertension, Pulmonary	38304-91-5	Minoxidil	0.0
+D006976	Hypertension, Pulmonary	118414-82-7	MK-886	0.0
+D006976	Hypertension, Pulmonary	465-65-6	Naloxone	0.0
+D006976	Hypertension, Pulmonary	21829-25-4	Nifedipine	0.0
+D006976	Hypertension, Pulmonary	10102-43-9	Nitric Oxide	0.0
+D006976	Hypertension, Pulmonary	55-63-0	Nitroglycerin	0.0
+D006976	Hypertension, Pulmonary	15078-28-1	Nitroprusside	0.0
+D006976	Hypertension, Pulmonary	7782-44-7	Oxygen	0.0
+D006976	Hypertension, Pulmonary	82571-53-7	ozagrel	0.0
+D006976	Hypertension, Pulmonary	50-60-2	Phentolamine	0.0
+D006976	Hypertension, Pulmonary	85371-64-8	Pinacidil	0.0
+D006976	Hypertension, Pulmonary	525-66-6	Propranolol	0.0
+D006976	Hypertension, Pulmonary	117-39-5	Quercetin	0.0
+D006976	Hypertension, Pulmonary	133652-38-7	reteplase	0.0
+D006976	Hypertension, Pulmonary	86819-20-7	sarpogrelate	0.0
+D006976	Hypertension, Pulmonary	79902-63-9	Simvastatin	0.0
+D006976	Hypertension, Pulmonary	59-98-3	Tolazoline	0.0
+D006976	Hypertension, Pulmonary	56211-40-6	Torsemide	0.0
+D006976	Hypertension, Pulmonary	99-66-1	Valproic Acid	0.0
+D006976	Hypertension, Pulmonary	81-81-2	Warfarin	0.0
+D006976	Hypertension, Pulmonary	107753-78-6	zafirlukast	0.0
+D006976	Hypertension, Pulmonary	132880-11-6	zileuton	0.0
+D007012	Hypopharyngeal Neoplasms	51803-78-2	nimesulide	0.0
+D007022	Hypotension	154447-36-6	2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one	0.0
+D007022	Hypotension	102575-24-6	2-methoxyidazoxan	0.0
+D007022	Hypotension	504-24-5	4-Aminopyridine	0.0
+D007022	Hypotension	5090-36-8	5,6-Dihydroxytryptamine	0.0
+D007022	Hypotension	31363-74-3	5,7-Dihydroxytryptamine	0.0
+D007022	Hypotension	57987-77-6	7,8-dichloro-1,2,3,4-tetrahydroisoquinoline	0.0
+D007022	Hypotension	148589-13-3	8-(3-chlorostyryl)caffeine	0.0
+D007022	Hypotension	80206-91-3	8-(4-sulfophenyl)theophylline	0.0
+D007022	Hypotension	961-45-5	8-phenyltheophylline	0.0
+D007022	Hypotension	103-90-2	Acetaminophen	0.0
+D007022	Hypotension	498-02-2	acetovanillone	0.0
+D007022	Hypotension	51-84-3	Acetylcholine	0.0
+D007022	Hypotension	616-91-1	Acetylcysteine	0.0
+D007022	Hypotension	306-60-5	Agmatine	0.0
+D007022	Hypotension	115-79-7	Ambenonium Chloride	0.0
+D007022	Hypotension	317-34-0	Aminophylline	0.0
+D007022	Hypotension	300-62-9	Amphetamine	0.0
+D007022	Hypotension	60719-84-8	Amrinone	0.0
+D007022	Hypotension	63-75-2	Arecoline	0.0
+D007022	Hypotension	113-79-1	Arginine Vasopressin	0.0
+D007022	Hypotension	50-81-7	Ascorbic Acid	0.0
+D007022	Hypotension	50-78-2	Aspirin	0.0
+D007022	Hypotension	29122-68-7	Atenolol	0.0
+D007022	Hypotension	51-55-8	Atropine	0.0
+D007022	Hypotension	1134-47-0	Baclofen	0.0
+D007022	Hypotension	322-35-0	Benserazide	0.0
+D007022	Hypotension	485-49-4	Bicuculline	0.0
+D007022	Hypotension	147536-97-8	Bosentan	0.0
+D007022	Hypotension	138866-14-5	bradykinin, 1-adamantanecarboxylic acid-Arg(0)-Hyp(3)-Thi(5,8)-Phe(7)-	0.0
+D007022	Hypotension	58-08-2	Caffeine	0.0
+D007022	Hypotension	7440-70-2	Calcium	0.0
+D007022	Hypotension	10043-52-4	Calcium Chloride	0.0
+D007022	Hypotension	299-28-5	Calcium Gluconate	0.0
+D007022	Hypotension	38821-49-7	Carbidopa	0.0
+D007022	Hypotension	72956-09-3	Carvedilol	0.0
+D007022	Hypotension	804-10-4	Chromonar	0.0
+D007022	Hypotension	51481-61-9	Cimetidine	0.0
+D007022	Hypotension	4205-90-7	Clonidine	0.0
+D007022	Hypotension	17780-72-2	Clorgyline	0.0
+D007022	Hypotension	138605-00-2	Colforsin	0.0
+D007022	Hypotension	50-22-6	Corticosterone	0.0
+D007022	Hypotension	96118-75-1	corticotropin releasing hormone (9-41)	0.0
+D007022	Hypotension	42553-65-1	crocin	0.0
+D007022	Hypotension	420-04-2	Cyanamide	0.0
+D007022	Hypotension	129-03-3	Cyproheptadine	0.0
+D007022	Hypotension	35231-36-8	deacetylmoxisylyte	0.0
+D007022	Hypotension	50-47-5	Desipramine	0.0
+D007022	Hypotension	50-02-2	Dexamethasone	0.0
+D007022	Hypotension	9004-54-0	Dextrans	0.0
+D007022	Hypotension	17479-19-5	Dihydroergocristine	0.0
+D007022	Hypotension	511-12-6	Dihydroergotamine	0.0
+D007022	Hypotension	42399-41-7	Diltiazem	0.0
+D007022	Hypotension	67-68-5	Dimethyl Sulfoxide	0.0
+D007022	Hypotension	58-73-1	Diphenhydramine	0.0
+D007022	Hypotension	58-32-2	Dipyridamole	0.0
+D007022	Hypotension	77086-22-7	Dizocilpine Maleate	0.0
+D007022	Hypotension	34368-04-2	Dobutamine	0.0
+D007022	Hypotension	57808-66-9	Domperidone	0.0
+D007022	Hypotension	51-61-6	Dopamine	0.0
+D007022	Hypotension	62078-98-2	DSP 4	0.0
+D007022	Hypotension	312-48-1	Edrophonium	0.0
+D007022	Hypotension	89197-32-0	efaroxan	0.0
+D007022	Hypotension	299-42-3	Ephedrine	0.0
+D007022	Hypotension	51-43-4	Epinephrine	0.0
+D007022	Hypotension	84057-94-3	esmolol	0.0
+D007022	Hypotension	58-54-8	Ethacrynic Acid	0.0
+D007022	Hypotension	64-17-5	Ethanol	0.0
+D007022	Hypotension	709-55-7	Etilefrine	0.0
+D007022	Hypotension	146-14-5	Flavin-Adenine Dinucleotide	0.0
+D007022	Hypotension	127-31-1	Fludrocortisone	0.0
+D007022	Hypotension	78755-81-4	Flumazenil	0.0
+D007022	Hypotension	105182-45-4	fluparoxan	0.0
+D007022	Hypotension	99796-69-7	ginkgolide B	0.0
+D007022	Hypotension	9007-92-5	Glucagon	0.0
+D007022	Hypotension	50-99-7	Glucose	0.0
+D007022	Hypotension	10238-21-8	Glyburide	0.0
+D007022	Hypotension	596-51-0	Glycopyrrolate	0.0
+D007022	Hypotension	55-65-2	Guanethidine	0.0
+D007022	Hypotension	52-86-8	Haloperidol	0.0
+D007022	Hypotension	312-45-8	Hemicholinium 3	0.0
+D007022	Hypotension	60-26-4	Hexamethonium	0.0
+D007022	Hypotension	50-23-7	Hydrocortisone	0.0
+D007022	Hypotension	15687-27-1	Ibuprofen	0.0
+D007022	Hypotension	130308-48-4	icatibant	0.0
+D007022	Hypotension	72795-19-8	ICI 118551	0.0
+D007022	Hypotension	79944-58-4	Idazoxan	0.0
+D007022	Hypotension	53-86-1	Indomethacin	0.0
+D007022	Hypotension	7683-59-2	Isoproterenol	0.0
+D007022	Hypotension	87-33-2	Isosorbide Dinitrate	0.0
+D007022	Hypotension	6740-88-1	Ketamine	0.0
+D007022	Hypotension	111466-41-2	L 657743	0.0
+D007022	Hypotension	36894-69-6	Labetalol	0.0
+D007022	Hypotension	137-58-6	Lidocaine	0.0
+D007022	Hypotension	100-92-5	Mephentermine	0.0
+D007022	Hypotension	54-49-9	Metaraminol	0.0
+D007022	Hypotension	91-80-5	Methapyrilene	0.0
+D007022	Hypotension	59-05-2	Methotrexate	0.0
+D007022	Hypotension	390-28-3	Methoxamine	0.0
+D007022	Hypotension	61-73-4	Methylene Blue	0.0
+D007022	Hypotension	2921-57-5	Methylprednisolone Hemisuccinate	0.0
+D007022	Hypotension	34839-70-8	Metiamide	0.0
+D007022	Hypotension	364-62-5	Metoclopramide	0.0
+D007022	Hypotension	37350-58-6	Metoprolol	0.0
+D007022	Hypotension	42794-76-3	Midodrine	0.0
+D007022	Hypotension	78415-72-2	Milrinone	0.0
+D007022	Hypotension	106791-40-6	Mivacurium	0.0
+D007022	Hypotension	118414-82-7	MK-886	0.0
+D007022	Hypotension	71320-77-9	Moclobemide	0.0
+D007022	Hypotension	54-32-0	Moxisylyte	0.0
+D007022	Hypotension	73232-50-5	N-methylnaloxone	0.0
+D007022	Hypotension	465-65-6	Naloxone	0.0
+D007022	Hypotension	16590-41-3	Naltrexone	0.0
+D007022	Hypotension	59-99-4	Neostigmine	0.0
+D007022	Hypotension	55-63-0	Nitroglycerin	0.0
+D007022	Hypotension	51-41-2	Norepinephrine	0.0
+D007022	Hypotension	114-90-9	Obidoxime Chloride	0.0
+D007022	Hypotension	99614-02-5	Ondansetron	0.0
+D007022	Hypotension	1199-18-4	Oxidopamine	0.0
+D007022	Hypotension	70-22-4	Oxotremorine	0.0
+D007022	Hypotension	47082-97-3	pargolol	0.0
+D007022	Hypotension	23180-57-6	peoniflorin	0.0
+D007022	Hypotension	50-60-2	Phentolamine	0.0
+D007022	Hypotension	59-42-7	Phenylephrine	0.0
+D007022	Hypotension	57-47-6	Physostigmine	0.0
+D007022	Hypotension	124-87-8	Picrotoxin	0.0
+D007022	Hypotension	13523-86-9	Pindolol	0.0
+D007022	Hypotension	59-39-2	Piperoxan	0.0
+D007022	Hypotension	9015-56-9	Polygeline	0.0
+D007022	Hypotension	19216-56-9	Prazosin	0.0
+D007022	Hypotension	51-06-9	Procainamide	0.0
+D007022	Hypotension	525-66-6	Propranolol	0.0
+D007022	Hypotension	80125-14-0	Remoxipride	0.0
+D007022	Hypotension	158681-13-1	Rimonabant	0.0
+D007022	Hypotension	91403-55-3	S 9871	0.0
+D007022	Hypotension	7440-23-5	Sodium	0.0
+D007022	Hypotension	144-55-8	Sodium Bicarbonate	0.0
+D007022	Hypotension	15676-16-1	Sulpiride	0.0
+D007022	Hypotension	321-64-2	Tacrine	0.0
+D007022	Hypotension	109581-93-3	Tacrolimus	0.0
+D007022	Hypotension	107-35-7	Taurine	0.0
+D007022	Hypotension	14636-12-5	Terlipressin	0.0
+D007022	Hypotension	83688-84-0	tertatolol	0.0
+D007022	Hypotension	58-46-8	Tetrabenazine	0.0
+D007022	Hypotension	80-12-6	tetramethylenedisulfotetramine	0.0
+D007022	Hypotension	58-55-9	Theophylline	0.0
+D007022	Hypotension	76-75-5	Thiopental	0.0
+D007022	Hypotension	13379-86-7	tiprenolol	0.0
+D007022	Hypotension	155-09-9	Tranylcypromine	0.0
+D007022	Hypotension	101-20-2	triclocarban	0.0
+D007022	Hypotension	5011-34-7	Trimetazidine	0.0
+D007022	Hypotension	57568-80-6	U 37883A	0.0
+D007022	Hypotension	8064-12-8	urovision	0.0
+D007022	Hypotension	11000-17-2	Vasopressins	0.0
+D007022	Hypotension	52-53-9	Verapamil	0.0
+D007022	Hypotension	19545-26-7	Wortmannin	0.0
+D007022	Hypotension	146-48-5	Yohimbine	0.0
+D007022	Hypotension	7440-66-6	Zinc	0.0
+D007024	Hypotension, Orthostatic	41658-78-0	amezinium	0.0
+D007024	Hypotension, Orthostatic	322-35-0	Benserazide	0.0
+D007024	Hypotension, Orthostatic	4205-90-7	Clonidine	0.0
+D007024	Hypotension, Orthostatic	511-12-6	Dihydroergotamine	0.0
+D007024	Hypotension, Orthostatic	22950-29-4	dimethophrine	0.0
+D007024	Hypotension, Orthostatic	57808-66-9	Domperidone	0.0
+D007024	Hypotension, Orthostatic	51-61-6	Dopamine	0.0
+D007024	Hypotension, Orthostatic	23651-95-8	Droxidopa	0.0
+D007024	Hypotension, Orthostatic	299-42-3	Ephedrine	0.0
+D007024	Hypotension, Orthostatic	113-15-5	Ergotamine	0.0
+D007024	Hypotension, Orthostatic	709-55-7	Etilefrine	0.0
+D007024	Hypotension, Orthostatic	127-31-1	Fludrocortisone	0.0
+D007024	Hypotension, Orthostatic	514-36-3	fludrocortisone acetate	0.0
+D007024	Hypotension, Orthostatic	372-66-7	Heptaminol	0.0
+D007024	Hypotension, Orthostatic	50-23-7	Hydrocortisone	0.0
+D007024	Hypotension, Orthostatic	53-86-1	Indomethacin	0.0
+D007024	Hypotension, Orthostatic	87-33-2	Isosorbide Dinitrate	0.0
+D007024	Hypotension, Orthostatic	42794-76-3	Midodrine	0.0
+D007024	Hypotension, Orthostatic	59-99-4	Neostigmine	0.0
+D007024	Hypotension, Orthostatic	536-21-0	norfenefrine	0.0
+D007024	Hypotension, Orthostatic	83150-76-9	Octreotide	0.0
+D007024	Hypotension, Orthostatic	59-42-7	Phenylephrine	0.0
+D007024	Hypotension, Orthostatic	57-47-6	Physostigmine	0.0
+D007024	Hypotension, Orthostatic	438-60-8	Protriptyline	0.0
+D007024	Hypotension, Orthostatic	68-19-9	Vitamin B 12	0.0
+D007024	Hypotension, Orthostatic	146-48-5	Yohimbine	0.0
+D054990	Idiopathic Pulmonary Fibrosis	1327-53-3	Arsenic Trioxide	0.0
+D054990	Idiopathic Pulmonary Fibrosis	363-24-6	Dinoprostone	0.0
+D054990	Idiopathic Pulmonary Fibrosis	53179-13-8	pirfenidone	0.0
+D007251	Influenza, Human	34522-38-8	1'-methylspiro(adamantane-2,3'-pyrrolidine)maleate	0.0
+D007251	Influenza, Human	28441-98-7	agathisflavone	0.0
+D007251	Influenza, Human	768-94-5	Amantadine	0.0
+D007251	Influenza, Human	1617-53-4	amentoflavone	0.0
+D007251	Influenza, Human	50-78-2	Aspirin	0.0
+D007251	Influenza, Human	83905-01-5	Azithromycin	0.0
+D007251	Influenza, Human	21637-25-2	isoquercitrin	0.0
+D007251	Influenza, Human	57-66-9	Probenecid	0.0
+D007251	Influenza, Human	90-82-4	Pseudoephedrine	0.0
+D007251	Influenza, Human	25769-03-3	pyrrolidine dithiocarbamic acid	0.0
+D007251	Influenza, Human	117-39-5	Quercetin	0.0
+D007251	Influenza, Human	13392-28-4	Rimantadine	0.0
+D007251	Influenza, Human	7782-49-2	Selenium	0.0
+D007251	Influenza, Human	1406-18-4	Vitamin E	0.0
+D057767	Kashin-Beck Disease	7782-49-2	Selenium	0.0
+D007819	Laryngeal Edema	51-43-4	Epinephrine	0.0
+D007822	Laryngeal Neoplasms	11056-06-7	Bleomycin	0.0
+D007822	Laryngeal Neoplasms	51-21-8	Fluorouracil	0.0
+D007826	Laryngismus	58-73-1	Diphenhydramine	0.0
+D007826	Laryngismus	465-65-6	Naloxone	0.0
+D007826	Laryngismus	306-40-1	Succinylcholine	0.0
+D007829	Laryngostenosis	50-02-2	Dexamethasone	0.0
+D008133	Long QT Syndrome	616-91-1	Acetylcysteine	0.0
+D008133	Long QT Syndrome	104-46-1	anethole	0.0
+D008133	Long QT Syndrome	37640-71-4	Aprindine	0.0
+D008133	Long QT Syndrome	50-81-7	Ascorbic Acid	0.0
+D008133	Long QT Syndrome	29122-68-7	Atenolol	0.0
+D008133	Long QT Syndrome	299-28-5	Calcium Gluconate	0.0
+D008133	Long QT Syndrome	34919-98-7	cetamolol	0.0
+D008133	Long QT Syndrome	16291-96-6	Charcoal	0.0
+D008133	Long QT Syndrome	42553-65-1	crocin	0.0
+D008133	Long QT Syndrome	59-52-9	Dimercaprol	0.0
+D008133	Long QT Syndrome	84680-54-6	Enalaprilat	0.0
+D008133	Long QT Syndrome	97-53-0	Eugenol	0.0
+D008133	Long QT Syndrome	624-15-7	geraniol	0.0
+D008133	Long QT Syndrome	50-23-7	Hydrocortisone	0.0
+D008133	Long QT Syndrome	7683-59-2	Isoproterenol	0.0
+D008133	Long QT Syndrome	137-58-6	Lidocaine	0.0
+D008133	Long QT Syndrome	7439-95-4	Magnesium	0.0
+D008133	Long QT Syndrome	7487-88-9	Magnesium Sulfate	0.0
+D008133	Long QT Syndrome	37350-58-6	Metoprolol	0.0
+D008133	Long QT Syndrome	31828-71-4	Mexiletine	0.0
+D008133	Long QT Syndrome	57-41-0	Phenytoin	0.0
+D008133	Long QT Syndrome	525-66-6	Propranolol	0.0
+D008133	Long QT Syndrome	153-18-4	Rutin	0.0
+D008133	Long QT Syndrome	79902-63-9	Simvastatin	0.0
+D008133	Long QT Syndrome	62-46-4	Thioctic Acid	0.0
+D008133	Long QT Syndrome	26839-75-8	Timolol	0.0
+D008133	Long QT Syndrome	41708-72-9	Tocainide	0.0
+D008133	Long QT Syndrome	5011-34-7	Trimetazidine	0.0
+D008175	Lung Neoplasms	88-14-2	2-furoic acid	0.0
+D008175	Lung Neoplasms	2409-55-4	2-tert-butyl-4-methylphenol	0.0
+D008175	Lung Neoplasms	528-74-5	3',5'-dichloromethotrexate	0.0
+D008175	Lung Neoplasms	4843-98-5	4-hydroxypyrazole	0.0
+D008175	Lung Neoplasms	115039-00-4	6-methyl-1,3,8-trichlorodibenzofuran	0.0
+D008175	Lung Neoplasms	60203-57-8	9-deoxy-delta-9-prostaglandin D2	0.0
+D008175	Lung Neoplasms	56-65-5	Adenosine Triphosphate	0.0
+D008175	Lung Neoplasms	850140-72-6	Afatinib	0.0
+D008175	Lung Neoplasms	5300-03-8	Alitretinoin	0.0
+D008175	Lung Neoplasms	59-02-9	alpha-Tocopherol	0.0
+D008175	Lung Neoplasms	317-34-0	Aminophylline	0.0
+D008175	Lung Neoplasms	532-11-6	Anethole Trithione	0.0
+D008175	Lung Neoplasms	1327-53-3	Arsenic Trioxide	0.0
+D008175	Lung Neoplasms	50-81-7	Ascorbic Acid	0.0
+D008175	Lung Neoplasms	34031-32-8	Auranofin	0.0
+D008175	Lung Neoplasms	320-67-2	Azacitidine	0.0
+D008175	Lung Neoplasms	491-67-8	baicalein	0.0
+D008175	Lung Neoplasms	7235-40-7	beta Carotene	0.0
+D008175	Lung Neoplasms	11056-06-7	Bleomycin	0.0
+D008175	Lung Neoplasms	16170-76-6	bromebric acid	0.0
+D008175	Lung Neoplasms	51333-22-3	Budesonide	0.0
+D008175	Lung Neoplasms	497-23-4	butenolide	0.0
+D008175	Lung Neoplasms	5072-26-4	Buthionine Sulfoximine	0.0
+D008175	Lung Neoplasms	107-92-6	Butyric Acid	0.0
+D008175	Lung Neoplasms	58-08-2	Caffeine	0.0
+D008175	Lung Neoplasms	32222-06-3	Calcitriol	0.0
+D008175	Lung Neoplasms	289499-45-2	Canertinib	0.0
+D008175	Lung Neoplasms	56-25-7	Cantharidin	0.0
+D008175	Lung Neoplasms	404-86-4	Capsaicin	0.0
+D008175	Lung Neoplasms	41575-94-4	Carboplatin	0.0
+D008175	Lung Neoplasms	154-93-8	Carmustine	0.0
+D008175	Lung Neoplasms	94-41-7	Chalcone	0.0
+D008175	Lung Neoplasms	54749-90-5	chlorozotocin	0.0
+D008175	Lung Neoplasms	480-40-0	chrysin	0.0
+D008175	Lung Neoplasms	74772-77-3	ciglitazone	0.0
+D008175	Lung Neoplasms	85721-33-1	Ciprofloxacin	0.0
+D008175	Lung Neoplasms	15663-27-1	Cisplatin	0.0
+D008175	Lung Neoplasms	4291-63-8	Cladribine	0.0
+D008175	Lung Neoplasms	23593-75-1	Clotrimazole	0.0
+D008175	Lung Neoplasms	458-37-7	Curcumin	0.0
+D008175	Lung Neoplasms	4449-51-8	cyclopamine	0.0
+D008175	Lung Neoplasms	50-18-0	Cyclophosphamide	0.0
+D008175	Lung Neoplasms	2353-33-5	Decitabine	0.0
+D008175	Lung Neoplasms	522-17-8	deguelin	0.0
+D008175	Lung Neoplasms	154-17-6	Deoxyglucose	0.0
+D008175	Lung Neoplasms	50-02-2	Dexamethasone	0.0
+D008175	Lung Neoplasms	25167-62-8	Docosahexaenoic Acids	0.0
+D008175	Lung Neoplasms	23214-92-8	Doxorubicin	0.0
+D008175	Lung Neoplasms	989-51-5	epigallocatechin gallate	0.0
+D008175	Lung Neoplasms	56420-45-2	Epirubicin	0.0
+D008175	Lung Neoplasms	22668-01-5	Etanidazole	0.0
+D008175	Lung Neoplasms	33419-42-0	Etoposide	0.0
+D008175	Lung Neoplasms	76824-35-6	Famotidine	0.0
+D008175	Lung Neoplasms	51-21-8	Fluorouracil	0.0
+D008175	Lung Neoplasms	50773-42-7	formosanin C	0.0
+D008175	Lung Neoplasms	103882-84-4	gemcitabine	0.0
+D008175	Lung Neoplasms	446-72-0	Genistein	0.0
+D008175	Lung Neoplasms	624-15-7	geraniol	0.0
+D008175	Lung Neoplasms	9005-49-6	Heparin	0.0
+D008175	Lung Neoplasms	3778-73-2	Ifosfamide	0.0
+D008175	Lung Neoplasms	53-86-1	Indomethacin	0.0
+D008175	Lung Neoplasms	6917-35-7	Inositol	0.0
+D008175	Lung Neoplasms	4759-48-2	Isotretinoin	0.0
+D008175	Lung Neoplasms	58-05-9	Leucovorin	0.0
+D008175	Lung Neoplasms	2197-37-7	Linoleic Acid	0.0
+D008175	Lung Neoplasms	13010-47-4	Lomustine	0.0
+D008175	Lung Neoplasms	114798-26-4	Losartan	0.0
+D008175	Lung Neoplasms	4773-96-0	mangiferin	0.0
+D008175	Lung Neoplasms	520-85-4	Medroxyprogesterone	0.0
+D008175	Lung Neoplasms	73-31-4	Melatonin	0.0
+D008175	Lung Neoplasms	19767-45-4	Mesna	0.0
+D008175	Lung Neoplasms	59-05-2	Methotrexate	0.0
+D008175	Lung Neoplasms	298-81-7	Methoxsalen	0.0
+D008175	Lung Neoplasms	13551-87-6	Misonidazole	0.0
+D008175	Lung Neoplasms	50-07-7	Mitomycin	0.0
+D008175	Lung Neoplasms	118414-82-7	MK-886	0.0
+D008175	Lung Neoplasms	57-27-2	Morphine	0.0
+D008175	Lung Neoplasms	42471-28-3	Nimustine	0.0
+D008175	Lung Neoplasms	83-86-3	Phytic Acid	0.0
+D008175	Lung Neoplasms	150-86-7	Phytol	0.0
+D008175	Lung Neoplasms	39325-01-4	Picibanil	0.0
+D008175	Lung Neoplasms	36322-90-4	Piroxicam	0.0
+D008175	Lung Neoplasms	117-39-5	Quercetin	0.0
+D008175	Lung Neoplasms	170449-18-0	RTKI cpd	0.0
+D008175	Lung Neoplasms	22888-70-6	Silybin	0.0
+D008175	Lung Neoplasms	38194-50-2	Sulindac	0.0
+D008175	Lung Neoplasms	59864-04-9	sulindac sulfone	0.0
+D008175	Lung Neoplasms	10540-29-1	Tamoxifen	0.0
+D008175	Lung Neoplasms	17902-23-7	Tegafur	0.0
+D008175	Lung Neoplasms	50-35-1	Thalidomide	0.0
+D008175	Lung Neoplasms	58-55-9	Theophylline	0.0
+D008175	Lung Neoplasms	58880-19-6	trichostatin A	0.0
+D008175	Lung Neoplasms	97322-87-7	Troglitazone	0.0
+D008175	Lung Neoplasms	53643-48-4	Vindesine	0.0
+D008175	Lung Neoplasms	71486-22-1	Vinorelbine	0.0
+D008175	Lung Neoplasms	1406-18-4	Vitamin E	0.0
+D008175	Lung Neoplasms	6754-58-1	xanthohumol	0.0
+D018192	Lymphangioleiomyomatosis	71-58-9	Medroxyprogesterone Acetate	0.0
+D008944	Mitral Valve Insufficiency	20830-75-5	Digoxin	0.0
+D008944	Mitral Valve Insufficiency	75847-73-3	Enalapril	0.0
+D008944	Mitral Valve Insufficiency	54-31-9	Furosemide	0.0
+D008944	Mitral Valve Insufficiency	7553-56-2	Iodine	0.0
+D008944	Mitral Valve Insufficiency	15078-28-1	Nitroprusside	0.0
+D008944	Mitral Valve Insufficiency	50-60-2	Phentolamine	0.0
+D008944	Mitral Valve Insufficiency	19216-56-9	Prazosin	0.0
+D008946	Mitral Valve Stenosis	81-81-2	Warfarin	0.0
+D009164	Mycobacterium Infections	83905-01-5	Azithromycin	0.0
+D009164	Mycobacterium Infections	85721-33-1	Ciprofloxacin	0.0
+D009164	Mycobacterium Infections	15663-27-1	Cisplatin	0.0
+D009164	Mycobacterium Infections	81103-11-9	Clarithromycin	0.0
+D009164	Mycobacterium Infections	74-55-5	Ethambutol	0.0
+D009164	Mycobacterium Infections	150378-17-9	Indinavir	0.0
+D009164	Mycobacterium Infections	54-85-3	Isoniazid	0.0
+D009164	Mycobacterium Infections	82419-36-1	Ofloxacin	0.0
+D009164	Mycobacterium Infections	96829-58-2	Orlistat	0.0
+D009164	Mycobacterium Infections	13292-46-1	Rifampin	0.0
+D009164	Mycobacterium Infections	8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	0.0
+D009181	Mycoses	1951-25-3	Amiodarone	0.0
+D009181	Mycoses	1397-89-3	Amphotericin B	0.0
+D009181	Mycoses	87687-70-5	amphotericin B, deoxycholate drug combination	0.0
+D009181	Mycoses	7184-60-3	borrelidin	0.0
+D009181	Mycoses	23593-75-1	Clotrimazole	0.0
+D009181	Mycoses	13699-48-4	Dimyristoylphosphatidylcholine	0.0
+D009181	Mycoses	61361-72-6	dimyristoylphosphatidylglycerol	0.0
+D009181	Mycoses	86386-73-4	Fluconazole	0.0
+D009181	Mycoses	2022-85-7	Flucytosine	0.0
+D009181	Mycoses	126-07-8	Griseofulvin	0.0
+D009181	Mycoses	84625-61-6	Itraconazole	0.0
+D009181	Mycoses	65277-42-1	Ketoconazole	0.0
+D009181	Mycoses	22916-47-8	Miconazole	0.0
+D009181	Mycoses	7681-93-8	Natamycin	0.0
+D009181	Mycoses	1400-61-9	Nystatin	0.0
+D009181	Mycoses	99592-32-2	sertaconazole	0.0
+D009181	Mycoses	91161-71-6	Terbinafine	0.0
+D009203	Myocardial Infarction	163042-96-4	2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronamide	0.0
+D009203	Myocardial Infarction	146-77-0	2-Chloroadenosine	0.0
+D009203	Myocardial Infarction	1821-12-1	4-phenylbutyric acid	0.0
+D009203	Myocardial Infarction	484-20-8	5-Methoxypsoralen	0.0
+D009203	Myocardial Infarction	50608-63-4	6-methyl-1,2,3,5-tetrahydroimidazo(2,1-b)quinazolin-2-one hydrochloride	0.0
+D009203	Myocardial Infarction	103-90-2	Acetaminophen	0.0
+D009203	Myocardial Infarction	616-91-1	Acetylcysteine	0.0
+D009203	Myocardial Infarction	59-02-9	alpha-Tocopherol	0.0
+D009203	Myocardial Infarction	28981-97-7	Alprazolam	0.0
+D009203	Myocardial Infarction	1951-25-3	Amiodarone	0.0
+D009203	Myocardial Infarction	88150-42-9	Amlodipine	0.0
+D009203	Myocardial Infarction	104-46-1	anethole	0.0
+D009203	Myocardial Infarction	50-81-7	Ascorbic Acid	0.0
+D009203	Myocardial Infarction	50-78-2	Aspirin	0.0
+D009203	Myocardial Infarction	29122-68-7	Atenolol	0.0
+D009203	Myocardial Infarction	149888-94-8	azimilide	0.0
+D009203	Myocardial Infarction	107-43-7	Betaine	0.0
+D009203	Myocardial Infarction	41859-67-0	Bezafibrate	0.0
+D009203	Myocardial Infarction	515-69-5	bisabolol	0.0
+D009203	Myocardial Infarction	66722-44-9	Bisoprolol	0.0
+D009203	Myocardial Infarction	147536-97-8	Bosentan	0.0
+D009203	Myocardial Infarction	80755-51-7	bunazosin	0.0
+D009203	Myocardial Infarction	52485-79-7	Buprenorphine	0.0
+D009203	Myocardial Infarction	331-39-5	caffeic acid	0.0
+D009203	Myocardial Infarction	104594-70-9	caffeic acid phenethyl ester	0.0
+D009203	Myocardial Infarction	72956-09-3	Carvedilol	0.0
+D009203	Myocardial Infarction	154-23-4	Catechin	0.0
+D009203	Myocardial Infarction	74772-77-3	ciglitazone	0.0
+D009203	Myocardial Infarction	73963-72-1	Cilostazol	0.0
+D009203	Myocardial Infarction	637-07-0	Clofibrate	0.0
+D009203	Myocardial Infarction	7646-79-9	cobaltous chloride	0.0
+D009203	Myocardial Infarction	458-37-7	Curcumin	0.0
+D009203	Myocardial Infarction	113775-47-6	Dexmedetomidine	0.0
+D009203	Myocardial Infarction	66-76-2	Dicumarol	0.0
+D009203	Myocardial Infarction	42399-41-7	Diltiazem	0.0
+D009203	Myocardial Infarction	58-32-2	Dipyridamole	0.0
+D009203	Myocardial Infarction	3737-09-5	Disopyramide	0.0
+D009203	Myocardial Infarction	34368-04-2	Dobutamine	0.0
+D009203	Myocardial Infarction	120011-70-3	Donepezil	0.0
+D009203	Myocardial Infarction	120608-46-0	duteplase	0.0
+D009203	Myocardial Infarction	476-66-4	Ellagic Acid	0.0
+D009203	Myocardial Infarction	75847-73-3	Enalapril	0.0
+D009203	Myocardial Infarction	77671-31-9	Enoximone	0.0
+D009203	Myocardial Infarction	989-51-5	epigallocatechin gallate	0.0
+D009203	Myocardial Infarction	50-28-2	Estradiol	0.0
+D009203	Myocardial Infarction	49562-28-9	Fenofibrate	0.0
+D009203	Myocardial Infarction	1135-24-6	ferulic acid	0.0
+D009203	Myocardial Infarction	54143-55-4	Flecainide	0.0
+D009203	Myocardial Infarction	93957-54-1	Fluvastatin	0.0
+D009203	Myocardial Infarction	149-91-7	Gallic Acid	0.0
+D009203	Myocardial Infarction	446-72-0	Genistein	0.0
+D009203	Myocardial Infarction	22910-60-7	ginkgolic acid	0.0
+D009203	Myocardial Infarction	52705-93-8	ginsenoside Rd	0.0
+D009203	Myocardial Infarction	52286-59-6	ginsenoside Re	0.0
+D009203	Myocardial Infarction	22427-39-0	ginsenoside Rg1	0.0
+D009203	Myocardial Infarction	21187-98-4	Gliclazide	0.0
+D009203	Myocardial Infarction	55-65-2	Guanethidine	0.0
+D009203	Myocardial Infarction	9005-49-6	Heparin	0.0
+D009203	Myocardial Infarction	35354-74-6	honokiol	0.0
+D009203	Myocardial Infarction	89371-37-9	imidapril	0.0
+D009203	Myocardial Infarction	138402-11-6	Irbesartan	0.0
+D009203	Myocardial Infarction	87-33-2	Isosorbide Dinitrate	0.0
+D009203	Myocardial Infarction	16051-77-7	isosorbide-5-mononitrate	0.0
+D009203	Myocardial Infarction	139298-40-1	KN 93	0.0
+D009203	Myocardial Infarction	137-58-6	Lidocaine	0.0
+D009203	Myocardial Infarction	83915-83-7	Lisinopril	0.0
+D009203	Myocardial Infarction	7439-93-2	Lithium	0.0
+D009203	Myocardial Infarction	114798-26-4	Losartan	0.0
+D009203	Myocardial Infarction	127-40-2	Lutein	0.0
+D009203	Myocardial Infarction	528-43-8	magnolol	0.0
+D009203	Myocardial Infarction	4773-96-0	mangiferin	0.0
+D009203	Myocardial Infarction	6147-11-1	mangostin	0.0
+D009203	Myocardial Infarction	73-31-4	Melatonin	0.0
+D009203	Myocardial Infarction	657-24-9	Metformin	0.0
+D009203	Myocardial Infarction	2921-57-5	Methylprednisolone Hemisuccinate	0.0
+D009203	Myocardial Infarction	37350-58-6	Metoprolol	0.0
+D009203	Myocardial Infarction	116644-53-2	Mibefradil	0.0
+D009203	Myocardial Infarction	78415-72-2	Milrinone	0.0
+D009203	Myocardial Infarction	57-27-2	Morphine	0.0
+D009203	Myocardial Infarction	529-44-2	myricetin	0.0
+D009203	Myocardial Infarction	10236-47-2	naringin	0.0
+D009203	Myocardial Infarction	65141-46-0	Nicorandil	0.0
+D009203	Myocardial Infarction	21829-25-4	Nifedipine	0.0
+D009203	Myocardial Infarction	51803-78-2	nimesulide	0.0
+D009203	Myocardial Infarction	63675-72-9	Nisoldipine	0.0
+D009203	Myocardial Infarction	10102-43-9	Nitric Oxide	0.0
+D009203	Myocardial Infarction	55-63-0	Nitroglycerin	0.0
+D009203	Myocardial Infarction	15078-28-1	Nitroprusside	0.0
+D009203	Myocardial Infarction	6452-71-7	Oxprenolol	0.0
+D009203	Myocardial Infarction	359-83-1	Pentazocine	0.0
+D009203	Myocardial Infarction	6724-53-4	perhexiline maleate	0.0
+D009203	Myocardial Infarction	82834-16-0	Perindopril	0.0
+D009203	Myocardial Infarction	83-12-5	Phenindione	0.0
+D009203	Myocardial Infarction	59-96-1	Phenoxybenzamine	0.0
+D009203	Myocardial Infarction	50-60-2	Phentolamine	0.0
+D009203	Myocardial Infarction	111025-46-8	Pioglitazone	0.0
+D009203	Myocardial Infarction	50892-23-4	pirinixic acid	0.0
+D009203	Myocardial Infarction	36322-90-4	Piroxicam	0.0
+D009203	Myocardial Infarction	81093-37-0	Pravastatin	0.0
+D009203	Myocardial Infarction	50-24-8	Prednisolone	0.0
+D009203	Myocardial Infarction	51-06-9	Procainamide	0.0
+D009203	Myocardial Infarction	525-66-6	Propranolol	0.0
+D009203	Myocardial Infarction	14152-28-4	prostaglandin A1	0.0
+D009203	Myocardial Infarction	117-39-5	Quercetin	0.0
+D009203	Myocardial Infarction	87333-19-5	Ramipril	0.0
+D009203	Myocardial Infarction	133652-38-7	reteplase	0.0
+D009203	Myocardial Infarction	21593-77-1	S-allylcysteine	0.0
+D009203	Myocardial Infarction	8001-23-8	Safflower Oil	0.0
+D009203	Myocardial Infarction	533-31-3	sesamol	0.0
+D009203	Myocardial Infarction	131741-08-7	Simendan	0.0
+D009203	Myocardial Infarction	79902-63-9	Simvastatin	0.0
+D009203	Myocardial Infarction	10102-17-7	sodium thiosulfate	0.0
+D009203	Myocardial Infarction	3930-20-9	Sotalol	0.0
+D009203	Myocardial Infarction	52-01-7	Spironolactone	0.0
+D009203	Myocardial Infarction	111-02-4	Squalene	0.0
+D009203	Myocardial Infarction	57-96-5	Sulfinpyrazone	0.0
+D009203	Myocardial Infarction	107-35-7	Taurine	0.0
+D009203	Myocardial Infarction	518-34-3	tetrandrine	0.0
+D009203	Myocardial Infarction	55142-85-3	Ticlopidine	0.0
+D009203	Myocardial Infarction	26839-75-8	Timolol	0.0
+D009203	Myocardial Infarction	322-79-2	triflusal	0.0
+D009203	Myocardial Infarction	52-53-9	Verapamil	0.0
+D009203	Myocardial Infarction	1406-18-4	Vitamin E	0.0
+D009203	Myocardial Infarction	81-81-2	Warfarin	0.0
+D009203	Myocardial Infarction	146-48-5	Yohimbine	0.0
+D017202	Myocardial Ischemia	33100-27-5	15-crown-5	0.0
+D017202	Myocardial Ischemia	53296-10-9	2-phenylaminoadenosine	0.0
+D017202	Myocardial Ischemia	37517-30-9	Acebutolol	0.0
+D017202	Myocardial Ischemia	616-91-1	Acetylcysteine	0.0
+D017202	Myocardial Ischemia	58-61-7	Adenosine	0.0
+D017202	Myocardial Ischemia	317-34-0	Aminophylline	0.0
+D017202	Myocardial Ischemia	1951-25-3	Amiodarone	0.0
+D017202	Myocardial Ischemia	50-48-6	Amitriptyline	0.0
+D017202	Myocardial Ischemia	88150-42-9	Amlodipine	0.0
+D017202	Myocardial Ischemia	50-78-2	Aspirin	0.0
+D017202	Myocardial Ischemia	29122-68-7	Atenolol	0.0
+D017202	Myocardial Ischemia	86541-75-5	benazepril	0.0
+D017202	Myocardial Ischemia	12794-10-4	Benzodiazepines	0.0
+D017202	Myocardial Ischemia	107-43-7	Betaine	0.0
+D017202	Myocardial Ischemia	128270-60-0	bivalirudin	0.0
+D017202	Myocardial Ischemia	28395-03-1	Bumetanide	0.0
+D017202	Myocardial Ischemia	80755-51-7	bunazosin	0.0
+D017202	Myocardial Ischemia	2180-92-9	Bupivacaine	0.0
+D017202	Myocardial Ischemia	58-08-2	Caffeine	0.0
+D017202	Myocardial Ischemia	72956-09-3	Carvedilol	0.0
+D017202	Myocardial Ischemia	4205-90-7	Clonidine	0.0
+D017202	Myocardial Ischemia	458-37-7	Curcumin	0.0
+D017202	Myocardial Ischemia	113775-47-6	Dexmedetomidine	0.0
+D017202	Myocardial Ischemia	42399-41-7	Diltiazem	0.0
+D017202	Myocardial Ischemia	58-32-2	Dipyridamole	0.0
+D017202	Myocardial Ischemia	34368-04-2	Dobutamine	0.0
+D017202	Myocardial Ischemia	510-30-5	echinocystic acid	0.0
+D017202	Myocardial Ischemia	84057-94-3	esmolol	0.0
+D017202	Myocardial Ischemia	57-63-6	Ethinyl Estradiol	0.0
+D017202	Myocardial Ischemia	16662-47-8	Gallopamil	0.0
+D017202	Myocardial Ischemia	9005-49-6	Heparin	0.0
+D017202	Myocardial Ischemia	50-23-7	Hydrocortisone	0.0
+D017202	Myocardial Ischemia	87-33-2	Isosorbide Dinitrate	0.0
+D017202	Myocardial Ischemia	16051-77-7	isosorbide-5-mononitrate	0.0
+D017202	Myocardial Ischemia	36894-69-6	Labetalol	0.0
+D017202	Myocardial Ischemia	69-65-8	Mannitol	0.0
+D017202	Myocardial Ischemia	73-31-4	Melatonin	0.0
+D017202	Myocardial Ischemia	37350-58-6	Metoprolol	0.0
+D017202	Myocardial Ischemia	36396-99-3	N(6)-cyclohexyladenosine	0.0
+D017202	Myocardial Ischemia	55985-32-5	Nicardipine	0.0
+D017202	Myocardial Ischemia	100-55-0	Nicotinyl Alcohol	0.0
+D017202	Myocardial Ischemia	21829-25-4	Nifedipine	0.0
+D017202	Myocardial Ischemia	63675-72-9	Nisoldipine	0.0
+D017202	Myocardial Ischemia	10102-43-9	Nitric Oxide	0.0
+D017202	Myocardial Ischemia	55-63-0	Nitroglycerin	0.0
+D017202	Myocardial Ischemia	51-41-2	Norepinephrine	0.0
+D017202	Myocardial Ischemia	38673-38-0	Norethindrone Acetate	0.0
+D017202	Myocardial Ischemia	508-02-1	Oleanolic Acid	0.0
+D017202	Myocardial Ischemia	6452-71-7	Oxprenolol	0.0
+D017202	Myocardial Ischemia	6493-05-6	Pentoxifylline	0.0
+D017202	Myocardial Ischemia	82834-16-0	Perindopril	0.0
+D017202	Myocardial Ischemia	50-60-2	Phentolamine	0.0
+D017202	Myocardial Ischemia	59-46-1	Procaine	0.0
+D017202	Myocardial Ischemia	525-66-6	Propranolol	0.0
+D017202	Myocardial Ischemia	3681-99-0	puerarin	0.0
+D017202	Myocardial Ischemia	101-26-8	Pyridostigmine Bromide	0.0
+D017202	Myocardial Ischemia	26652-09-5	Ritodrine	0.0
+D017202	Myocardial Ischemia	131741-08-7	Simendan	0.0
+D017202	Myocardial Ischemia	3930-20-9	Sotalol	0.0
+D017202	Myocardial Ischemia	58-22-0	Testosterone	0.0
+D017202	Myocardial Ischemia	58-55-9	Theophylline	0.0
+D017202	Myocardial Ischemia	5011-34-7	Trimetazidine	0.0
+D017202	Myocardial Ischemia	77-52-1	ursolic acid	0.0
+D017202	Myocardial Ischemia	52-53-9	Verapamil	0.0
+D017202	Myocardial Ischemia	81-81-2	Warfarin	0.0
+D017202	Myocardial Ischemia	146-48-5	Yohimbine	0.0
+D017202	Myocardial Ischemia	85175-67-3	zatebradine	0.0
+D009205	Myocarditis	616-91-1	Acetylcysteine	0.0
+D009205	Myocarditis	18559-94-9	Albuterol	0.0
+D009205	Myocarditis	1951-25-3	Amiodarone	0.0
+D009205	Myocarditis	446-86-6	Azathioprine	0.0
+D009205	Myocarditis	72956-09-3	Carvedilol	0.0
+D009205	Myocarditis	458-37-7	Curcumin	0.0
+D009205	Myocarditis	24697-74-3	leonurine	0.0
+D009205	Myocarditis	83-43-2	Methylprednisolone	0.0
+D009205	Myocarditis	74150-27-9	pimobendan	0.0
+D009205	Myocarditis	50-24-8	Prednisolone	0.0
+D009205	Myocarditis	53-03-2	Prednisone	0.0
+D009205	Myocarditis	131741-08-7	Simendan	0.0
+D009205	Myocarditis	1406-18-4	Vitamin E	0.0
+D015508	Nasal Obstruction	51333-22-3	Budesonide	0.0
+D015508	Nasal Obstruction	50-02-2	Dexamethasone	0.0
+D009298	Nasal Polyps	59-05-2	Methotrexate	0.0
+D009298	Nasal Polyps	107753-78-6	zafirlukast	0.0
+D009298	Nasal Polyps	132880-11-6	zileuton	0.0
+D009303	Nasopharyngeal Neoplasms	92891-93-5	2-((((2-chloroethyl)nitrosoamino)carbonyl)amino)propanamide	0.0
+D009303	Nasopharyngeal Neoplasms	41575-94-4	Carboplatin	0.0
+D009303	Nasopharyngeal Neoplasms	15663-27-1	Cisplatin	0.0
+D009303	Nasopharyngeal Neoplasms	51-21-8	Fluorouracil	0.0
+D009303	Nasopharyngeal Neoplasms	59-30-3	Folic Acid	0.0
+D009362	Neoplasm Metastasis	154447-36-6	2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one	0.0
+D009362	Neoplasm Metastasis	4339-71-3	3,3',4,5'-tetrahydroxystilbene	0.0
+D009362	Neoplasm Metastasis	577-85-5	3-hydroxyflavone	0.0
+D009362	Neoplasm Metastasis	101-77-9	4,4'-diaminodiphenylmethane	0.0
+D009362	Neoplasm Metastasis	1076-38-6	4-hydroxycoumarin	0.0
+D009362	Neoplasm Metastasis	115039-00-4	6-methyl-1,3,8-trichlorodibenzofuran	0.0
+D009362	Neoplasm Metastasis	616-91-1	Acetylcysteine	0.0
+D009362	Neoplasm Metastasis	59-02-9	alpha-Tocopherol	0.0
+D009362	Neoplasm Metastasis	125-84-8	Aminoglutethimide	0.0
+D009362	Neoplasm Metastasis	104-46-1	anethole	0.0
+D009362	Neoplasm Metastasis	520-36-5	Apigenin	0.0
+D009362	Neoplasm Metastasis	1327-53-3	Arsenic Trioxide	0.0
+D009362	Neoplasm Metastasis	4419-39-0	Beclomethasone	0.0
+D009362	Neoplasm Metastasis	472-15-1	betulinic acid	0.0
+D009362	Neoplasm Metastasis	7184-60-3	borrelidin	0.0
+D009362	Neoplasm Metastasis	600-76-0	brazilein	0.0
+D009362	Neoplasm Metastasis	357-57-3	brucine	0.0
+D009362	Neoplasm Metastasis	104594-70-9	caffeic acid phenethyl ester	0.0
+D009362	Neoplasm Metastasis	13956-29-1	Cannabidiol	0.0
+D009362	Neoplasm Metastasis	298-46-4	Carbamazepine	0.0
+D009362	Neoplasm Metastasis	41575-94-4	Carboplatin	0.0
+D009362	Neoplasm Metastasis	154-93-8	Carmustine	0.0
+D009362	Neoplasm Metastasis	154-23-4	Catechin	0.0
+D009362	Neoplasm Metastasis	327-97-9	Chlorogenic Acid	0.0
+D009362	Neoplasm Metastasis	74772-77-3	ciglitazone	0.0
+D009362	Neoplasm Metastasis	138330-18-4	cimadronate	0.0
+D009362	Neoplasm Metastasis	15663-27-1	Cisplatin	0.0
+D009362	Neoplasm Metastasis	59729-33-8	Citalopram	0.0
+D009362	Neoplasm Metastasis	10596-23-3	Clodronic Acid	0.0
+D009362	Neoplasm Metastasis	637-07-0	Clofibrate	0.0
+D009362	Neoplasm Metastasis	23593-75-1	Clotrimazole	0.0
+D009362	Neoplasm Metastasis	50-18-0	Cyclophosphamide	0.0
+D009362	Neoplasm Metastasis	60-23-1	Cysteamine	0.0
+D009362	Neoplasm Metastasis	147-94-4	Cytarabine	0.0
+D009362	Neoplasm Metastasis	4342-03-4	Dacarbazine	0.0
+D009362	Neoplasm Metastasis	522-17-8	deguelin	0.0
+D009362	Neoplasm Metastasis	2050-87-5	diallyl trisulfide	0.0
+D009362	Neoplasm Metastasis	97-77-8	Disulfiram	0.0
+D009362	Neoplasm Metastasis	25167-62-8	Docosahexaenoic Acids	0.0
+D009362	Neoplasm Metastasis	3094-09-5	doxifluridine	0.0
+D009362	Neoplasm Metastasis	23214-92-8	Doxorubicin	0.0
+D009362	Neoplasm Metastasis	41340-25-4	Etodolac	0.0
+D009362	Neoplasm Metastasis	97-53-0	Eugenol	0.0
+D009362	Neoplasm Metastasis	5956-87-6	evodiamine	0.0
+D009362	Neoplasm Metastasis	102676-47-1	Fadrozole	0.0
+D009362	Neoplasm Metastasis	76824-35-6	Famotidine	0.0
+D009362	Neoplasm Metastasis	50-91-9	Floxuridine	0.0
+D009362	Neoplasm Metastasis	51-21-8	Fluorouracil	0.0
+D009362	Neoplasm Metastasis	50773-42-7	formosanin C	0.0
+D009362	Neoplasm Metastasis	23110-15-8	fumagillin	0.0
+D009362	Neoplasm Metastasis	149-91-7	Gallic Acid	0.0
+D009362	Neoplasm Metastasis	103882-84-4	gemcitabine	0.0
+D009362	Neoplasm Metastasis	1391-73-7	gingerol	0.0
+D009362	Neoplasm Metastasis	79498-31-0	glaucocalyxin A	0.0
+D009362	Neoplasm Metastasis	19202-36-9	hinokiflavone	0.0
+D009362	Neoplasm Metastasis	35354-74-6	honokiol	0.0
+D009362	Neoplasm Metastasis	50-23-7	Hydrocortisone	0.0
+D009362	Neoplasm Metastasis	3778-73-2	Ifosfamide	0.0
+D009362	Neoplasm Metastasis	53-86-1	Indomethacin	0.0
+D009362	Neoplasm Metastasis	961-29-5	isoliquiritigenin	0.0
+D009362	Neoplasm Metastasis	70288-86-7	Ivermectin	0.0
+D009362	Neoplasm Metastasis	219989-84-1	ixabepilone	0.0
+D009362	Neoplasm Metastasis	58-05-9	Leucovorin	0.0
+D009362	Neoplasm Metastasis	2197-37-7	Linoleic Acid	0.0
+D009362	Neoplasm Metastasis	434-13-9	Lithocholic Acid	0.0
+D009362	Neoplasm Metastasis	75330-75-5	Lovastatin	0.0
+D009362	Neoplasm Metastasis	520-85-4	Medroxyprogesterone	0.0
+D009362	Neoplasm Metastasis	71-58-9	Medroxyprogesterone Acetate	0.0
+D009362	Neoplasm Metastasis	73-31-4	Melatonin	0.0
+D009362	Neoplasm Metastasis	20449-79-0	Melitten	0.0
+D009362	Neoplasm Metastasis	148-82-3	Melphalan	0.0
+D009362	Neoplasm Metastasis	657-24-9	Metformin	0.0
+D009362	Neoplasm Metastasis	59-05-2	Methotrexate	0.0
+D009362	Neoplasm Metastasis	50-07-7	Mitomycin	0.0
+D009362	Neoplasm Metastasis	109376-83-2	ML 7	0.0
+D009362	Neoplasm Metastasis	105637-50-1	ML 9	0.0
+D009362	Neoplasm Metastasis	123653-11-2	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	0.0
+D009362	Neoplasm Metastasis	91-20-3	naphthalene	0.0
+D009362	Neoplasm Metastasis	32358-83-1	naphtho(1,2-b)furan-4,5-dione	0.0
+D009362	Neoplasm Metastasis	50-65-7	Niclosamide	0.0
+D009362	Neoplasm Metastasis	51803-78-2	nimesulide	0.0
+D009362	Neoplasm Metastasis	59-87-0	Nitrofurazone	0.0
+D009362	Neoplasm Metastasis	83150-76-9	Octreotide	0.0
+D009362	Neoplasm Metastasis	40391-99-9	Pamidronate	0.0
+D009362	Neoplasm Metastasis	49776-64-9	pentaacetyl geniposide	0.0
+D009362	Neoplasm Metastasis	6493-05-6	Pentoxifylline	0.0
+D009362	Neoplasm Metastasis	39325-01-4	Picibanil	0.0
+D009362	Neoplasm Metastasis	79-17-4	pimagedine	0.0
+D009362	Neoplasm Metastasis	58479-68-8	platycodin D	0.0
+D009362	Neoplasm Metastasis	117-39-5	Quercetin	0.0
+D009362	Neoplasm Metastasis	170449-18-0	RTKI cpd	0.0
+D009362	Neoplasm Metastasis	53003-10-4	salinomycin	0.0
+D009362	Neoplasm Metastasis	13909-09-6	Semustine	0.0
+D009362	Neoplasm Metastasis	79902-63-9	Simvastatin	0.0
+D009362	Neoplasm Metastasis	53123-88-9	Sirolimus	0.0
+D009362	Neoplasm Metastasis	599-79-1	Sulfasalazine	0.0
+D009362	Neoplasm Metastasis	10540-29-1	Tamoxifen	0.0
+D009362	Neoplasm Metastasis	17902-23-7	Tegafur	0.0
+D009362	Neoplasm Metastasis	58-22-0	Testosterone	0.0
+D009362	Neoplasm Metastasis	1746-01-6	Tetrachlorodibenzodioxin	0.0
+D009362	Neoplasm Metastasis	58-55-9	Theophylline	0.0
+D009362	Neoplasm Metastasis	52-24-4	Thiotepa	0.0
+D009362	Neoplasm Metastasis	490-91-5	thymoquinone	0.0
+D009362	Neoplasm Metastasis	302-79-4	Tretinoin	0.0
+D009362	Neoplasm Metastasis	58880-19-6	trichostatin A	0.0
+D009362	Neoplasm Metastasis	38748-32-2	triptolide	0.0
+D009362	Neoplasm Metastasis	38647-11-9	triptonide	0.0
+D009362	Neoplasm Metastasis	66-22-8	Uracil	0.0
+D009362	Neoplasm Metastasis	865-21-4	Vinblastine	0.0
+D009362	Neoplasm Metastasis	71486-22-1	Vinorelbine	0.0
+D009362	Neoplasm Metastasis	81-81-2	Warfarin	0.0
+D009362	Neoplasm Metastasis	5119-48-2	withaferin A	0.0
+D009362	Neoplasm Metastasis	19545-26-7	Wortmannin	0.0
+D009362	Neoplasm Metastasis	127657-42-5	YM 529	0.0
+D009382	Neoplasms, Unknown Primary	41575-94-4	Carboplatin	0.0
+D009382	Neoplasms, Unknown Primary	103882-84-4	gemcitabine	0.0
+D009382	Neoplasms, Unknown Primary	148-82-3	Melphalan	0.0
+D009400	Nephrosclerosis	86541-75-5	benazepril	0.0
+D009400	Nephrosclerosis	75847-73-3	Enalapril	0.0
+D009400	Nephrosclerosis	35354-74-6	honokiol	0.0
+D009400	Nephrosclerosis	9005-53-2	Lignin	0.0
+D009400	Nephrosclerosis	114798-26-4	Losartan	0.0
+D009400	Nephrosclerosis	657-24-9	Metformin	0.0
+D009400	Nephrosclerosis	50-65-7	Niclosamide	0.0
+D009617	Nocardia Infections	73384-59-5	Ceftriaxone	0.0
+D009617	Nocardia Infections	96036-03-2	Meropenem	0.0
+D009617	Nocardia Infections	68-35-9	Sulfadiazine	0.0
+D009617	Nocardia Infections	8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	0.0
+D009765	Obesity	56180-94-0	Acarbose	0.0
+D009765	Obesity	616-91-1	Acetylcysteine	0.0
+D009765	Obesity	604-59-1	alpha-naphthoflavone	0.0
+D009765	Obesity	2207-50-3	Aminorex	0.0
+D009765	Obesity	50-81-7	Ascorbic Acid	0.0
+D009765	Obesity	131860-33-8	azoxystrobin	0.0
+D009765	Obesity	41859-67-0	Bezafibrate	0.0
+D009765	Obesity	80-05-7	bisphenol A	0.0
+D009765	Obesity	58-08-2	Caffeine	0.0
+D009765	Obesity	4138-96-9	Canrenoic Acid	0.0
+D009765	Obesity	404-86-4	Capsaicin	0.0
+D009765	Obesity	14325-03-2	cobaltiprotoporphyrin	0.0
+D009765	Obesity	15826-37-6	Cromolyn Sodium	0.0
+D009765	Obesity	458-37-7	Curcumin	0.0
+D009765	Obesity	133360-41-5	davallialactone	0.0
+D009765	Obesity	51481-10-8	deoxynivalenol	0.0
+D009765	Obesity	3239-44-9	Dexfenfluramine	0.0
+D009765	Obesity	117-81-7	Diethylhexyl Phthalate	0.0
+D009765	Obesity	90-84-6	Diethylpropion	0.0
+D009765	Obesity	75847-73-3	Enalapril	0.0
+D009765	Obesity	299-42-3	Ephedrine	0.0
+D009765	Obesity	5956-87-6	evodiamine	0.0
+D009765	Obesity	458-24-2	Fenfluramine	0.0
+D009765	Obesity	65646-68-6	Fenretinide	0.0
+D009765	Obesity	54910-89-3	Fluoxetine	0.0
+D009765	Obesity	54739-18-3	Fluvoxamine	0.0
+D009765	Obesity	102671-35-2	FR 64822	0.0
+D009765	Obesity	23110-15-8	fumagillin	0.0
+D009765	Obesity	446-72-0	Genistein	0.0
+D009765	Obesity	624-15-7	geraniol	0.0
+D009765	Obesity	59870-68-7	glabridin	0.0
+D009765	Obesity	442-51-3	Harmine	0.0
+D009765	Obesity	8029-82-1	Margarine	0.0
+D009765	Obesity	22232-71-9	Mazindol	0.0
+D009765	Obesity	657-24-9	Metformin	0.0
+D009765	Obesity	22204-53-1	Naproxen	0.0
+D009765	Obesity	480-41-1	naringenin	0.0
+D009765	Obesity	508-02-1	Oleanolic Acid	0.0
+D009765	Obesity	96829-58-2	Orlistat	0.0
+D009765	Obesity	21784-30-5	phendimetrazine	0.0
+D009765	Obesity	122-09-8	Phentermine	0.0
+D009765	Obesity	111025-46-8	Pioglitazone	0.0
+D009765	Obesity	50892-23-4	pirinixic acid	0.0
+D009765	Obesity	58479-68-8	platycodin D	0.0
+D009765	Obesity	106392-12-5	Poloxamer	0.0
+D009765	Obesity	25104-18-1	Polylysine	0.0
+D009765	Obesity	346-18-9	Polythiazide	0.0
+D009765	Obesity	95975-55-6	pregna-4,17-diene-3,16-dione	0.0
+D009765	Obesity	4721-07-7	puag-haad	0.0
+D009765	Obesity	117-39-5	Quercetin	0.0
+D009765	Obesity	5471-51-2	raspberry ketone	0.0
+D009765	Obesity	158681-13-1	Rimonabant	0.0
+D009765	Obesity	11103-72-3	Ruthenium Red	0.0
+D009765	Obesity	79617-96-2	Sertraline	0.0
+D009765	Obesity	106650-56-0	sibutramine	0.0
+D009765	Obesity	107-35-7	Taurine	0.0
+D009765	Obesity	97240-79-4	Topiramate	0.0
+D009765	Obesity	19794-93-5	Trazodone	0.0
+D009765	Obesity	6754-58-1	xanthohumol	0.0
+D009765	Obesity	146-48-5	Yohimbine	0.0
+D010003	Osteoarthritis	103-90-2	Acetaminophen	0.0
+D010003	Osteoarthritis	55300-29-3	antrafenine	0.0
+D010003	Osteoarthritis	22839-47-0	Aspartame	0.0
+D010003	Osteoarthritis	50-78-2	Aspirin	0.0
+D010003	Osteoarthritis	404-86-4	Capsaicin	0.0
+D010003	Osteoarthritis	458-37-7	Curcumin	0.0
+D010003	Osteoarthritis	15307-86-5	Diclofenac	0.0
+D010003	Osteoarthritis	22494-42-4	Diflunisal	0.0
+D010003	Osteoarthritis	125-28-0	dihydrocodeine	0.0
+D010003	Osteoarthritis	564-25-0	Doxycycline	0.0
+D010003	Osteoarthritis	41340-25-4	Etodolac	0.0
+D010003	Osteoarthritis	202409-33-4	Etoricoxib	0.0
+D010003	Osteoarthritis	31879-05-7	Fenoprofen	0.0
+D010003	Osteoarthritis	3416-24-8	Glucosamine	0.0
+D010003	Osteoarthritis	15687-27-1	Ibuprofen	0.0
+D010003	Osteoarthritis	53-86-1	Indomethacin	0.0
+D010003	Osteoarthritis	31842-01-0	Indoprofen	0.0
+D010003	Osteoarthritis	22071-15-4	Ketoprofen	0.0
+D010003	Osteoarthritis	7447-41-8	Lithium Chloride	0.0
+D010003	Osteoarthritis	61-68-7	Mefenamic Acid	0.0
+D010003	Osteoarthritis	71125-38-7	Meloxicam	0.0
+D010003	Osteoarthritis	59122-46-2	Misoprostol	0.0
+D010003	Osteoarthritis	22204-53-1	Naproxen	0.0
+D010003	Osteoarthritis	51803-78-2	nimesulide	0.0
+D010003	Osteoarthritis	50-33-9	Phenylbutazone	0.0
+D010003	Osteoarthritis	36322-90-4	Piroxicam	0.0
+D010003	Osteoarthritis	95975-55-6	pregna-4,17-diene-3,16-dione	0.0
+D010003	Osteoarthritis	38194-50-2	Sulindac	0.0
+D010003	Osteoarthritis	59804-37-4	tenoxicam	0.0
+D010003	Osteoarthritis	26171-23-3	Tolmetin	0.0
+D010003	Osteoarthritis	27203-92-5	Tramadol	0.0
+D010003	Osteoarthritis	6754-58-1	xanthohumol	0.0
+D015207	Osteoarthritis, Hip	15687-27-1	Ibuprofen	0.0
+D015207	Osteoarthritis, Hip	53-86-1	Indomethacin	0.0
+D015207	Osteoarthritis, Hip	61-68-7	Mefenamic Acid	0.0
+D015207	Osteoarthritis, Hip	22204-53-1	Naproxen	0.0
+D015207	Osteoarthritis, Hip	51803-78-2	nimesulide	0.0
+D015207	Osteoarthritis, Hip	50-33-9	Phenylbutazone	0.0
+D015207	Osteoarthritis, Hip	36322-90-4	Piroxicam	0.0
+D020370	Osteoarthritis, Knee	51803-78-2	nimesulide	0.0
+D020370	Osteoarthritis, Knee	27203-92-5	Tramadol	0.0
+D010018	Osteomalacia	19356-17-3	Calcifediol	0.0
+D010018	Osteomalacia	32222-06-3	Calcitriol	0.0
+D010018	Osteomalacia	67-97-0	Cholecalciferol	0.0
+D010018	Osteomalacia	59-30-3	Folic Acid	0.0
+D010019	Osteomyelitis	25953-19-9	Cefazolin	0.0
+D010019	Osteomyelitis	88040-23-7	Cefepime	0.0
+D010019	Osteomyelitis	69712-56-7	Cefotetan	0.0
+D010019	Osteomyelitis	84957-29-9	cefpirome	0.0
+D010019	Osteomyelitis	78439-06-2	Ceftazidime	0.0
+D010019	Osteomyelitis	73384-59-5	Ceftriaxone	0.0
+D010019	Osteomyelitis	56-75-7	Chloramphenicol	0.0
+D010019	Osteomyelitis	85721-33-1	Ciprofloxacin	0.0
+D010019	Osteomyelitis	1066-17-7	Colistin	0.0
+D010019	Osteomyelitis	103060-53-3	Daptomycin	0.0
+D010019	Osteomyelitis	6990-06-3	Fusidic Acid	0.0
+D010019	Osteomyelitis	84625-61-6	Itraconazole	0.0
+D010019	Osteomyelitis	65277-42-1	Ketoconazole	0.0
+D010019	Osteomyelitis	61-32-5	Methicillin	0.0
+D010019	Osteomyelitis	443-48-1	Metronidazole	0.0
+D010019	Osteomyelitis	147-52-4	Nafcillin	0.0
+D010019	Osteomyelitis	1404-04-2	Neomycin	0.0
+D010019	Osteomyelitis	82419-36-1	Ofloxacin	0.0
+D010019	Osteomyelitis	70458-92-3	Pefloxacin	0.0
+D010019	Osteomyelitis	13292-46-1	Rifampin	0.0
+D010019	Osteomyelitis	61036-62-2	Teicoplanin	0.0
+D010019	Osteomyelitis	32986-56-4	Tobramycin	0.0
+D010019	Osteomyelitis	8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	0.0
+D010019	Osteomyelitis	1404-90-6	Vancomycin	0.0
+D010020	Osteonecrosis	21679-14-1	fludarabine	0.0
+D010024	Osteoporosis	66376-36-1	Alendronate	0.0
+D010024	Osteoporosis	41294-56-8	alfacalcidol	0.0
+D010024	Osteoporosis	5508-58-7	andrographolide	0.0
+D010024	Osteoporosis	139051-27-7	anemarsaponin B	0.0
+D010024	Osteoporosis	11141-17-6	azadirachtin	0.0
+D010024	Osteoporosis	2086-83-1	Berberine	0.0
+D010024	Osteoporosis	104594-70-9	caffeic acid phenethyl ester	0.0
+D010024	Osteoporosis	7440-70-2	Calcium	0.0
+D010024	Osteoporosis	471-34-1	Calcium Carbonate	0.0
+D010024	Osteoporosis	458-37-7	Curcumin	0.0
+D010024	Osteoporosis	2786-08-5	dibenzothiophene-4-carboxylic acid	0.0
+D010024	Osteoporosis	75847-73-3	Enalapril	0.0
+D010024	Osteoporosis	50-28-2	Estradiol	0.0
+D010024	Osteoporosis	2809-21-4	Etidronic Acid	0.0
+D010024	Osteoporosis	141732-76-5	Exenatide	0.0
+D010024	Osteoporosis	446-72-0	Genistein	0.0
+D010024	Osteoporosis	3416-24-8	Glucosamine	0.0
+D010024	Osteoporosis	489-32-7	icariin	0.0
+D010024	Osteoporosis	520-18-3	kaempferol	0.0
+D010024	Osteoporosis	797-63-7	Levonorgestrel	0.0
+D010024	Osteoporosis	73-31-4	Melatonin	0.0
+D010024	Osteoporosis	59-05-2	Methotrexate	0.0
+D010024	Osteoporosis	360-70-3	Nandrolone Decanoate	0.0
+D010024	Osteoporosis	10236-47-2	naringin	0.0
+D010024	Osteoporosis	40391-99-9	Pamidronate	0.0
+D010024	Osteoporosis	58479-68-8	platycodin D	0.0
+D010024	Osteoporosis	525-66-6	Propranolol	0.0
+D010024	Osteoporosis	568-73-0	tanshinone	0.0
+D010024	Osteoporosis	50679-08-8	Terfenadine	0.0
+D010024	Osteoporosis	52232-67-4	Teriparatide	0.0
+D010024	Osteoporosis	1406-16-2	Vitamin D	0.0
+D010024	Osteoporosis	11032-49-8	Vitamin K 2	0.0
+D010024	Osteoporosis	6754-58-1	xanthohumol	0.0
+D010024	Osteoporosis	127657-42-5	YM 529	0.0
+D015663	Osteoporosis, Postmenopausal	66376-36-1	Alendronate	0.0
+D015663	Osteoporosis, Postmenopausal	41294-56-8	alfacalcidol	0.0
+D015663	Osteoporosis, Postmenopausal	32222-06-3	Calcitriol	0.0
+D015663	Osteoporosis, Postmenopausal	7440-70-2	Calcium	0.0
+D015663	Osteoporosis, Postmenopausal	67-97-0	Cholecalciferol	0.0
+D015663	Osteoporosis, Postmenopausal	53-43-0	Dehydroepiandrosterone	0.0
+D015663	Osteoporosis, Postmenopausal	50-28-2	Estradiol	0.0
+D015663	Osteoporosis, Postmenopausal	446-72-0	Genistein	0.0
+D015663	Osteoporosis, Postmenopausal	63676-25-5	LY 117018	0.0
+D015663	Osteoporosis, Postmenopausal	38673-38-0	Norethindrone Acetate	0.0
+D015663	Osteoporosis, Postmenopausal	117-39-5	Quercetin	0.0
+D015663	Osteoporosis, Postmenopausal	1406-16-2	Vitamin D	0.0
+D010490	Pericardial Effusion	59-02-9	alpha-Tocopherol	0.0
+D010490	Pericardial Effusion	50-02-2	Dexamethasone	0.0
+D010490	Pericardial Effusion	65646-68-6	Fenretinide	0.0
+D010490	Pericardial Effusion	69-65-8	Mannitol	0.0
+D010490	Pericardial Effusion	123653-11-2	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide	0.0
+D010490	Pericardial Effusion	50-24-8	Prednisolone	0.0
+D010493	Pericarditis	37517-28-5	Amikacin	0.0
+D010493	Pericarditis	9005-49-6	Heparin	0.0
+D010493	Pericarditis	53-86-1	Indomethacin	0.0
+D010493	Pericarditis	66-79-5	Oxacillin	0.0
+D010493	Pericarditis	50-24-8	Prednisolone	0.0
+D010493	Pericarditis	61036-62-2	Teicoplanin	0.0
+D010493	Pericarditis	124-94-7	Triamcinolone	0.0
+D010493	Pericarditis	1404-90-6	Vancomycin	0.0
+D010493	Pericarditis	81-81-2	Warfarin	0.0
+D016491	Peripheral Vascular Diseases	50-81-7	Ascorbic Acid	0.0
+D016491	Peripheral Vascular Diseases	75847-73-3	Enalapril	0.0
+D016491	Peripheral Vascular Diseases	78919-13-8	Iloprost	0.0
+D016491	Peripheral Vascular Diseases	137-58-6	Lidocaine	0.0
+D016491	Peripheral Vascular Diseases	15078-28-1	Nitroprusside	0.0
+D016491	Peripheral Vascular Diseases	6493-05-6	Pentoxifylline	0.0
+D016491	Peripheral Vascular Diseases	1406-18-4	Vitamin E	0.0
+D010996	Pleural Effusion	50-02-2	Dexamethasone	0.0
+D010996	Pleural Effusion	83-43-2	Methylprednisolone	0.0
+D010996	Pleural Effusion	37229-16-6	naphthalan	0.0
+D010996	Pleural Effusion	50-24-8	Prednisolone	0.0
+D010996	Pleural Effusion	53-03-2	Prednisone	0.0
+D010996	Pleural Effusion	83-89-6	Quinacrine	0.0
+D010996	Pleural Effusion	150863-82-4	S 1 (combination)	0.0
+D010996	Pleural Effusion	60-54-8	Tetracycline	0.0
+D010997	Pleural Neoplasms	15663-27-1	Cisplatin	0.0
+D010997	Pleural Neoplasms	23214-92-8	Doxorubicin	0.0
+D010997	Pleural Neoplasms	10540-29-1	Tamoxifen	0.0
+D010998	Pleurisy	37229-16-6	naphthalan	0.0
+D010998	Pleurisy	10236-47-2	naringin	0.0
+D010998	Pleurisy	8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	0.0
+D018410	Pneumonia, Bacterial	26787-78-0	Amoxicillin	0.0
+D018410	Pneumonia, Bacterial	83905-01-5	Azithromycin	0.0
+D018410	Pneumonia, Bacterial	69739-16-8	cefodizime	0.0
+D018410	Pneumonia, Bacterial	63527-52-6	Cefotaxime	0.0
+D018410	Pneumonia, Bacterial	84957-29-9	cefpirome	0.0
+D018410	Pneumonia, Bacterial	78439-06-2	Ceftazidime	0.0
+D018410	Pneumonia, Bacterial	73384-59-5	Ceftriaxone	0.0
+D018410	Pneumonia, Bacterial	85721-33-1	Ciprofloxacin	0.0
+D018410	Pneumonia, Bacterial	81103-11-9	Clarithromycin	0.0
+D018410	Pneumonia, Bacterial	18323-44-9	Clindamycin	0.0
+D018410	Pneumonia, Bacterial	114-07-8	Erythromycin	0.0
+D018410	Pneumonia, Bacterial	643-22-1	erythromycin stearate	0.0
+D018410	Pneumonia, Bacterial	5250-39-5	Floxacillin	0.0
+D018410	Pneumonia, Bacterial	23155-02-4	Fosfomycin	0.0
+D018410	Pneumonia, Bacterial	82419-36-1	Ofloxacin	0.0
+D018410	Pneumonia, Bacterial	70458-92-3	Pefloxacin	0.0
+D018410	Pneumonia, Bacterial	6130-64-9	Penicillin G Procaine	0.0
+D018410	Pneumonia, Bacterial	68-35-9	Sulfadiazine	0.0
+D018410	Pneumonia, Bacterial	76497-13-7	sultamicillin	0.0
+D018410	Pneumonia, Bacterial	61036-62-2	Teicoplanin	0.0
+D018410	Pneumonia, Bacterial	8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	0.0
+D018410	Pneumonia, Bacterial	1404-90-6	Vancomycin	0.0
+D011020	Pneumonia, Pneumocystis	94015-53-9	Atovaquone	0.0
+D011020	Pneumonia, Pneumocystis	80-08-0	Dapsone	0.0
+D011020	Pneumonia, Pneumocystis	69655-05-6	Didanosine	0.0
+D011020	Pneumonia, Pneumocystis	83-43-2	Methylprednisolone	0.0
+D011020	Pneumonia, Pneumocystis	100-33-4	Pentamidine	0.0
+D011020	Pneumonia, Pneumocystis	50-24-8	Prednisolone	0.0
+D011020	Pneumonia, Pneumocystis	91161-71-6	Terbinafine	0.0
+D011020	Pneumonia, Pneumocystis	738-70-5	Trimethoprim	0.0
+D011020	Pneumonia, Pneumocystis	8064-90-2	Trimethoprim, Sulfamethoxazole Drug Combination	0.0
+D011020	Pneumonia, Pneumocystis	30516-87-1	Zidovudine	0.0
+D011024	Pneumonia, Viral	36791-04-5	Ribavirin	0.0
+D001261	Pulmonary Atelectasis	520-33-2	hesperetin	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	611-59-6	1,7-dimethylxanthine	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	59-66-5	Acetazolamide	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	18559-94-9	Albuterol	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	317-34-0	Aminophylline	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	81732-65-2	bambuterol	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	4419-39-0	Beclomethasone	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	2387-59-9	Carbocysteine	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	81103-11-9	Clarithromycin	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	75847-73-3	Enalapril	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	41078-02-8	enprofylline	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	51-43-4	Epinephrine	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	470-82-6	Eucalyptol	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	596-51-0	Glycopyrrolate	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	60205-81-4	Ipratropium	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	74050-98-9	Ketanserin	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	59-05-2	Methotrexate	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	21829-25-4	Nifedipine	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	53-03-2	Prednisone	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	603-00-9	proxyphylline	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	117-39-5	Quercetin	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	79902-63-9	Simvastatin	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	23031-25-6	Terbutaline	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	58-55-9	Theophylline	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	10405-02-4	trospium chloride	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	52-53-9	Verapamil	0.0
+D029424	Pulmonary Disease, Chronic Obstructive	107753-78-6	zafirlukast	0.0
+D011654	Pulmonary Edema	53209-27-1	2''-galloylhyperin	0.0
+D011654	Pulmonary Edema	1191-85-1	5,8,11,14-Eicosatetraynoic Acid	0.0
+D011654	Pulmonary Edema	616-91-1	Acetylcysteine	0.0
+D011654	Pulmonary Edema	23444-65-7	alkannin	0.0
+D011654	Pulmonary Edema	592-88-1	allyl sulfide	0.0
+D011654	Pulmonary Edema	55869-99-3	anisodamine	0.0
+D011654	Pulmonary Edema	50-81-7	Ascorbic Acid	0.0
+D011654	Pulmonary Edema	51-55-8	Atropine	0.0
+D011654	Pulmonary Edema	4419-39-0	Beclomethasone	0.0
+D011654	Pulmonary Edema	6051-87-2	beta-Naphthoflavone	0.0
+D011654	Pulmonary Edema	7440-42-8	Boron	0.0
+D011654	Pulmonary Edema	51333-22-3	Budesonide	0.0
+D011654	Pulmonary Edema	32222-06-3	Calcitriol	0.0
+D011654	Pulmonary Edema	299-28-5	Calcium Gluconate	0.0
+D011654	Pulmonary Edema	132-22-9	Chlorpheniramine	0.0
+D011654	Pulmonary Edema	480-40-0	chrysin	0.0
+D011654	Pulmonary Edema	458-37-7	Curcumin	0.0
+D011654	Pulmonary Edema	78218-09-4	dazoxiben	0.0
+D011654	Pulmonary Edema	50-02-2	Dexamethasone	0.0
+D011654	Pulmonary Edema	113775-47-6	Dexmedetomidine	0.0
+D011654	Pulmonary Edema	20830-75-5	Digoxin	0.0
+D011654	Pulmonary Edema	39424-54-9	enterotoxin C, staphylococcal	0.0
+D011654	Pulmonary Edema	552-58-9	eriodictyol	0.0
+D011654	Pulmonary Edema	617-35-6	ethyl pyruvate	0.0
+D011654	Pulmonary Edema	103745-39-7	fasudil	0.0
+D011654	Pulmonary Edema	437-38-7	Fentanyl	0.0
+D011654	Pulmonary Edema	1135-24-6	ferulic acid	0.0
+D011654	Pulmonary Edema	54-31-9	Furosemide	0.0
+D011654	Pulmonary Edema	624-15-7	geraniol	0.0
+D011654	Pulmonary Edema	10238-21-8	Glyburide	0.0
+D011654	Pulmonary Edema	520-33-2	hesperetin	0.0
+D011654	Pulmonary Edema	86-54-4	Hydralazine	0.0
+D011654	Pulmonary Edema	53-86-1	Indomethacin	0.0
+D011654	Pulmonary Edema	26675-46-7	Isoflurane	0.0
+D011654	Pulmonary Edema	7683-59-2	Isoproterenol	0.0
+D011654	Pulmonary Edema	83915-83-7	Lisinopril	0.0
+D011654	Pulmonary Edema	7447-41-8	Lithium Chloride	0.0
+D011654	Pulmonary Edema	61742-10-7	lithium hydroxybutyrate	0.0
+D011654	Pulmonary Edema	88107-10-2	LY 171883	0.0
+D011654	Pulmonary Edema	69-65-8	Mannitol	0.0
+D011654	Pulmonary Edema	657-24-9	Metformin	0.0
+D011654	Pulmonary Edema	83-43-2	Methylprednisolone	0.0
+D011654	Pulmonary Edema	37350-58-6	Metoprolol	0.0
+D011654	Pulmonary Edema	57-27-2	Morphine	0.0
+D011654	Pulmonary Edema	10236-47-2	naringin	0.0
+D011654	Pulmonary Edema	21829-25-4	Nifedipine	0.0
+D011654	Pulmonary Edema	10102-43-9	Nitric Oxide	0.0
+D011654	Pulmonary Edema	55-63-0	Nitroglycerin	0.0
+D011654	Pulmonary Edema	15078-28-1	Nitroprusside	0.0
+D011654	Pulmonary Edema	52-62-0	Pentolinium Tartrate	0.0
+D011654	Pulmonary Edema	14838-15-4	Phenylpropanolamine	0.0
+D011654	Pulmonary Edema	53179-13-8	pirfenidone	0.0
+D011654	Pulmonary Edema	29106-49-8	procyanidin B2	0.0
+D011654	Pulmonary Edema	117-39-5	Quercetin	0.0
+D011654	Pulmonary Edema	26652-09-5	Ritodrine	0.0
+D011654	Pulmonary Edema	169939-94-0	ruboxistaurin	0.0
+D011654	Pulmonary Edema	153-18-4	Rutin	0.0
+D011654	Pulmonary Edema	79902-63-9	Simvastatin	0.0
+D011654	Pulmonary Edema	23031-25-6	Terbutaline	0.0
+D011654	Pulmonary Edema	50-35-1	Thalidomide	0.0
+D011654	Pulmonary Edema	62-46-4	Thioctic Acid	0.0
+D011654	Pulmonary Edema	50-52-2	Thioridazine	0.0
+D011654	Pulmonary Edema	632-85-9	wogonin	0.0
+D011654	Pulmonary Edema	107753-78-6	zafirlukast	0.0
+D011654	Pulmonary Edema	471-05-6	zerumbone	0.0
+D011654	Pulmonary Edema	132880-11-6	zileuton	0.0
+D011655	Pulmonary Embolism	129652-42-2	albolabrin	0.0
+D011655	Pulmonary Embolism	745-65-3	Alprostadil	0.0
+D011655	Pulmonary Embolism	88430-50-6	beraprost	0.0
+D011655	Pulmonary Embolism	66-76-2	Dicumarol	0.0
+D011655	Pulmonary Embolism	35121-78-9	Epoprostenol	0.0
+D011655	Pulmonary Embolism	132051-67-3	eristostatin	0.0
+D011655	Pulmonary Embolism	9005-49-6	Heparin	0.0
+D011655	Pulmonary Embolism	87-33-2	Isosorbide Dinitrate	0.0
+D011655	Pulmonary Embolism	16051-77-7	isosorbide-5-mononitrate	0.0
+D011655	Pulmonary Embolism	69-65-8	Mannitol	0.0
+D011655	Pulmonary Embolism	21829-25-4	Nifedipine	0.0
+D011655	Pulmonary Embolism	15078-28-1	Nitroprusside	0.0
+D011655	Pulmonary Embolism	133652-38-7	reteplase	0.0
+D011655	Pulmonary Embolism	112966-96-8	S 145	0.0
+D011655	Pulmonary Embolism	81-81-2	Warfarin	0.0
+D011656	Pulmonary Emphysema	616-91-1	Acetylcysteine	0.0
+D011656	Pulmonary Emphysema	458-37-7	Curcumin	0.0
+D011656	Pulmonary Emphysema	17230-88-5	Danazol	0.0
+D011657	Pulmonary Eosinophilia	59-02-9	alpha-Tocopherol	0.0
+D011657	Pulmonary Eosinophilia	50-81-7	Ascorbic Acid	0.0
+D011657	Pulmonary Eosinophilia	4419-39-0	Beclomethasone	0.0
+D011657	Pulmonary Eosinophilia	51333-22-3	Budesonide	0.0
+D011657	Pulmonary Eosinophilia	162542-90-7	CDP 840	0.0
+D011657	Pulmonary Eosinophilia	50-02-2	Dexamethasone	0.0
+D011657	Pulmonary Eosinophilia	61413-54-5	Rolipram	0.0
+D011928	Raynaud Disease	745-65-3	Alprostadil	0.0
+D011928	Raynaud Disease	25167-62-8	Docosahexaenoic Acids	0.0
+D011928	Raynaud Disease	1553-41-9	Eicosapentaenoic Acid	0.0
+D011928	Raynaud Disease	35121-78-9	Epoprostenol	0.0
+D011928	Raynaud Disease	126-07-8	Griseofulvin	0.0
+D011928	Raynaud Disease	78919-13-8	Iloprost	0.0
+D011928	Raynaud Disease	53-86-1	Indomethacin	0.0
+D011928	Raynaud Disease	21829-25-4	Nifedipine	0.0
+D011928	Raynaud Disease	6493-05-6	Pentoxifylline	0.0
+D011928	Raynaud Disease	19216-56-9	Prazosin	0.0
+D012120	Respiration Disorders	51-55-8	Atropine	0.0
+D012120	Respiration Disorders	50-02-2	Dexamethasone	0.0
+D012120	Respiration Disorders	51-43-4	Epinephrine	0.0
+D012120	Respiration Disorders	51-41-2	Norepinephrine	0.0
+D012120	Respiration Disorders	11103-72-3	Ruthenium Red	0.0
+D012120	Respiration Disorders	58-55-9	Theophylline	0.0
+D012120	Respiration Disorders	78-30-8	tri-o-cresyl phosphate	0.0
+D012128	Respiratory Distress Syndrome	616-91-1	Acetylcysteine	0.0
+D012128	Respiratory Distress Syndrome	745-65-3	Alprostadil	0.0
+D012128	Respiratory Distress Syndrome	108778-82-1	beractant	0.0
+D012128	Respiratory Distress Syndrome	458-37-7	Curcumin	0.0
+D012128	Respiratory Distress Syndrome	50-02-2	Dexamethasone	0.0
+D012128	Respiratory Distress Syndrome	125-71-3	Dextromethorphan	0.0
+D012128	Respiratory Distress Syndrome	54-31-9	Furosemide	0.0
+D012128	Respiratory Distress Syndrome	9011-04-5	Hexadimethrine Bromide	0.0
+D012128	Respiratory Distress Syndrome	10102-43-9	Nitric Oxide	0.0
+D012128	Respiratory Distress Syndrome	7782-44-7	Oxygen	0.0
+D012128	Respiratory Distress Syndrome	25769-03-3	pyrrolidine dithiocarbamic acid	0.0
+D012128	Respiratory Distress Syndrome	127373-66-4	sivelestat	0.0
+D012128	Respiratory Distress Syndrome	23031-25-6	Terbutaline	0.0
+D012128	Respiratory Distress Syndrome	58-27-5	Vitamin K 3	0.0
+D012127	Respiratory Distress Syndrome, Newborn	378-44-9	Betamethasone	0.0
+D012127	Respiratory Distress Syndrome, Newborn	50-02-2	Dexamethasone	0.0
+D012127	Respiratory Distress Syndrome, Newborn	34368-04-2	Dobutamine	0.0
+D012127	Respiratory Distress Syndrome, Newborn	51-61-6	Dopamine	0.0
+D012127	Respiratory Distress Syndrome, Newborn	59467-70-8	Midazolam	0.0
+D012127	Respiratory Distress Syndrome, Newborn	11103-57-4	Vitamin A	0.0
+D012131	Respiratory Insufficiency	27469-53-0	Almitrine	0.0
+D012131	Respiratory Insufficiency	74469-00-4	Amoxicillin-Potassium Clavulanate Combination	0.0
+D012131	Respiratory Insufficiency	52485-79-7	Buprenorphine	0.0
+D012131	Respiratory Insufficiency	132-22-9	Chlorpheniramine	0.0
+D012131	Respiratory Insufficiency	458-37-7	Curcumin	0.0
+D012131	Respiratory Insufficiency	439-14-5	Diazepam	0.0
+D012131	Respiratory Insufficiency	78755-81-4	Flumazenil	0.0
+D012131	Respiratory Insufficiency	50-23-7	Hydrocortisone	0.0
+D012131	Respiratory Insufficiency	7683-59-2	Isoproterenol	0.0
+D012131	Respiratory Insufficiency	83-43-2	Methylprednisolone	0.0
+D012131	Respiratory Insufficiency	10118-90-8	Minocycline	0.0
+D012131	Respiratory Insufficiency	73232-50-5	N-methylnaloxone	0.0
+D012131	Respiratory Insufficiency	20594-83-6	Nalbuphine	0.0
+D012131	Respiratory Insufficiency	82824-01-9	naloxonazine	0.0
+D012131	Respiratory Insufficiency	465-65-6	Naloxone	0.0
+D012131	Respiratory Insufficiency	55985-32-5	Nicardipine	0.0
+D012131	Respiratory Insufficiency	105618-26-6	norbinaltorphimine	0.0
+D012131	Respiratory Insufficiency	51-41-2	Norepinephrine	0.0
+D012131	Respiratory Insufficiency	7782-44-7	Oxygen	0.0
+D012131	Respiratory Insufficiency	14838-15-4	Phenylpropanolamine	0.0
+D012131	Respiratory Insufficiency	57-47-6	Physostigmine	0.0
+D012131	Respiratory Insufficiency	78664-73-0	posatirelin	0.0
+D012131	Respiratory Insufficiency	50-24-8	Prednisolone	0.0
+D012131	Respiratory Insufficiency	50-52-2	Thioridazine	0.0
+D012131	Respiratory Insufficiency	79-19-6	thiosemicarbazide	0.0
+D012141	Respiratory Tract Infections	103-90-2	Acetaminophen	0.0
+D012141	Respiratory Tract Infections	18559-94-9	Albuterol	0.0
+D012141	Respiratory Tract Infections	41294-56-8	alfacalcidol	0.0
+D012141	Respiratory Tract Infections	74469-00-4	Amoxicillin-Potassium Clavulanate Combination	0.0
+D012141	Respiratory Tract Infections	50-78-2	Aspirin	0.0
+D012141	Respiratory Tract Infections	83905-01-5	Azithromycin	0.0
+D012141	Respiratory Tract Infections	378-44-9	Betamethasone	0.0
+D012141	Respiratory Tract Infections	32222-06-3	Calcitriol	0.0
+D012141	Respiratory Tract Infections	53994-73-3	Cefaclor	0.0
+D012141	Respiratory Tract Infections	50370-12-2	Cefadroxil	0.0
+D012141	Respiratory Tract Infections	79350-37-1	Cefixime	0.0
+D012141	Respiratory Tract Infections	73384-59-5	Ceftriaxone	0.0
+D012141	Respiratory Tract Infections	132-22-9	Chlorpheniramine	0.0
+D012141	Respiratory Tract Infections	28657-80-9	Cinoxacin	0.0
+D012141	Respiratory Tract Infections	81103-11-9	Clarithromycin	0.0
+D012141	Respiratory Tract Infections	18323-44-9	Clindamycin	0.0
+D012141	Respiratory Tract Infections	564-25-0	Doxycycline	0.0
+D012141	Respiratory Tract Infections	114-07-8	Erythromycin	0.0
+D012141	Respiratory Tract Infections	74-55-5	Ethambutol	0.0
+D012141	Respiratory Tract Infections	530-78-9	Flufenamic Acid	0.0
+D012141	Respiratory Tract Infections	10118-90-8	Minocycline	0.0
+D012141	Respiratory Tract Infections	51803-78-2	nimesulide	0.0
+D012141	Respiratory Tract Infections	82419-36-1	Ofloxacin	0.0
+D012141	Respiratory Tract Infections	14838-15-4	Phenylpropanolamine	0.0
+D012141	Respiratory Tract Infections	13292-46-1	Rifampin	0.0
+D012141	Respiratory Tract Infections	60-54-8	Tetracycline	0.0
+D012141	Respiratory Tract Infections	32986-56-4	Tobramycin	0.0
+D012214	Rheumatic Heart Disease	152-72-7	Acenocoumarol	0.0
+D006255	Rhinitis, Allergic, Seasonal	68844-77-9	Astemizole	0.0
+D006255	Rhinitis, Allergic, Seasonal	3964-81-6	azatadine	0.0
+D006255	Rhinitis, Allergic, Seasonal	58581-89-8	azelastine	0.0
+D006255	Rhinitis, Allergic, Seasonal	4419-39-0	Beclomethasone	0.0
+D006255	Rhinitis, Allergic, Seasonal	51333-22-3	Budesonide	0.0
+D006255	Rhinitis, Allergic, Seasonal	83881-51-0	Cetirizine	0.0
+D006255	Rhinitis, Allergic, Seasonal	132-22-9	Chlorpheniramine	0.0
+D006255	Rhinitis, Allergic, Seasonal	58-73-1	Diphenhydramine	0.0
+D006255	Rhinitis, Allergic, Seasonal	80012-43-7	epinastine	0.0
+D006255	Rhinitis, Allergic, Seasonal	34580-13-7	Ketotifen	0.0
+D006255	Rhinitis, Allergic, Seasonal	79794-75-5	Loratadine	0.0
+D006255	Rhinitis, Allergic, Seasonal	90-82-4	Pseudoephedrine	0.0
+D006255	Rhinitis, Allergic, Seasonal	50679-08-8	Terfenadine	0.0
+D045169	Severe Acute Respiratory Syndrome	54-05-7	Chloroquine	0.0
+D045169	Severe Acute Respiratory Syndrome	50-63-5	chloroquine diphosphate	0.0
+D045169	Severe Acute Respiratory Syndrome	476-28-8	lycorine	0.0
+D045169	Severe Acute Respiratory Syndrome	83-43-2	Methylprednisolone	0.0
+D045169	Severe Acute Respiratory Syndrome	50-65-7	Niclosamide	0.0
+D045169	Severe Acute Respiratory Syndrome	36791-04-5	Ribavirin	0.0
+D045169	Severe Acute Respiratory Syndrome	61036-62-2	Teicoplanin	0.0
+D012829	Silicosis	568-73-0	tanshinone	0.0
+D012852	Sinusitis	103-90-2	Acetaminophen	0.0
+D012852	Sinusitis	74469-00-4	Amoxicillin-Potassium Clavulanate Combination	0.0
+D012852	Sinusitis	69-53-4	Ampicillin	0.0
+D012852	Sinusitis	4419-39-0	Beclomethasone	0.0
+D012852	Sinusitis	53994-73-3	Cefaclor	0.0
+D012852	Sinusitis	15686-71-2	Cephalexin	0.0
+D012852	Sinusitis	81103-11-9	Clarithromycin	0.0
+D012852	Sinusitis	58-73-1	Diphenhydramine	0.0
+D012852	Sinusitis	112811-59-3	Gatifloxacin	0.0
+D012852	Sinusitis	93-14-1	Guaifenesin	0.0
+D012852	Sinusitis	10118-90-8	Minocycline	0.0
+D012852	Sinusitis	82419-36-1	Ofloxacin	0.0
+D012852	Sinusitis	50808-49-6	Ornade	0.0
+D012852	Sinusitis	59-42-7	Phenylephrine	0.0
+D012852	Sinusitis	14838-15-4	Phenylpropanolamine	0.0
+D012852	Sinusitis	53-03-2	Prednisone	0.0
+D012852	Sinusitis	90-82-4	Pseudoephedrine	0.0
+D012852	Sinusitis	68-35-9	Sulfadiazine	0.0
+D012852	Sinusitis	50679-08-8	Terfenadine	0.0
+D012852	Sinusitis	738-70-5	Trimethoprim	0.0
+D012852	Sinusitis	486-12-4	Triprolidine	0.0
+D012852	Sinusitis	107753-78-6	zafirlukast	0.0
+D012852	Sinusitis	132880-11-6	zileuton	0.0
+D020182	Sleep Apnea, Central	59-66-5	Acetazolamide	0.0
+D020181	Sleep Apnea, Obstructive	158966-92-8	montelukast	0.0
+D020181	Sleep Apnea, Obstructive	57-47-6	Physostigmine	0.0
+D020181	Sleep Apnea, Obstructive	52-01-7	Spironolactone	0.0
+D020181	Sleep Apnea, Obstructive	132880-11-6	zileuton	0.0
+D012893	Sleep Wake Disorders	67287-49-4	2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine	0.0
+D012893	Sleep Wake Disorders	50-48-6	Amitriptyline	0.0
+D012893	Sleep Wake Disorders	4317-14-0	amitriptyline N-oxide	0.0
+D012893	Sleep Wake Disorders	29122-68-7	Atenolol	0.0
+D012893	Sleep Wake Disorders	51333-22-3	Budesonide	0.0
+D012893	Sleep Wake Disorders	298-46-4	Carbamazepine	0.0
+D012893	Sleep Wake Disorders	59729-33-8	Citalopram	0.0
+D012893	Sleep Wake Disorders	1622-61-3	Clonazepam	0.0
+D012893	Sleep Wake Disorders	4205-90-7	Clonidine	0.0
+D012893	Sleep Wake Disorders	50-47-5	Desipramine	0.0
+D012893	Sleep Wake Disorders	1668-19-5	Doxepin	0.0
+D012893	Sleep Wake Disorders	17617-23-1	Flurazepam	0.0
+D012893	Sleep Wake Disorders	26807-65-8	Indapamide	0.0
+D012893	Sleep Wake Disorders	53230-10-7	Mefloquine	0.0
+D012893	Sleep Wake Disorders	73-31-4	Melatonin	0.0
+D012893	Sleep Wake Disorders	59467-70-8	Midazolam	0.0
+D012893	Sleep Wake Disorders	68693-11-8	Modafinil	0.0
+D012893	Sleep Wake Disorders	146-22-5	Nitrazepam	0.0
+D012893	Sleep Wake Disorders	72-69-5	Nortriptyline	0.0
+D012893	Sleep Wake Disorders	66104-22-1	Pergolide	0.0
+D012893	Sleep Wake Disorders	106266-06-2	Risperidone	0.0
+D012893	Sleep Wake Disorders	846-50-4	Temazepam	0.0
+D012893	Sleep Wake Disorders	19794-93-5	Trazodone	0.0
+D012893	Sleep Wake Disorders	28911-01-5	Triazolam	0.0
+D013174	Sporotrichosis	84625-61-6	Itraconazole	0.0
+D016706	Still's Disease, Adult-Onset	50-78-2	Aspirin	0.0
+D016706	Still's Disease, Adult-Onset	59-05-2	Methotrexate	0.0
+D013611	Tachycardia, Atrioventricular Nodal Reentry	56-65-5	Adenosine Triphosphate	0.0
+D013611	Tachycardia, Atrioventricular Nodal Reentry	3737-09-5	Disopyramide	0.0
+D013611	Tachycardia, Atrioventricular Nodal Reentry	54063-53-5	Propafenone	0.0
+D013611	Tachycardia, Atrioventricular Nodal Reentry	52-53-9	Verapamil	0.0
+D013612	Tachycardia, Ectopic Atrial	7439-95-4	Magnesium	0.0
+D013613	Tachycardia, Ectopic Junctional	1951-25-3	Amiodarone	0.0
+D013613	Tachycardia, Ectopic Junctional	52-53-9	Verapamil	0.0
+D013617	Tachycardia, Supraventricular	58-61-7	Adenosine	0.0
+D013617	Tachycardia, Supraventricular	56-65-5	Adenosine Triphosphate	0.0
+D013617	Tachycardia, Supraventricular	1951-25-3	Amiodarone	0.0
+D013617	Tachycardia, Supraventricular	29122-68-7	Atenolol	0.0
+D013617	Tachycardia, Supraventricular	299-28-5	Calcium Gluconate	0.0
+D013617	Tachycardia, Supraventricular	4205-90-7	Clonidine	0.0
+D013617	Tachycardia, Supraventricular	71-63-6	Digitoxin	0.0
+D013617	Tachycardia, Supraventricular	20830-75-5	Digoxin	0.0
+D013617	Tachycardia, Supraventricular	42399-41-7	Diltiazem	0.0
+D013617	Tachycardia, Supraventricular	3737-09-5	Disopyramide	0.0
+D013617	Tachycardia, Supraventricular	312-48-1	Edrophonium	0.0
+D013617	Tachycardia, Supraventricular	66778-36-7	Encainide	0.0
+D013617	Tachycardia, Supraventricular	84057-94-3	esmolol	0.0
+D013617	Tachycardia, Supraventricular	54143-55-4	Flecainide	0.0
+D013617	Tachycardia, Supraventricular	87721-62-8	flestolol	0.0
+D013617	Tachycardia, Supraventricular	137-58-6	Lidocaine	0.0
+D013617	Tachycardia, Supraventricular	7439-95-4	Magnesium	0.0
+D013617	Tachycardia, Supraventricular	37350-58-6	Metoprolol	0.0
+D013617	Tachycardia, Supraventricular	42200-33-9	Nadolol	0.0
+D013617	Tachycardia, Supraventricular	21829-25-4	Nifedipine	0.0
+D013617	Tachycardia, Supraventricular	6673-35-4	Practolol	0.0
+D013617	Tachycardia, Supraventricular	51-06-9	Procainamide	0.0
+D013617	Tachycardia, Supraventricular	54063-53-5	Propafenone	0.0
+D013617	Tachycardia, Supraventricular	525-66-6	Propranolol	0.0
+D013617	Tachycardia, Supraventricular	56-54-2	Quinidine	0.0
+D013617	Tachycardia, Supraventricular	3930-20-9	Sotalol	0.0
+D013617	Tachycardia, Supraventricular	52-53-9	Verapamil	0.0
+D017180	Tachycardia, Ventricular	143578-51-2	3,6-dimethylaminodibenzopyridonium edetate	0.0
+D017180	Tachycardia, Ventricular	130061-81-3	3-hydroxy-10,11-dihydroquinidine	0.0
+D017180	Tachycardia, Ventricular	58-61-7	Adenosine	0.0
+D017180	Tachycardia, Ventricular	56-65-5	Adenosine Triphosphate	0.0
+D017180	Tachycardia, Ventricular	125651-31-2	AHR 12234	0.0
+D017180	Tachycardia, Ventricular	4360-12-7	Ajmaline	0.0
+D017180	Tachycardia, Ventricular	33178-86-8	alinidine	0.0
+D017180	Tachycardia, Ventricular	50588-47-1	amafolone	0.0
+D017180	Tachycardia, Ventricular	317-34-0	Aminophylline	0.0
+D017180	Tachycardia, Ventricular	1951-25-3	Amiodarone	0.0
+D017180	Tachycardia, Ventricular	37640-71-4	Aprindine	0.0
+D017180	Tachycardia, Ventricular	29122-68-7	Atenolol	0.0
+D017180	Tachycardia, Ventricular	64706-54-3	Bepridil	0.0
+D017180	Tachycardia, Ventricular	55-73-2	Bethanidine	0.0
+D017180	Tachycardia, Ventricular	59-41-6	bretylium	0.0
+D017180	Tachycardia, Ventricular	61-75-6	Bretylium Tosylate	0.0
+D017180	Tachycardia, Ventricular	25614-03-3	Bromocriptine	0.0
+D017180	Tachycardia, Ventricular	2180-92-9	Bupivacaine	0.0
+D017180	Tachycardia, Ventricular	4138-96-9	Canrenoic Acid	0.0
+D017180	Tachycardia, Ventricular	72956-09-3	Carvedilol	0.0
+D017180	Tachycardia, Ventricular	56980-93-9	Celiprolol	0.0
+D017180	Tachycardia, Ventricular	34919-98-7	cetamolol	0.0
+D017180	Tachycardia, Ventricular	7261-97-4	Dantrolene	0.0
+D017180	Tachycardia, Ventricular	42399-41-7	Diltiazem	0.0
+D017180	Tachycardia, Ventricular	3737-09-5	Disopyramide	0.0
+D017180	Tachycardia, Ventricular	115256-11-6	dofetilide	0.0
+D017180	Tachycardia, Ventricular	548-73-2	Droperidol	0.0
+D017180	Tachycardia, Ventricular	13838-16-9	Enflurane	0.0
+D017180	Tachycardia, Ventricular	50-28-2	Estradiol	0.0
+D017180	Tachycardia, Ventricular	54143-55-4	Flecainide	0.0
+D017180	Tachycardia, Ventricular	87721-62-8	flestolol	0.0
+D017180	Tachycardia, Ventricular	52468-60-7	Flunarizine	0.0
+D017180	Tachycardia, Ventricular	406-90-6	fluroxene	0.0
+D017180	Tachycardia, Ventricular	93390-81-9	fosphenytoin	0.0
+D017180	Tachycardia, Ventricular	9007-92-5	Glucagon	0.0
+D017180	Tachycardia, Ventricular	29110-47-2	Guanfacine	0.0
+D017180	Tachycardia, Ventricular	35354-74-6	honokiol	0.0
+D017180	Tachycardia, Ventricular	79944-58-4	Idazoxan	0.0
+D017180	Tachycardia, Ventricular	74517-78-5	indecainide	0.0
+D017180	Tachycardia, Ventricular	8067-59-2	Innovar	0.0
+D017180	Tachycardia, Ventricular	26675-46-7	Isoflurane	0.0
+D017180	Tachycardia, Ventricular	7683-59-2	Isoproterenol	0.0
+D017180	Tachycardia, Ventricular	6740-88-1	Ketamine	0.0
+D017180	Tachycardia, Ventricular	36894-69-6	Labetalol	0.0
+D017180	Tachycardia, Ventricular	137-58-6	Lidocaine	0.0
+D017180	Tachycardia, Ventricular	7439-95-4	Magnesium	0.0
+D017180	Tachycardia, Ventricular	7786-30-3	Magnesium Chloride	0.0
+D017180	Tachycardia, Ventricular	7487-88-9	Magnesium Sulfate	0.0
+D017180	Tachycardia, Ventricular	528-43-8	magnolol	0.0
+D017180	Tachycardia, Ventricular	76-38-0	Methoxyflurane	0.0
+D017180	Tachycardia, Ventricular	37350-58-6	Metoprolol	0.0
+D017180	Tachycardia, Ventricular	31828-71-4	Mexiletine	0.0
+D017180	Tachycardia, Ventricular	31883-05-3	Moricizine	0.0
+D017180	Tachycardia, Ventricular	42200-33-9	Nadolol	0.0
+D017180	Tachycardia, Ventricular	65141-46-0	Nicorandil	0.0
+D017180	Tachycardia, Ventricular	55-63-0	Nitroglycerin	0.0
+D017180	Tachycardia, Ventricular	50-60-2	Phentolamine	0.0
+D017180	Tachycardia, Ventricular	57-41-0	Phenytoin	0.0
+D017180	Tachycardia, Ventricular	57-47-6	Physostigmine	0.0
+D017180	Tachycardia, Ventricular	85371-64-8	Pinacidil	0.0
+D017180	Tachycardia, Ventricular	50643-33-9	pranolium	0.0
+D017180	Tachycardia, Ventricular	51-06-9	Procainamide	0.0
+D017180	Tachycardia, Ventricular	525-66-6	Propranolol	0.0
+D017180	Tachycardia, Ventricular	86073-85-0	quinacainol	0.0
+D017180	Tachycardia, Ventricular	56-54-2	Quinidine	0.0
+D017180	Tachycardia, Ventricular	104606-13-5	R 56865	0.0
+D017180	Tachycardia, Ventricular	15662-33-6	Ryanodine	0.0
+D017180	Tachycardia, Ventricular	144-55-8	Sodium Bicarbonate	0.0
+D017180	Tachycardia, Ventricular	72-17-3	Sodium Lactate	0.0
+D017180	Tachycardia, Ventricular	3930-20-9	Sotalol	0.0
+D017180	Tachycardia, Ventricular	8001-22-7	Soybean Oil	0.0
+D017180	Tachycardia, Ventricular	4368-28-9	Tetrodotoxin	0.0
+D017180	Tachycardia, Ventricular	85136-71-6	tilisolol	0.0
+D017180	Tachycardia, Ventricular	13379-86-7	tiprenolol	0.0
+D017180	Tachycardia, Ventricular	41708-72-9	Tocainide	0.0
+D017180	Tachycardia, Ventricular	302-79-4	Tretinoin	0.0
+D017180	Tachycardia, Ventricular	52-53-9	Verapamil	0.0
+D017180	Tachycardia, Ventricular	146-48-5	Yohimbine	0.0
+D017180	Tachycardia, Ventricular	85175-67-3	zatebradine	0.0
+D014069	Tonsillitis	76610-84-9	cefbuperazone	0.0
+D014069	Tonsillitis	79350-37-1	Cefixime	0.0
+D014069	Tonsillitis	73384-59-5	Ceftriaxone	0.0
+D014069	Tonsillitis	114-07-8	Erythromycin	0.0
+D014069	Tonsillitis	87-08-1	Penicillin V	0.0
+D014069	Tonsillitis	76497-13-7	sultamicillin	0.0
+D014123	Toxoplasmosis	71963-77-4	Artemether	0.0
+D014123	Toxoplasmosis	94015-53-9	Atovaquone	0.0
+D014123	Toxoplasmosis	85721-33-1	Ciprofloxacin	0.0
+D014123	Toxoplasmosis	80-08-0	Dapsone	0.0
+D014123	Toxoplasmosis	29091-05-2	dinitramine	0.0
+D014123	Toxoplasmosis	59-30-3	Folic Acid	0.0
+D014123	Toxoplasmosis	52286-59-6	ginsenoside Re	0.0
+D014123	Toxoplasmosis	69806-34-4	haloxyfop	0.0
+D014123	Toxoplasmosis	19044-88-3	oryzalin	0.0
+D014123	Toxoplasmosis	58-14-0	Pyrimethamine	0.0
+D014123	Toxoplasmosis	68-35-9	Sulfadiazine	0.0
+D014134	Tracheal Neoplasms	15663-27-1	Cisplatin	0.0
+D014376	Tuberculosis	6267-02-3	9,9-dimethylcarbazine	0.0
+D014376	Tuberculosis	37517-28-5	Amikacin	0.0
+D014376	Tuberculosis	65-49-6	Aminosalicylic Acid	0.0
+D014376	Tuberculosis	11003-38-6	Capreomycin	0.0
+D014376	Tuberculosis	474-25-9	Chenodeoxycholic Acid	0.0
+D014376	Tuberculosis	85721-33-1	Ciprofloxacin	0.0
+D014376	Tuberculosis	68-41-7	Cycloserine	0.0
+D014376	Tuberculosis	74-55-5	Ethambutol	0.0
+D014376	Tuberculosis	536-33-4	Ethionamide	0.0
+D014376	Tuberculosis	54-85-3	Isoniazid	0.0
+D014376	Tuberculosis	59-01-8	Kanamycin	0.0
+D014376	Tuberculosis	82419-36-1	Ofloxacin	0.0
+D014376	Tuberculosis	50-24-8	Prednisolone	0.0
+D014376	Tuberculosis	98-96-4	Pyrazinamide	0.0
+D014376	Tuberculosis	13292-46-1	Rifampin	0.0
+D014376	Tuberculosis	57-92-1	Streptomycin	0.0
+D014376	Tuberculosis	25683-71-0	terizidone	0.0
+D014376	Tuberculosis	104-06-3	Thioacetazone	0.0
+D014376	Tuberculosis	302-79-4	Tretinoin	0.0
+D014376	Tuberculosis	52-53-9	Verapamil	0.0
+D014376	Tuberculosis	32988-50-4	Viomycin	0.0
+D014397	Tuberculosis, Pulmonary	11003-38-6	Capreomycin	0.0
+D014397	Tuberculosis, Pulmonary	81103-11-9	Clarithromycin	0.0
+D014397	Tuberculosis, Pulmonary	68-41-7	Cycloserine	0.0
+D014397	Tuberculosis, Pulmonary	5490-27-7	Dihydrostreptomycin Sulfate	0.0
+D014397	Tuberculosis, Pulmonary	74-55-5	Ethambutol	0.0
+D014397	Tuberculosis, Pulmonary	54-85-3	Isoniazid	0.0
+D014397	Tuberculosis, Pulmonary	82419-36-1	Ofloxacin	0.0
+D014397	Tuberculosis, Pulmonary	98-96-4	Pyrazinamide	0.0
+D014397	Tuberculosis, Pulmonary	72559-06-9	Rifabutin	0.0
+D014397	Tuberculosis, Pulmonary	13292-46-1	Rifampin	0.0
+D014397	Tuberculosis, Pulmonary	57-92-1	Streptomycin	0.0
+D014648	Varicose Veins	1191-50-0	Sodium Tetradecyl Sulfate	0.0
+D054556	Venous Thromboembolism	152-72-7	Acenocoumarol	0.0
+D054556	Venous Thromboembolism	50-78-2	Aspirin	0.0
+D054556	Venous Thromboembolism	480449-70-5	edoxaban	0.0
+D054556	Venous Thromboembolism	957-56-2	fluindione	0.0
+D054556	Venous Thromboembolism	9005-49-6	Heparin	0.0
+D054556	Venous Thromboembolism	81-81-2	Warfarin	0.0
+D020246	Venous Thrombosis	152-72-7	Acenocoumarol	0.0
+D020246	Venous Thrombosis	117-37-3	anisindione	0.0
+D020246	Venous Thrombosis	50-78-2	Aspirin	0.0
+D020246	Venous Thrombosis	37270-89-6	calcium heparin	0.0
+D020246	Venous Thrombosis	58-94-6	Chlorothiazide	0.0
+D020246	Venous Thrombosis	50-18-0	Cyclophosphamide	0.0
+D020246	Venous Thrombosis	83513-48-8	danaparoid	0.0
+D020246	Venous Thrombosis	9004-54-0	Dextrans	0.0
+D020246	Venous Thrombosis	511-12-6	Dihydroergotamine	0.0
+D020246	Venous Thrombosis	58-32-2	Dipyridamole	0.0
+D020246	Venous Thrombosis	9072-19-9	fucoidan	0.0
+D020246	Venous Thrombosis	9005-49-6	Heparin	0.0
+D020246	Venous Thrombosis	114798-26-4	Losartan	0.0
+D020246	Venous Thrombosis	83-12-5	Phenindione	0.0
+D020246	Venous Thrombosis	81-81-2	Warfarin	0.0
+D014693	Ventricular Fibrillation	139890-68-9	1,2-bis(2-aminophenoxy)ethane N,N,N',N'-tetraacetic acid acetoxymethyl ester	0.0
+D014693	Ventricular Fibrillation	6874-80-2	13-hydroxylupanine-2-pyrrolecarbonic acid	0.0
+D014693	Ventricular Fibrillation	143578-51-2	3,6-dimethylaminodibenzopyridonium edetate	0.0
+D014693	Ventricular Fibrillation	37517-30-9	Acebutolol	0.0
+D014693	Ventricular Fibrillation	4360-12-7	Ajmaline	0.0
+D014693	Ventricular Fibrillation	1951-25-3	Amiodarone	0.0
+D014693	Ventricular Fibrillation	55869-99-3	anisodamine	0.0
+D014693	Ventricular Fibrillation	37640-71-4	Aprindine	0.0
+D014693	Ventricular Fibrillation	29122-68-7	Atenolol	0.0
+D014693	Ventricular Fibrillation	114776-28-2	bepafant	0.0
+D014693	Ventricular Fibrillation	64706-54-3	Bepridil	0.0
+D014693	Ventricular Fibrillation	55-73-2	Bethanidine	0.0
+D014693	Ventricular Fibrillation	135472-91-2	BN 52256	0.0
+D014693	Ventricular Fibrillation	59-41-6	bretylium	0.0
+D014693	Ventricular Fibrillation	61-75-6	Bretylium Tosylate	0.0
+D014693	Ventricular Fibrillation	30103-44-7	bumecain	0.0
+D014693	Ventricular Fibrillation	10043-52-4	Calcium Chloride	0.0
+D014693	Ventricular Fibrillation	51781-06-7	Carteolol	0.0
+D014693	Ventricular Fibrillation	72956-09-3	Carvedilol	0.0
+D014693	Ventricular Fibrillation	132-22-9	Chlorpheniramine	0.0
+D014693	Ventricular Fibrillation	54063-29-5	cicarperone	0.0
+D014693	Ventricular Fibrillation	298-57-7	Cinnarizine	0.0
+D014693	Ventricular Fibrillation	68379-02-2	clofilium	0.0
+D014693	Ventricular Fibrillation	8001-69-2	Cod Liver Oil	0.0
+D014693	Ventricular Fibrillation	6903-79-3	creatinol phosphate	0.0
+D014693	Ventricular Fibrillation	486-66-8	daidzein	0.0
+D014693	Ventricular Fibrillation	42399-41-7	Diltiazem	0.0
+D014693	Ventricular Fibrillation	3737-09-5	Disopyramide	0.0
+D014693	Ventricular Fibrillation	305-01-1	esculetin	0.0
+D014693	Ventricular Fibrillation	50-28-2	Estradiol	0.0
+D014693	Ventricular Fibrillation	57-63-6	Ethinyl Estradiol	0.0
+D014693	Ventricular Fibrillation	146-14-5	Flavin-Adenine Dinucleotide	0.0
+D014693	Ventricular Fibrillation	54143-55-4	Flecainide	0.0
+D014693	Ventricular Fibrillation	87721-62-8	flestolol	0.0
+D014693	Ventricular Fibrillation	52468-60-7	Flunarizine	0.0
+D014693	Ventricular Fibrillation	35354-74-6	honokiol	0.0
+D014693	Ventricular Fibrillation	79944-58-4	Idazoxan	0.0
+D014693	Ventricular Fibrillation	7683-59-2	Isoproterenol	0.0
+D014693	Ventricular Fibrillation	137-58-6	Lidocaine	0.0
+D014693	Ventricular Fibrillation	7439-95-4	Magnesium	0.0
+D014693	Ventricular Fibrillation	7487-88-9	Magnesium Sulfate	0.0
+D014693	Ventricular Fibrillation	528-43-8	magnolol	0.0
+D014693	Ventricular Fibrillation	46464-11-3	meobentine	0.0
+D014693	Ventricular Fibrillation	62-51-1	Methacholine Chloride	0.0
+D014693	Ventricular Fibrillation	37350-58-6	Metoprolol	0.0
+D014693	Ventricular Fibrillation	3575-80-2	metylperon	0.0
+D014693	Ventricular Fibrillation	31828-71-4	Mexiletine	0.0
+D014693	Ventricular Fibrillation	116644-53-2	Mibefradil	0.0
+D014693	Ventricular Fibrillation	7728-40-7	monoethylglycinexylidide	0.0
+D014693	Ventricular Fibrillation	42200-33-9	Nadolol	0.0
+D014693	Ventricular Fibrillation	21829-25-4	Nifedipine	0.0
+D014693	Ventricular Fibrillation	10102-43-9	Nitric Oxide	0.0
+D014693	Ventricular Fibrillation	51-41-2	Norepinephrine	0.0
+D014693	Ventricular Fibrillation	70-22-4	Oxotremorine	0.0
+D014693	Ventricular Fibrillation	6452-71-7	Oxprenolol	0.0
+D014693	Ventricular Fibrillation	76-74-4	Pentobarbital	0.0
+D014693	Ventricular Fibrillation	59-42-7	Phenylephrine	0.0
+D014693	Ventricular Fibrillation	14838-15-4	Phenylpropanolamine	0.0
+D014693	Ventricular Fibrillation	57-41-0	Phenytoin	0.0
+D014693	Ventricular Fibrillation	57-47-6	Physostigmine	0.0
+D014693	Ventricular Fibrillation	19216-56-9	Prazosin	0.0
+D014693	Ventricular Fibrillation	390-64-7	Prenylamine	0.0
+D014693	Ventricular Fibrillation	51-06-9	Procainamide	0.0
+D014693	Ventricular Fibrillation	525-66-6	Propranolol	0.0
+D014693	Ventricular Fibrillation	56-54-2	Quinidine	0.0
+D014693	Ventricular Fibrillation	7440-23-5	Sodium	0.0
+D014693	Ventricular Fibrillation	3930-20-9	Sotalol	0.0
+D014693	Ventricular Fibrillation	50-52-2	Thioridazine	0.0
+D014693	Ventricular Fibrillation	302-79-4	Tretinoin	0.0
+D014693	Ventricular Fibrillation	616-68-2	Trimecaine	0.0
+D014693	Ventricular Fibrillation	52-53-9	Verapamil	0.0
+D014693	Ventricular Fibrillation	146-48-5	Yohimbine	0.0
+D018879	Ventricular Premature Complexes	143578-51-2	3,6-dimethylaminodibenzopyridonium edetate	0.0
+D018879	Ventricular Premature Complexes	94899-83-9	711389-S	0.0
+D018879	Ventricular Premature Complexes	37517-30-9	Acebutolol	0.0
+D018879	Ventricular Premature Complexes	32795-44-1	Acecainide	0.0
+D018879	Ventricular Premature Complexes	4360-12-7	Ajmaline	0.0
+D018879	Ventricular Premature Complexes	317-34-0	Aminophylline	0.0
+D018879	Ventricular Premature Complexes	1951-25-3	Amiodarone	0.0
+D018879	Ventricular Premature Complexes	66722-44-9	Bisoprolol	0.0
+D018879	Ventricular Premature Complexes	3737-09-5	Disopyramide	0.0
+D018879	Ventricular Premature Complexes	54143-55-4	Flecainide	0.0
+D018879	Ventricular Premature Complexes	29110-47-2	Guanfacine	0.0
+D018879	Ventricular Premature Complexes	7683-59-2	Isoproterenol	0.0
+D018879	Ventricular Premature Complexes	36894-69-6	Labetalol	0.0
+D018879	Ventricular Premature Complexes	137-58-6	Lidocaine	0.0
+D018879	Ventricular Premature Complexes	37350-58-6	Metoprolol	0.0
+D018879	Ventricular Premature Complexes	31828-71-4	Mexiletine	0.0
+D018879	Ventricular Premature Complexes	29199-61-9	N-methyllidocaine	0.0
+D018879	Ventricular Premature Complexes	6452-71-7	Oxprenolol	0.0
+D018879	Ventricular Premature Complexes	57-41-0	Phenytoin	0.0
+D018879	Ventricular Premature Complexes	85371-64-8	Pinacidil	0.0
+D018879	Ventricular Premature Complexes	51-06-9	Procainamide	0.0
+D018879	Ventricular Premature Complexes	54063-53-5	Propafenone	0.0
+D018879	Ventricular Premature Complexes	525-66-6	Propranolol	0.0
+D018879	Ventricular Premature Complexes	5714-76-1	quinetolate	0.0
+D018879	Ventricular Premature Complexes	56-54-2	Quinidine	0.0
+D018879	Ventricular Premature Complexes	3930-20-9	Sotalol	0.0
+D018879	Ventricular Premature Complexes	41708-72-9	Tocainide	0.0
+D018879	Ventricular Premature Complexes	52-53-9	Verapamil	0.0
+D014917	Whooping Cough	76610-84-9	cefbuperazone	0.0
+D014927	Wolff-Parkinson-White Syndrome	1951-25-3	Amiodarone	0.0
+D014927	Wolff-Parkinson-White Syndrome	37640-71-4	Aprindine	0.0
+D014927	Wolff-Parkinson-White Syndrome	42399-41-7	Diltiazem	0.0
+D014927	Wolff-Parkinson-White Syndrome	54143-55-4	Flecainide	0.0
+D014927	Wolff-Parkinson-White Syndrome	7439-93-2	Lithium	0.0
+D014927	Wolff-Parkinson-White Syndrome	51-06-9	Procainamide	0.0
+D014927	Wolff-Parkinson-White Syndrome	54063-53-5	Propafenone	0.0
+D014927	Wolff-Parkinson-White Syndrome	525-66-6	Propranolol	0.0
+D014927	Wolff-Parkinson-White Syndrome	56-54-2	Quinidine	0.0
