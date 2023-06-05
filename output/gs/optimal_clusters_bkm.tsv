@@ -1,0 +1,481 @@
+Cluster	Cluster size	Drugs
+0	125	1-(3-chlorophenyl)biguanide;1-Sarcosine-8-Isoleucine Angiotensin II;3,4-dihydropapaverine;5-(dimethylamino)-N-(3,4-dimethyl-5-isoxazolyl)-1-naphthalenesulfonamide;5-hydroxydecanoic acid;5-methylurapidil;6-Cyano-7-nitroquinoxaline-2,3-dione;8-Hydroxy-2-(di-n-propylamino)tetralin;Adrenomedullin;AH 23848;Amitrole;angiotensin II, Sar(1)-Thr(8)-;Apomorphine;AR-C239;aranidipine;benazeprilat;benzylguanidine;bevantolol;bopindolol;BQ 22-708;brefanolol;Bromazepam;Bupranolol;cadralazine;Canrenone;celivarone;Cetrimonium;CGP 48369;Chloralose;Chlorisondamine;Chlorpromazine;Clopamide;cyclothiazide;Debrisoquin;delapril;Desoxycorticosterone;Dexetimide;Dibenz(b,f)(1,4)oxazepine-10(11H)-carboxylic acid, 8-chloro-, 2-acetylhydrazide;Diethylcarbamazine;Diethylstilbestrol;Dihydroergotoxine;Diosgenin;Dyphylline;efonidipine;elgodipine;embusartan;Enkephalin, Ala(2)-MePhe(4)-Gly(5)-;Enkephalin, Leucine-2-Alanine;Fenoldopam;fimasartan;flesinoxan;Flunitrazepam;flutonidine;FR 139317;furegrelate;gamma-Aminobutyric Acid;Guanabenz;guanadrel;guanoxan;hydrochlorothiazide-triamterene;Hydrogen Sulfide;idrapril;imperatorin;Indolapril;Indoramin;Inulin;Isocarboxazid;Isoxsuprine;lercanidipine;LF 2-0254;Linseed Oil;Lorazepam;manidipine;Mecamylamine;Meclofenamic Acid;mepirodipine;Methyclothiazide;methylatropine;methyllycaconitine;Metipranolol;Metolazone;Metyrapone;Mifepristone;MK 761;moexipril;Mycophenolic Acid;N-isobutyl-1,2-diphenylethanolamine;N-methyl-1,2-diphenylethanolamine;Nicergoline;PD 145065;Penbutolol;perindoprilat;phosphoramidon;piperine;Pirenzepine;Propylthiouracil;quinaprilat;rentiapril;Ro 31-6930;Rotenone;saprisartan potassium;Saralasin;SL 84.0418;spirapril;SQ 29548;Succimer;sulfinalol;tangeretin;Terazosin;Thyroxine;tiamenidine;Ticrynafen;tolamolol;Trichlormethiazide;trigonelline;trimazosin;trimethaphan camsylate;Tubocurarine;Urethane;vasopressin, 1-(1-mercaptocyclohexaneacetic acid)-2-(O- methyl-L-tyrosine)-8-L-arginine-;xanthone;Xipamide;Y 27632;zaprinast;zopolrestat
+14	56	2-methoxyidazoxan;5,6-Dihydroxytryptamine;5,7-Dihydroxytryptamine;7,8-dichloro-1,2,3,4-tetrahydroisoquinoline;8-(3-chlorostyryl)caffeine;8-(4-sulfophenyl)theophylline;8-phenyltheophylline;Agmatine;Ambenonium Chloride;Amphetamine;Arecoline;Arginine Vasopressin;Baclofen;Bicuculline;bradykinin, 1-adamantanecarboxylic acid-Arg(0)-Hyp(3)-Thi(5,8)-Phe(7)-;Cimetidine;Clorgyline;Corticosterone;corticotropin releasing hormone (9-41);Cyanamide;deacetylmoxisylyte;Dimethyl Sulfoxide;DSP 4;efaroxan;Ethacrynic Acid;fluparoxan;ginkgolide B;Glucose;icatibant;L 657743;Mephentermine;Metaraminol;Methapyrilene;Methoxamine;Methylene Blue;Metiamide;Metoclopramide;Mivacurium;Moclobemide;Moxisylyte;Obidoxime Chloride;peoniflorin;Picrotoxin;Polygeline;Remoxipride;S 9871;Sulpiride;Tacrine;Tetrabenazine;tetramethylenedisulfotetramine;Thiopental;Tranylcypromine;triclocarban;U 37883A;urovision;Vasopressins
+8	37	17-pentylsparteine;2-(2-benzofuranyl)-2-imidazoline;3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide, (trans)-Isomer;7-oxoprostaglandin I2;AHR 10718;Benzyl Alcohol;bucumolol;dauricine;diacetolol;Dynorphins;E 4031;EO 122;fusaric acid N,N-diethylaminoethylamide;gluconic acid;GYKI 23107;Histamine;ifenprodil;isoteolin;KT 362;mixidine;MK 142;morphiceptin;nicainoprol;nifenalol;O-demethylencainide;otenzepad;Papaverine;Piperazine;pirmenol;pronethalol;propisomide;Propofol;SC 36602;sematilide;Sparteine;tobanum;Trifluoperazine
+13	36	2-furoic acid;2-tert-butyl-4-methylphenol;3',5'-dichloromethotrexate;4-hydroxypyrazole;9-deoxy-delta-9-prostaglandin D2;Afatinib;Alitretinoin;Anethole Trithione;Azacitidine;baicalein;bromebric acid;butenolide;Buthionine Sulfoximine;Butyric Acid;Canertinib;Cantharidin;Chalcone;chlorozotocin;Cladribine;cyclopamine;Deoxyglucose;Epirubicin;Etanidazole;Etoposide;Inositol;Isotretinoin;Lomustine;Mesna;Methoxsalen;Misonidazole;Nimustine;Phytic Acid;Phytol;Silybin;sulindac sulfone;Vindesine
+20	35	3-hydroxyflavone;4-hydroxycoumarin;4,4'-diaminodiphenylmethane;betulinic acid;brazilein;brucine;Cannabidiol;cimadronate;Cysteamine;Cytarabine;Dacarbazine;doxifluridine;Fadrozole;Floxuridine;gingerol;glaucocalyxin A;hinokiflavone;isoliquiritigenin;Ivermectin;ixabepilone;Medroxyprogesterone Acetate;Melitten;ML 7;ML 9;naphthalene;naphtho(1,2-b)furan-4,5-dione;Niclosamide;Nitrofurazone;pentaacetyl geniposide;salinomycin;Semustine;Thiotepa;triptonide;Uracil;Vinblastine
+6	26	14-dehydroxy-3-glucodigitoxigenin;3-(2,2,2-trimethylhydrazine)propionate;3-(3,4-difluorophenyl)-4-(4-(methylsulfonyl)phenyl)-2(5H)-furanone;3-methyladenine;acetylstrophanthidin;bucindolol;Captopril;CGS 26303;denopamine;enrasentan;etomoxir;fidarestat;FK 664;Inosine Diphosphate;LND 623;MCI 154;MS 857;Natriuretic Peptide, Brain;NSP 804;NSP 805;olprinone;Ouabain;pitavastatin;sulmazole;Tolvaptan;vesnarinone
+17	25	2,5-dihydroxybenzoic acid;4(G)-alpha-glucopyranosyl-rutin;5,5-dimethyl-1-pyrroline-1-oxide;6-hydroxy-2,5,7,8-tetramethylchroman-2-carboxylic acid;Acetylcarnitine;anipamil;boric acid;clentiazem;Daunorubicin;Deferiprone;Deferoxamine;ebselen;erdosteine;fructose-1,6-diphosphate;indole-3-carbinol;Inosine;lupeol;Luteolin;N-benzyladriamycin-14-valerate;phenyl-N-tert-butylnitrone;propionylcarnitine;Propolis;Pyridoxamine;tanshinone II A sodium sulfonate;tetrathiomolybdate
+34	24	aceclofenac;alclofenac;Aurothioglucose;benorilate;bucillamine;Chlorambucil;Chlormezanone;diftalone;Edaravone;fenclofenac;Flurbiprofen;Gold;Gold Sodium Thiomalate;Leflunomide;Levamisole;Nabumetone;oxymatrine;Oxyphenbutazone;Ozone;pirprofen;Prospidium;rifamycin SV;tenidap;Tiopronin
+12	20	2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronamide;2-Chloroadenosine;4-phenylbutyric acid;6-methyl-1,2,3,5-tetrahydroimidazo(2,1-b)quinazolin-2-one hydrochloride;Alprazolam;bisabolol;duteplase;Ellagic Acid;ginkgolic acid;ginsenoside Rd;myricetin;Pentazocine;prostaglandin A1;S-allylcysteine;Safflower Oil;sesamol;sodium thiosulfate;Squalene;tetrandrine;triflusal
+52	19	alpha-naphthoflavone;Aminorex;azoxystrobin;davallialactone;deoxynivalenol;Diethylhexyl Phthalate;Diethylpropion;Fluvoxamine;FR 64822;glabridin;Harmine;Margarine;phendimetrazine;Poloxamer;Polylysine;puag-haad;raspberry ketone;Sertraline;sibutramine
+78	16	apaflurane;bitolterol;Carbimazole;Cyclic AMP;doqualast;doxofylline;Emodin;methylxanthine;Nedocromil;oxitropium;Phenobarbital;Procaterol;syringin;tranilast;Triamcinolone Acetonide;tulobuterol
+43	15	AHR 12234;amafolone;fluroxene;fosphenytoin;indecainide;Innovar;Magnesium Chloride;Methoxyflurane;pranolium;quinacainol;R 56865;Sodium Lactate;Soybean Oil;Tetrodotoxin;tilisolol
+2	14	1,2-bis(2-aminophenoxy)ethane N,N,N',N'-tetraacetic acid acetoxymethyl ester;bepafant;BN 52256;bretylium;bumecain;cicarperone;Cinnarizine;clofilium;Flunarizine;meobentine;Methacholine Chloride;metylperon;monoethylglycinexylidide;Pentobarbital
+27	14	6-methyl-1,3,8-trichlorodibenzofuran;Carmustine;deguelin;formosanin C;Ifosfamide;Leucovorin;Linoleic Acid;Medroxyprogesterone;Mitomycin;Picibanil;RTKI cpd;Tegafur;trichostatin A;Vinorelbine
+56	14	aluminum sulfate;Betahistine;Carnosine;cupric acetate;delphinidin;Estriol;Ethinyl Estradiol-Norgestrel Combination;hexarelin;myricitrin;Paraoxon;Salicylic Acid;theaflavin;Tungsten;withaferin A
+91	14	azabicyclane;Camphor;cefpodoxime;Codeine;Dextrorphan;dimemorfan;dipropizine;drotebanol;glaucine;Hydrocodone;Meperidine;moguisteine;Noscapine;Oxymorphone
+18	12	2''-galloylhyperin;5,8,11,14-Eicosatetraynoic Acid;alkannin;allyl sulfide;beta-Naphthoflavone;Boron;enterotoxin C, staphylococcal;eriodictyol;ethyl pyruvate;procyanidin B2;wogonin;zerumbone
+28	12	7-hydroxycoumarin;AICA ribonucleotide;corilagin;Hesperidin;Iproniazid;Methazolamide;N-(8-amino-1-carboxyoctyl)-alanyl-proline;Phenelzine;plantamajoside;polydatin;pyrvinium;sinapinic acid
+16	11	2,3,4,5-Tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine;amitriptyline N-oxide;Clonazepam;Doxepin;Flurazepam;Mefloquine;Modafinil;Nitrazepam;Risperidone;Temazepam;Triazolam
+73	11	andrographolide;anemarsaponin B;azadirachtin;Calcium Carbonate;dibenzothiophene-4-carboxylic acid;Etidronic Acid;icariin;Levonorgestrel;Nandrolone Decanoate;Teriparatide;Vitamin K 2
+7	9	15-crown-5;2-phenylaminoadenosine;bivalirudin;echinocystic acid;N(6)-cyclohexyladenosine;Nicotinyl Alcohol;Procaine;Pyridostigmine Bromide;ursolic acid
+15	9	2-tert-butylhydroquinone;Aminooxyacetic Acid;Chlorthalidone;cilnidipine;heme arginate;ICI D8731;oleuropein;prolinedithiocarbamate;tempol
+26	9	5,6,7,8-tetrahydrofolic acid;Acitretin;CDP 840;cefuroxime axetil;Indinavir;lycorine;Ribavirin;tetrakis(N-methyl-4-pyridiniumyl)porphine manganese(III) complex;Uric Acid
+39	9	Acetylcholine;Dihydroergocristine;Haloperidol;Hemicholinium 3;Hexamethonium;Naltrexone;Oxidopamine;Piperoxan;tertatolol
+57	9	amezinium;dimethophrine;Droxidopa;Ergotamine;fludrocortisone acetate;Heptaminol;norfenefrine;Protriptyline;Vitamin B 12
+30	8	9,9-dimethylcarbazine;Aminosalicylic Acid;Chenodeoxycholic Acid;Ethionamide;Kanamycin;terizidone;Thioacetazone;Viomycin
+177	8	Cromakalim;Nimodipine;Pargyline;Progesterone;ramiprilat;Reserpine;Rilmenidine;Triamterene
+142	7	Cefazolin;Cefepime;Cefotetan;Chloramphenicol;Daptomycin;Fusidic Acid;Methicillin
+199	7	digitalin;fluindione;lanatoside C;Medigoxin;Phenprocoumon;quinidine bisulfate;tertiapin
+4	6	1'-methylspiro(adamantane-2,3'-pyrrolidine)maleate;agathisflavone;Amantadine;amentoflavone;isoquercitrin;Rimantadine
+23	6	4-Aminopyridine;Colforsin;Dizocilpine Maleate;ICI 118551;pargolol;Sodium
+51	6	Almitrine;Nalbuphine;naloxonazine;norbinaltorphimine;posatirelin;thiosemicarbazide
+67	6	Amoxicillin;cefodizime;Cefotaxime;erythromycin stearate;Floxacillin;Penicillin G Procaine
+1	5	1-(5-hydroxy-5-methylhexyl)-3-methylxanthine;arteannuin B;Ciclopirox;citronellal;Disulfiram
+9	5	18alpha-glycyrrhetinic acid;2-Methoxyestradiol;Butylated Hydroxyanisole;Hydroxyurea;Tolazoline
+22	5	3,6-dimethylaminodibenzopyridonium edetate;Ajmaline;Bretylium Tosylate;Mexiletine;Tocainide
+24	5	5-((2,4-dioxo-5-thiazolidinyl)methyl)-2-methoxy-N-((4-(trifluoromethyl)phenyl)methyl)benzamide;kaempferol 3-O-sophoroside;Nateglinide;osthol;Phenformin
+81	5	Artemether;dinitramine;haloxyfop;oryzalin;Pyrimethamine
+83	5	Aspartame;Fenoprofen;Meloxicam;Misoprostol;tenoxicam
+86	5	Astemizole;azatadine;azelastine;Cetirizine;epinastine
+95	5	Aztreonam;Deamino Arginine Vasopressin;Fosfomycin;Piperacillin;Ursodeoxycholic Acid
+111	5	bisphenol A;Fenfluramine;Mazindol;Phentermine;Polythiazide
+208	5	Dimyristoylphosphatidylcholine;dimyristoylphosphatidylglycerol;Natamycin;Nystatin;sertaconazole
+240	5	falipamil;Fendiline;Nitric Acid;Oxyfedrine;prenylamine lactate
+3	4	1,7-dimethylxanthine;Carbocysteine;Eucalyptol;trospium chloride
+19	4	3-hydroxy-10,11-dihydroquinidine;Moricizine;Pilocarpine;Ryanodine
+50	4	Allopurinol;Benzbromarone;Colchicine;Oxypurinol
+61	4	amiloride, hydrochlorothiazide drug combination;Bendroflumethiazide;Cyclopenthiazide;Teprotide
+75	4	anisindione;calcium heparin;danaparoid;fucoidan
+77	4	antrafenine;Diflunisal;Indoprofen;Tolmetin
+85	4	astaxanthine;coumarin;Diosmin;Tolbutamide
+102	4	beractant;Hexadimethrine Bromide;sivelestat;Vitamin K 3
+120	4	Butylated Hydroxytoluene;diallyl trisulfide;Prajmaline;Rolipram
+132	4	Capreomycin;Cycloserine;Isoniazid;Pyrazinamide
+148	4	Cephalexin;Gatifloxacin;Ornade;Triprolidine
+157	4	cifenline;cyclovirobuxine D;pilsicainide;Trimecaine
+216	4	Domperidone;Etilefrine;Fludrocortisone;Neostigmine
+248	4	Flavin-Adenine Dinucleotide;Glucagon;Ketamine;Oxotremorine
+286	4	Imipenem;morphocycline;Piperacillin, Tazobactam Drug Combination;quinupristin-dalfopristin
+25	3	5-Methoxypsoralen;Donepezil;Lutein
+33	3	Acecainide;N-methyllidocaine;quinetolate
+38	3	acetovanillone;Cyproheptadine;tiprenolol
+44	3	albolabrin;eristostatin;S 145
+70	3	amphotericin B, deoxycholate drug combination;borrelidin;Terbinafine
+99	3	benidipine;Hemin;stannous chloride
+114	3	Bromocriptine;Fosinopril;Minoxidil
+130	3	candesartan cilexetil;Dihydralazine;Torsemide
+140	3	Cefadroxil;Cinoxacin;Flufenamic Acid
+141	3	Cefamandole;Lincomycin;Sulbactam
+145	3	cefpirome;Ceftazidime;Teicoplanin
+149	3	cetamolol;Charcoal;Dimercaprol
+150	3	Chloroquine;chloroquine diphosphate;triptolide
+164	3	Clemastine;Oxymetazoline;xylometazoline
+172	3	Colestipol;Dydrogesterone;prednisolone hemisuccinate
+187	3	Demeclocycline;Enoxacin;Fleroxacin
+198	3	Didanosine;Pentamidine;Zidovudine
+225	3	Enflurane;Methyldopa;tetrahydrocurcumin
+238	3	evodiamine;Fenretinide;fumagillin
+302	3	KF 14124;MDL 72567;Perhexiline
+323	3	Mercury;Niacinamide;sodium arsenite
+11	2	2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one;Wortmannin
+21	2	3,3',4,5'-tetrahydroxystilbene;Chlorogenic Acid
+29	2	711389-S;Aprindine
+32	2	Acebutolol;Bepridil
+49	2	alinidine;N-cyano-N'-(2-nitroxyethyl)-3-pyridinecarboximidamide methanesulfonate
+54	2	Alprenolol;Betaxolol
+69	2	Amphotericin B;Fluconazole
+71	2	Ampicillin;Trimethoprim
+88	2	Atovaquone;Dapsone
+94	2	Azithromycin;Clindamycin
+96	2	bambuterol;enprofylline
+108	2	Bethanidine;Guanfacine
+121	2	caffeic acid;Catechin
+124	2	Calcifediol;Cholecalciferol
+127	2	Calcium Chloride;Carbidopa
+128	2	Calcium Gluconate;Edrophonium
+129	2	candesartan;temocapril hydrochloride
+131	2	Canrenoic Acid;cobaltiprotoporphyrin
+136	2	Carboplatin;Cisplatin
+137	2	Carteolol;Droperidol
+144	2	Cefixime;Erythromycin
+153	2	Chlorpropamide;Glipizide
+162	2	Citalopram;Nortriptyline
+169	2	cobaltous chloride;KN 93
+171	2	Cod Liver Oil;esculetin
+175	2	creatinol phosphate;Dantrolene
+196	2	Diclofenac;Etoricoxib
+197	2	Dicumarol;reteplase
+204	2	Dihydrostreptomycin Sulfate;Rifabutin
+212	2	Disopyramide;Flecainide
+215	2	dofetilide;ibutilide
+218	2	Doxazosin;Eicosapentaenoic Acid
+219	2	Doxorubicin;gemcitabine
+221	2	edoxaban;Lignin
+223	2	Enalaprilat;Methimazole
+233	2	Ethambutol;Rifampin
+235	2	Ethinyl Estradiol;Norethindrone Acetate
+250	2	Flucytosine;Miconazole
+252	2	Flumazenil;N-methylnaloxone
+276	2	honokiol;magnolol
+282	2	ICI 195739;Thymol
+297	2	Itraconazole;Ketoconazole
+301	2	Ketotifen;Loratadine
+304	2	leonurine;pimobendan
+316	2	Magnesium Sulfate;Pinacidil
+320	2	Mefenamic Acid;Phenylbutazone
+338	2	Molsidomine;Tiapamil Hydrochloride
+342	2	N,N,N',N'-tetrakis(2-pyridylmethyl)ethylenediamine;PH 163
+344	2	Nafcillin;Vancomycin
+346	2	naphthalan;S 1 (combination)
+366	2	Oxacillin;Triamcinolone
+367	2	Oxprenolol;Timolol
+369	2	ozagrel;Valproic Acid
+370	2	Pamidronate;YM 529
+372	2	Penicillamine;Sulfasalazine
+379	2	perhexiline maleate;Ticlopidine
+392	2	pirfenidone;Rutin
+419	2	Razoxane;Thiamine
+5	1	13-hydroxylupanine-2-pyrrolecarbonic acid
+10	1	2-((((2-chloroethyl)nitrosoamino)carbonyl)amino)propanamide
+31	1	Acarbose
+35	1	Acenocoumarol
+36	1	Acetaminophen
+37	1	Acetazolamide
+40	1	Acetylcysteine
+41	1	Adenosine
+42	1	Adenosine Triphosphate
+45	1	Albuterol
+46	1	Alendronate
+47	1	alfacalcidol
+48	1	Alfentanil
+53	1	alpha-Tocopherol
+55	1	Alprostadil
+58	1	Amifostine
+59	1	Amikacin
+60	1	Amiloride
+62	1	Aminoglutethimide
+63	1	Aminophylline
+64	1	Amiodarone
+65	1	Amitriptyline
+66	1	Amlodipine
+68	1	Amoxicillin-Potassium Clavulanate Combination
+72	1	Amrinone
+74	1	anethole
+76	1	anisodamine
+79	1	Apigenin
+80	1	Arsenic Trioxide
+82	1	Ascorbic Acid
+84	1	Aspirin
+87	1	Atenolol
+89	1	Atropine
+90	1	Auranofin
+92	1	Azathioprine
+93	1	azimilide
+97	1	Beclomethasone
+98	1	benazepril
+100	1	Benserazide
+101	1	Benzodiazepines
+103	1	beraprost
+104	1	Berberine
+105	1	beta Carotene
+106	1	Betaine
+107	1	Betamethasone
+109	1	Bezafibrate
+110	1	Bisoprolol
+112	1	Bleomycin
+113	1	Bosentan
+115	1	Budesonide
+116	1	Bumetanide
+117	1	bunazosin
+118	1	Bupivacaine
+119	1	Buprenorphine
+122	1	caffeic acid phenethyl ester
+123	1	Caffeine
+125	1	Calcitriol
+126	1	Calcium
+133	1	Capsaicin
+134	1	Carbamazepine
+135	1	Carbon Monoxide
+138	1	Carvedilol
+139	1	Cefaclor
+143	1	cefbuperazone
+146	1	Ceftriaxone
+147	1	Celiprolol
+151	1	Chlorothiazide
+152	1	Chlorpheniramine
+154	1	Chromium
+155	1	Chromonar
+156	1	chrysin
+158	1	ciglitazone
+159	1	Cilazapril
+160	1	Cilostazol
+161	1	Ciprofloxacin
+163	1	Clarithromycin
+165	1	Clodronic Acid
+166	1	Clofibrate
+167	1	Clonidine
+168	1	Clotrimazole
+170	1	Cocaine
+173	1	Colistin
+174	1	Copper
+176	1	crocin
+178	1	Cromolyn Sodium
+179	1	Curcumin
+180	1	Cyclophosphamide
+181	1	Cyclosporine
+182	1	daidzein
+183	1	Danazol
+184	1	dazoxiben
+185	1	Decitabine
+186	1	Dehydroepiandrosterone
+188	1	Desipramine
+189	1	Dexamethasone
+190	1	Dexfenfluramine
+191	1	Dexmedetomidine
+192	1	Dextrans
+193	1	Dextromethorphan
+194	1	Diazepam
+195	1	Diazoxide
+200	1	Digitoxin
+201	1	Digoxin
+202	1	dihydrocodeine
+203	1	Dihydroergotamine
+205	1	Diltiazem
+206	1	Dimenhydrinate
+207	1	diminazene aceturate
+209	1	Dinoprostone
+210	1	Diphenhydramine
+211	1	Dipyridamole
+213	1	Dobutamine
+214	1	Docosahexaenoic Acids
+217	1	Dopamine
+220	1	Doxycycline
+222	1	Enalapril
+224	1	Encainide
+226	1	Enoximone
+227	1	Ephedrine
+228	1	epigallocatechin gallate
+229	1	Epinephrine
+230	1	Epoprostenol
+231	1	esmolol
+232	1	Estradiol
+234	1	Ethanol
+236	1	Etodolac
+237	1	Eugenol
+239	1	Exenatide
+241	1	Famotidine
+242	1	fasudil
+243	1	Felodipine
+244	1	Fenofibrate
+245	1	Fenoterol
+246	1	Fentanyl
+247	1	ferulic acid
+249	1	flestolol
+251	1	fludarabine
+253	1	Fluorouracil
+254	1	Fluoxetine
+255	1	Fluvastatin
+256	1	Folic Acid
+257	1	Furosemide
+258	1	Gallic Acid
+259	1	Gallopamil
+260	1	Gemfibrozil
+261	1	Genistein
+262	1	geraniol
+263	1	ginsenoside Re
+264	1	ginsenoside Rg1
+265	1	Gliclazide
+266	1	Glucosamine
+267	1	Glutathione
+268	1	Glyburide
+269	1	Glycopyrrolate
+270	1	Griseofulvin
+271	1	Guaifenesin
+272	1	Guanethidine
+273	1	Halothane
+274	1	Heparin
+275	1	hesperetin
+277	1	Hydralazine
+278	1	Hydrochlorothiazide
+279	1	Hydrocortisone
+280	1	Hydroxychloroquine
+281	1	Ibuprofen
+283	1	Idazoxan
+284	1	Iloprost
+285	1	imidapril
+287	1	Indapamide
+288	1	Indomethacin
+289	1	Iodine
+290	1	Ipratropium
+291	1	Irbesartan
+292	1	Isoflurane
+293	1	Isoproterenol
+294	1	Isosorbide Dinitrate
+295	1	isosorbide-5-mononitrate
+296	1	Isradipine
+298	1	kaempferol
+299	1	Ketanserin
+300	1	Ketoprofen
+303	1	Labetalol
+305	1	Lidocaine
+306	1	Lisinopril
+307	1	Lithium
+308	1	Lithium Chloride
+309	1	lithium hydroxybutyrate
+310	1	Lithocholic Acid
+311	1	Losartan
+312	1	Lovastatin
+313	1	LY 117018
+314	1	LY 171883
+315	1	Magnesium
+317	1	mangiferin
+318	1	mangostin
+319	1	Mannitol
+321	1	Melatonin
+322	1	Melphalan
+324	1	Meropenem
+325	1	Metaproterenol
+326	1	Metformin
+327	1	Methotrexate
+328	1	Methylprednisolone
+329	1	Methylprednisolone Hemisuccinate
+330	1	Metoprolol
+331	1	Metronidazole
+332	1	Mibefradil
+333	1	Midazolam
+334	1	Midodrine
+335	1	Milrinone
+336	1	Minocycline
+337	1	MK-886
+339	1	montelukast
+340	1	Morphine
+341	1	N-(2-cyclohexyloxy-4-nitrophenyl)methanesulfonamide
+343	1	Nadolol
+345	1	Naloxone
+347	1	Naproxen
+348	1	naringenin
+349	1	naringin
+350	1	Neomycin
+351	1	Nicardipine
+352	1	Nicorandil
+353	1	Nifedipine
+354	1	nimesulide
+355	1	Nisoldipine
+356	1	Nitrendipine
+357	1	Nitric Oxide
+358	1	Nitroglycerin
+359	1	Nitroprusside
+360	1	Norepinephrine
+361	1	Octreotide
+362	1	Ofloxacin
+363	1	Oleanolic Acid
+364	1	Ondansetron
+365	1	Orlistat
+368	1	Oxygen
+371	1	Pefloxacin
+373	1	Penicillin G
+374	1	Penicillin V
+375	1	Pentaerythritol Tetranitrate
+376	1	Pentolinium Tartrate
+377	1	Pentoxifylline
+378	1	Pergolide
+380	1	Perindopril
+381	1	Phenindione
+382	1	Phenoxybenzamine
+383	1	Phentolamine
+384	1	Phenylephrine
+385	1	Phenylpropanolamine
+386	1	Phenytoin
+387	1	Physostigmine
+388	1	pimagedine
+389	1	Pindolol
+390	1	Pioglitazone
+391	1	pirbuterol
+393	1	pirinixic acid
+394	1	Piroxicam
+395	1	platycodin D
+396	1	Potassium
+397	1	Potassium Chloride
+398	1	Practolol
+399	1	Pravastatin
+400	1	Prazosin
+401	1	Prednisolone
+402	1	Prednisone
+403	1	pregna-4,17-diene-3,16-dione
+404	1	Prenylamine
+405	1	Probenecid
+406	1	Probucol
+407	1	Procainamide
+408	1	Propafenone
+409	1	Propranolol
+410	1	proxyphylline
+411	1	Pseudoephedrine
+412	1	puerarin
+413	1	pyrrolidine dithiocarbamic acid
+414	1	Quercetin
+415	1	Quinacrine
+416	1	Quinapril
+417	1	Quinidine
+418	1	Ramipril
+420	1	Rimonabant
+421	1	Ritodrine
+422	1	ruboxistaurin
+423	1	Ruthenium Red
+424	1	sarpogrelate
+425	1	Selenium
+426	1	Simendan
+427	1	Simvastatin
+428	1	Sirolimus
+429	1	Sodium Bicarbonate
+430	1	sodium bisulfide
+431	1	Sodium Selenite
+432	1	Sodium Tetradecyl Sulfate
+433	1	Sotalol
+434	1	Spironolactone
+435	1	Streptomycin
+436	1	Succinylcholine
+437	1	Sulfadiazine
+438	1	Sulfinpyrazone
+439	1	Sulindac
+440	1	sultamicillin
+441	1	Synephrine
+442	1	Tacrolimus
+443	1	tamibarotene
+444	1	Tamoxifen
+445	1	tanshinone
+446	1	Taurine
+447	1	Terbutaline
+448	1	Terfenadine
+449	1	Terlipressin
+450	1	Testosterone
+451	1	Tetrachlorodibenzodioxin
+452	1	Tetracycline
+453	1	Thalidomide
+454	1	Theophylline
+455	1	Thioctic Acid
+456	1	Thioridazine
+457	1	thymoquinone
+458	1	Tobramycin
+459	1	Topiramate
+460	1	Tramadol
+461	1	Trazodone
+462	1	Tretinoin
+463	1	tri-o-cresyl phosphate
+464	1	Trientine
+465	1	Trimetazidine
+466	1	Trimethoprim, Sulfamethoxazole Drug Combination
+467	1	Troglitazone
+468	1	Verapamil
+469	1	Vitamin A
+470	1	Vitamin D
+471	1	Vitamin E
+472	1	Warfarin
+473	1	Xamoterol
+474	1	xanthohumol
+475	1	Yohimbine
+476	1	zafirlukast
+477	1	zatebradine
+478	1	zileuton
+479	1	Zinc
