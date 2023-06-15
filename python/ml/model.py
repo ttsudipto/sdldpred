@@ -3,6 +3,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import silhouette_score
 from sklearn.metrics import calinski_harabasz_score
 from sklearn.metrics import davies_bouldin_score
+from sklearn.metrics.pairwise import euclidean_distances
 from sklearn.model_selection import KFold
 from sklearn.utils import shuffle
 from sklearn.cluster import KMeans
@@ -118,16 +119,21 @@ class Model:
 
         raise RuntimeError('Error !!! Model not trained ...')
 
-    def _predict_blind_without_cv(self, b_data: np.array, scale: bool = False) -> Tuple[np.array, List[List[str]]]:
+    def _predict_blind_without_cv(self, b_data: np.array, scale: bool = False) \
+            -> Tuple[np.array, List[List[str]], List[List[float]]]:
         if not self.is_trained():
             raise RuntimeError('Error !!! Model not trained ...')
 
         if scale:
             b_data = self.dataScaler.transform(b_data)
         y_pred = self.total_estimator.predict(b_data)
-        neighbors_pred = [[self.sample_names[x] for x in self.clusters[y_pred[i]]] for i in y_pred.shape[0]]
+        neighbors_pred = [[self.sample_names[x] for x in self.clusters[y_pred[i]]] for i in range(y_pred.shape[0])]
+        neighbors_dist = [
+            [euclidean_distances(b_data, self.data[x, :] . reshape(1, -1))[0, 0] for x in self.clusters[y_pred[i]]]
+            for i in range(y_pred.shape[0])
+        ]
 
-        return y_pred, neighbors_pred
+        return y_pred, neighbors_pred, neighbors_dist
 
     # def predict_one_fold(self, estimator, x_test: np.array, scale: bool = True):
     #     if scale:
@@ -138,5 +144,5 @@ class Model:
     #     # print(y_pred.shape)
     #     return y_pred
 
-    def predict(self, b_data: np.array, scale: bool = False) -> Tuple[np.array, List[List[str]]]:
+    def predict(self, b_data: np.array, scale: bool = False) -> Tuple[np.array, List[List[str]], List[List[float]]]:
         return self._predict_blind_without_cv(b_data, scale)
