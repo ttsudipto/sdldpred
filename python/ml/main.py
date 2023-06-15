@@ -8,6 +8,10 @@ from.grid_search import grid_search_mean_shift
 from .grid_search import grid_search_birch
 from .grid_search import get_optimal_clusters
 from .grid_search import get_optimal_performance
+from .pickler import dump_model_to_file
+from .pickler import load_model_from_file
+from .pickler import perform_clustering
+from .pickler import check_clustering_metrics
 
 
 res = read_ml_data(verbose=True)
@@ -31,6 +35,24 @@ sample_names = list(samples.values())
 # get_optimal_clusters(res.data, sample_names, 'BKM', scale=False, verbose=True)
 # get_optimal_clusters(res.data, sample_names, 'MS', scale=False, verbose=True)
 # get_optimal_clusters(res.data, sample_names, 'BIRCH', scale=False, verbose=True)
+
+# dump_model_to_file(perform_clustering('KMC', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('BKM', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('MS', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('BIRCH', res.data, sample_names, verbose=False), path_prefix='output/models/')
+
+# perform_clustering('KMC', res.data, sample_names)
+# m = load_model_from_file('KMC', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('BKM', res.data, sample_names)
+# m = load_model_from_file('BKM', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('MS', res.data, sample_names)
+# m = load_model_from_file('MS', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('BIRCH', res.data, sample_names)
+# m = load_model_from_file('BIRCH', path_prefix='output/models/')
+# check_clustering_metrics(m)
 
 
 # from sklearn.metrics import pairwise_distances
