@@ -161,3 +161,5 @@ cython_debug/
 
 .directory
 .Rhistory
+.kdev4/
+*.kdev4
