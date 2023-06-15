@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Home - Drug prediction</title>
+        <link rel = "stylesheet" type = "text/css" href = "css/main.css" />
+        <script type = "text/javascript" src = "js/input.js"></script>
+        <script>
+            function setInitialKeyHTML(elementID) {
+                var keyHTML = '<select class="full" id="k0" name="k0">';
+                for (var i=0; i<symptoms.length; ++i)
+                    keyHTML += '<option value="' + symptoms[i] + '">' + symptoms[i] + '</option>';
+                keyHTML += '</select>';
+                document.getElementById(elementID).innerHTML = keyHTML;
+            }
+        </script>
+        <style>
+            body{
+                background-color: #ffffff;
+            }
+            .intro{
+                width:80%;
+                height:auto;
+                margin:0 10% 0 10%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class = "section_header">
+            <center><p class="title">Drug prediction</p></center>
+        </div>
+
+        <div class = "section_menu">
+            <center>
+            <table cellpadding="3px">
+                <tr class="nav">
+                    <td class="nav"><a href="#" class="active">Home</a></td>
+                    <td class="nav"><a href="help.html" class="side_nav">Help</a></td>
+                    <td class="nav"><a href="team.html" class="side_nav">Team</a></td>
+                </tr>
+            </table>
+            </center>
+        </div>
+
+        <!--<div class = "section_left"></div>-->
+
+        <div class = "section_middle">
+            <br/>
+            <p class="intro">
+
+            </p>
+            <form method="post" action="prediction.php">
+                <table class="form" id="form_input_table" border="0" align="center">
+                    <tr class="input_row">
+                        <td style="width:10%;"></td>
+                        <td style="width:70%;" id="initial_key">
+
+                        </td>
+                        <td style="width:20%;">
+                            <input type="number" min="0" max="10" step="0.01" class="full" placeholder="Enter symptom intensity (1-10)" required />
+                        </td>
+                    </tr>
+                </table>
+                <input type="hidden" id="total_count" name="total_count" value="1" />
+
+                <script>setInitialKeyHTML('initial_key');</script>
+                <script>document.getElementById('total_count').value = 1;</script>
+
+                <table border="0" align="center" style="margin-top:10px;">
+                    <tr>
+                        <td style="text-align:right;"><button class="bt" type="button" style="width:150px;margin:5px;" onclick="addRow()">Add symptom</button></td>
+                        <td style="text-align:left;"><button class="bt" type="button" style="width:150px;margin:5px;" onclick="deleteRow()">Delete symptom</button></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align:right;//padding-right:100px;"><input type="submit" style="width:80px;margin:15px;border-radius:10px;" name="Submit" value="Submit" /></td>
+                        <td style="text-align:left;//padding-left:100px;"><button class="bt" type="reset" style="width:80px;margin:15px;" value="Reset">Reset</button></td>
+                    </tr>
+                </table>
+            </form>
+
+        </div>
+    </body>
+</html>
