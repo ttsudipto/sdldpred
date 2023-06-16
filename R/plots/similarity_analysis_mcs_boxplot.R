@@ -54,7 +54,7 @@ make_box_plot <- function(cluster_similarity_df) {
     geom_hline(yintercept=avg, linetype="dashed", color="black") + 
     scale_y_continuous(breaks=seq(0,1,0.1)) +
     scale_x_discrete(labels=c(as.character(seq(1,length(unique(cluster))-1)), "R")) +
-    xlab("Clusters") + ylab("Maximum common substructure overlap coefficient") + 
+    xlab("Drug clusters") + ylab("Maximum common substructure overlap coefficient") + 
     plot_theme + theme(legend.position="none")
   # return(plot)
 }
