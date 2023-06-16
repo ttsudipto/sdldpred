@@ -63,7 +63,7 @@ get_union_gene_set <- function(drugs, association) {
   return(genes)
 }
 
-compute_semantic_similarity <- function(genes, ontology, measure="Jiang") {
+compute_semantic_similarity <- function(genes, ontology, measure="Lin") {
   if (length(genes) > 1) {
     hsGO <- godata('org.Hs.eg.db', ont = ontology)
     sim <- GOSemSim::mgeneSim(genes, semData = hsGO, measure = measure,
@@ -77,7 +77,7 @@ compute_semantic_similarity <- function(genes, ontology, measure="Jiang") {
   return(sim)
 }
 
-compute_cluster_similarity_gene_union <- function(association, cluster_algo, ontology, measure = "Jiang") {
+compute_cluster_similarity_gene_union <- function(association, cluster_algo, ontology, measure = "Lin") {
   if(cluster_algo == "random")
     clusters <- get_random_drug_cluster(1, rownames(association))
   else
@@ -98,7 +98,7 @@ compute_cluster_similarity_gene_union <- function(association, cluster_algo, ont
   return(cluster_similarity)
 }
 
-read_cluster_similarity <- function(cluster_algo, ontology, measure = "Jiang") {
+read_cluster_similarity <- function(cluster_algo, ontology, measure = "Lin") {
   folder <- "output/go_analysis/gene_union/"
   f_name <- paste0(folder, "GOSemSim_", cluster_algo, "_", tolower(ontology), "_", tolower(measure), ".rds")
   cluster_similarity <- readRDS(f_name)
@@ -112,7 +112,7 @@ print_cluster_similarity <- function(cluster_similarity) {
   }
 }
 
-print_cluster_similarity_metadata <- function(association, cluster_algo, ontology, measure = "Jiang") {
+print_cluster_similarity_metadata <- function(association, cluster_algo, ontology, measure = "Lin") {
   cluster_similarity <- read_cluster_similarity(cluster_algo, ontology, measure)
   clusters <- get_drug_cluster(cluster_algo)
   cat("Cluster\tNo_of_drugs\tNo_of_genes\tNo_of_similarity_values\tMin_similarity\tMax_similarity\tMean_similarity\tMedian_similarity\n")
@@ -121,7 +121,7 @@ print_cluster_similarity_metadata <- function(association, cluster_algo, ontolog
   }
 }
 
-read_cluster_similarity_metadata <- function(cluster_algo, ontology, measure = "Jiang") {
+read_cluster_similarity_metadata <- function(cluster_algo, ontology, measure = "Lin") {
   folder <- "output/go_analysis/gene_union/"
   f_name <- paste0(folder, "GOSemSim_metadata_", cluster_algo, "_", tolower(ontology), "_", tolower(measure), ".tsv")
   cluster_similarity_metadata <- read.csv(f_name, sep = "\t")

@@ -10,7 +10,7 @@ plot_theme <- theme(plot.title=element_text(size=10),
                     axis.ticks.length=unit(3, "pt")
 )
 
-# read_cluster_similarity_go_drug_pair <- function(cluster_algo, ontology, measure = "Jiang") {
+# read_cluster_similarity_go_drug_pair <- function(cluster_algo, ontology, measure = "Lin") {
 #   folder <- "output/go_analysis/drug_pair/"
 #   f_name <- paste0(folder, "GOSemSim_", cluster_algo, "_", tolower(ontology), "_", tolower(measure), ".tsv")
 #   cluster_similarity <- type.convert(strsplit(read.csv(f_name, sep = "\t")$Pairwise_similarities, ";"), as.is=TRUE)
@@ -20,7 +20,7 @@ plot_theme <- theme(plot.title=element_text(size=10),
 #   return(cluster_similarity)
 # }
 
-read_cluster_similarity_go_gene_union <- function(cluster_algo, ontology, measure = "Jiang") {
+read_cluster_similarity_go_gene_union <- function(cluster_algo, ontology, measure = "Lin") {
   folder <- "output/go_analysis/gene_union/"
   f_name <- paste0(folder, "GOSemSim_", cluster_algo, "_", tolower(ontology), "_", tolower(measure), ".rds")
   cluster_similarity <- readRDS(f_name)
@@ -70,9 +70,9 @@ make_box_plot <- function(cluster_similarity_df) {
 # cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "kmc", ontology = "MF")
 # cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "kmc", ontology = "BP")
 # cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "kmc", ontology = "CC")
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "MF", measure = "Lin")
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "BP", measure = "Lin")
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "CC", measure = "Lin")
+# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "MF")
+# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "BP")
+# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "CC")
 # cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "ms", ontology = "MF")
 # cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "ms", ontology = "BP")
 # cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "ms", ontology = "CC")
