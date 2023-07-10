@@ -18,13 +18,13 @@ def parse_input(input_json: str) -> Input:
     return input_wrapper
 
 
-def predict_drugs(input_wrapper: Input) -> None:
+def predict_drugs(input_wrapper: Input, op_drug_count: int = 5) -> None:
     model = load_model_from_file(input_wrapper.get_estimator_id(), path_prefix='output/models/')
     y_pred, neighbors_pred, neighbors_dist = model.predict(input_wrapper.get_ndarray())
     neighbors = {neighbors_pred[0][i]: round(float(neighbors_dist[0][i]), 3) for i in range((len(neighbors_pred[0])))}
     output = Output(input_wrapper.get_estimator_id())
     output.add_association(input_wrapper.get_all_values())
-    for drug, dist in sorted(neighbors.items(), key=lambda x: x[1]):
+    for drug, dist in sorted(neighbors.items(), key=lambda x: x[1])[:op_drug_count]:
         data_index = model.sample_names.index(drug)
         association = list(np.round(model.data[data_index, :].astype(float), 3))
         confidence = round(compute_confidence(dist) * 100, 3)
@@ -50,4 +50,4 @@ inp = parse_input(sys.argv[1])
 # params = inp.get_all_params()
 # for i, x in enumerate(inp.get_all_values()):
 #     print(str(i) + ' ' + params[i] + ' ' + str(x) + '<br/>')
-predict_drugs(inp)
+predict_drugs(inp, op_drug_count=5)
