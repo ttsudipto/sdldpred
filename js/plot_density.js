@@ -4,7 +4,7 @@ function makeDensityPlot(div_id, jsonData, distances, drugs) {
     var density_curve = {
         x: data.x,
         y: data.y,
-        name: 'Probability density of distance between two drugs',
+        name: 'Probability density of distance between two drugs (<i>f<sub>dist</sub></i>)',
         line: {
             width: 3,
             color: 'slategray'
