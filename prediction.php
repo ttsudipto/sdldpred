@@ -156,7 +156,7 @@
                 <tr>
                     <th>Predicted drugs</th>
                     <th>Euclidean distance</th>
-                    <th>Confidence (%)</th>
+                    <th>Confidence score (%)</th>
                 </tr>
                 <?php
                     $n_drugs = count($result->drugs);
@@ -169,7 +169,16 @@
                     }
                 ?>
             </table>
+            <p style="width:80%; margin:0 10% 0 10%;">
+                N.B. - The confidence score is the probability that the euclidean
+                distance of the predicted drug is less than the euclidean distance
+                between any two drugs.
+            </p>
             <div id="plot_container_1" style="width:70%; margin:20px 15% 0 15%;"></div>
+            <p style="width:70%; margin:10px 15% 0 15%;">
+                N.B. - The grey region shows the euclidean distance range of 0 - 1.63
+                for which the confidence score &gt; 90%.
+            </p>
 
             <h2>2. Comparison of input symptoms with the symptom-associations of predicted drugs</h2>
             <div id="plot_container_2" style="width:100%; margin:0 0 0 0;"></div>
