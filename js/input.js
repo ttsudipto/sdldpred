@@ -38,6 +38,16 @@ var symptoms = ['Abdomen, Acute', 'Abdominal Pain', 'Acute Coronary Syndrome', '
     'Urinary Incontinence', 'Urinary Incontinence, Stress', 'Urinary Incontinence, Urge', 'Urinoma', 'Usher Syndromes', 'Vertigo', 'Virilism', 'Vision Disorders',
     'Vision, Low', 'Vocal Cord Paralysis', 'Voice Disorders', 'Vomiting', 'Vomiting, Anticipatory', 'Waterhouse-Friderichsen Syndrome', 'Weight Gain', 'Weight Loss'];
 
+var exampleSymptoms = [
+    ['Dyspnea', 'Respiratory Aspiration', 'Respiratory Sounds', 'Cough', 'Anoxia'],
+    ['Back Pain', 'Hypercalciuria', 'Hypokinesia', 'Mobility Limitation', 'Muscle Spasticity', 'Muscle Weakness', 'Tetany']
+];
+
+var exampleSymptomIntensities = [
+    [1, 4, 3, 2, 2],
+    [6, 8, 5, 3, 4, 2, 2]
+];
+
 function getHTML() {
     var checkboxHTML = '<td style="width:10%;"><input type="checkbox" /></td>';
     var keyHTML = '<td style="width:70%;"><select class="full">';
@@ -72,7 +82,7 @@ function addRow() {
     var rowElement = document.createElement("tr");
     rowElement.innerHTML = getHTML();
     rowElement.classList.add('input_row');
-    tableElement.appendChild(rowElement);
+    tableElement.firstElementChild.appendChild(rowElement);
 
     (document.getElementById('total_count').value)++;
     nameRows();
@@ -88,8 +98,29 @@ function deleteRow() {
             selectedRows.push(allRows[i]);
 
     for(var i=0; i<selectedRows.length; ++i) {
-        document.getElementById('form_input_table').removeChild(selectedRows[i]);
+        document.getElementById('form_input_table').firstElementChild.removeChild(selectedRows[i]);
         (document.getElementById('total_count').value)--;
     }
     nameRows();
+}
+
+function deleteAllRows() {
+    var allRows = document.getElementsByClassName('input_row');
+    var nRows = allRows.length;
+    for(var i=1; i<nRows; ++i) {
+        document.getElementById('form_input_table').firstElementChild.removeChild(allRows[1]);
+        (document.getElementById('total_count').value)--;
+    }
+}
+
+function addExampleRows(index) {
+    var symptoms = exampleSymptoms[index];
+    var intensities = exampleSymptomIntensities[index];
+    deleteAllRows();
+    for(var i=1; i<symptoms.length; ++i)
+        addRow();
+    for(var i=0; i<symptoms.length; ++i) {
+        document.getElementById('k' + i).value = symptoms[i];
+        document.getElementById('v' + i).value = intensities[i];
+    }
 }

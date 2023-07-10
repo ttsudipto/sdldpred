@@ -50,7 +50,19 @@
 
             </p>
             <form method="post" action="prediction.php">
+                <table border="0" align="center" style="margin-top:10px;">
+                    <tr>
+                        <td style="text-align:right;"><button class="bt" type="button" style="width:110px;margin:5px;" onclick="addExampleRows(0)">Example 1</button></td>
+                        <td style="text-align:left;"><button class="bt" type="button" style="width:110px;margin:5px;" onclick="addExampleRows(1)">Example 2</button></td>
+                    </tr>
+                </table>
+
                 <table class="form" id="form_input_table" border="0" align="center">
+                    <tr>
+                        <th style="width:10%; border:0;"></th>
+                        <th style="width:70%; border:0;">Symptom</th>
+                        <th style="width:70%; border:0;">Symptom intensity (0-10)</th>
+                    </tr>
                     <tr class="input_row">
                         <td style="width:10%;"></td>
                         <td style="width:70%;" id="initial_key">
@@ -68,14 +80,25 @@
 
                 <table border="0" align="center" style="margin-top:10px;">
                     <tr>
+                        <td colspan="2">
+                            <p style="width:80%; margin:0 10% 10px 10%;">
+                                More symptoms can be added by clicking on the <i>"Add symptom"</i> button below.
+                                To delete symptoms, first select the checkbox for the symptoms to be deleted and,
+                                then, click on <i>"Delete symptom"</i> button below. Symptom intensity can be in
+                                the range <i>0-10</i>.
+                            </p>
+                        </td>
+                    </tr>
+                    <tr>
                         <td style="text-align:right;"><button class="bt" type="button" style="width:150px;margin:5px;" onclick="addRow()">Add symptom</button></td>
                         <td style="text-align:left;"><button class="bt" type="button" style="width:150px;margin:5px;" onclick="deleteRow()">Delete symptom</button></td>
                     </tr>
                     <tr>
                         <td style="text-align:right;//padding-right:100px;"><input type="submit" style="width:80px;margin:15px;border-radius:10px;" name="Submit" value="Submit" /></td>
-                        <td style="text-align:left;//padding-left:100px;"><button class="bt" type="reset" style="width:80px;margin:15px;" value="Reset">Reset</button></td>
+                        <td style="text-align:left;//padding-left:100px;"><button class="bt" type="reset" style="width:80px;margin:15px;" value="Reset" onclick="deleteAllRows()">Reset</button></td>
                     </tr>
                 </table>
+                <script>addExampleRows(0);</script>
             </form>
 
         </div>
