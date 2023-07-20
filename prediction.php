@@ -133,7 +133,7 @@
     </head>
     <body>
         <div class = "section_header">
-            <center><p class="title">Drug prediction</p></center>
+            <center><p class="title">SDLDpred - Symptom-based Drugs of Lifestyle-related Diseases prediction</p></center>
         </div>
 
         <div class = "section_menu">
@@ -208,6 +208,12 @@
 
             echo "<script>plotHeatmap('plot_container_2', '".$out[0]."')</script>";
         ?>
+
+        <br/><hr/>
+        <p style="font-size:0.8em;text-align:center;">
+            Please contact Dr. Sudipto Saha (<a href="mailto:ssaha4@jcbose.ac.in">ssaha4@jcbose.ac.in</a>,
+            <a href="mailto:ssaha4@gmail.com">ssaha4@gmail.com</a>) regarding any further queries.
+        </p>
     </body>
 </html>
 
