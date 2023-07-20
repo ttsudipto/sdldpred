@@ -202,11 +202,11 @@
             $dist_arg_string = "[" . implode(",", $result->distances) . "]";
             $quoted_drug_strings = array();
             foreach($result->drugs as $d)
-                array_push($quoted_drug_strings, "'".$d."'");
+                array_push($quoted_drug_strings, "\"".$d."\"");
             $drugs_arg_string = "[" . implode(",", $quoted_drug_strings) . "]";
             echo "<script>plotDensity('plot_container_1', ".$dist_arg_string.", ".$drugs_arg_string.")</script>";
 
-            echo "<script>plotHeatmap('plot_container_2', '".$out[0]."')</script>";
+            echo "<script>plotHeatmap('plot_container_2', '".str_replace("'", "\\'", $out[0])."')</script>";
         ?>
 
         <br/><hr/>
