@@ -49,12 +49,12 @@ var exampleSymptomIntensities = [
 ];
 
 function getHTML() {
-    var checkboxHTML = '<td style="width:10%;"><input type="checkbox" /></td>';
+    var checkboxHTML = '<td style="width:10%;"><input type="checkbox" style="height:20px; width:20px;" /></td>';
     var keyHTML = '<td style="width:70%;"><select class="full">';
     for (var i=0; i<symptoms.length; ++i)
         keyHTML += '<option value="' + symptoms[i] + '">' + symptoms[i] + '</option>';
     keyHTML += '</select></td>';
-    var valueHTML = '<td style="width:20%;"><input type="number" min="0" max="10" step="0.01" class="full" placeholder="Enter symptom intensity (1-10)" required /></td>';
+    var valueHTML = '<td style="width:20%;"><input type="number" min="0" max="10" step="0.01" value=0 class="full" placeholder="Enter symptom intensity (1-10)" required /></td>';
     return checkboxHTML + keyHTML + valueHTML;
 }
 

@@ -48,21 +48,26 @@
         <div class = "section_middle">
             <br/>
             <p class="intro">
-
+                <b>SDLDpred</b> is a web-based tool to predict drugs of lifestyle-related
+                diseases using symptoms as features. It uses an unsupervised machine
+                learning model trained using <i>Bisecting K-Means</i> algorithm to
+                perform the prediction. The model was trained with disease-symptom and
+                drug-disease association data of <i>143 lifestyle-related diseases</i>,
+                <i>1271 drugs</i> and <i>305 symptoms</i>.
             </p>
             <form method="post" action="prediction.php">
                 <table border="0" align="center" style="margin-top:10px;">
                     <tr>
-                        <td style="text-align:right;"><button class="bt" type="button" style="width:110px;margin:5px;" onclick="addExampleRows(0)">Example 1</button></td>
-                        <td style="text-align:left;"><button class="bt" type="button" style="width:110px;margin:5px;" onclick="addExampleRows(1)">Example 2</button></td>
+                        <td style="text-align:right;"><button class="bt" type="button" style="width:180px;margin:5px;" onclick="addExampleRows(0)">Insert example data 1</button></td>
+                        <td style="text-align:left;"><button class="bt" type="button" style="width:180px;margin:5px;" onclick="addExampleRows(1)">Insert example data 2</button></td>
                     </tr>
                 </table>
 
                 <table class="form" id="form_input_table" border="0" align="center">
                     <tr>
                         <th style="width:10%; border:0;"></th>
-                        <th style="width:70%; border:0;">Symptom</th>
-                        <th style="width:70%; border:0;">Symptom intensity (0-10)</th>
+                        <th style="width:70%; font-size:1.1em; border:0;">Symptom</th>
+                        <th style="width:20%; font-size:1.1em; border:0;">Symptom intensity (0-10)</th>
                     </tr>
                     <tr class="input_row">
                         <td style="width:10%;"></td>
@@ -70,7 +75,7 @@
 
                         </td>
                         <td style="width:20%;">
-                            <input type="number" min="0" max="10" step="0.01" class="full" placeholder="Enter symptom intensity (1-10)" required />
+                            <input type="number" min="0" max="10" step="0.01" class="full" value=0 placeholder="Enter symptom intensity (1-10)" required />
                         </td>
                     </tr>
                 </table>
@@ -82,7 +87,7 @@
                 <table border="0" align="center" style="margin-top:10px;">
                     <tr>
                         <td colspan="2">
-                            <p style="width:80%; margin:0 10% 10px 10%;">
+                            <p style="width:60%; margin:0 20% 0px 20%;">
                                 More symptoms can be added by clicking on the <i>"Add symptom"</i> button below.
                                 To delete symptoms, first select the checkbox for the symptoms to be deleted and,
                                 then, click on <i>"Delete symptom"</i> button below. Symptom intensity can be in
@@ -91,12 +96,12 @@
                         </td>
                     </tr>
                     <tr>
-                        <td style="text-align:right;"><button class="bt" type="button" style="width:150px;margin:5px;" onclick="addRow()">Add symptom</button></td>
-                        <td style="text-align:left;"><button class="bt" type="button" style="width:150px;margin:5px;" onclick="deleteRow()">Delete symptom</button></td>
+                        <td style="text-align:right;"><button class="bt" type="button" style="width:130px;margin:5px;" onclick="addRow()">Add symptom</button></td>
+                        <td style="text-align:left;"><button class="bt" type="button" style="width:130px;margin:5px;" onclick="deleteRow()">Delete symptom</button></td>
                     </tr>
                     <tr>
-                        <td style="text-align:right;//padding-right:100px;"><input type="submit" style="width:80px;margin:15px;border-radius:10px;" name="Submit" value="Submit" /></td>
-                        <td style="text-align:left;//padding-left:100px;"><button class="bt" type="reset" style="width:80px;margin:15px;" value="Reset" onclick="deleteAllRows()">Reset</button></td>
+                        <td style="text-align:right;//padding-right:100px;"><input type="submit" style="width:100px;margin:15px;" name="Submit" value="Submit" /></td>
+                        <td style="text-align:left;//padding-left:100px;"><button class="reset" type="reset" style="width:100px;margin:15px;" value="Reset" onclick="deleteAllRows()">Reset</button></td>
                     </tr>
                 </table>
                 <script>addExampleRows(0);</script>

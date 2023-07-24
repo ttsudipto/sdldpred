@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&family=Nunito:wght@900&family=Roboto+Serif:wght@600&display=swap');
  
 body{
     background-color : #ffffff; /*#fffafa*/
@@ -15,10 +15,11 @@ body{
     background-color: white;
 }
 .title{
-    font-size: 2.5em;
+    font-family: 'Roboto Serif', sans-serif;
+    font-size: 1.8em;
     font-weight: bold;
     margin: 0;
-    padding: 5px;
+    padding: 15px 0 15px 0;
 }
 .section_menu{
     width : 100%;
@@ -77,9 +78,9 @@ a.active {
 table.form{
     border-collapse : collapse;
     border-width : 0px;
-    width : 80%;
-    margin-left : 10%;
-    margin-right : 10%;
+    width : 60%;
+    margin-left : 20%;
+    margin-right : 20%;
 }
 table.form tr:nth-child(odd){
     background-color : #c1f0c1;
@@ -136,14 +137,13 @@ th{
     font-weight: bold;
 }
 button.bt{
-    background-color : #196767;
-    border: 2px solid black;
-    color : white;
+    background-color : #98e698;/*#196767*/
+    border: 1px solid black;
+    color : black;
     padding : 5px 10px 5px 10px;
     border-radius: 10px;
     font-weight : bold;
     font-family: 'Nunito', sans-serif;
-    box-shadow: 0px 0px 5px grey;
     cursor: pointer;
 }
 button.round{
@@ -152,19 +152,41 @@ button.round{
 button.bt:hover{
     background-color : #536719;
 }
+button.reset{
+    background-color : #196767;
+    border: 2px solid black;
+    color : white;
+    padding : 5px 10px 5px 10px;
+    font-weight : bold;
+    font-size: 1.1em;
+    box-shadow: 0px 0px 5px grey;
+    border-radius: 0px;
+}
+button.reset:hover{
+    background-color: #595959;
+}
 input[type=submit]{
     background-color : #196767;
     border: 2px solid black;
     color : white;
     padding : 5px 10px 5px 10px;
     font-weight : bold;
+    font-size: 1.1em;
     box-shadow: 0px 0px 5px grey;
+    border-radius: 0px;
 }
 input[type=submit]:hover{
-    background-color : #536719;
+    background-color : #595959;
+}
+input[type=number]{
+    text-align: center;
+    font-weight: bold;
 }
 input.full, select.full{
-    width : 90%;
-    margin: 5px 5% 5px 5%;
+    width : 80%;
+    margin: 5px 10% 5px 10%;
     height: 30px;
+    font-size: 1em;
+    border: 1px solid #145214;
+    border-radius: 10px;
 }
