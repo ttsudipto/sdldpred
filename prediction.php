@@ -141,6 +141,7 @@
             <table cellpadding="3px">
                 <tr class="nav">
                     <td class="nav"><a href="index.html" class="side_nav">Home</a></td>
+                    <td class="nav"><a href="about.html" class="side_nav">About</a></td>
                     <td class="nav"><a href="help.html" class="side_nav">Help</a></td>
                     <td class="nav"><a href="team.html" class="side_nav">Team</a></td>
                 </tr>

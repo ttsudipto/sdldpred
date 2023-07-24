@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>About - SDLDpred</title>
+        <link rel = "stylesheet" type = "text/css" href = "css/main.css" />
+        <style>
+            li{
+                width: 70%;
+                margin: 20px 15% 20px 15%;
+                font-size: 1.2em;
+            }
+            img{
+                max-width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div class = "section_header">
+            <center><p class="title">SDLDpred - Symptom-based Drugs of Lifestyle-related Diseases prediction</p></center>
+        </div>
+
+        <div class = "section_menu">
+            <center>
+            <table cellpadding="3px">
+                <tr class="nav">
+                    <td class="nav"><a href="index.html" class="side_nav">Home</a></td>
+                    <td class="nav"><a href="#" class="active">About</a></td>
+                    <td class="nav"><a href="help.html" class="side_nav">Help</a></td>
+                    <td class="nav"><a href="team.html" class="side_nav">Team</a></td>
+                </tr>
+            </table>
+            </center>
+        </div>
+
+        <!--<div class = "section_left"></div>-->
+
+        <div class = "section_middle">
+            <ul>
+                <li>
+                    <b>SDLDpred</b> is a web-based tool for prediction of drugs of
+                    lifestyle-related diseases from symptom data.
+                </li>
+                <li>
+                    It used <i>unsupervised machine learning</i> models trained with <i>Bisecting
+                    K-Means</i> algorithm using drug-symptom association data of <b>143
+                    lifestyle-related diseases</b>, with focus on pulmonary and cardiovascular
+                    diseases. A summary of the diseases are given in the following table.
+                    <br/><br/>
+                    <table class = "details" border = "0" id = "dtable">
+                        <tr>
+                            <th>Disease category</th>
+                            <th>Number of diseases</th>
+                        </tr>
+                        <tr>
+                            <td>Pulmonary diseases</td>
+                            <td>67</td>
+                        </tr>
+                        <tr>
+                            <td>Cardiovascular diseases</td>
+                            <td>56</td>
+                        </tr>
+                        <tr>
+                            <td>Musculoskeletal diseases</td>
+                            <td>15</td>
+                        </tr>
+                        <tr>
+                            <td>Diabetes</td>
+                            <td>4</td>
+                        </tr>
+                        <tr>
+                            <td>Obesity</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <th>Total</th>
+                            <td><b>143</b></td>
+                        </tr>
+                    </table>
+                    <center>
+                        <b>List of diseases:</b> <a href="resource/data/disease_category.tsv">Download</a> [<i>TSV</i> file];
+                        <b>List of drugs:</b> <a href="resource/data/drugs.tsv">Download</a> [<i>TSV</i> file];
+                        <b>List of symptoms:</b> <a href="resource/data/symptoms.tsv">Download</a> [<i>TSV</i> file]
+                    </center>
+                </li>
+                <li>
+                    <b>Association datasets:</b>
+                    <br/><br/>
+                    <table class = "details" border = "0" id = "atable">
+                        <tr>
+                            <th>Association</th>
+                            <th>Data source</th>
+                            <th>Description</th>
+                            <th>Download</th>
+                        </tr>
+                        <tr>
+                            <td><b>Drug-disease associations</b></td>
+                            <td>Comparative Toxicogenomics Database (CTD)</td>
+                            <td>3159 associations; 1271 drugs; 143 diseases</td>
+                            <td>
+                                <b>Matrix <i>(TSV file)</i></b> <a href="resource/data/drug_disease_association_matrix.tsv">Download</a><br/>
+                                <b>Edge-list <i>(TSV file)</i></b> <a href="resource/data/drug_disease_association_edgelist.tsv">Download</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><b>Symptom-disease associations</b></td>
+                            <td>Human Symptom Disease Network (HSDN)</td>
+                            <td>10963 associations; 305 symptoms; 143 diseases</td>
+                            <td>
+                                <b>Matrix <i>(TSV file)</i></b> <a href="resource/data/symptom_disease_association_matrix.tsv">Download</a><br/>
+                                <b>Edge-list <i>(TSV file)</i></b> <a href="resource/data/symptom_disease_association_edgelist.tsv">Download</a>
+                            </td>
+                        </tr>
+                    </table>
+                </li>
+                <li>
+                    A set of <b>drug-symptom associations</b> were computed based on <i>cosine
+                    similarity</i> between each drug and symptom represented as a vector of
+                    disease-associations.
+                    <center><img src="resource/about1.jpg" height="60px" width="auto" /></center>
+                    <i style="font-family: serif;">dr<sub>i</sub></i> =
+                    <i style="font-family: serif;">i<sup>th</sup></i> drug represented as a vector
+                    of associations with the diseases,
+                    <i style="font-family: serif;">s<sub>j</sub></i> =
+                    <i style="font-family: serif;">j<sup>th</sup></i> symptom represented as a
+                    vector of associations with the diseases,
+                    <i style="font-family: serif;">||x||</i> = Magnitude of the vector
+                    <i style="font-family: serif;">x</i>.<br/><br/>
+                    The drug-symptom association dataset:
+                    <a href="resource/data/drug_symptom_association_matrix.tsv">Download</a> [<b>Matrix <i>(TSV file)</i></b>];
+                    <a href="resource/data/drug_symptom_association_edgelist.tsv">Download</a> [<b>Edge-list <i>(TSV file)</i></b>]
+                </li>
+                <li>
+                    SDLDpred provides a <b>confidence score</b> for each predicted drug. It is
+                    computed using the following equation.
+                    <center><img src="resource/about2.jpg" height="60px" width="auto" /></center>
+                    <i style="font-family: serif;">D</i> = random variable denoting the pairwise
+                    euclidean distances between the drugs; <i style="font-family: serif;">e</i> =
+                    euclidean distance of a predicted drug;
+                    <i style="font-family: serif;">f<sub>dist</sub></i> = probability density
+                    function of the random variable <i style="font-family: serif;">D</i>,
+                    <i style="font-family: serif;">f<sub>dist</sub> (x) = Prob (D = x)</i>.
+                </li>
+            </ul>
+
+            <br/><hr/>
+            <p style="font-size:0.8em;text-align:center;">
+                Please contact Dr. Sudipto Saha (<a href="mailto:ssaha4@jcbose.ac.in">ssaha4@jcbose.ac.in</a>,
+                <a href="mailto:ssaha4@gmail.com">ssaha4@gmail.com</a>) regarding any further queries.
+            </p>
+        </div>
+    </body>
+</html>
