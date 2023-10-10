@@ -120,7 +120,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Prediction - Drug prediction</title>
+        <title>Prediction - SDLDpred</title>
         <link rel = "stylesheet" type = "text/css" href = "css/main.css" />
         <script type = "text/javascript" src = "js/plot_density.js"></script>
         <script type = "text/javascript" src = "js/plot_heatmap.js"></script>
