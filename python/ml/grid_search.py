@@ -97,7 +97,8 @@ def grid_search_k_means(x: np.array, sample_names: List[str], scale: bool = Fals
             mean_cluster_size = np.mean([len(c) for i, c in model.clusters.items() if i != -1])
             median_cluster_size = np.median([len(c) for i, c in model.clusters.items() if i != -1])
             print(init_method, nc, round(sil_score, 3), round(db_score, 3), round(ch_score, 3),
-                  min_cluster_size, max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3))
+                  min_cluster_size, max_cluster_size,
+                  round(float(mean_cluster_size), 3), round(float(median_cluster_size), 3))
     print_param_grid('KMC')
     return
 
@@ -116,7 +117,8 @@ def grid_search_bisecting_k_means(x: np.array, sample_names: List[str], scale: b
             mean_cluster_size = np.mean([len(c) for i, c in model.clusters.items() if i != -1])
             median_cluster_size = np.median([len(c) for i, c in model.clusters.items() if i != -1])
             print(bs, nc, round(sil_score, 3), round(db_score, 3), round(ch_score, 3),
-                  min_cluster_size, max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3))
+                  min_cluster_size, max_cluster_size,
+                  round(float(mean_cluster_size), 3), round(float(median_cluster_size), 3))
     print_param_grid('BKM')
     return
 
@@ -136,7 +138,8 @@ def grid_search_agglomerative_clustering(x: np.array, sample_names: List[str], s
                 mean_cluster_size = np.mean([len(c) for i, c in model.clusters.items() if i != -1])
                 median_cluster_size = np.median([len(c) for i, c in model.clusters.items() if i != -1])
                 print(ln, m, nc, round(sil_score, 3), round(db_score, 3), round(ch_score, 3),
-                      min_cluster_size, max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3))
+                      min_cluster_size, max_cluster_size,
+                      round(float(mean_cluster_size), 3), round(float(median_cluster_size), 3))
     print_param_grid('AGMC')
     return
 
@@ -167,7 +170,8 @@ def grid_search_dbscan(x: np.array, sample_names: List[str], scale: bool = False
                 clustered_sample_size = x.shape[0] - noisy_sample_size
                 print(m, ms, round(eps, 3), round(sil_score, 3), round(db_score, 3), round(ch_score, 3),
                       n_clusters, clustered_sample_size, noisy_sample_size,
-                      min_cluster_size, max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3))
+                      min_cluster_size, max_cluster_size,
+                      round(float(mean_cluster_size), 3), round(float(median_cluster_size), 3))
     print_param_grid('DBSCAN')
     return
 
@@ -190,7 +194,8 @@ def grid_search_mean_shift(x: np.array, sample_names: List[str], scale: bool = F
         mean_cluster_size = np.mean([len(c) for i, c in model.clusters.items() if i != -1])
         median_cluster_size = np.median([len(c) for i, c in model.clusters.items() if i != -1])
         print(round(bw, 3), round(sil_score, 3), round(db_score, 3), round(ch_score, 3), n_clusters,
-              min_cluster_size, max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3))
+              min_cluster_size, max_cluster_size,
+              round(float(mean_cluster_size), 3), round(float(median_cluster_size), 3))
     print_param_grid('MS')
     return
 
@@ -212,7 +217,8 @@ def grid_search_birch(x: np.array, sample_names: List[str], scale: bool = False)
                 mean_cluster_size = np.mean([len(c) for i, c in model.clusters.items() if i != -1])
                 median_cluster_size = np.median([len(c) for i, c in model.clusters.items() if i != -1])
                 print(round(t, 1), bf, nc, round(sil_score, 3), round(db_score, 3), round(ch_score, 3),
-                      min_cluster_size, max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3))
+                      min_cluster_size, max_cluster_size,
+                      round(float(mean_cluster_size), 3), round(float(median_cluster_size), 3))
     print_param_grid('BIRCH')
     return
 
