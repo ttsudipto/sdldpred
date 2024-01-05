@@ -1,7 +1,7 @@
-import numpy as np
-
 from .resource import read_association_data
+from scipy.stats import pearsonr
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics import jaccard_score
 from sklearn.preprocessing import Binarizer
 from typing import Dict
 import numpy
@@ -20,7 +20,7 @@ def print_drug_symptom_association_matrix(matrix: numpy.array,
         print('\t'.join(temp))
 
 
-def trim_symptom_disease_association_matrix(matrix: numpy.array, cutoff: float = 100):
+def trim_symptom_disease_association_matrix(matrix: numpy.array, cutoff: float = 100) -> numpy.array:
     for i in range(matrix.shape[0]):
         for j in range(matrix.shape[1]):
             if matrix[i, j] > cutoff:
@@ -31,7 +31,8 @@ def trim_symptom_disease_association_matrix(matrix: numpy.array, cutoff: float =
     return matrix
 
 
-def get_drug_symptom_association_matrix(trim_matrix: bool = False, verbose: bool = False):
+def get_drug_symptom_association_matrix(trim_matrix: bool = False, association_metric: str = 'cosine',
+                                        verbose: bool = False) -> numpy.array:
     hsdn_res = read_association_data('HSDN', verbose=False)
     ctd_res = read_association_data('CTD', verbose=False)
 
@@ -43,22 +44,40 @@ def get_drug_symptom_association_matrix(trim_matrix: bool = False, verbose: bool
     hsdn_common_indices = [i for i, x in enumerate(hsdn_diseases) if x in common_diseases]
     ctd_common_indices = [i for i, x in enumerate(ctd_diseases) if x in common_diseases]
 
-    print(len(symptoms), len(drugs), len(hsdn_diseases), len(ctd_diseases), len(common_diseases))
-    print(len(hsdn_common_indices), len(ctd_common_indices))
-    print()
+    # print(len(symptoms), len(drugs), len(hsdn_diseases), len(ctd_diseases), len(common_diseases))
+    # print(len(hsdn_common_indices), len(ctd_common_indices))
+    # print()
 
     if trim_matrix:
         hsdn_common_data = trim_symptom_disease_association_matrix(hsdn_res.data[:, hsdn_common_indices])
     else:
         hsdn_common_data = Binarizer().fit_transform(hsdn_res.data[:, hsdn_common_indices])
-    ctd_common_data = ctd_res.data[:, ctd_common_indices]
-    print(hsdn_common_data.shape, ctd_common_data.shape)
-    print(numpy.count_nonzero(hsdn_common_data), numpy.size(hsdn_common_data) - numpy.count_nonzero(hsdn_common_data),
-          numpy.size(hsdn_common_data))
-    print()
 
-    similarities = cosine_similarity(ctd_common_data, hsdn_common_data)
-    # print(similarities.shape)
+    ctd_common_data = ctd_res.data[:, ctd_common_indices]
+
+    # print(hsdn_common_data.shape, ctd_common_data.shape)
+    # print(numpy.count_nonzero(hsdn_common_data), numpy.size(hsdn_common_data) - numpy.count_nonzero(hsdn_common_data),
+    #       numpy.size(hsdn_common_data))
+    # print()
+
+    if association_metric == 'cosine':
+        similarities = cosine_similarity(ctd_common_data, hsdn_common_data)
+    elif association_metric == 'pearson':
+        similarities = numpy.zeros((ctd_common_data.shape[0], hsdn_common_data.shape[0]), dtype=numpy.float32)
+        for drug in range(ctd_common_data.shape[0]):
+            for symptom in range(hsdn_common_data.shape[0]):
+                similarities[drug, symptom] = pearsonr(ctd_common_data[drug, :], hsdn_common_data[symptom, :])[0]
+        similarities = numpy.nan_to_num(similarities)
+    elif association_metric == 'jaccard':
+        similarities = numpy.zeros((ctd_common_data.shape[0], hsdn_common_data.shape[0]), dtype=numpy.float32)
+        if trim_matrix:  # force binarization of symptom-disease associations for jaccard similarity
+            hsdn_common_data = Binarizer().fit_transform(hsdn_common_data)
+        for drug in range(ctd_common_data.shape[0]):
+            for symptom in range(hsdn_common_data.shape[0]):
+                similarities[drug, symptom] = jaccard_score(ctd_common_data[drug, :], hsdn_common_data[symptom, :])
+        similarities = numpy.nan_to_num(similarities)
+    else:
+        raise ValueError('Error !!! Invalid association_metric. Correct values = {cosine, pearson, jaccard} ... ')
 
     if verbose:
         print_drug_symptom_association_matrix(similarities, drugs, symptoms)
@@ -66,5 +85,9 @@ def get_drug_symptom_association_matrix(trim_matrix: bool = False, verbose: bool
     return similarities
 
 
-similarity = get_drug_symptom_association_matrix(trim_matrix=True, verbose=False)
-print(similarity.shape)
+# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='cosine', verbose=False)
+# print(similarity.shape)
+# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='pearson', verbose=False)
+# print(similarity.shape)
+# similarity = get_drug_symptom_association_matrix(association_metric='jaccard', verbose=True)
+# print(similarity.shape)
