@@ -30,10 +30,14 @@ class DataResource:
             return path_prefix + dataset_name + '/pulmonary_drug_disease_association_matrix_ctd.tsv'
         elif dataset_name == 'HSDN':
             return path_prefix + dataset_name + '/pulmonary_symptom_disease_association_matrix_hsdn.tsv'
-        elif dataset_name == 'ML':
-            return path_prefix + dataset_name + '/similarity_trimmed.tsv'
+        elif dataset_name == 'ML_cosine' or dataset_name == 'ML_pearson':
+            return path_prefix + dataset_name[:2] + '/similarity_' + dataset_name[3:] + '_trimmed.tsv'
+        elif dataset_name == 'ML_jaccard':
+            return path_prefix + 'ML/similarity_jaccard.tsv'
         else:
-            raise ValueError('Error !!! Invalid dataset name. Correct values = {CTD, HSDN, ML} ... ')
+            raise ValueError(
+                'Error !!! Invalid dataset name. Correct values = {CTD, HSDN, ML_cosine, ML_pearson, ML_jaccard} ... '
+            )
 
     @staticmethod
     def _get_dtype(dataset_name: str) -> Type:
@@ -41,10 +45,12 @@ class DataResource:
             return np.int32
         elif dataset_name == 'HSDN':
             return np.float32
-        elif dataset_name == 'ML':
+        elif dataset_name == 'ML_cosine' or dataset_name == 'ML_pearson' or dataset_name == 'ML_jaccard':
             return np.float32
         else:
-            raise ValueError('Error !!! Invalid dataset name. Correct values = {CTD, HSDN, ML} ... ')
+            raise ValueError(
+                'Error !!! Invalid dataset name. Correct values = {CTD, HSDN, ML_cosine, ML_pearson, ML_jaccard} ... '
+            )
 
     def _read_headers(self, offset: int, delimiter: str = '\t') -> List[str]:
         csvfile = open(self.file_name, 'r')
@@ -116,8 +122,10 @@ class MLDataResource(DataResource):
     delimiter = '\t'
     header_lines = 2
 
-    def __init__(self) -> None:
-        super().__init__('ML')
+    def __init__(self, association_type: str = 'cosine') -> None:
+        if association_type not in ('cosine', 'pearson', 'jaccard'):
+            raise ValueError('Error !!! Invalid association_type. Correct values = {cosine, pearson, jaccard}')
+        super().__init__(dataset_name='ML_' + association_type)
 
     def _read_headers(self) -> List[str]:
         headers = super()._read_headers(MLDataResource.col_offset, MLDataResource.delimiter)
@@ -138,7 +146,7 @@ class MLDataResource(DataResource):
         csvfile.close()
 
 
-def print_data_summary(res: DataResource):
+def print_data_summary(res: DataResource) -> None:
     print('Data')
     print(res.data.shape)
     print(res.data[0, :10])
@@ -148,7 +156,7 @@ def print_data_summary(res: DataResource):
     print()
 
 
-def read_association_data(dataset_name: str, verbose: bool = False):
+def read_association_data(dataset_name: str, verbose: bool = False) -> DataResource:
     res = AssociationDataResource(dataset_name)
     res.read_data_from_csv()
     if verbose:
@@ -156,8 +164,8 @@ def read_association_data(dataset_name: str, verbose: bool = False):
     return res
 
 
-def read_ml_data(verbose: bool = False):
-    res = MLDataResource()
+def read_ml_data(association_type: str = 'cosine', verbose: bool = False) -> DataResource:
+    res = MLDataResource(association_type=association_type)
     res.read_data_from_csv()
     if verbose:
         print_data_summary(res)
