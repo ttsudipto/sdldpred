@@ -36,8 +36,8 @@ def has_ssmpy_id(drug: str) -> bool:
     return ssmpy.get_id('CHEBI_' + drug) != -1
 
 
-def get_drug_clusters(cluster_algo: str) -> Dict[str, List[str]]:
-    f = open('output/gs/optimal_clusters_' + cluster_algo + '.tsv', 'r')
+def get_drug_clusters(similarity: str, cluster_algo: str) -> Dict[str, List[str]]:
+    f = open('output/gs/' + similarity + '/optimal_clusters_' + cluster_algo + '.tsv', 'r')
     reader = DictReader(f, delimiter='\t')
     clusters = dict()
     for row in reader:
@@ -46,12 +46,12 @@ def get_drug_clusters(cluster_algo: str) -> Dict[str, List[str]]:
     return clusters
 
 
-def get_random_drug_cluster(n: int, drugs: List[str]) -> Dict[str, List[str]]:
+def get_random_drug_cluster(n: int, similarity: str, cluster_algo: str, drugs: List[str]) -> Dict[str, List[str]]:
     # random.seed(11)  # ont = 'role'
     # random.seed(2)  # ont = 'entity'
     s = 2 if ont == 'entity' else 11
     random.seed(s)
-    clusters = get_drug_clusters('bkm')
+    clusters = get_drug_clusters(similarity, cluster_algo)
     nc = 0
     for d in clusters.values():
         if len(d) > 1:
@@ -86,12 +86,12 @@ def compute_semantic_similarity(drugs: List[str], measure: str = 'jiang') -> Lis
     return similarity
 
 
-def compute_cluster_similarity(cluster_algo: str, measure: str = 'jiang') -> Dict[str, List[float]]:
+def compute_cluster_similarity(similarity: str, cluster_algo: str, measure: str = 'jiang') -> Dict[str, List[float]]:
     chebi_map = read_pulmonary_drugs_chebi(key='name')
-    if cluster_algo == 'random':
-        clusters = get_random_drug_cluster(1, list(chebi_map.keys()))
+    if cluster_algo[0:6] == 'random':
+        clusters = get_random_drug_cluster(1, similarity, cluster_algo[7:], list(chebi_map.keys()))
     else:
-        clusters = get_drug_clusters(cluster_algo)
+        clusters = get_drug_clusters(similarity, cluster_algo)
     cluster_similarity = dict()
     i = 1
     for cluster, drugs in clusters.items():
@@ -121,9 +121,10 @@ def print_cluster_similarity(cluster_similarity: Dict[str, List[float]]) -> None
     return
 
 
-def read_cluster_similarity(cluster_algo: str, ontology: str, measure: str = 'jiang', verbose: bool = False) \
-        -> Dict[str, List[float]]:
-    f = open('output/co_analysis/COAnalysis_' + cluster_algo + '_' + ontology + '_' + measure + '.tsv')
+def read_cluster_similarity(similarity: str, cluster_algo: str, ontology: str, measure: str = 'jiang',
+                            verbose: bool = False) -> Dict[str, List[float]]:
+    f = open('output/co_analysis/' +
+             similarity + '/COAnalysis_' + cluster_algo + '_' + ontology + '_' + measure + '.tsv')
     reader = DictReader(f, delimiter='\t')
     cluster_similarity = dict()
     for row in reader:
@@ -135,9 +136,11 @@ def read_cluster_similarity(cluster_algo: str, ontology: str, measure: str = 'ji
     return cluster_similarity
 
 
-def print_cluster_similarity_metadata(cluster_algo: str, ontology: str, measure: str = 'jiang') -> None:
-    clusters = get_drug_clusters(cluster_algo)
-    f = open('output/co_analysis/COAnalysis_' + cluster_algo + '_' + ontology + '_' + measure + '.tsv')
+def print_cluster_similarity_metadata(similarity: str, cluster_algo: str, ontology: str,
+                                      measure: str = 'jiang') -> None:
+    clusters = get_drug_clusters(similarity, cluster_algo)
+    f = open('output/co_analysis/' +
+             similarity + '/COAnalysis_' + cluster_algo + '_' + ontology + '_' + measure + '.tsv')
     reader = DictReader(f, delimiter='\t')
     print('Cluster\tNo_of_drugs\tNo_of_similarity_values\t'
           'Min_similarity\tMax_similarity\tMean_similarity\tMedian_similarity')
@@ -155,39 +158,26 @@ def print_cluster_similarity_metadata(cluster_algo: str, ontology: str, measure:
 
 # set_ontology_db(ont)
 
-# cs = compute_cluster_similarity(cluster_algo='kmc', measure='jiang')
-# cs = compute_cluster_similarity(cluster_algo='bkm', measure='jiang')
-# cs = compute_cluster_similarity(cluster_algo='ms', measure='jiang')
-# cs = compute_cluster_similarity(cluster_algo='birch', measure='jiang')
-# cs = compute_cluster_similarity(cluster_algo='random', measure='jiang')
-# cs = compute_cluster_similarity(cluster_algo='kmc', measure='lin')
-# cs = compute_cluster_similarity(cluster_algo='bkm', measure='lin')
-# cs = compute_cluster_similarity(cluster_algo='ms', measure='lin')
-# cs = compute_cluster_similarity(cluster_algo='birch', measure='lin')
-# cs = compute_cluster_similarity(cluster_algo='random', measure='lin')
+# cs = compute_cluster_similarity(similarity='cosine', cluster_algo='bkm', measure='lin')
+# cs = compute_cluster_similarity(similarity='cosine', cluster_algo='random_bkm', measure='lin')
+# cs = compute_cluster_similarity(similarity='pearson', cluster_algo='bkm', measure='lin')
+# cs = compute_cluster_similarity(similarity='pearson', cluster_algo='random_bkm', measure='lin')
+# cs = compute_cluster_similarity(similarity='jaccard', cluster_algo='ms', measure='lin')
+# cs = compute_cluster_similarity(similarity='jaccard', cluster_algo='random_ms', measure='lin')
 # print_cluster_similarity(cs)
 # print(min(cs['1']), max(cs['1']), mean(cs['1']), median(cs['1']))
 
-# cs = read_cluster_similarity(cluster_algo='kmc', ontology=ont, measure='jiang', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='bkm', ontology=ont, measure='jiang', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='ms', ontology=ont, measure='jiang', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='birch', ontology=ont, measure='jiang', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='random', ontology=ont, measure='jiang', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='kmc', ontology=ont, measure='lin', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='bkm', ontology=ont, measure='lin', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='ms' ontology=ont,, measure='lin', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='birch', ontology=ont, measure='lin', verbose=False)
-# cs = read_cluster_similarity(cluster_algo='random', ontology=ont, measure='lin', verbose=False)
+# cs = read_cluster_similarity(similarity="cosine", cluster_algo='bkm', ontology=ont, measure='lin', verbose=False)
+# cs = read_cluster_similarity(similarity="cosine", cluster_algo='random', ontology=ont, measure='lin', verbose=False)
+# cs = read_cluster_similarity(similarity="pearson", cluster_algo='bkm', ontology=ont, measure='lin', verbose=False)
+# cs = read_cluster_similarity(similarity="pearson", cluster_algo='random', ontology=ont, measure='lin', verbose=False)
+# cs = read_cluster_similarity(similarity="jaccard", cluster_algo='ms', ontology=ont, measure='lin', verbose=False)
+# cs = read_cluster_similarity(similarity="jaccard", cluster_algo='random', ontology=ont, measure='lin', verbose=False)
 # print(len(cs))
 
-# print_cluster_similarity_metadata(cluster_algo='kmc', ontology=ont, measure='jiang')
-# print_cluster_similarity_metadata(cluster_algo='bkm', ontology=ont, measure='jiang')
-# print_cluster_similarity_metadata(cluster_algo='ms', ontology=ont, measure='jiang')
-# print_cluster_similarity_metadata(cluster_algo='birch', ontology=ont, measure='jiang')
-# print_cluster_similarity_metadata(cluster_algo='kmc', ontology=ont, measure='lin')
-# print_cluster_similarity_metadata(cluster_algo='bkm', ontology=ont, measure='lin')
-# print_cluster_similarity_metadata(cluster_algo='ms', ontology=ont, measure='lin')
-# print_cluster_similarity_metadata(cluster_algo='birch', ontology=ont, measure='lin')
+# print_cluster_similarity_metadata(similarity="cosine", cluster_algo='bkm', ontology=ont, measure='lin')
+# print_cluster_similarity_metadata(similarity="pearson", cluster_algo='bkm', ontology=ont, measure='lin')
+# print_cluster_similarity_metadata(similarity="jaccard", cluster_algo='ms', ontology=ont, measure='lin')
 
 
 # e_id1 = ssmpy.get_id('CHEBI_2376')
