@@ -4,7 +4,7 @@ from sklearn.metrics import silhouette_score
 from sklearn.metrics import calinski_harabasz_score
 from sklearn.metrics import davies_bouldin_score
 from sklearn.metrics.pairwise import euclidean_distances
-from sklearn.model_selection import KFold
+from sklearn.model_selection import ShuffleSplit
 from sklearn.utils import shuffle
 from sklearn.cluster import KMeans
 from sklearn.cluster import BisectingKMeans
@@ -23,6 +23,7 @@ class Model:
         self.sample_names = sample_names
         self.n_folds = k
         self.trained = False
+        self.trained_cv = False
         self.estimators = []
         self.total_estimator = None
         self.train_indices = []
@@ -32,11 +33,14 @@ class Model:
             self.data = shuffle(x, random_state=42)
         else:
             self.data = x
-        self._split_cv_folds()
+        self._split_subsampling_folds()
         self.dataScaler: StandardScaler | object = StandardScaler().fit(self.data)
 
     def is_trained(self) -> bool:
         return self.trained
+
+    def is_trained_cv(self) -> bool:
+        return self.trained_cv
 
     def create_estimator(self, params: Dict) \
             -> KMeans | BisectingKMeans | AgglomerativeClustering | DBSCAN | MeanShift | Birch:
@@ -58,17 +62,13 @@ class Model:
         estimator.set_params(**params)
         return estimator
 
-    def _split_cv_folds(self) -> None:
-        if self.n_folds == 1:
-            self.train_indices = [range(self.data.shape[0])]
-            self.test_indices = [range(self.data.shape[0])]
-        else:
-            skf = KFold(n_splits=self.n_folds, shuffle=True, random_state=42)
-            for train_index, test_index in skf.split(self.data):
-                self.train_indices.append(train_index)
-                self.test_indices.append(test_index)
+    def _split_subsampling_folds(self) -> None:
+        shuffle_split = ShuffleSplit(n_splits=self.n_folds, test_size=0.2, random_state=42)
+        for train_index, test_index in shuffle_split.split(self.data):
+            self.train_indices.append(train_index)
+            self.test_indices.append(test_index)
 
-    def _learn_without_cv(self, params: Dict, scale: bool = False) -> None:
+    def _learn_without_subsampling(self, params: Dict, scale: bool = False) -> None:
         self.trained = False
         estimator = self.create_estimator(params)
         if scale:
@@ -84,18 +84,20 @@ class Model:
                 self.clusters[self.total_estimator.labels_[i]] = [i]
         self.trained = True
 
-    # def learn_k_fold(self, params: Dict, scale: bool = False):
-    #     self.estimators = []
-    #     for f in range(self.n_folds):
-    #         estimator = self.create_estimator(params)
-    #         if scale:
-    #             estimator.fit(self.dataScaler.transform(self.data[self.train_indices[f]]))
-    #         else:
-    #             estimator.fit(self.data[self.train_indices[f]])
-    #         self.estimators.append(copy.deepcopy(estimator))
+    def learn_with_subsampling(self, params: Dict, scale: bool = False):
+        self.trained_cv = False
+        self.estimators = []
+        for f in range(self.n_folds):
+            estimator = self.create_estimator(params)
+            if scale:
+                estimator.fit(self.dataScaler.transform(self.data[self.train_indices[f]]))
+            else:
+                estimator.fit(self.data[self.train_indices[f]])
+            self.estimators.append(copy.deepcopy(estimator))
+        self.trained_cv = True
 
     def learn(self, params: Dict, scale: bool = False) -> None:
-        self._learn_without_cv(params, scale)
+        self._learn_without_subsampling(params, scale)
         # self.learn_k_fold(params, scale)
 
     def get_clusters(self) -> Tuple[List[List[int]], List[List[str]]]:
@@ -106,20 +108,50 @@ class Model:
 
         raise RuntimeError('Error !!! Model not trained ...')
 
+    def get_metrics_with_subsampling(self, scale: bool = False) -> Tuple[float, float, float]:
+        sil_scores = []
+        db_scores = []
+        ch_scores = []
+        if self.is_trained_cv():
+            for f in range(self.n_folds):
+                if scale:
+                    x = self.dataScaler.transform(self.data[self.train_indices[f]])
+                else:
+                    x = self.data[self.train_indices[f]]
+                y_pred = self.estimators[f].predict(x)
+                if len(set(y_pred)) > 1:
+                    sil_scores.append(silhouette_score(x, y_pred))
+                    db_scores.append(davies_bouldin_score(x, y_pred))
+                    ch_scores.append(calinski_harabasz_score(x, y_pred))
+                else:
+                    sil_scores.append(0)
+                    db_scores.append(0)
+                    ch_scores.append(0)
+        return (
+            round(float(np.mean(sil_scores)), 3),
+            round(float(np.mean(db_scores)), 3),
+            round(float(np.mean(ch_scores)), 3)
+        )
+
     def get_metrics(self, scale: bool = False) -> Tuple[float, float, float]:
         if self.is_trained():
             if scale:
                 x = self.dataScaler.transform(self.data)
             else:
                 x = self.data
-            sil_score = silhouette_score(x, self.total_estimator.labels_)
-            db_score = davies_bouldin_score(x, self.total_estimator.labels_)
-            ch_score = calinski_harabasz_score(x, self.total_estimator.labels_)
+            if len(self.clusters) > 1:
+                sil_score = silhouette_score(x, self.total_estimator.labels_)
+                db_score = davies_bouldin_score(x, self.total_estimator.labels_)
+                ch_score = calinski_harabasz_score(x, self.total_estimator.labels_)
+            else:
+                sil_score = 0
+                db_score = 0
+                ch_score = 0
             return sil_score, db_score, ch_score
 
         raise RuntimeError('Error !!! Model not trained ...')
 
-    def _predict_blind_without_cv(self, b_data: np.array, scale: bool = False) \
+    def _predict_blind_without_subsampling(self, b_data: np.array, scale: bool = False) \
             -> Tuple[np.array, List[List[str]], List[List[float]]]:
         if not self.is_trained():
             raise RuntimeError('Error !!! Model not trained ...')
@@ -135,14 +167,5 @@ class Model:
 
         return y_pred, neighbors_pred, neighbors_dist
 
-    # def predict_one_fold(self, estimator, x_test: np.array, scale: bool = True):
-    #     if scale:
-    #         x_test = self.dataScaler.transform(x_test)
-    #
-    #     y_pred = estimator.predict(x_test)
-    #
-    #     # print(y_pred.shape)
-    #     return y_pred
-
     def predict(self, b_data: np.array, scale: bool = False) -> Tuple[np.array, List[List[str]], List[List[float]]]:
-        return self._predict_blind_without_cv(b_data, scale)
+        return self._predict_blind_without_subsampling(b_data, scale)

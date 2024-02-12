@@ -59,6 +59,25 @@ optimal_grids = {
     }
 }
 
+optimal_grids_with_subsampling = {
+    'cosine': {
+        'KMC': {'init': 'k-means++', 'n_clusters': 420},
+        'BKM': {'bisecting_strategy': 'biggest_inertia', 'n_clusters': 420},
+        'MS': {'bandwidth': 0.25},
+        'BIRCH': {'threshold': 0.1, 'branching_factor': 10, 'n_clusters': 440}
+    }, 'pearson': {
+        'KMC': {'init': 'k-means++', 'n_clusters': 440},
+        'BKM': {'bisecting_strategy': 'biggest_inertia', 'n_clusters': 420},
+        'MS': {'bandwidth': 0.3},
+        'BIRCH': {'threshold': 0.1, 'branching_factor': 9, 'n_clusters': 440}
+    }, 'jaccard': {
+        'KMC': {'init': 'k-means++', 'n_clusters': 440},
+        'BKM': {'bisecting_strategy': 'biggest_inertia', 'n_clusters': 440},
+        'MS': {'bandwidth': 0.1},
+        'BIRCH': {'threshold': 0.1, 'branching_factor': 8, 'n_clusters': 460}
+    }
+}
+
 
 def print_param_grid(name: str) -> None:
     if name == 'KMC':
@@ -235,6 +254,100 @@ def grid_search_birch(x: np.array, sample_names: List[str], scale: bool = False)
     return
 
 
+def grid_search_k_means_with_subsampling(x: np.array, sample_names: List[str], scale: bool = False,
+                                         warning_ignore: bool = True) -> None:
+    if warning_ignore:
+        import warnings
+        warnings.filterwarnings('ignore')
+    print('init', 'n_clusters', 'Silhouette score', 'Davies-Bouldin score', 'Calinski-Harabasz score')
+    model = Model(e_id='KMC', k=10, x=x, sample_names=sample_names)
+    for init_method in k_means_param_grid['init']:
+        for nc in k_means_param_grid['n_clusters']:
+            param = {'init': init_method, 'n_clusters': nc}
+            model.learn_with_subsampling(param, scale)
+            sil_score, db_score, ch_score = model.get_metrics_with_subsampling(scale)
+            print(init_method, nc, round(sil_score, 3), round(db_score, 3), round(ch_score, 3))
+    print_param_grid('KMC')
+    return
+
+
+def grid_search_bisecting_k_means_with_subsampling(x: np.array, sample_names: List[str], scale: bool = False) -> None:
+    print('bisecting_strategy', 'n_clusters', 'Silhouette score', 'Davies-Bouldin score', 'Calinski-Harabasz score')
+    model = Model(e_id='BKM', k=10, x=x, sample_names=sample_names)
+    for bs in bisecting_k_means_param_grid['bisecting_strategy']:
+        for nc in bisecting_k_means_param_grid['n_clusters']:
+            param = {'bisecting_strategy': bs, 'n_clusters': nc}
+            model.learn_with_subsampling(param, scale)
+            sil_score, db_score, ch_score = model.get_metrics_with_subsampling(scale)
+            print(bs, nc, round(sil_score, 3), round(db_score, 3), round(ch_score, 3))
+    print_param_grid('BKM')
+    return
+
+
+def grid_search_agglomerative_clustering_with_subsampling(x: np.array, sample_names: List[str],
+                                                          scale: bool = False) -> None:
+    print('linkage', 'metric', 'n_clusters', 'Silhouette score', 'Davies-Bouldin score', 'Calinski-Harabasz score')
+    model = Model(e_id='AGMC', k=10, x=x, sample_names=sample_names)
+    for ln in agglomerative_grid['linkage']:
+        for m in agglomerative_grid['metric_' + ln]:
+            for nc in agglomerative_grid['n_clusters']:
+                param = {'compute_distances': False, 'linkage': ln, 'metric': m, 'n_clusters': nc}
+                model.learn_with_subsampling(param, scale)
+                sil_score, db_score, ch_score = model.get_metrics_with_subsampling(scale)
+                print(ln, m, nc, round(sil_score, 3), round(db_score, 3), round(ch_score, 3))
+    print_param_grid('AGMC')
+    return
+
+
+def grid_search_dbscan_with_subsampling(x: np.array, sample_names: List[str], scale: bool = False) -> None:
+    print('metric', 'min_samples', 'eps', 'Silhouette score', 'Davies-Bouldin score', 'Calinski-Harabasz score')
+    model = Model(e_id='DBSCAN', k=10, x=x, sample_names=sample_names)
+    for m in dbscan_grid['metric']:
+        for ms in dbscan_grid['min_samples']:
+            for eps in dbscan_grid['eps_' + m]:
+                param = {'metric': m, 'min_samples': ms, 'eps': eps}
+                model.learn_with_subsampling(param, scale)
+                try:
+                    sil_score, db_score, ch_score = model.get_metrics_with_subsampling(scale)
+                except ValueError:
+                    sil_score = db_score = ch_score = 0
+                print(m, ms, round(eps, 3), round(sil_score, 3), round(db_score, 3), round(ch_score, 3))
+    print_param_grid('DBSCAN')
+    return
+
+
+def grid_search_mean_shift_with_subsampling(x: np.array, sample_names: List[str], scale: bool = False) -> None:
+    print('bandwidth', 'Silhouette score', 'Davies-Bouldin score', 'Calinski-Harabasz score')
+    model = Model(e_id='MS', k=10, x=x, sample_names=sample_names)
+    for bw in mean_shift_grid['bandwidth']:
+        param = {'bandwidth': bw}
+        model.learn_with_subsampling(param, scale)
+        try:
+            sil_score, db_score, ch_score = model.get_metrics_with_subsampling(scale)
+        except ValueError:
+            sil_score = db_score = ch_score = 0
+        print(round(bw, 3), round(sil_score, 3), round(db_score, 3), round(ch_score, 3))
+    print_param_grid('MS')
+    return
+
+
+def grid_search_birch_with_subsampling(x: np.array, sample_names: List[str], scale: bool = False) -> None:
+    print('threshold', 'branching_factor', 'n_clusters',
+          'Silhouette score', 'Davies-Bouldin score', 'Calinski-Harabasz score')
+    model = Model(e_id='BIRCH', k=10, x=x, sample_names=sample_names)
+    for t in birch_grid['threshold']:
+        for bf in birch_grid['branching_factor']:
+            for nc in birch_grid['n_clusters']:
+                param = {'threshold': t, 'branching_factor': bf, 'n_clusters': nc}
+                import warnings
+                warnings.filterwarnings('ignore')
+                model.learn_with_subsampling(param, scale)
+                sil_score, db_score, ch_score = model.get_metrics_with_subsampling(scale)
+                print(round(t, 1), bf, nc, round(sil_score, 3), round(db_score, 3), round(ch_score, 3))
+    print_param_grid('BIRCH')
+    return
+
+
 def get_optimal_performance(e_id: str, x: np.array, sample_names: List[str], dataset_name: str,
                             scale: bool = False) -> None:
     # print('estimator_id', 'n_clusters', 'Silhouette score', 'Davies-Bouldin score',
@@ -251,3 +364,13 @@ def get_optimal_performance(e_id: str, x: np.array, sample_names: List[str], dat
     print(e_id, n_clusters, round(sil_score, 3), round(db_score, 3), round(ch_score, 3), min_cluster_size,
           max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3),
           optimal_grids[dataset_name][e_id])
+
+
+def get_optimal_performance_with_subsampling(e_id: str, x: np.array, sample_names: List[str],
+                                             dataset_name: str, scale: bool = False) -> None:
+    # print('estimator_id', 'Silhouette score', 'Davies-Bouldin score',
+    #       'Calinski-Harabasz score')
+    model = Model(e_id, x, sample_names, k=100)
+    model.learn_with_subsampling(optimal_grids[e_id], scale=scale)
+    sil_score, db_score, ch_score = model.get_metrics_with_subsampling(scale=scale)
+    print(e_id, round(sil_score, 3), round(db_score, 3), round(ch_score, 3), optimal_grids[dataset_name][e_id])
