@@ -9,9 +9,9 @@ read_drug_drug_mcs_similarity <- function(f_name) {
   return(similarity)
 }
 
-get_random_drug_cluster <- function(n, drugs) {
+get_random_drug_cluster <- function(n, similarity, cluster_algo, drugs) {
   set.seed(19)
-  f_name <- paste0("output/gs/optimal_clusters_bkm.tsv")
+  f_name <- paste0("output/gs/", similarity, "/optimal_clusters_", cluster_algo, ".tsv")
   clusters <- strsplit(read.csv(f_name, sep = "\t")$Drugs, ";")
   len <- 0
   for (i in 1:length(clusters))
@@ -25,17 +25,17 @@ get_random_drug_cluster <- function(n, drugs) {
   return(random_clusters)
 }
 
-get_drug_cluster <- function(cluster_algo) {
-  f_name <- paste0("output/gs/optimal_clusters_", cluster_algo, ".tsv")
+get_drug_cluster <- function(similarity, cluster_algo) {
+  f_name <- paste0("output/gs/", similarity, "/optimal_clusters_", cluster_algo, ".tsv")
   clusters <- strsplit(read.csv(f_name, sep = "\t")$Drugs, ";")
   return(clusters)
 }
 
-compute_cluster_similarity_mcs <- function(mcs_similarity, cluster_algo) {
-  if(cluster_algo == "random")
-    clusters <- get_random_drug_cluster(1, rownames(mcs_similarity))
+compute_cluster_similarity_mcs <- function(mcs_similarity, similarity, cluster_algo) {
+  if(substr(cluster_algo, 1, 6) == "random")
+    clusters <- get_random_drug_cluster(1, similarity, substr(cluster_algo, 8, nchar(cluster_algo)), rownames(mcs_similarity))
   else
-    clusters <- get_drug_cluster(cluster_algo)
+    clusters <- get_drug_cluster(similarity, cluster_algo)
   cluster_similarity <- list()
   for (i in 1:length(clusters)) {
   # for (i in 13:13) {
@@ -71,16 +71,16 @@ print_cluster_similarity <- function(cluster_similarity) {
   }
 }
 
-read_cluster_similarity <- function(cluster_algo) {
-  folder <- "output/mcs_analysis/"
+read_cluster_similarity <- function(similarity, cluster_algo) {
+  folder <- paste0("output/mcs_analysis/", similarity, "/")
   f_name <- paste0(folder, "MCSSim_", cluster_algo, "_overlap_coefficient.tsv")
   cluster_similarity <- type.convert(strsplit(read.csv(f_name, sep = "\t")$Pairwise_similarities, ";"), as.is=TRUE)
   return(cluster_similarity)
 }
 
-print_cluster_similarity_metadata <- function(association, cluster_algo) {
-  cluster_similarity <- read_cluster_similarity(cluster_algo)
-  clusters <- get_drug_cluster(cluster_algo)
+print_cluster_similarity_metadata <- function(association, similarity, cluster_algo) {
+  cluster_similarity <- read_cluster_similarity(similarity, cluster_algo)
+  clusters <- get_drug_cluster(similarity, cluster_algo)
   cat("Cluster\tNo_of_drugs\tNo_of_drugs_with_mcs\tNo_of_similarity_values\tMin_similarity\tMax_similarity\tMean_similarity\tMedian_similarity\n")
   for (i in 1:length(cluster_similarity)) {
     drugs <- clusters[[i]]
@@ -92,36 +92,36 @@ print_cluster_similarity_metadata <- function(association, cluster_algo) {
   }
 }
 
-read_cluster_similarity_metadata <- function(cluster_algo) {
-  folder <- "output/mcs_analysis/"
-  f_name <- paste0(folder, "MCSSim_metadata_", cluster_algo, ".tsv")
+read_cluster_similarity_metadata <- function(similarity, cluster_algo) {
+  folder <- paste0("output/mcs_analysis/", similarity, "/")
+  f_name <- paste0(folder, "MCSSim_metadata_", cluster_algo, "_overlap_coefficient.tsv")
   cluster_similarity_metadata <- read.csv(f_name, sep = "\t")
   return(cluster_similarity_metadata)
 }
 
-mcs_similarity <- read_drug_drug_mcs_similarity("input/PubChem/drug_drug_mcs_overlap_coefficient_matrix_pubchem.tsv")
+# mcs_similarity <- read_drug_drug_mcs_similarity("input/PubChem/drug_drug_mcs_overlap_coefficient_matrix_pubchem.tsv")
 
-# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, cluster_algo = "kmc")
-# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, cluster_algo = "bkm")
-# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, cluster_algo = "ms")
-# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, cluster_algo = "birch")
-# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, cluster_algo = "random")
+# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, similarity = "cosine", cluster_algo = "bkm")
+# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, similarity = "cosine", cluster_algo = "random_bkm")
+# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, similarity = "pearson", cluster_algo = "bkm")
+# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, similarity = "pearson", cluster_algo = "random_bkm")
+# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, similarity = "jaccard", cluster_algo = "ms")
+# cluster_similarity <- compute_cluster_similarity_mcs(mcs_similarity, similarity = "jaccard", cluster_algo = "random_bkm")
 # print_cluster_similarity(cluster_similarity)
 
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "kmc")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "bkm")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "ms")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "birch")
-cluster_similarity <- read_cluster_similarity(cluster_algo = "random")
-print(cluster_similarity)
+# cluster_similarity <- read_cluster_similarity(similarity = "cosine", cluster_algo = "bkm")
+# cluster_similarity <- read_cluster_similarity(similarity = "cosine", cluster_algo = "random")
+# cluster_similarity <- read_cluster_similarity(similarity = "pearson", cluster_algo = "bkm")
+# cluster_similarity <- read_cluster_similarity(similarity = "pearson", cluster_algo = "random")
+# cluster_similarity <- read_cluster_similarity(similarity = "jaccard", cluster_algo = "ms")
+# cluster_similarity <- read_cluster_similarity(similarity = "jaccard", cluster_algo = "random")
+# print(cluster_similarity)
 
-# print_cluster_similarity_metadata(association, cluster_algo = "kmc")
-# print_cluster_similarity_metadata(association, cluster_algo = "bkm")
-# print_cluster_similarity_metadata(association, cluster_algo = "ms")
-# print_cluster_similarity_metadata(association, cluster_algo = "birch")
+# print_cluster_similarity_metadata(association, similarity = "cosine", cluster_algo = "bkm")
+# print_cluster_similarity_metadata(association, similarity = "pearson", cluster_algo = "bkm")
+# print_cluster_similarity_metadata(association, similarity = "jaccard", cluster_algo = "ms")
 
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "kmc")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "bkm")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "ms")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "birch")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "cosine", cluster_algo = "bkm")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "pearson", cluster_algo = "bkm")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "jaccard", cluster_algo = "ms")
 # print(cluster_similarity_metadata)
