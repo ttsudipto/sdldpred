@@ -12,8 +12,8 @@ plot_theme <- theme(plot.title=element_text(size=10),
                     axis.ticks.length=unit(3, "pt")
 )
 
-read_cluster_similarity_co <- function(cluster_algo, ontology, measure = "Lin", cluster_cutoff = NA) {
-  folder <- "output/co_analysis/"
+read_cluster_similarity_co <- function(similarity, cluster_algo, ontology, measure = "Lin", cluster_cutoff = NA) {
+  folder <- paste0("output/co_analysis/", similarity, "/")
   f_name <- paste0(folder, "COAnalysis_", cluster_algo, "_", ontology, "_", tolower(measure), ".tsv")
   cluster_similarity <- type.convert(strsplit(read.csv(f_name, sep = "\t")$Pairwise_similarities, ";"), as.is=TRUE)
   if (!is.na(cluster_cutoff))
@@ -63,26 +63,14 @@ make_box_plot <- function(cluster_similarity_df, ontology="", title="") {
   return(plot)
 }
 
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "kmc", ontology = "role", measure = "lin", cluster_cutoff = 81)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "kmc", ontology = "entity", measure = "lin", cluster_cutoff = 81)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "kmc", ontology = "role", measure = "jiang", cluster_cutoff = 81)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "kmc", ontology = "entity", measure = "jiang", cluster_cutoff = 81)
-
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "bkm", ontology = "role", measure = "lin", cluster_cutoff = 80)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "bkm", ontology = "entity", measure = "lin", cluster_cutoff = 80)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "bkm", ontology = "role", measure = "jiang", cluster_cutoff = 80)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "bkm", ontology = "entity", measure = "jiang", cluster_cutoff = 80)
-
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "ms", ontology = "role", measure = "lin", cluster_cutoff = 67)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "ms", ontology = "entity", measure = "lin", cluster_cutoff = 67)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "ms", ontology = "role", measure = "jiang", cluster_cutoff = 67)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "ms", ontology = "entity", measure = "jiang", cluster_cutoff = 67)
-
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "birch", ontology = "role", measure = "lin", cluster_cutoff = 75)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "birch", ontology = "entity", measure = "lin", cluster_cutoff = 75)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "birch", ontology = "role", measure = "jiang", cluster_cutoff = 75)
-# cluster_similarity <- read_cluster_similarity_co(cluster_algo = "birch", ontology = "entity", measure = "jiang", cluster_cutoff = 75)
-
+# cluster_similarity <- read_cluster_similarity_co(similarity = "cosine", cluster_algo = "bkm", ontology = "role", measure = "lin", cluster_cutoff = 80)
+# cluster_similarity <- read_cluster_similarity_co(similarity = "pearson", cluster_algo = "bkm", ontology = "role", measure = "lin", cluster_cutoff = 85)
+# cluster_similarity <- read_cluster_similarity_co(similarity = "jaccard", cluster_algo = "ms", ontology = "role", measure = "lin", cluster_cutoff = 66)
+# 
+# cluster_similarity <- read_cluster_similarity_co(similarity = "cosine", cluster_algo = "bkm", ontology = "entity", measure = "lin", cluster_cutoff = 80)
+# cluster_similarity <- read_cluster_similarity_co(similarity = "pearson", cluster_algo = "bkm", ontology = "entity", measure = "lin", cluster_cutoff = 85)
+# cluster_similarity <- read_cluster_similarity_co(similarity = "jaccard", cluster_algo = "ms", ontology = "entity", measure = "lin", cluster_cutoff = 66)
+# 
 # cluster_similarity_df <- convert_to_df(cluster_similarity)
 
 # # svg(filename="foo.svg", height=6, width=12)

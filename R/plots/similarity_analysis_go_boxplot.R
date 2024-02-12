@@ -22,8 +22,8 @@ plot_theme <- theme(plot.title=element_text(size=10),
 #   return(cluster_similarity)
 # }
 
-read_cluster_similarity_go_gene_union <- function(cluster_algo, ontology, measure = "Lin", cluster_cutoff = NA) {
-  folder <- "output/go_analysis/gene_union/"
+read_cluster_similarity_go_gene_union <- function(similarity, cluster_algo, ontology, measure = "Lin", cluster_cutoff = NA) {
+  folder <- paste0("output/go_analysis/gene_union/", similarity, "/")
   f_name <- paste0(folder, "GOSemSim_", cluster_algo, "_", tolower(ontology), "_", tolower(measure), ".rds")
   cluster_similarity <- readRDS(f_name)
   if (!is.na(cluster_cutoff))
@@ -73,19 +73,16 @@ make_box_plot <- function(cluster_similarity_df, title="", ontology="") {
   return(plot)
 }
 
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "kmc", ontology = "MF", cluster_cutoff = 81)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "kmc", ontology = "BP", cluster_cutoff = 81)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "kmc", ontology = "CC", cluster_cutoff = 81)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "MF", cluster_cutoff = 80)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "BP", cluster_cutoff = 80)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "bkm", ontology = "CC", cluster_cutoff = 80)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "ms", ontology = "MF", cluster_cutoff = 67)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "ms", ontology = "BP", cluster_cutoff = 67)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "ms", ontology = "CC", cluster_cutoff = 67)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "birch", ontology = "MF", cluster_cutoff = 75)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "birch", ontology = "BP", cluster_cutoff = 75)
-# cluster_similarity <- read_cluster_similarity_go_gene_union(cluster_algo = "birch", ontology = "CC", cluster_cutoff = 75)
-
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "cosine", cluster_algo = "bkm", ontology = "MF", cluster_cutoff = 80)
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "cosine", cluster_algo = "bkm", ontology = "BP", cluster_cutoff = 80)
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "cosine", cluster_algo = "bkm", ontology = "CC", cluster_cutoff = 80)
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "pearson", cluster_algo = "bkm", ontology = "MF", cluster_cutoff = 85)
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "pearson", cluster_algo = "bkm", ontology = "BP", cluster_cutoff = 85)
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "pearson", cluster_algo = "bkm", ontology = "CC", cluster_cutoff = 85)
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "jaccard", cluster_algo = "ms", ontology = "MF", cluster_cutoff = 66)
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "jaccard", cluster_algo = "ms", ontology = "BP", cluster_cutoff = 66)
+# cluster_similarity <- read_cluster_similarity_go_gene_union(similarity = "jaccard", cluster_algo = "ms", ontology = "CC", cluster_cutoff = 66)
+# 
 # cluster_similarity_df <- convert_to_df(cluster_similarity)
 
 # # svg(filename="foo.svg", height=6, width=12)
