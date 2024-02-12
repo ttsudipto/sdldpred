@@ -19,8 +19,8 @@ read_drug_gene_association <- function(f_name) {
   return(similarity)
 }
 
-get_drug_cluster <- function(cluster_algo) {
-  f_name <- paste0("output/gs/optimal_clusters_", cluster_algo, ".tsv")
+get_drug_cluster <- function(similarity, cluster_algo) {
+  f_name <- paste0("output/gs/", similarity, "/optimal_clusters_", cluster_algo, ".tsv")
   clusters <- strsplit(read.csv(f_name, sep = "\t")$Drugs, ";")
   return(clusters)
 }
@@ -60,8 +60,8 @@ compute_GO_enrichment <- function(genes, ontology, gene_universe = NULL, p_adjus
   return(ego)
 }
 
-compute_cluster_enrichment <- function(association, cluster_algo, ontology, p_adjust="fdr", drop_level=2) {
-  clusters <- get_drug_cluster(cluster_algo)
+compute_cluster_enrichment <- function(association, similarity, cluster_algo, ontology, p_adjust="fdr", drop_level=2) {
+  clusters <- get_drug_cluster(similarity, cluster_algo)
   gene_universe <- get_gene_universe(clusters, association)
   cluster_GO_enrich <- list()
   for (i in 1:length(clusters)) {
@@ -80,17 +80,17 @@ compute_cluster_enrichment <- function(association, cluster_algo, ontology, p_ad
   return(cluster_GO_enrich)
 }
 
-read_cluster_enrichment <- function(cluster_algo, ontology) {
-  folder <- "output/go_analysis/gene_union/"
+read_cluster_enrichment <- function(similarity, cluster_algo, ontology) {
+  folder <- paste0("output/go_analysis/gene_union/", similarity, "/")
   f_name <- paste0(folder, "GOEnrichment_", cluster_algo, "_", tolower(ontology), ".rds")
   # f_name <- "foo.rds"
   cluster_similarity <- readRDS(f_name)
   return(cluster_similarity)
 }
 
-print_cluster_enrichment_metadata <- function(association, cluster_algo, ontology) {
-  enrich_result <- read_cluster_enrichment(cluster_algo, ontology)
-  clusters <- get_drug_cluster(cluster_algo)
+print_cluster_enrichment_metadata <- function(association, similarity, cluster_algo, ontology) {
+  enrich_result <- read_cluster_enrichment(similarity, cluster_algo, ontology)
+  clusters <- get_drug_cluster(similarity, cluster_algo)
   cat("Cluster\tNo_of_drugs\tNo_of_genes\tNo_of_enrichment_genes\tNo_of_bg_genes\tNo_of_enriched_GO_terms\tTop_GO_term\tTop_pvalue\n")
   for (i in 1:length(enrich_result)) {
   # for (i in 25:25) {
@@ -114,15 +114,33 @@ print_cluster_enrichment_metadata <- function(association, cluster_algo, ontolog
 # association <- read_drug_gene_association("input/CTD/pulmonary_drug_gene_association_matrix_ctd.tsv")
 # all_genes <- as.character(get_gene_id_map()$GeneID)
 
-# go_enrich_result <- compute_cluster_enrichment(association, cluster_algo = "bkm", ontology = "MF")
-# go_enrich_result <- compute_cluster_enrichment(association, cluster_algo = "bkm", ontology = "BP")
-# go_enrich_result <- compute_cluster_enrichment(association, cluster_algo = "bkm", ontology = "CC")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "cosine", cluster_algo = "bkm", ontology = "MF")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "cosine", cluster_algo = "bkm", ontology = "BP")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "cosine", cluster_algo = "bkm", ontology = "CC")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "pearson", cluster_algo = "bkm", ontology = "MF")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "pearson", cluster_algo = "bkm", ontology = "BP")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "pearson", cluster_algo = "bkm", ontology = "CC")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "jaccard", cluster_algo = "ms", ontology = "MF")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "jaccard", cluster_algo = "ms", ontology = "BP")
+# go_enrich_result <- compute_cluster_enrichment(association, similarity = "jaccard", cluster_algo = "ms", ontology = "CC")
 # saveRDS(go_enrich_result, "foo.rds")
 
-# go_enrich_result <- read_cluster_enrichment(cluster_algo = "bkm", ontology = "MF")
-# go_enrich_result <- read_cluster_enrichment(cluster_algo = "bkm", ontology = "BP")
-# go_enrich_result <- read_cluster_enrichment(cluster_algo = "bkm", ontology = "CC")
+# go_enrich_result <- read_cluster_enrichment(similarity = "cosine", cluster_algo = "bkm", ontology = "MF")
+# go_enrich_result <- read_cluster_enrichment(similarity = "cosine", cluster_algo = "bkm", ontology = "BP")
+# go_enrich_result <- read_cluster_enrichment(similarity = "cosine", cluster_algo = "bkm", ontology = "CC")
+# go_enrich_result <- read_cluster_enrichment(similarity = "pearson", cluster_algo = "bkm", ontology = "MF")
+# go_enrich_result <- read_cluster_enrichment(similarity = "pearson", cluster_algo = "bkm", ontology = "BP")
+# go_enrich_result <- read_cluster_enrichment(similarity = "pearson", cluster_algo = "bkm", ontology = "CC")
+# go_enrich_result <- read_cluster_enrichment(similarity = "jaccard", cluster_algo = "ms", ontology = "MF")
+# go_enrich_result <- read_cluster_enrichment(similarity = "jaccard", cluster_algo = "ms", ontology = "BP")
+# go_enrich_result <- read_cluster_enrichment(similarity = "jaccard", cluster_algo = "ms", ontology = "CC")
 
-# print_cluster_enrichment_metadata(association, cluster_algo = "bkm", ontology = "MF")
-# print_cluster_enrichment_metadata(association, cluster_algo = "bkm", ontology = "BP")
-# print_cluster_enrichment_metadata(association, cluster_algo = "bkm", ontology = "CC")
+# print_cluster_enrichment_metadata(association, similarity = "cosine", cluster_algo = "bkm", ontology = "MF")
+# print_cluster_enrichment_metadata(association, similarity = "cosine", cluster_algo = "bkm", ontology = "BP")
+# print_cluster_enrichment_metadata(association, similarity = "cosine", cluster_algo = "bkm", ontology = "CC")
+# print_cluster_enrichment_metadata(association, similarity = "pearson", cluster_algo = "bkm", ontology = "MF")
+# print_cluster_enrichment_metadata(association, similarity = "pearson", cluster_algo = "bkm", ontology = "BP")
+# print_cluster_enrichment_metadata(association, similarity = "pearson", cluster_algo = "bkm", ontology = "CC")
+# print_cluster_enrichment_metadata(association, similarity = "jaccard", cluster_algo = "ms", ontology = "MF")
+# print_cluster_enrichment_metadata(association, similarity = "jaccard", cluster_algo = "ms", ontology = "BP")
+# print_cluster_enrichment_metadata(association, similarity = "jaccard", cluster_algo = "ms", ontology = "CC")
