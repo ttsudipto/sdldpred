@@ -19,10 +19,10 @@ read_drug_gene_association <- function(f_name) {
   return(similarity)
 }
 
-get_random_drug_cluster <- function(n, drugs) {
-  set.seed(16) # measure = "Jiang"
-  # set.seed(32) # measure = "Lin"
-  f_name <- paste0("output/gs/optimal_clusters_bkm.tsv")
+get_random_drug_cluster <- function(n, similarity, cluster_algo, drugs) {
+  # set.seed(16) # measure = "Jiang"
+  set.seed(32) # measure = "Lin"
+  f_name <- paste0("output/gs/", similarity, "/optimal_clusters_", cluster_algo, ".tsv")
   clusters <- strsplit(read.csv(f_name, sep = "\t")$Drugs, ";")
   len <- 0
   for (i in 1:length(clusters))
@@ -37,8 +37,8 @@ get_random_drug_cluster <- function(n, drugs) {
   return(random_clusters)
 }
 
-get_drug_cluster <- function(cluster_algo) {
-  f_name <- paste0("output/gs/optimal_clusters_", cluster_algo, ".tsv")
+get_drug_cluster <- function(similarity, cluster_algo) {
+  f_name <- paste0("output/gs/", similarity, "/optimal_clusters_", cluster_algo, ".tsv")
   clusters <- strsplit(read.csv(f_name, sep = "\t")$Drugs, ";")
   return(clusters)
 }
@@ -77,11 +77,11 @@ compute_semantic_similarity <- function(genes, ontology, measure="Lin") {
   return(sim)
 }
 
-compute_cluster_similarity_gene_union <- function(association, cluster_algo, ontology, measure = "Lin") {
-  if(cluster_algo == "random")
-    clusters <- get_random_drug_cluster(1, rownames(association))
+compute_cluster_similarity_gene_union <- function(association, similarity, cluster_algo, ontology, measure = "Lin") {
+  if(substr(cluster_algo, 1, 6) == "random")
+    clusters <- get_random_drug_cluster(1, similarity, substr(cluster_algo, 8, nchar(cluster_algo)), rownames(association))
   else
-    clusters <- get_drug_cluster(cluster_algo)
+    clusters <- get_drug_cluster(similarity, cluster_algo)
   cluster_similarity <- list()
   for (i in 1:length(clusters)) {
   # for (i in 25:27) {
@@ -98,8 +98,8 @@ compute_cluster_similarity_gene_union <- function(association, cluster_algo, ont
   return(cluster_similarity)
 }
 
-read_cluster_similarity <- function(cluster_algo, ontology, measure = "Lin") {
-  folder <- "output/go_analysis/gene_union/"
+read_cluster_similarity <- function(similarity, cluster_algo, ontology, measure = "Lin") {
+  folder <- paste0("output/go_analysis/gene_union/", similarity, "/")
   f_name <- paste0(folder, "GOSemSim_", cluster_algo, "_", tolower(ontology), "_", tolower(measure), ".rds")
   cluster_similarity <- readRDS(f_name)
   return(cluster_similarity)
@@ -112,86 +112,86 @@ print_cluster_similarity <- function(cluster_similarity) {
   }
 }
 
-print_cluster_similarity_metadata <- function(association, cluster_algo, ontology, measure = "Lin") {
-  cluster_similarity <- read_cluster_similarity(cluster_algo, ontology, measure)
-  clusters <- get_drug_cluster(cluster_algo)
+print_cluster_similarity_metadata <- function(association, similarity, cluster_algo, ontology, measure = "Lin") {
+  cluster_similarity <- read_cluster_similarity(similarity, cluster_algo, ontology, measure)
+  clusters <- get_drug_cluster(similarity, cluster_algo)
   cat("Cluster\tNo_of_drugs\tNo_of_genes\tNo_of_similarity_values\tMin_similarity\tMax_similarity\tMean_similarity\tMedian_similarity\n")
   for (i in 1:length(cluster_similarity)) {
     cat(paste0(i, "\t", length(clusters[[i]]), "\t", length(get_union_gene_set(clusters[[i]], association)), "\t", length(cluster_similarity[[i]]), "\t", min(cluster_similarity[[i]]), "\t", max(cluster_similarity[[i]]), "\t", mean(cluster_similarity[[i]]), "\t", median(cluster_similarity[[i]]), "\n"))
   }
 }
 
-read_cluster_similarity_metadata <- function(cluster_algo, ontology, measure = "Lin") {
-  folder <- "output/go_analysis/gene_union/"
+read_cluster_similarity_metadata <- function(similarity, cluster_algo, ontology, measure = "Lin") {
+  folder <- paste0("output/go_analysis/gene_union/", similarity, "/")
   f_name <- paste0(folder, "GOSemSim_metadata_", cluster_algo, "_", tolower(ontology), "_", tolower(measure), ".tsv")
   cluster_similarity_metadata <- read.csv(f_name, sep = "\t")
   return(cluster_similarity_metadata)
 }
 
 
-# association <- read_drug_gene_association("input/CTD/pulmonary_drug_gene_association_matrix_ctd.tsv")
-# all_genes <- as.character(get_gene_id_map()$GeneID)
+association <- read_drug_gene_association("input/CTD/pulmonary_drug_gene_association_matrix_ctd.tsv")
+all_genes <- as.character(get_gene_id_map()$GeneID)
 
 
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "kmc", ontology = "MF")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "kmc", ontology = "BP")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "kmc", ontology = "CC")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "bkm", ontology = "MF")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "bkm", ontology = "BP")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "bkm", ontology = "CC")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "ms", ontology = "MF")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "ms", ontology = "BP")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "ms", ontology = "CC")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "birch", ontology = "MF")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "birch", ontology = "BP")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "birch", ontology = "CC")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "random", ontology = "MF")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "random", ontology = "BP")
-# cluster_similarity <- compute_cluster_similarity_gene_union(association, cluster_algo = "random", ontology = "CC")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="cosine", cluster_algo = "bkm", ontology = "MF")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="cosine", cluster_algo = "bkm", ontology = "BP")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="cosine", cluster_algo = "bkm", ontology = "CC")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="cosine", cluster_algo = "random_bkm", ontology = "MF")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="cosine", cluster_algo = "random_bkm", ontology = "BP")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="cosine", cluster_algo = "random_bkm", ontology = "CC")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="pearson", cluster_algo = "bkm", ontology = "MF")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="pearson", cluster_algo = "bkm", ontology = "BP")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="pearson", cluster_algo = "bkm", ontology = "CC")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="pearson", cluster_algo = "random_bkm", ontology = "MF")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="pearson", cluster_algo = "random_bkm", ontology = "BP")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="pearson", cluster_algo = "random_bkm", ontology = "CC")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="jaccard", cluster_algo = "ms", ontology = "MF")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="jaccard", cluster_algo = "ms", ontology = "BP")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="jaccard", cluster_algo = "ms", ontology = "CC")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="jaccard", cluster_algo = "random_ms", ontology = "MF")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="jaccard", cluster_algo = "random_ms", ontology = "BP")
+# cluster_similarity <- compute_cluster_similarity_gene_union(association, similarity="jaccard", cluster_algo = "random_ms", ontology = "CC")
 # print_cluster_similarity(cluster_similarity)
 # saveRDS(cluster_similarity, "foo.rds")
 
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "kmc", ontology = "MF")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "kmc", ontology = "BP")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "kmc", ontology = "CC")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "bkm", ontology = "MF")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "bkm", ontology = "BP")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "bkm", ontology = "CC")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "ms", ontology = "MF")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "ms", ontology = "BP")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "ms", ontology = "CC")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "birch", ontology = "MF")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "birch", ontology = "BP")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "birch", ontology = "CC")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "random", ontology = "MF")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "random", ontology = "BP")
-# cluster_similarity <- read_cluster_similarity(cluster_algo = "random", ontology = "CC")
+# cluster_similarity <- read_cluster_similarity(similarity = "cosine", cluster_algo = "bkm", ontology = "MF")
+# cluster_similarity <- read_cluster_similarity(similarity = "cosine", cluster_algo = "bkm", ontology = "BP")
+# cluster_similarity <- read_cluster_similarity(similarity = "cosine", cluster_algo = "bkm", ontology = "CC")
+# cluster_similarity <- read_cluster_similarity(similarity = "cosine", cluster_algo = "random", ontology = "MF")
+# cluster_similarity <- read_cluster_similarity(similarity = "cosine", cluster_algo = "random", ontology = "BP")
+# cluster_similarity <- read_cluster_similarity(similarity = "cosine", cluster_algo = "random", ontology = "CC")
+# cluster_similarity <- read_cluster_similarity(similarity = "pearson", cluster_algo = "bkm", ontology = "MF")
+# cluster_similarity <- read_cluster_similarity(similarity = "pearson", cluster_algo = "bkm", ontology = "BP")
+# cluster_similarity <- read_cluster_similarity(similarity = "pearson", cluster_algo = "bkm", ontology = "CC")
+# cluster_similarity <- read_cluster_similarity(similarity = "pearson", cluster_algo = "random", ontology = "MF")
+# cluster_similarity <- read_cluster_similarity(similarity = "pearson", cluster_algo = "random", ontology = "BP")
+# cluster_similarity <- read_cluster_similarity(similarity = "pearson", cluster_algo = "random", ontology = "CC")
+# cluster_similarity <- read_cluster_similarity(similarity = "jaccard", cluster_algo = "ms", ontology = "MF")
+# cluster_similarity <- read_cluster_similarity(similarity = "jaccard", cluster_algo = "ms", ontology = "BP")
+# cluster_similarity <- read_cluster_similarity(similarity = "jaccard", cluster_algo = "ms", ontology = "CC")
+# cluster_similarity <- read_cluster_similarity(similarity = "jaccard", cluster_algo = "random", ontology = "MF")
+# cluster_similarity <- read_cluster_similarity(similarity = "jaccard", cluster_algo = "random", ontology = "BP")
+# cluster_similarity <- read_cluster_similarity(similarity = "jaccard", cluster_algo = "random", ontology = "CC")
 # print(cluster_similarity)
 
-# print_cluster_similarity_metadata(association, cluster_algo = "kmc", ontology = "MF")
-# print_cluster_similarity_metadata(association, cluster_algo = "kmc", ontology = "BP")
-# print_cluster_similarity_metadata(association, cluster_algo = "kmc", ontology = "CC")
-# print_cluster_similarity_metadata(association, cluster_algo = "bkm", ontology = "MF")
-# print_cluster_similarity_metadata(association, cluster_algo = "bkm", ontology = "BP")
-# print_cluster_similarity_metadata(association, cluster_algo = "bkm", ontology = "CC")
-# print_cluster_similarity_metadata(association, cluster_algo = "ms", ontology = "MF")
-# print_cluster_similarity_metadata(association, cluster_algo = "ms", ontology = "BP")
-# print_cluster_similarity_metadata(association, cluster_algo = "ms", ontology = "CC")
-# print_cluster_similarity_metadata(association, cluster_algo = "birch", ontology = "MF")
-# print_cluster_similarity_metadata(association, cluster_algo = "birch", ontology = "BP")
-# print_cluster_similarity_metadata(association, cluster_algo = "birch", ontology = "CC")
+
+# print_cluster_similarity_metadata(association, similarity = "cosine", cluster_algo = "bkm", ontology = "MF")
+# print_cluster_similarity_metadata(association, similarity = "cosine", cluster_algo = "bkm", ontology = "BP")
+# print_cluster_similarity_metadata(association, similarity = "cosine", cluster_algo = "bkm", ontology = "CC")
+# print_cluster_similarity_metadata(association, similarity = "pearson", cluster_algo = "bkm", ontology = "MF")
+# print_cluster_similarity_metadata(association, similarity = "pearson", cluster_algo = "bkm", ontology = "BP")
+# print_cluster_similarity_metadata(association, similarity = "pearson", cluster_algo = "bkm", ontology = "CC")
+# print_cluster_similarity_metadata(association, similarity = "jaccard", cluster_algo = "ms", ontology = "MF")
+# print_cluster_similarity_metadata(association, similarity = "jaccard", cluster_algo = "ms", ontology = "BP")
+# print_cluster_similarity_metadata(association, similarity = "jaccard", cluster_algo = "ms", ontology = "CC")
 
 
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "kmc", ontology = "MF")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "kmc", ontology = "BP")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "kmc", ontology = "CC")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "bkm", ontology = "MF")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "bkm", ontology = "BP")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "bkm", ontology = "CC")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "ms", ontology = "MF")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "ms", ontology = "BP")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "ms", ontology = "CC")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "birch", ontology = "MF")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "birch", ontology = "BP")
-# cluster_similarity_metadata <- read_cluster_similarity_metadata(cluster_algo = "birch", ontology = "CC")
-# print(cluster_similarity_metadata)
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "cosine", cluster_algo = "bkm", ontology = "MF")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "cosine", cluster_algo = "bkm", ontology = "BP")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "cosine", cluster_algo = "bkm", ontology = "CC")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "pearson", cluster_algo = "bkm", ontology = "MF")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "pearson", cluster_algo = "bkm", ontology = "BP")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "pearson", cluster_algo = "bkm", ontology = "CC")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "jaccard", cluster_algo = "ms", ontology = "MF")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "jaccard", cluster_algo = "ms", ontology = "BP")
+# cluster_similarity_metadata <- read_cluster_similarity_metadata(similarity = "jaccard", cluster_algo = "ms", ontology = "CC")
