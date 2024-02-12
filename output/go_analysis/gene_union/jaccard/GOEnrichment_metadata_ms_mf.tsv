@@ -1,0 +1,94 @@
+Cluster	No_of_drugs	No_of_genes	No_of_enrichment_genes	No_of_bg_genes	No_of_enriched_GO_terms	Top_GO_term	Top_pvalue
+1	125	538	538	9333	155	neurotransmitter receptor activity (GO:0030594)	1.34066913142304e-17
+2	56	498	498	9333	201	inorganic anion transmembrane transporter activity (GO:0015103)	4.72350532169697e-12
+3	37	130	130	9333	86	cytokine activity (GO:0005125)	1.01037384523142e-07
+4	36	674	674	9333	105	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	4.78420708156521e-19
+5	33	4616	4616	9333	80	cadherin binding (GO:0045296)	2.46061836558438e-32
+6	26	201	201	9333	43	ubiquitin protein ligase binding (GO:0031625)	8.93844810190372e-07
+7	25	323	323	9333	98	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	2.67470203580931e-12
+8	24	175	175	9333	84	glucuronosyltransferase activity (GO:0015020)	1.57668605330323e-10
+9	20	192	192	9333	68	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)	5.83261402795783e-09
+10	19	530	530	9333	58	RNA polymerase II cis-regulatory region sequence-specific DNA binding (GO:0000978)	1.95082572966846e-13
+11	16	223	223	9333	91	signaling receptor regulator activity (GO:0030545)	4.74598275857045e-21
+12	15	23	23	9333	45	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)	0.000128274131515091
+13	14	535	535	9333	101	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	1.52472985457849e-20
+14	14	33	33	9333	49	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)	2.06482837737569e-09
+15	13	127	127	9333	46	glucuronosyltransferase activity (GO:0015020)	4.35556611802148e-10
+16	12	78	78	9333	50	MAP kinase activity (GO:0004707)	9.18546057228538e-06
+17	12	117	117	9333	65	glucuronosyltransferase activity (GO:0015020)	1.58823975363862e-10
+18	12	125	125	9333	49	protein kinase activity (GO:0004672)	6.27210740667832e-09
+19	11	41	41	9333	72	monooxygenase activity (GO:0004497)	1.44982408753822e-12
+20	11	132	132	9333	63	transcription factor binding (GO:0008134)	1.26770844595614e-11
+21	9	61	61	9333	17	phosphatase binding (GO:0019902)	4.36192785209992e-05
+22	9	110	110	9333	45	transcription coregulator binding (GO:0001221)	1.02228854378311e-09
+23	9	288	288	9333	33	postsynaptic neurotransmitter receptor activity (GO:0098960)	2.49768742998735e-22
+24	9	18	18	9333	9	tetrapyrrole binding (GO:0046906)	4.99900524137404e-06
+25	8	39	39	9333	14	bile acid transmembrane transporter activity (GO:0015125)	4.1438002754468e-09
+26	8	218	218	9333	83	signaling receptor regulator activity (GO:0030545)	1.20200303002927e-27
+27	7	86	86	9333	32	glucuronosyltransferase activity (GO:0015020)	8.54239353347359e-14
+28	7	24	24	9333	24	active transmembrane transporter activity (GO:0022804)	3.05875512978836e-09
+29	6	37	37	9333	6	prostaglandin transmembrane transporter activity (GO:0015132)	1.64518465301532e-05
+30	6	9	9	9333	2	carboxylic ester hydrolase activity (GO:0052689)	0.00219868354769815
+31	6	39	39	9333	39	G protein-coupled amine receptor activity (GO:0008227)	2.91230026029719e-09
+32	6	13	13	9333	12	chemokine activity (GO:0008009)	3.89979952270879e-06
+33	5	142	142	9333	45	signaling receptor regulator activity (GO:0030545)	4.47552058392421e-14
+34	5	57	57	9333	46	ubiquitin-like protein ligase binding (GO:0044389)	8.22059842387992e-06
+35	5	35	35	9333	39	carbonate dehydratase activity (GO:0004089)	7.45688912032183e-25
+36	5	52	52	9333	19	glucuronosyltransferase activity (GO:0015020)	1.58540608051171e-05
+37	5	22	22	9333	23	voltage-gated potassium channel activity (GO:0005249)	0.000312234474472897
+38	5	2823	2823	9333	40	cadherin binding (GO:0045296)	3.0144082319206e-16
+39	5	11	11	9333	9	cytokine activity (GO:0005125)	3.29320012252317e-07
+40	5	9	9	9333	5	death receptor activity (GO:0005035)	6.82352154972947e-06
+41	5	9	9	9333	6	carbonate dehydratase activity (GO:0004089)	1.19896797153418e-11
+42	4	22	22	9333	28	transcription coactivator binding (GO:0001223)	0.000206270862568523
+43	4	23	23	9333	36	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)	1.53474152143741e-06
+44	4	85	85	9333	47	protein serine/threonine kinase activity (GO:0004674)	9.61260843661182e-07
+45	4	3	3	9333	0	NA (NA)	NA
+46	4	15	15	9333	15	DNA-binding transcription activator activity, RNA polymerase II-specific (GO:0001228)	0.00146222236272731
+47	4	20	20	9333	25	glucuronosyltransferase activity (GO:0015020)	1.218767652944e-10
+48	4	1766	1766	9333	57	chromatin binding (GO:0003682)	2.79531098154852e-18
+49	4	64	64	9333	51	cysteine-type endopeptidase activity involved in apoptotic process (GO:0097153)	1.15553384288087e-08
+50	4	77	77	9333	36	beta-catenin binding (GO:0008013)	1.97903379077629e-06
+51	4	10	10	9333	1	heparan sulfate proteoglycan binding (GO:0043395)	0.00535715767253343
+52	4	6	6	9333	1	carbohydrate binding (GO:0030246)	0.0021739885703514
+53	3	1	1	9333	0	NA (NA)	NA
+54	3	34	34	9333	18	xenobiotic transmembrane transporter activity (GO:0042910)	0.000234099225376194
+55	3	0	0	9333	0		0
+56	3	0	0	9333	0		0
+57	3	57	57	9333	69	monooxygenase activity (GO:0004497)	1.02249543276718e-07
+58	3	59	59	9333	33	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)	5.16019945646108e-15
+59	3	11	11	9333	2	ABC-type xenobiotic transporter activity (GO:0008559)	0.00430675811496298
+60	3	1	1	9333	14	ABC-type xenobiotic transporter activity (GO:0008559)	0.00660291438979897
+61	3	7	7	9333	1	LRR domain binding (GO:0030275)	0.00256879994284124
+62	3	11	11	9333	27	17-beta-hydroxysteroid dehydrogenase (NAD+) activity (GO:0044594)	3.61179194989949e-08
+63	3	79	79	9333	44	cytokine activity (GO:0005125)	1.50179722059768e-07
+64	3	22	22	9333	40	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)	1.12363963794981e-06
+65	3	8	8	9333	0	NA (NA)	NA
+66	3	1253	1253	9333	53	structural constituent of ribosome (GO:0003735)	1.00157293199973e-30
+67	2	323	323	9333	88	signaling receptor activator activity (GO:0030546)	1.30723833993064e-18
+68	2	88	88	9333	57	glucuronosyltransferase activity (GO:0015020)	6.73813939556275e-16
+69	2	3	3	9333	21	scaffold protein binding (GO:0097110)	0.00316334582089094
+70	2	18	18	9333	15	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen (GO:0016712)	2.75195235431253e-14
+71	2	3	3	9333	5	amyloid-beta binding (GO:0001540)	4.53649755900633e-06
+72	2	1	1	9333	0	NA (NA)	NA
+73	2	20	20	9333	19	cholesterol transfer activity (GO:0120020)	0.000630348716638518
+74	2	4	4	9333	0	NA (NA)	NA
+75	2	10	10	9333	1	phosphotransferase activity, alcohol group as acceptor (GO:0016773)	0.00363315038968898
+76	2	137	137	9333	49	ubiquitin-like protein ligase binding (GO:0044389)	6.03635066512636e-08
+77	2	7	7	9333	22	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen (GO:0016709)	4.08567062262169e-07
+78	2	220	220	9333	67	signaling receptor regulator activity (GO:0030545)	2.06274307206613e-10
+79	2	33	33	9333	32	MAP kinase activity (GO:0004707)	5.01342613681496e-08
+80	2	4	4	9333	6	cytokine activity (GO:0005125)	0.000418294667982888
+81	2	2	2	9333	0	NA (NA)	NA
+82	2	33	33	9333	15	protein homodimerization activity (GO:0042803)	0.000104307511759877
+83	2	4	4	9333	0	NA (NA)	NA
+84	2	4	4	9333	32	GABA-gated chloride ion channel activity (GO:0022851)	1.29401828970498e-07
+85	2	19	19	9333	20	G protein-coupled neurotransmitter receptor activity (GO:0099528)	6.26194103521306e-05
+86	2	15	15	9333	20	glucuronosyltransferase activity (GO:0015020)	6.08411566188714e-09
+87	2	49	49	9333	55	monocarboxylic acid binding (GO:0033293)	8.15289344017714e-11
+88	2	4	4	9333	8	monoamine transmembrane transporter activity (GO:0008504)	0.000148314364804144
+89	2	34	34	9333	43	RNA polymerase II-specific DNA-binding transcription factor binding (GO:0061629)	3.26313751799687e-07
+90	2	13	13	9333	7	nuclear steroid receptor activity (GO:0003707)	0.000127582148518412
+91	2	205	205	9333	53	vitamin binding (GO:0019842)	8.15497976478321e-06
+92	2	24	24	9333	11	phospholipase activator activity (GO:0016004)	0.00102179016241411
+93	2	11	11	9333	11	histone deacetylase binding (GO:0042826)	0.00034904284097169

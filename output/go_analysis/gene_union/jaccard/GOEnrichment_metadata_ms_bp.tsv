@@ -1,0 +1,94 @@
+Cluster	No_of_drugs	No_of_genes	No_of_enrichment_genes	No_of_bg_genes	No_of_enriched_GO_terms	Top_GO_term	Top_pvalue
+1	125	538	538	9181	1915	response to xenobiotic stimulus (GO:0009410)	1.61784296443275e-42
+2	56	498	498	9181	1838	response to inorganic substance (GO:0010035)	8.22291636642846e-40
+3	37	130	130	9181	1086	response to inorganic substance (GO:0010035)	7.83759857687527e-19
+4	36	674	674	9181	1761	positive regulation of cell death (GO:0010942)	9.20396630465835e-37
+5	33	4616	4616	9181	375	ribonucleoprotein complex biogenesis (GO:0022613)	3.24552276294164e-25
+6	26	201	201	9181	1119	cellular response to chemical stress (GO:0062197)	2.65206464063705e-24
+7	25	323	323	9181	1712	response to inorganic substance (GO:0010035)	2.13562207755748e-50
+8	24	175	175	9181	1295	response to xenobiotic stimulus (GO:0009410)	5.97603190156468e-32
+9	20	192	192	9181	1170	cellular response to chemical stress (GO:0062197)	1.80740168599882e-41
+10	19	530	530	9181	875	response to xenobiotic stimulus (GO:0009410)	3.95606491835953e-19
+11	16	223	223	9181	1222	regulation of hormone levels (GO:0010817)	3.56938774856392e-28
+12	15	23	23	9181	23	regulation of presynaptic membrane potential (GO:0099505)	6.40820253853795e-05
+13	14	535	535	9181	1712	apoptotic signaling pathway (GO:0097190)	7.06346562136164e-32
+14	14	33	33	9181	227	xenobiotic catabolic process (GO:0042178)	2.77120602373599e-09
+15	13	127	127	9181	804	steroid metabolic process (GO:0008202)	1.50446844646603e-15
+16	12	78	78	9181	654	neuron death (GO:0070997)	1.4863203180599e-13
+17	12	117	117	9181	757	response to xenobiotic stimulus (GO:0009410)	1.8913041237716e-26
+18	12	125	125	9181	1312	cellular response to chemical stress (GO:0062197)	2.4714232011082e-29
+19	11	41	41	9181	190	response to xenobiotic stimulus (GO:0009410)	2.20366294182923e-13
+20	11	132	132	9181	1291	apoptotic signaling pathway (GO:0097190)	1.5622024163288e-27
+21	9	61	61	9181	452	cellular response to chemical stress (GO:0062197)	8.54210507149196e-14
+22	9	110	110	9181	1085	response to lipopolysaccharide (GO:0032496)	8.33756201228315e-21
+23	9	288	288	9181	251	dopamine transport (GO:0015872)	6.65113033217177e-14
+24	9	18	18	9181	96	response to xenobiotic stimulus (GO:0009410)	0.000243400191093062
+25	8	39	39	9181	102	response to xenobiotic stimulus (GO:0009410)	3.72051353914481e-11
+26	8	218	218	9181	1434	regulation of hormone levels (GO:0010817)	3.3791227933641e-37
+27	7	86	86	9181	597	response to oxidative stress (GO:0006979)	1.23231259046829e-15
+28	7	24	24	9181	26	response to xenobiotic stimulus (GO:0009410)	7.56448236040463e-10
+29	6	37	37	9181	425	response to osmotic stress (GO:0006970)	1.224507835109e-08
+30	6	9	9	9181	18	endoplasmic reticulum unfolded protein response (GO:0030968)	3.50481056319617e-05
+31	6	39	39	9181	291	monocarboxylic acid transport (GO:0015718)	3.29382866298333e-09
+32	6	13	13	9181	81	regulation of leukocyte chemotaxis (GO:0002688)	9.06150701283051e-07
+33	5	142	142	9181	1163	cellular response to organic cyclic compound (GO:0071407)	4.0288843942358e-14
+34	5	57	57	9181	831	apoptotic signaling pathway (GO:0097190)	2.00526026032633e-17
+35	5	35	35	9181	23	xenobiotic transport (GO:0042908)	0.000103141144506494
+36	5	52	52	9181	526	gland development (GO:0048732)	5.16994785749658e-08
+37	5	22	22	9181	87	positive regulation of lymphocyte proliferation (GO:0050671)	8.12524291435092e-05
+38	5	2823	2823	9181	370	cytoplasmic translation (GO:0002181)	9.54520809363652e-13
+39	5	11	11	9181	641	mononuclear cell proliferation (GO:0032943)	1.02940045267335e-10
+40	5	9	9	9181	123	extrinsic apoptotic signaling pathway (GO:0097191)	5.07129907298441e-08
+41	5	9	9	9181	11	synaptic transmission, GABAergic (GO:0051932)	0.000557329701260055
+42	4	22	22	9181	88	mammary gland epithelium development (GO:0061180)	3.44786392614893e-06
+43	4	23	23	9181	153	xenobiotic metabolic process (GO:0006805)	2.78607783070942e-09
+44	4	85	85	9181	787	cellular response to chemical stress (GO:0062197)	2.86872360070473e-15
+45	4	3	3	9181	0	NA (NA)	NA
+46	4	15	15	9181	37	response to peptide (GO:1901652)	2.35981012291741e-05
+47	4	20	20	9181	483	cellular glucuronidation (GO:0052695)	6.07231546990395e-10
+48	4	1766	1766	9181	224	chromatin organization (GO:0006325)	3.29258895059359e-24
+49	4	64	64	9181	531	cellular response to xenobiotic stimulus (GO:0071466)	5.04176599014561e-14
+50	4	77	77	9181	687	response to inorganic substance (GO:0010035)	5.29372282165651e-20
+51	4	10	10	9181	8	heterotypic cell-cell adhesion (GO:0034113)	0.0069433631751476
+52	4	6	6	9181	10	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules (GO:0007157)	1.00194989636949e-07
+53	3	1	1	9181	0	NA (NA)	NA
+54	3	34	34	9181	402	execution phase of apoptosis (GO:0097194)	2.36295200402393e-10
+55	3	0	0	9181	0		0
+56	3	0	0	9181	0		0
+57	3	57	57	9181	584	lipid localization (GO:0010876)	4.54916885499369e-17
+58	3	59	59	9181	368	response to xenobiotic stimulus (GO:0009410)	1.58814295543911e-15
+59	3	11	11	9181	86	PERK-mediated unfolded protein response (GO:0036499)	4.64480958559628e-09
+60	3	1	1	9181	0	NA (NA)	NA
+61	3	7	7	9181	15	ER-nucleus signaling pathway (GO:0006984)	0.00126033286948292
+62	3	11	11	9181	401	prostanoid metabolic process (GO:0006692)	6.07523732994096e-07
+63	3	79	79	9181	655	cellular response to xenobiotic stimulus (GO:0071466)	3.27912868611877e-12
+64	3	22	22	9181	123	xenobiotic catabolic process (GO:0042178)	3.18268166870245e-06
+65	3	8	8	9181	0	NA (NA)	NA
+66	3	1253	1253	9181	973	cytoplasmic translation (GO:0002181)	3.45591424363388e-63
+67	2	323	323	9181	1881	apoptotic signaling pathway (GO:0097190)	3.47219068504533e-42
+68	2	88	88	9181	716	response to xenobiotic stimulus (GO:0009410)	1.34739820420838e-19
+69	2	3	3	9181	31	regulation of ventricular cardiac muscle cell membrane repolarization (GO:0060307)	0.000465094449251409
+70	2	18	18	9181	88	xenobiotic catabolic process (GO:0042178)	2.1020243064176e-14
+71	2	3	3	9181	12	neurotransmitter metabolic process (GO:0042133)	0.00210180958668462
+72	2	1	1	9181	0	NA (NA)	NA
+73	2	20	20	9181	156	negative regulation of cytokine production involved in immune response (GO:0002719)	0.000305931976475928
+74	2	4	4	9181	5	cellular response to reactive oxygen species (GO:0034614)	0.00547735447208434
+75	2	10	10	9181	76	glycolytic process (GO:0006096)	2.912956591925e-06
+76	2	137	137	9181	890	apoptotic signaling pathway (GO:0097190)	3.61626810760049e-15
+77	2	7	7	9181	73	fatty acid metabolic process (GO:0006631)	1.65671012842993e-08
+78	2	220	220	9181	1386	response to decreased oxygen levels (GO:0036293)	8.04257136796771e-28
+79	2	33	33	9181	490	apoptotic signaling pathway (GO:0097190)	7.81605180813932e-16
+80	2	4	4	9181	233	vascular endothelial growth factor production (GO:0010573)	0.00012555991743817
+81	2	2	2	9181	5	regulation of lipid catabolic process (GO:0050994)	0.00248096915126651
+82	2	33	33	9181	391	apoptotic signaling pathway (GO:0097190)	2.49808727707125e-14
+83	2	4	4	9181	7	ribonucleotide biosynthetic process (GO:0009260)	0.0093052747542085
+84	2	4	4	9181	19	gamma-aminobutyric acid signaling pathway (GO:0007214)	2.73199671107901e-06
+85	2	19	19	9181	264	positive regulation of neuron apoptotic process (GO:0043525)	5.8066572178739e-07
+86	2	15	15	9181	132	flavonoid metabolic process (GO:0009812)	4.16518388601527e-09
+87	2	49	49	9181	213	xenobiotic metabolic process (GO:0006805)	1.82541868834025e-29
+88	2	4	4	9181	24	regulation of neurotransmitter levels (GO:0001505)	6.45283133337137e-06
+89	2	34	34	9181	923	regulation of neuron death (GO:1901214)	3.72035867035738e-18
+90	2	13	13	9181	48	mammary gland duct morphogenesis (GO:0060603)	0.00255264434866844
+91	2	205	205	9181	479	monocarboxylic acid metabolic process (GO:0032787)	1.27388479021486e-20
+92	2	24	24	9181	493	response to inorganic substance (GO:0010035)	3.61636482441223e-11
+93	2	11	11	9181	21	execution phase of apoptosis (GO:0097194)	0.000283569639447091
