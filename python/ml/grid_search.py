@@ -41,10 +41,22 @@ birch_grid = {
 }
 
 optimal_grids = {
-    'KMC': {'init': 'k-means++', 'n_clusters': 470},
-    'BKM': {'bisecting_strategy': 'biggest_inertia', 'n_clusters': 480},
-    'MS': {'bandwidth': 0.25},
-    'BIRCH': {'threshold': 0.1, 'branching_factor': 8, 'n_clusters': 480}
+    'cosine': {
+        'KMC': {'init': 'k-means++', 'n_clusters': 470},
+        'BKM': {'bisecting_strategy': 'biggest_inertia', 'n_clusters': 480},
+        'MS': {'bandwidth': 0.25},
+        'BIRCH': {'threshold': 0.1, 'branching_factor': 8, 'n_clusters': 480}
+    }, 'pearson': {
+        'KMC': {'init': 'k-means++', 'n_clusters': 520},
+        'BKM': {'bisecting_strategy': 'biggest_inertia', 'n_clusters': 480},
+        'MS': {'bandwidth': 0.25},
+        'BIRCH': {'threshold': 0.1, 'branching_factor': 15, 'n_clusters': 520}
+    }, 'jaccard': {
+        'KMC': {'init': 'k-means++', 'n_clusters': 550},
+        'BKM': {'bisecting_strategy': 'biggest_inertia', 'n_clusters': 540},
+        'MS': {'bandwidth': 0.1},
+        'BIRCH': {'threshold': 0.1, 'branching_factor': 13, 'n_clusters': 540}
+    }
 }
 
 
@@ -68,9 +80,9 @@ def print_param_grid(name: str) -> None:
         print((k + " = " + str(v)) .replace('[', '{') .replace(']', '}'))
 
 
-def get_optimal_clusters(x, sample_names, estimator_id, scale=False, verbose=False):
+def get_optimal_clusters(x, sample_names, estimator_id, dataset_name, scale=False, verbose=False):
     model = Model(e_id=estimator_id, x=x, sample_names=sample_names)
-    param = optimal_grids[estimator_id]
+    param = optimal_grids[dataset_name][estimator_id]
     model.learn(param, scale)
     clusters = model.get_clusters()[1]
     if verbose:
@@ -223,17 +235,19 @@ def grid_search_birch(x: np.array, sample_names: List[str], scale: bool = False)
     return
 
 
-def get_optimal_performance(e_id: str, x: np.array, sample_names: List[str], scale: bool = False) -> None:
+def get_optimal_performance(e_id: str, x: np.array, sample_names: List[str], dataset_name: str,
+                            scale: bool = False) -> None:
     # print('estimator_id', 'n_clusters', 'Silhouette score', 'Davies-Bouldin score',
     #       'Calinski-Harabasz score',
     #       'min(cluster_size)', 'max(cluster_size)', 'mean(cluster_size)', 'median(cluster_size)', 'params')
     model = Model(e_id, x, sample_names)
-    model.learn(optimal_grids[e_id], scale=False)
+    model.learn(optimal_grids[dataset_name][e_id], scale=False)
     n_clusters = len(model.get_clusters()[0])
-    sil_score, db_score, ch_score = model.get_metrics(scale=False)
+    sil_score, db_score, ch_score = model.get_metrics(scale=scale)
     max_cluster_size = np.max([len(c) for i, c in model.clusters.items() if i != -1])
     min_cluster_size = np.min([len(c) for i, c in model.clusters.items() if i != -1])
     mean_cluster_size = float(np.mean([len(c) for i, c in model.clusters.items() if i != -1]))
     median_cluster_size = float(np.median([len(c) for i, c in model.clusters.items() if i != -1]))
     print(e_id, n_clusters, round(sil_score, 3), round(db_score, 3), round(ch_score, 3), min_cluster_size,
-          max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3), optimal_grids[e_id])
+          max_cluster_size, round(mean_cluster_size, 3), round(median_cluster_size, 3),
+          optimal_grids[dataset_name][e_id])
