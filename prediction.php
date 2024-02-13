@@ -98,6 +98,9 @@
     validate($symptom_count, $input_data);
     $input_json = json_encode($input_data);
 //     echo $input_json;
+//     foreach($input_data as $k=>$v) {
+//         echo $k."=>".$v."<br/>";
+//     }
 
     $command = "venv/bin/python -m python.web_driver.driver '".$input_json."' 2>&1";
 //     echo "<pre>".$command."</pre>\n";
@@ -113,6 +116,8 @@
 
     $drugHyperlinks = getDrugHyperlinks($result->drugs);
 //     $associations = getDiseaseAssociations(array_keys($input_data));
+
+    $n_drugs = count($result->drugs);
 
 ?>
 
@@ -152,39 +157,75 @@
         <!--<div class = "section_left"></div>-->
 
         <div class = "section_middle">
-            <h2>1. Drug prediction result</h2>
-            <table class = "details" border = "0" cellpadding = "5px" id = "rtable">
-                <tr>
-                    <th>Predicted drugs</th>
-                    <th>Euclidean distance</th>
-                    <th>Confidence score (%)</th>
-                </tr>
+            <p style="width:80%; margin:20px 10% 0 10%; font-size:1.4em;">
+                <font style="font-size:1.3em"><b>Input symptoms: </b></font>
                 <?php
-                    $n_drugs = count($result->drugs);
-                    for ($i = 0; $i < $n_drugs; ++$i){
-                        echo "<tr>";
-                        echo "<td><a style=\"color:blue;\" target=\"_blank\" href=\"https://ctdbase.org/detail.go?type=chem&acc=".$drugHyperlinks[$result->drugs[$i]]."\">".$result->drugs[$i]."</a></td>";
-                        echo "<td>".strval($result->distances[$i])."</td>";
-                        echo "<td>".strval($result->confidences[$i])."</td>";
-                        echo "</tr>";
+                    $input_symptoms = array_keys($input_data);
+                    for ($i=0; $i<count($input_data); ++$i) {
+                        echo $input_symptoms[$i] . " - " . $input_data[$input_symptoms[$i]];
+                        if ($i == count($input_data))
+                            echo ".<br/>";
+                        else
+                            echo "; ";
                     }
                 ?>
-            </table>
-            <p style="width:80%; margin:0 10% 0 10%;">
-                N.B. - The confidence score is the probability that the euclidean
-                distance of the predicted drug is less than the euclidean distance
-                between any two drugs.
-            </p>
-            <div id="plot_container_1" style="width:70%; margin:20px 15% 0 15%;"></div>
-            <p style="width:70%; margin:10px 15% 0 15%;">
-                N.B. - The grey region shows the euclidean distance range of 0 - 1.63
-                for which the confidence score &gt; 90%.
+                <br/>
             </p>
 
-            <h2>2. Comparison of input symptoms with the symptom-associations of predicted drugs</h2>
-            <div id="plot_container_2" style="width:100%; margin:0 0 0 0;"></div>
+            <div style="float:left; width:20%; margin:40px 0 0 10%;"><p style="padding:0; margin:0; font-size:1.7em;"><b>Drug prediction result:</b></p></div>
+            <?php
+                if ($n_drugs > 0) {
+            ?>
+                    <div style="float:left; width:60%; margin:40px 10% 0 0;">
+                        <table class = "details" border = "0" cellpadding = "5px" id = "rtable">
+                            <tr>
+                                <th>Predicted drugs</th>
+                                <th>Associations with the input symptoms</th>
+                                <th>Associations with diseases</th>
+                                <th>Confidence score (%)</th>
+                            </tr>
+                            <?php
+                                $input_symptom_indices = array();
+                                foreach ($input_symptoms as $s)
+                                    $input_symptom_indices[$s] = array_search($s, $symptoms);
+                                for ($i = 0; $i < $n_drugs; ++$i) {
+                                    echo "<tr>";
+                                    echo "<td><a style=\"color:blue;\" target=\"_blank\" href=\"https://ctdbase.org/detail.go?type=chem&acc=".$drugHyperlinks[$result->drugs[$i]]."\">".$result->drugs[$i]."</a></td>";
+//                                     echo "<td>".strval($result->distances[$i])."</td>";
+                                    echo "<td>".implode("; ", $result->symptom_associations[$i])."</td>";
+                                    echo "<td>".implode("; ", $result->disease_associations[$i])."</td>";
+                                    echo "<td>".strval($result->confidences[$i])."</td>";
+                                    echo "</tr>";
+                                }
+                            ?>
+                        </table>
+                        <p style="width:100%; padding:0; margin:0;">
+                            N.B. - The confidence score is the probability that the euclidean
+                            distance of the predicted drug is less than the euclidean distance
+                            between any two drugs.
+                        </p>
+                        <p style="width:100%; padding:0; margin:0;">
+                            Disclaimer - This tool is strictly for Research Use only. It should be used for medical purposes only by consulting with doctors.
+                        </p>
 
-            <!--<h3>3. Disease associations of the input symptoms</h3>
+                    </div>
+                    <div style="clear:both;"></div>
+                    <p style="padding:0; margin:40px 0 0 10%; font-size:1.7em;"><b>Probability density plot:</b></p>
+                    <div id="plot_container_1" style="width:80%; margin:0px 10% 0 10%;"></div>
+                    <p style="width:70%; margin:10px 15% 0 15%;">
+                        N.B. - The grey region shows the euclidean distance range of 0 - 1.63
+                        for which the confidence score &gt; 90%.
+                    </p>
+            <?php
+                } else {
+                    echo "<div style=\"float:left; width:60%; margin:50px 10% 0 0;\"><p>No predicted drugs for the input symptom combination.</p></div><div style=\"clear:both;\"></div>";
+                }
+            ?>
+
+            <!--<h2>Comparison of input symptoms with the symptom-associations of predicted drugs</h2>
+            <div id="plot_container_2" style="width:100%; margin:0 0 0 0;"></div>-->
+
+            <!--<h3>Disease associations of the input symptoms</h3>
             <table class = "summary" border = "0" cellpadding = "5px">
                 <tr>
                     <th>Symptoms</th>
@@ -206,8 +247,7 @@
                 array_push($quoted_drug_strings, "\"".$d."\"");
             $drugs_arg_string = "[" . implode(",", $quoted_drug_strings) . "]";
             echo "<script>plotDensity('plot_container_1', ".$dist_arg_string.", ".$drugs_arg_string.")</script>";
-
-            echo "<script>plotHeatmap('plot_container_2', '".str_replace("'", "\\'", $out[0])."')</script>";
+//             echo "<script>plotHeatmap('plot_container_2', '".str_replace("'", "\\'", $out[0])."')</script>";
         ?>
 
         <br/><hr/>

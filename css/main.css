@@ -114,9 +114,9 @@ table.summary td{
 table.details{
     border-collapse : collapse;
     border : 2px #0f3e0f solid;
-    width : 80%;
-    margin-left : 10%;
-    margin-right : 10%;
+    width : 100%;
+/*     margin-left : 10%; */
+/*     margin-right : 10%; */
 }
 table.details tr:nth-child(odd){
     background-color : #c1f0c1;
