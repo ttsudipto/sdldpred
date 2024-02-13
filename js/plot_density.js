@@ -4,7 +4,7 @@ function makeDensityPlot(div_id, jsonData, distances, drugs) {
     var density_curve = {
         x: data.x,
         y: data.y,
-        name: 'Probability density of distance between two drugs (<i>f<sub>dist</sub></i>)',
+        name: 'Probability density <br>of distance <br> between two drugs <br>(<i>f<sub>dist</sub></i>)',
         line: {
             width: 3,
             color: 'slategray'
@@ -17,7 +17,7 @@ function makeDensityPlot(div_id, jsonData, distances, drugs) {
             mode: 'markers',
             x: [distances[i]],
             y: [0],
-            name: drugs[i],
+            name: (drugs[i].length > 30) ? drugs[i].slice(0, 30) + '<br>' + drugs[i].slice(30) : drugs[i],
             marker: {
                 color: pt_colors[i],
                 size: 6
@@ -55,7 +55,7 @@ function makeDensityPlot(div_id, jsonData, distances, drugs) {
     var layout = {
         plot_bgcolor: 'white',
         paper_bgcolor: 'white',
-        height: 500,
+        height: 400,
 //         title : {
 //             text: 'Density plot and the predicted CT severity score',
 //             font: {size: 24}
@@ -84,14 +84,14 @@ function makeDensityPlot(div_id, jsonData, distances, drugs) {
             tickwidth: 2,
             tickfont: {size: 14},
             title : {
-                text : 'Probability',
+                text : 'Probability density',
                 font: {size: 18}
             }
         },
         legend: {
-            orientation: 'h',
-            x: 0.15,
-            y: 50,
+            orientation: 'v',
+            x: -0.45,
+            y: 0.3,
             font: {size: 16}
         },
         hoverlabel: {
