@@ -1,11 +1,11 @@
 from .resource import read_ml_data
 from .model import Model
-from .grid_search import grid_search_k_means
-from .grid_search import grid_search_bisecting_k_means
-from .grid_search import grid_search_agglomerative_clustering
-from .grid_search import grid_search_dbscan
-from.grid_search import grid_search_mean_shift
-from .grid_search import grid_search_birch
+from .grid_search import grid_search_k_means, grid_search_k_means_with_subsampling
+from .grid_search import grid_search_bisecting_k_means, grid_search_bisecting_k_means_with_subsampling
+from .grid_search import grid_search_agglomerative_clustering, grid_search_agglomerative_clustering_with_subsampling
+from .grid_search import grid_search_dbscan, grid_search_dbscan_with_subsampling
+from .grid_search import grid_search_mean_shift, grid_search_mean_shift_with_subsampling
+from .grid_search import grid_search_birch, grid_search_birch_with_subsampling
 from .grid_search import get_optimal_clusters
 from .grid_search import get_optimal_performance
 from .pickler import dump_model_to_file
@@ -14,7 +14,11 @@ from .pickler import perform_clustering
 from .pickler import check_clustering_metrics
 
 
-res = read_ml_data(verbose=True)
+############################
+#          Cosine          #
+############################
+
+res = read_ml_data(association_type='cosine', verbose=True)
 samples = res.get_row_ids()
 sample_ids = list(samples.keys())
 sample_names = list(samples.values())
@@ -26,15 +30,22 @@ sample_names = list(samples.values())
 # grid_search_mean_shift(res.data, sample_names, scale=False)
 # grid_search_birch(res.data, sample_names, scale=False)
 
-# get_optimal_performance('KMC', res.data, sample_names, scale=False)
-# get_optimal_performance('BKM', res.data, sample_names, scale=False)
-# get_optimal_performance('MS', res.data, sample_names, scale=False)
-# get_optimal_performance('BIRCH', res.data, sample_names, scale=False)
+# grid_search_k_means_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_bisecting_k_means_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_agglomerative_clustering_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_dbscan_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_mean_shift_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_birch_with_subsampling(res.data, sample_names, scale=False)
 
-# get_optimal_clusters(res.data, sample_names, 'KMC', scale=False, verbose=True)
-# get_optimal_clusters(res.data, sample_names, 'BKM', scale=False, verbose=True)
-# get_optimal_clusters(res.data, sample_names, 'MS', scale=False, verbose=True)
-# get_optimal_clusters(res.data, sample_names, 'BIRCH', scale=False, verbose=True)
+# get_optimal_performance('KMC', res.data, sample_names, dataset_name='cosine', scale=False)
+# get_optimal_performance('BKM', res.data, sample_names, dataset_name='cosine', scale=False)
+# get_optimal_performance('MS', res.data, sample_names, dataset_name='cosine', scale=False)
+# get_optimal_performance('BIRCH', res.data, sample_names, dataset_name='cosine', scale=False)
+
+# get_optimal_clusters(res.data, sample_names, 'KMC', dataset_name='cosine', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'BKM', dataset_name='cosine', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'MS', dataset_name='cosine', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'BIRCH', dataset_name='cosine', scale=False, verbose=True)
 
 # dump_model_to_file(perform_clustering('KMC', res.data, sample_names, verbose=False), path_prefix='output/models/')
 # dump_model_to_file(perform_clustering('BKM', res.data, sample_names, verbose=False), path_prefix='output/models/')
@@ -53,6 +64,110 @@ sample_names = list(samples.values())
 # perform_clustering('BIRCH', res.data, sample_names)
 # m = load_model_from_file('BIRCH', path_prefix='output/models/')
 # check_clustering_metrics(m)
+
+############################
+#          Pearson         #
+############################
+
+res = read_ml_data(association_type='pearson', verbose=True)
+samples = res.get_row_ids()
+sample_ids = list(samples.keys())
+sample_names = list(samples.values())
+
+# grid_search_k_means(res.data, sample_names, scale=False)
+# grid_search_bisecting_k_means(res.data, sample_names, scale=False)
+# grid_search_agglomerative_clustering(res.data, sample_names, scale=False)
+# grid_search_dbscan(res.data, sample_names, scale=False)
+# grid_search_mean_shift(res.data, sample_names, scale=False)
+# grid_search_birch(res.data, sample_names, scale=False)
+
+# grid_search_k_means_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_bisecting_k_means_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_agglomerative_clustering_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_dbscan_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_mean_shift_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_birch_with_subsampling(res.data, sample_names, scale=False)
+
+# get_optimal_performance('KMC', res.data, sample_names, dataset_name='pearson', scale=False)
+# get_optimal_performance('BKM', res.data, sample_names, dataset_name='pearson', scale=False)
+# get_optimal_performance('MS', res.data, sample_names, dataset_name='pearson', scale=False)
+# get_optimal_performance('BIRCH', res.data, sample_names, dataset_name='pearson', scale=False)
+
+# get_optimal_clusters(res.data, sample_names, 'KMC', dataset_name='pearson', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'BKM', dataset_name='pearson', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'MS', dataset_name='pearson', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'BIRCH', dataset_name='pearson', scale=False, verbose=True)
+
+# dump_model_to_file(perform_clustering('KMC', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('BKM', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('MS', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('BIRCH', res.data, sample_names, verbose=False), path_prefix='output/models/')
+
+# perform_clustering('KMC', res.data, sample_names)
+# m = load_model_from_file('KMC', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('BKM', res.data, sample_names)
+# m = load_model_from_file('BKM', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('MS', res.data, sample_names)
+# m = load_model_from_file('MS', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('BIRCH', res.data, sample_names)
+# m = load_model_from_file('BIRCH', path_prefix='output/models/')
+# check_clustering_metrics(m)
+
+############################
+#          Jaccard         #
+############################
+
+res = read_ml_data(association_type='jaccard', verbose=True)
+samples = res.get_row_ids()
+sample_ids = list(samples.keys())
+sample_names = list(samples.values())
+
+# grid_search_k_means(res.data, sample_names, scale=False)
+# grid_search_bisecting_k_means(res.data, sample_names, scale=False)
+# grid_search_agglomerative_clustering(res.data, sample_names, scale=False)
+# grid_search_dbscan(res.data, sample_names, scale=False)
+# grid_search_mean_shift(res.data, sample_names, scale=False)
+# grid_search_birch(res.data, sample_names, scale=False)
+
+# grid_search_k_means_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_bisecting_k_means_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_agglomerative_clustering_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_dbscan_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_mean_shift_with_subsampling(res.data, sample_names, scale=False)
+# grid_search_birch_with_subsampling(res.data, sample_names, scale=False)
+
+# get_optimal_performance('KMC', res.data, sample_names, dataset_name='jaccard', scale=False)
+# get_optimal_performance('BKM', res.data, sample_names, dataset_name='jaccard', scale=False)
+# get_optimal_performance('MS', res.data, sample_names, dataset_name='jaccard', scale=False)
+# get_optimal_performance('BIRCH', res.data, sample_names, dataset_name='jaccard', scale=False)
+
+# get_optimal_clusters(res.data, sample_names, 'KMC', dataset_name='jaccard', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'BKM', dataset_name='jaccard', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'MS', dataset_name='jaccard', scale=False, verbose=True)
+# get_optimal_clusters(res.data, sample_names, 'BIRCH', dataset_name='jaccard', scale=False, verbose=True)
+
+# dump_model_to_file(perform_clustering('KMC', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('BKM', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('MS', res.data, sample_names, verbose=False), path_prefix='output/models/')
+# dump_model_to_file(perform_clustering('BIRCH', res.data, sample_names, verbose=False), path_prefix='output/models/')
+
+# perform_clustering('KMC', res.data, sample_names)
+# m = load_model_from_file('KMC', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('BKM', res.data, sample_names)
+# m = load_model_from_file('BKM', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('MS', res.data, sample_names)
+# m = load_model_from_file('MS', path_prefix='output/models/')
+# check_clustering_metrics(m)
+# perform_clustering('BIRCH', res.data, sample_names)
+# m = load_model_from_file('BIRCH', path_prefix='output/models/')
+# check_clustering_metrics(m)
+
+
 
 
 # from sklearn.metrics import pairwise_distances
