@@ -60,7 +60,8 @@ symptoms = [
 
 class Input:
     def __init__(self) -> None:
-        self.input_params = deepcopy(symptoms)
+        self.all_params = deepcopy(symptoms)
+        self.input_params = []
         self.input_values = []
         self.param_length = len(self.input_params)
         self.estimator_id = 'BKM'
@@ -78,6 +79,9 @@ class Input:
         return self.estimator_id
 
     def get_all_params(self) -> List[str]:
+        return self.all_params
+
+    def get_input_params(self) -> List[str]:
         return self.input_params
 
     def get_all_values(self) -> List[float]:
@@ -99,15 +103,19 @@ class Output:
         self.drugs = []
         self.distances = []
         self.confidences = []
-        self.associations = []
+        self.symptom_associations = []
+        self.disease_associations = []
 
     def add_neighbor(self, drug: str, distance: float, confidence: float) -> None:
         self.drugs.append(drug)
         self.distances.append(distance)
         self.confidences.append(confidence)
 
-    def add_association(self, association: List[float]) -> None:
-        self.associations.append(association)
+    def add_symptom_association(self, association: List[str]) -> None:
+        self.symptom_associations.append(association)
+
+    def add_disease_association(self, association: List[str]) -> None:
+        self.disease_associations.append(association)
 
 
 class OutputEncoder(JSONEncoder):
@@ -118,6 +126,7 @@ class OutputEncoder(JSONEncoder):
             out_dict['drugs'] = obj.drugs
             out_dict['distances'] = obj.distances
             out_dict['confidences'] = obj.confidences
-            out_dict['associations'] = obj.associations
+            out_dict['symptom_associations'] = obj.symptom_associations
+            out_dict['disease_associations'] = obj.disease_associations
             return out_dict
         return JSONEncoder.default(self, obj)
