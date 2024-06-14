@@ -114,10 +114,16 @@
                     </table>
                 </li>
                 <li>
-                    A set of <b>drug-symptom associations</b> were computed based on <i>cosine
-                    similarity</i> between each drug and symptom represented as a vector of
+                    The <b>drug-symptom associations</b> were computed based on
+                    (i) <i>cosine similarity</i> ( <i style="font-family: serif;">A<sub>drug-symptom&lt;cosine&gt;</sub></i> ),
+                    (ii) <i>Pearson's Correlation Coefficient</i> ( <i style="font-family: serif;">A<sub>drug-symptom&lt;pearson&gt;</sub></i> ),
+                    and
+                    (iii) <i>Jacard similarity</i> ( <i style="font-family: serif;">A<sub>drug-symptom&lt;jaccard&gt;</sub></i> )
+                    between each drug and symptom represented as a vector of
                     disease-associations.
-                    <center><img src="resource/about1.jpg" height="60px" width="auto" /></center>
+                    <center><img src="resource/about1.jpg" height="45px" width="auto" /></center>
+                    <center><img src="resource/about2.jpg" height="50px" width="auto" /></center>
+                    <center><img src="resource/about3.jpg" height="50px" width="auto" /></center>
                     <i style="font-family: serif;">dr<sub>i</sub></i> =
                     <i style="font-family: serif;">i<sup>th</sup></i> drug represented as a vector
                     of associations with the diseases,
@@ -127,19 +133,39 @@
                     <i style="font-family: serif;">||x||</i> = Magnitude of the vector
                     <i style="font-family: serif;">x</i>.<br/><br/>
                     The drug-symptom association dataset:
-                    <a href="resource/data/drug_symptom_association_matrix.tsv">Download</a> [<b>Matrix <i>(TSV file)</i></b>];
-                    <a href="resource/data/drug_symptom_association_edgelist.tsv">Download</a> [<b>Edge-list <i>(TSV file)</i></b>]
+                    <table class = "details" border = "0" id = "dsatable">
+                        <tr>
+                            <td><i style="font-family: serif;">A<sub>drug-symptom&lt;cosine&gt;</sub></i></td>
+                            <td>
+                                <a href="resource/data/drug_symptom_association_cosine_matrix.tsv">Download</a> [Matrix (TSV file)]<br/>
+                                <a href="resource/data/drug_symptom_association_cosine_edge_list.tsv">Download</a> [Edge-list (TSV file)]
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><i style="font-family: serif;">A<sub>drug-symptom&lt;pearson&gt;</sub></i></td>
+                            <td>
+                                <a href="resource/data/drug_symptom_association_pearson_matrix.tsv">Download</a> [Matrix (TSV file)]<br/>
+                                <a href="resource/data/drug_symptom_association_pearson_edge_list.tsv">Download</a> [Edge-list (TSV file)]
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><i style="font-family: serif;">A<sub>drug-symptom&lt;jaccard&gt;</sub></i></td>
+                            <td>
+                                <a href="resource/data/drug_symptom_association_jaccard_matrix.tsv">Download</a> [Matrix (TSV file)]<br/>
+                                <a href="resource/data/drug_symptom_association_jaccard_edge_list.tsv">Download</a> [Edge-list (TSV file)]
+                            </td>
+                        </tr>
+                    </table>
                 </li>
                 <li>
                     SDLDpred provides a <b>confidence score</b> for each predicted drug. It is
                     computed using the following equation.
-                    <center><img src="resource/about2.jpg" height="60px" width="auto" /></center>
+                    <center><img src="resource/about4.jpg" height="60px" width="auto" /></center>
                     <i style="font-family: serif;">D</i> = random variable denoting the pairwise
                     euclidean distances between the drugs; <i style="font-family: serif;">e</i> =
                     euclidean distance of a predicted drug;
                     <i style="font-family: serif;">f<sub>dist</sub></i> = probability density
-                    function of the random variable <i style="font-family: serif;">D</i>,
-                    <i style="font-family: serif;">f<sub>dist</sub> (x) = Prob (D = x)</i>.
+                    function of the random variable <i style="font-family: serif;">D</i>.
                 </li>
             </ul>
 
