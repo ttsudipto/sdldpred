@@ -61,3 +61,5 @@ The web application is deployed in an Apache HTTP server.
   Bose Institute, Kolkata, India.
   
 *Please contact Dr. Sudipto Saha regarding any further queries.*
+
+*This tool is strictly for research use only. It should be used for medical purposes only by consulting with doctors.*
