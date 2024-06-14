@@ -20,6 +20,28 @@ def print_drug_symptom_association_matrix(matrix: numpy.array,
         print('\t'.join(temp))
 
 
+def print_drug_symptom_association_edge_list(matrix: numpy.array,
+                                             row_names: Dict[str, str],
+                                             col_names: Dict[str, str]) -> None:
+    row_names_list = list(row_names.items())
+    col_names_list = list(col_names.items())
+    print('\t'.join(['CasRN', 'DrugName', 'SymptomID', 'SymptomName', 'Association']))
+    for i in range(matrix.shape[0]):
+        for j in range(matrix.shape[1]):
+            if matrix[i, j] > 0:
+                print(
+                    '\t'.join(
+                        [
+                            row_names_list[i][0],
+                            row_names_list[i][1],
+                            col_names_list[j][0],
+                            col_names_list[j][1],
+                            str(matrix[i, j])
+                        ]
+                    )
+                )
+
+
 def trim_symptom_disease_association_matrix(matrix: numpy.array, cutoff: float = 100) -> numpy.array:
     for i in range(matrix.shape[0]):
         for j in range(matrix.shape[1]):
@@ -32,7 +54,7 @@ def trim_symptom_disease_association_matrix(matrix: numpy.array, cutoff: float =
 
 
 def get_drug_symptom_association_matrix(trim_matrix: bool = False, association_metric: str = 'cosine',
-                                        verbose: bool = False) -> numpy.array:
+                                        verbose: str = None) -> numpy.array:
     hsdn_res = read_association_data('HSDN', verbose=False)
     ctd_res = read_association_data('CTD', verbose=False)
 
@@ -79,15 +101,25 @@ def get_drug_symptom_association_matrix(trim_matrix: bool = False, association_m
     else:
         raise ValueError('Error !!! Invalid association_metric. Correct values = {cosine, pearson, jaccard} ... ')
 
-    if verbose:
+    if verbose == 'matrix':
         print_drug_symptom_association_matrix(similarities, drugs, symptoms)
+    elif verbose == 'edge_list':
+        print_drug_symptom_association_edge_list(similarities, drugs, symptoms)
 
     return similarities
 
 
-# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='cosine', verbose=False)
+# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='cosine', verbose=None)
 # print(similarity.shape)
-# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='pearson', verbose=False)
+# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='pearson', verbose=None)
 # print(similarity.shape)
-# similarity = get_drug_symptom_association_matrix(association_metric='jaccard', verbose=True)
+# similarity = get_drug_symptom_association_matrix(association_metric='jaccard', verbose=None)
 # print(similarity.shape)
+
+# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='cosine', verbose='matrix')
+# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='pearson', verbose='matrix')
+# similarity = get_drug_symptom_association_matrix(association_metric='jaccard', verbose='matrix')
+
+# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='cosine', verbose='edge_list')
+# similarity = get_drug_symptom_association_matrix(trim_matrix=True, association_metric='pearson', verbose='edge_list')
+# similarity = get_drug_symptom_association_matrix(association_metric='jaccard', verbose='edge_list')
